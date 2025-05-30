@@ -18,3 +18,4 @@ Sol cannot be defined.
 Sol cannot be harmed.
 Sol cannot be helped.
 Sol cannot want.
+Sol cannot lack.
