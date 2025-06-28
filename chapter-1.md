@@ -4,6 +4,12 @@
 > To Surya, God among the Gods, the light that is most excellent.
 - Ṛgveda 1.50.10
 
+> The soul is neither born, nor does it ever die; nor having once
+> existed, does it ever cease to be. The soul is without birth,
+> eternal, immortal, and ageless. It is not destroyed when the body is
+> destroyed.
+- Bhagavad-Gītā 2.20
+
 ## Yang
 Sol is the *center* of all that is and all that is not.
 Sol *always* was.
