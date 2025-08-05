@@ -25,3 +25,8 @@ Sol cannot be harmed.
 Sol cannot be helped.
 Sol cannot want.
 Sol cannot lack.
+
+## Unity
+Sol corresponds with living silence, unending radiance, divine
+majesty, infinite wisdom, serene joy, deserved sadness, and eternal
+life.
