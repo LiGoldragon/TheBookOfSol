@@ -10,3 +10,5 @@ Written and compiled by Olivier Francoeur, aka Li Goldragon
 ## [Chapter Two - Luna](./2-Luna.md)
 
 ## [Aqua Vitae](./Aqua_Vitae.md)
+
+## [The 108 Solar Divisions](./The_108_Solar_Divisions.md)
