@@ -16,3 +16,5 @@ Written and compiled by Olivier Francoeur, aka Li Goldragon
 ## [The 360 Phases of Sol.md](./The_360_Phases_of_Sol.md)
 
 ## [The Tyrant](./The_Tyrant.md)
+
+## [The Warrior](./The_Warrior.md)
