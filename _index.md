@@ -18,3 +18,9 @@ Written and compiled by Olivier Francoeur, aka Li Goldragon
 ## [The Tyrant](./The_Tyrant.md)
 
 ## [The Warrior](./The_Warrior.md)
+
+## [Kali Yuga](./Kali_Yuga.md)
+
+## [Sodium Chloride Toxicity](./Sodium_Chloride_Toxicity.md)
+
+## [The Pressure of Being](./The_Pressure_of_Being.md)
