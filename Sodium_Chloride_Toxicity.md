@@ -2,143 +2,111 @@
 Title: Sodium Chloride Toxicity
 ---
 
-# Toxicological Evaluation of Ingested Sodium Chloride (NaCl)
+# Vegan, Reclaimed: Exclusively Vegetal and Salt-Free
 
+## 1. Words Remember Their Roots
 
-## 1. Introduction
+Language is not static. Words wander, bend, and are borrowed for fashions and causes, but they often drift back toward their natural, etymological meanings.
 
-- **Compound of interest:** Sodium chloride (**NaCl**), commonly known as “table salt.”  
-- **Central question:** What are the health outcomes when **NaCl** is ingested, compared with either no **NaCl** ingestion or ingestion of other salts?  
-- **Approach:** Review controlled ingestion experiments in humans and animals, substitution trials, and population studies.  
-- **Purpose:** To provide a referenced, evidence-driven toxicological conclusion on **NaCl ingestion**.
+- **Radical** ← Latin *radix* (“root”): once “extremist,” now again “root-level change.”
+- **Authentic** ← Greek *authentēs* (“self-authority”): from “official document” back to “true to one’s own self.”
+- **Passion** ← Latin *passio* (“suffering/enduring”): from fluffy romance to a consuming life-drive.
+- **Energy** ← Aristotle’s *energeia* (“being-in-act”): beyond physics back to vital actuality.
+- **Vibe** ← “vibration”: from lab term to lived resonance.
 
+**Vegan** belongs in this lineage. Coined in 1944 as “without animal products,” it need not be frozen there. Its natural destiny points to **vegetal**.
 
+## 2. The Natural Meaning of Vegan
 
-## 2. Study Types Considered
+- **Vegan (diet):** *exclusively vegetal* — plant tissues, plant waters, or cultured plant cells (with fungi/algae included for practical labeling).
+- **Vegetarian (diet):** *primarily vegetal*, with adjuncts disclosed.
 
-1. **Human metabolic ward trials**  
-   - Tightly controlled diets.  
-   - **NaCl** added in capsules or foods.  
+Anything **not of vegetal origin** fails the test immediately.
 
-2. **Community randomized controlled trials (RCTs)**  
-   - Villages or populations assigned to reduced-**NaCl** substitutes versus ordinary **NaCl**.  
+## 3. Why Sodium Chloride Cannot Be Vegan
 
-3. **Animal ingestion models**  
-   - Salt-sensitive rats fed diets with or without **NaCl**.  
+Sodium chloride (NaCl) fails on first principles:
 
-4. **Substitution experiments**  
-   - **NaCl** ingestion compared against ingestion of other salts (bicarbonate, citrate, etc.).
+- It is **mined, inorganic, crystalline** — not a product of plant life.
+- It does **not** build living tissue; it **irritates**, **desiccates**, and **hardens**.
+- It fails both the **linguistic** test (not vegetal) and the **physiological** test (not nourishing).
 
+## 4. Salt as a Protoplasmic Poison
 
+### A. Vitalistic Warnings
 
-## 3. Human Ingestion Experiments
+Hilton Hotema, *Man’s Higher Consciousness* (1961), wrote:
 
-### DASH-Sodium Trial (2001)
-- **Design:** Inpatient crossover, 3 graded intakes of **NaCl**.  
-- **Result:** Blood pressure fell stepwise as **NaCl ingestion decreased**.  
-- **Reference:** Sacks FM et al., *NEJM* 2001.   
+- “**Earthy salts cause old age**.”
+- **Table salt** is poison masquerading as food.
+- Salt **hardens tissues**, **accelerates degeneration**, **shortens life**, and **dulls the senses**.
+- Fruits, with little “earthy matter,” are marked as longevity foods.
 
-### Trials of Hypertension Prevention (TOHP I & II)
-- **Design:** Long-term randomized interventions to reduce **NaCl** intake.  
-- **Result:**  
-  - Reduced-**NaCl** arms showed **lower blood pressure**.  
-  - Long-term follow-up: **fewer cardiovascular events**.  
-- **Reference:** Cook NR et al., *BMJ* 2007.   
+### B. Modern Toxicology
 
-### Salt Substitute and Stroke Study (SSaSS, 2021)
-- **Design:** 20,995 participants across 600 villages in China.  
-  - Intervention group: reduced-**NaCl** substitute (partly KCl).  
-  - Control group: regular **NaCl** salt.  
-- **Result:**  
-  - **14% fewer strokes.**  
-  - **13% fewer major cardiovascular events.**  
-  - The only systematic difference was the amount of **NaCl** ingested.  
-- **Reference:** Neal B et al., *NEJM* 2021.   
+**Human Trials**
 
-## 4. Animal Ingestion Experiments
+- **DASH-Sodium (NEJM 2001):** Lower NaCl → stepwise blood pressure reduction.
+- **TOHP I/II (BMJ 2007):** Long-term NaCl reduction → fewer cardiovascular events.
+- **SSaSS (NEJM 2021):** Replacing part of NaCl with KCl in 600 villages → 14% fewer strokes, 13% fewer major cardiovascular events.
 
-### Dahl Salt-Sensitive Rats
-- **Design:** Strains fed high-**NaCl** vs low-**NaCl** chow.  
-- **Result:**  
-  - High-**NaCl** → severe hypertension, renal injury, early death.  
-  - Low-**NaCl** → largely spared.  
-- **Reference:** Dahl LK, *J Exp Med* 1962.   
+**Animal Models & Swap Studies**
 
-### Swap Studies in Rats
-- **Design:** Rats given equivalent “cation load,” but **NaCl** vs bicarbonate/citrate salts.  
-- **Result:**  
-  - **NaCl ingestion** → hypertension and kidney injury.  
-  - Other salts → muted or absent effects.  
-- **Reference:** Luft FC et al., *Kidney Int* 1982.   
+- **Dahl salt-sensitive rats (1962):** High-NaCl diet → hypertension, renal injury, shortened lifespan.
+- **Swap experiments:** NaCl causes pathology; bicarbonate/citrate do not.
 
-## 5. Substitution Studies (Proving NaCl is the Agent)
+**Mechanisms**
 
-### Human crossover trials
-- **Design:** Controlled diets with capsules of **NaCl** or capsules of bicarbonate.  
-- **Result:**  
-  - **NaCl ingestion** raised blood pressure and increased calcium excretion.  
-  - Bicarbonate ingestion did not reproduce these effects.  
-- **Reference:** Kurtz TW, Morris RC, *J Clin Invest* 1983.   
+- **Cardiovascular:** volume expansion, arterial stiffening.
+- **Renal:** glomerular strain, proteinuria.
+- **Skeletal:** calcium loss, bone demineralization.
 
-### Animal swap studies
-- **Design:** Stroke-prone hypertensive rats given **NaCl** or bicarbonate.  
-- **Result:**  
-  - Hypertension and vascular damage followed **NaCl ingestion only**.  
-- **Reference:** Schmidlin O et al., *Hypertension* 2007.   
+**Populations**
 
-## 6. Populations With Minimal NaCl Ingestion
+- **Yanomami tribe (Circulation 1975):** Negligible NaCl intake; lifelong low blood pressure; no hypertension.
 
-- **Yanomami tribe (Amazon):**  
-  - Diet: virtually no added **NaCl**.  
-  - Urinary excretion of **NaCl**: ~1 mmol/day.  
-  - Health outcomes: Blood pressure low across lifespan; hypertension absent.  
-- **Reference:** Oliver WJ et al., *Circulation* 1975.  
+## 5. Language That Closes the Loophole
 
-## 7. Mechanistic Findings
+Reclaiming *vegan* as **exclusively vegetal** makes the boundary self-enforcing:
 
-- **Blood pressure regulation:**  
-  - **NaCl ingestion** expands extracellular volume and suppresses renin, driving BP upward.  
+- If it doesn’t **grow, sprout, photosynthesize**, it isn’t vegan.
+- If it **desiccates, ossifies, embalms**, it isn’t food.
+- Salt, by any name, fails both tests.
 
-- **Kidney:**  
-  - **NaCl ingestion** → glomerular strain, proteinuria, renal hypertrophy.  
+**Operational rule:** *“No salt should ever be used on anything.”*
 
-- **Vascular system:**  
-  - **NaCl ingestion** → endothelial dysfunction and arterial stiffening.  
+## 6. Vegan, Defined for the Present Age
 
-- **Calcium balance:**  
-  - **NaCl ingestion** → increased urinary calcium, risk of bone demineralization.  
-- **Reference:** Cappuccio FP et al., *J Hypertens* 2000.   
+- **Vegan (diet):** Exclusively vegetal origin. No mineral adjuncts, no mined inputs.
+- **Vegetarian (diet):** Primarily vegetal, with disclosed mineral or animal adjuncts.
 
-## 8. Dose–Response Relationship
+This return to natural meaning protects both **language** and **life**.
 
-- **Metabolic-ward trials:** Increasing NaCl ingestion in increments → stepwise rise in blood pressure within days.  
-- **Community RCTs:** Even modest reductions in NaCl ingestion yield measurable cardiovascular benefits.  
-- **Animal models:** Direct, graded relationship between NaCl intake and severity of hypertension/organ injury.
+## 7. Conclusion
 
-## 9. Synthesis
+Words evolve toward truth. As *icon*, *energy*, and *vibe* sank back into their roots, *vegan* ripens into its natural sense: **exclusively vegetal** — which, by definition and by physiology, excludes sodium chloride, an **inorganic protoplasmic poison** masquerading as food.
 
-- **Not interchangeable:** The evidence demonstrates that **NaCl ingestion** is uniquely harmful compared to ingestion of other salts.  
-- **Consistency across species:** Humans, animals, and population-level data converge on the same pattern.  
-- **Mechanistic plausibility:** Kidney, vascular, and hormonal pathways explain how **NaCl ingestion** exerts its toxic effects.  
-- **No safe upper bound demonstrated:** Every increment of **NaCl ingestion** increases measurable risk.
+**Salt embalms. Plants enliven. Vegan means choosing life.**
 
-## 10. Final Verdict
+## References
 
-Across more than a century of experiments:  
+**Vitalistic / Historical**
 
-- **NaCl ingestion elevates blood pressure, injures kidneys, and raises cardiovascular risk.**  
-- These effects **do not occur to the same extent with other salts**.  
-- **NaCl is therefore a cardiovascular–renal toxicant with a clear dose–response relationship.**  
-- **Conclusion:** Every added gram of ingested NaCl increases risk. Reduction or replacement consistently improves health outcomes.
+- Hotema, Hilton. *Man’s Higher Consciousness.* (1961; Pickle Partners ed. 2015).
 
-## 11. References
+**Human Trials**
 
-1. Sacks FM et al., *NEJM* 2001 (DASH-Sodium).   
-2. Cook NR et al., *BMJ* 2007 (TOHP follow-up).   
-3. Neal B et al., *NEJM* 2021 (SSaSS).   
-4. Dahl LK, *J Exp Med* 1962 (Dahl rats).   
-5. Luft FC et al., *Kidney Int* 1982 (NaCl vs bicarbonate in rats).   
-6. Kurtz TW, Morris RC, *J Clin Invest* 1983 (human swap).   
-7. Schmidlin O et al., *Hypertension* 2007 (rat swap).   
-8. Oliver WJ et al., *Circulation* 1975 (Yanomami population).  
-9. Cappuccio FP et al., *J Hypertens* 2000 (calcium and NaCl ingestion).   
+- Sacks, F.M., et al. “Effects on Blood Pressure of Reduced Dietary Sodium and the DASH Diet.” *New England Journal of Medicine* (2001).
+- Cook, N.R., et al. “Long-term effects of dietary sodium reduction on cardiovascular disease outcomes.” *BMJ* (2007).
+- Neal, B., et al. “Salt Substitute and Stroke Study (SSaSS).” *New England Journal of Medicine* (2021).
+
+**Animal Models & Swap Studies**
+
+- Dahl, L.K. “Salt and Hypertension.” *Journal of Experimental Medicine* (1962).
+- Luft, F.C., et al. “Hypertension induced by sodium chloride in rats versus bicarbonate/citrate.” *Kidney International* (1982).
+- Kurtz, T.W., Morris, R.C. “Sodium chloride as the specific agent in salt-induced hypertension.” *Journal of Clinical Investigation* (1983).
+- Schmidlin, O., et al. “NaCl, but not sodium bicarbonate, induces hypertension and stroke.” *Hypertension* (2007).
+
+**Population Studies**
+
+- Oliver, W.J., et al. “Blood pressure, electrolytes, and urinary NaCl in the Yanomami Indians.” *Circulation* (1975).
