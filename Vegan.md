@@ -1,69 +1,110 @@
 # Vegan, Reclaimed: Exclusively Vegetal — and Why Sodium Chloride Is Not Food
 
-## TL;DR
-- **Vegan (diet)** = composed **exclusively** of material obtained from **organic vegetation**.
-- **Vegetarian (diet)** = **primarily** vegetal, with limited non-vegetal inputs.
-- **Sodium chloride** (table salt) is an **inorganic mineral**—not vegetal, not food, and therefore **not vegan**.
+# Vegan, Reclaimed: Exclusively Vegetal and Salt-Free
 
----
+## 1. Words Remember Their Roots
 
-## Define the words so they protect the body
-- **Vegan (diet):** exclusively vegetal origin—plant tissues or plant cell cultures (if fungi/algae are included for labeling simplicity, declare it once).
-- **Vegetarian (diet):** mainly vegetal origin, allowing non-vegetal adjuncts (e.g., minerals) with disclosure.
+Language is not static. Words wander, bend, and are borrowed for fashions and causes, but they often drift back toward their natural, etymological meanings.
 
-If an ingredient is **mined** or **manufactured as an inorganic**, it fails the vegan test on sight. If it does not build living tissue—if it **irritates, desiccates, ossifies**—it is not food.
+- **Radical** ← Latin *radix* (“root”): once “extremist,” now again “root-level change.”
+- **Authentic** ← Greek *authentēs* (“self-authority”): from “official document” back to “true to one’s own self.”
+- **Passion** ← Latin *passio* (“suffering/enduring”): from fluffy romance to a consuming life-drive.
+- **Energy** ← Aristotle’s *energeia* (“being-in-act”): beyond physics back to vital actuality.
+- **Vibe** ← “vibration”: from lab term to lived resonance.
 
-> “Common table salt is a compound of sodium and chloride, **a mineral in inorganic form that cannot be used by the animal body. It enters the body as salt and leaves it as salt**.”
+**Vegan** belongs in this lineage. Coined in 1944 as “without animal products,” it need not be frozen there. Its natural destiny points to **vegetal**.
 
-> “**Salt is a deadly irritant** to all the tissues of the body. Put some salt in your eye and feel the distressing effect.”
+## 2. The Natural Meaning of Vegan
 
-> “**No salt should ever be used on anything.**”
+- **Vegan (diet):** *exclusively vegetal* — plant tissues, plant waters, or cultured plant cells (with fungi/algae included for practical labeling).
+- **Vegetarian (diet):** *primarily vegetal*, with adjuncts disclosed.
 
----
+Anything **not of vegetal origin** fails the test immediately.
 
-## What salt does in the system (and what one can verify in practice)
-This conclusion is not reached by theory alone. **Drop inorganic salts** and clarity returns; **reintroduction** brings back bloat, thirst, and tension—repeatably observed on ordinary bodies.
+## 3. Why Sodium Chloride Cannot Be Vegan
 
-Hotema’s notes align with those observations:
+Sodium chloride (NaCl) fails on first principles:
 
-- **Irritation → mucus → catarrh:** salt irritates membranes; cells excrete mucus; catarrh develops.
-- **Thirst & water-logging:** irritation makes cells call for water → abnormal thirst and a water-logged body.
-- **Hardening & pressure:** with years of salt irritation, **cells/tissues harden**, **vessels harden**, **blood pressure rises**; kidneys are provoked.
-- **Taste deadening:** salt and condiments dull taste buds; “flat” is learned damage, not truth.
-- **Early degeneration case:** a child with salt-craving showed wrinkling and **arterial hardening** at age **four**.
-- **“Social poison” diagnosis:** “**Salt is one of the worst of social poisons… It atrophies, dries up or hardens the tissues**…”
-- **Living embalming:** “Today we **mummify the living** with… mineral oils, spices and salt.”
-- **Animal data:** even small quantities fed to animals lead to death, with **uric-acid concretions** in liver/kidneys.
+- It is **mined, inorganic, crystalline** — not a product of plant life.
+- It does **not** build living tissue; it **irritates**, **desiccates**, and **hardens**.
+- It fails both the **linguistic** test (not vegetal) and the **physiological** test (not nourishing).
 
-When a substance **desiccates, irritates, hardens, and deadens**, it is not food. It belongs with **poisons**—the same neighborhood as arsenic or sulfuric acid: materials a living body can survive for a time rather than thrive on.
+## 4. Salt as a Protoplasmic Poison
 
-> “With **acrid, biting and burning flavors**, such substances **belong to the poison class and are not fit to eat**.”
+### A. Vitalistic Warnings
 
----
+Hilton Hotema, *Man’s Higher Consciousness* (1961), wrote:
 
-## Hidden in plain sight—because it pays
-The canonization of a **rock** as “necessary” follows a familiar pattern: brand an **inorganic stimulant** as healthful, train the palate, profit, defend the habit.
+- “**Earthy salts cause old age**.”
+- **Table salt** is poison masquerading as food.
+- Salt **hardens tissues**, **accelerates degeneration**, **shortens life**, and **dulls the senses**.
+- Fruits, with little “earthy matter,” are marked as longevity foods.
 
-Hotema sketches the template through the water trade:
+### B. Modern Toxicology
 
-> “Suffering people are often deceived by certain claims for **‘mineral water’**… Such water is **very hard and very bad** for the body. Those who recommend it for health are in error, **or they profit on the sale of it**… The **second effect**… is **mineral deposits in the body**… the remedy back-fires and does more harm than good.”
+**Human Trials**
 
-Salt in the modern pantry rhymes exactly with this pattern.
+- **DASH-Sodium (NEJM 2001):** Lower NaCl → stepwise blood pressure reduction.
+- **TOHP I/II (BMJ 2007):** Long-term NaCl reduction → fewer cardiovascular events.
+- **SSaSS (NEJM 2021):** Replacing part of NaCl with KCl in 600 villages → 14% fewer strokes, 13% fewer major cardiovascular events.
 
----
+**Animal Models & Swap Studies**
 
-## Language that closes the loophole
-To keep labels honest and bodies safer:
+- **Dahl salt-sensitive rats (1962):** High-NaCl diet → hypertension, renal injury, shortened lifespan.
+- **Swap experiments:** NaCl causes pathology; bicarbonate/citrate do not.
 
-- **Vegan:** **exclusively vegetal**. No **mineral inputs** (e.g., sodium chloride) as ingredients. If it’s mined, it isn’t vegan.
-- **Vegetarian:** **primarily vegetal** (≈90–95% by mass/energy), allowing inorganic adjuncts **with disclosure**.
-- **Salted items:** **not vegan**; in truth, **not food**—tolerated **poisons** dressed as condiments.
+**Mechanisms**
 
-The operational rule for kitchens and labels fits on one line:
+- **Cardiovascular:** volume expansion, arterial stiffening.
+- **Renal:** glomerular strain, proteinuria.
+- **Skeletal:** calcium loss, bone demineralization.
 
-> **“No salt should ever be used on anything.”**
+**Populations**
 
----
+- **Yanomami tribe (Circulation 1975):** Negligible NaCl intake; lifelong low blood pressure; no hypertension.
 
-## Experience seals it
-A simple trial demonstrates the point: **restrict intake to organic vegetation and plant waters**; **exclude inorganic salts/condiments/fortificants**. Within days, thirst normalizes; within weeks, tension drains; within months, pressures and pulses steady. Reintroduction of sodium chloride—artisan or generic—reliably restores **irritation, bloat, and dulling**. Older writers mapped the terrain long ago; ordinary bodies corroborate it in practice. The language should catch up.
+## 5. Language That Closes the Loophole
+
+Reclaiming *vegan* as **exclusively vegetal** makes the boundary self-enforcing:
+
+- If it doesn’t **grow, sprout, photosynthesize**, it isn’t vegan.
+- If it **desiccates, ossifies, embalms**, it isn’t food.
+- Salt, by any name, fails both tests.
+
+**Operational rule:** *“No salt should ever be used on anything.”*
+
+## 6. Vegan, Defined for the Present Age
+
+- **Vegan (diet):** Exclusively vegetal origin. No mineral adjuncts, no mined inputs.
+- **Vegetarian (diet):** Primarily vegetal, with disclosed mineral or animal adjuncts.
+
+This return to natural meaning protects both **language** and **life**.
+
+## 7. Conclusion
+
+Words evolve toward truth. As *icon*, *energy*, and *vibe* sank back into their roots, *vegan* ripens into its natural sense: **exclusively vegetal** — which, by definition and by physiology, excludes sodium chloride, an **inorganic protoplasmic poison** masquerading as food.
+
+**Salt embalms. Plants enliven. Vegan means choosing life.**
+
+## References
+
+**Vitalistic / Historical**
+
+- Hotema, Hilton. *Man’s Higher Consciousness.* (1961; Pickle Partners ed. 2015).
+
+**Human Trials**
+
+- Sacks, F.M., et al. “Effects on Blood Pressure of Reduced Dietary Sodium and the DASH Diet.” *New England Journal of Medicine* (2001).
+- Cook, N.R., et al. “Long-term effects of dietary sodium reduction on cardiovascular disease outcomes.” *BMJ* (2007).
+- Neal, B., et al. “Salt Substitute and Stroke Study (SSaSS).” *New England Journal of Medicine* (2021).
+
+**Animal Models & Swap Studies**
+
+- Dahl, L.K. “Salt and Hypertension.” *Journal of Experimental Medicine* (1962).
+- Luft, F.C., et al. “Hypertension induced by sodium chloride in rats versus bicarbonate/citrate.” *Kidney International* (1982).
+- Kurtz, T.W., Morris, R.C. “Sodium chloride as the specific agent in salt-induced hypertension.” *Journal of Clinical Investigation* (1983).
+- Schmidlin, O., et al. “NaCl, but not sodium bicarbonate, induces hypertension and stroke.” *Hypertension* (2007).
+
+**Population Studies**
+
+- Oliver, W.J., et al. “Blood pressure, electrolytes, and urinary NaCl in the Yanomami Indians.” *Circulation* (1975).
