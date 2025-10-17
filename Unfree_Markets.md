@@ -43,11 +43,6 @@ The true scandal was not merely that citizens were compelled to sell their gold 
 
 The United States had already declared moral bankruptcy in 1933; 1971 merely acknowledged it on paper.
 
-> “The issue which has swept down the centuries and which will have to be fought sooner or later is the people versus the banks.”  
-> — *Lord Acton*
-
-Acton’s warning captures the perpetual nature of this conflict. The Gold Act was not an isolated moment of bad policy—it was the culmination of a centuries-long struggle between natural money and artificial credit, between liberty and control.
-
 ## The Legacy
 
 Every era since 1933 has been shaped by that forced exchange. Bretton Woods, the petrodollar, quantitative easing, and digital central bank currencies all trace their lineage to that single breach of trust. The free market was not destroyed by inflation or taxation, but by **the criminalization of honest money**.
