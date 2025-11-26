@@ -1,4 +1,4 @@
-# The Fear of the Celestial Name
+# The Fear One's Celestial Name
 
 Human beings do not fear their flaws as deeply as they fear their own magnitude. The greatest terror is not inadequacy but power—power that demands coherence, responsibility, and visibility. This fear expresses itself in countless subtle ways, but one of the most revealing is the modern reluctance to disclose one’s celestial name, the imprint formed at the moment of birth. Like molten metal that solidifies within a magnetic field and records the field’s orientation, the human being solidifies in the field of the Sun, Moon, and planets at the instant of embodiment. The celestial name is this orientation: an interior diagram of temperament, rhythm, potential, and destiny. To hide it is to hide the self. To reveal it is to become transparent.
 
