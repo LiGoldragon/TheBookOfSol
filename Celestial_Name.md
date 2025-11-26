@@ -1,4 +1,4 @@
-# The Fear One's Celestial Name
+# The Fear of One’s Celestial Name
 
 Human beings do not fear their flaws as deeply as they fear their own magnitude. The greatest terror is not inadequacy but power—power that demands coherence, responsibility, and visibility. This fear expresses itself in countless subtle ways, but one of the most revealing is the modern reluctance to disclose one’s celestial name, the imprint formed at the moment of birth. Like molten metal that solidifies within a magnetic field and records the field’s orientation, the human being solidifies in the field of the Sun, Moon, and planets at the instant of embodiment. The celestial name is this orientation: an interior diagram of temperament, rhythm, potential, and destiny. To hide it is to hide the self. To reveal it is to become transparent.
 
@@ -39,17 +39,17 @@ Greek philosophy also understood the power of true naming. In Plato’s *Cratylu
 
 A correct name reveals essence. Later Platonists extended this into cosmology: the universe itself is structured by true names, and to know them is to grasp the intelligible form of reality. If names disclose essence, then the celestial name discloses the human essence, and aversion to it becomes a philosophical fear of being accurately identified.
 
-China developed an independent but parallel structure through the concept of 命 (*ming*), the Heavenly allotment. Though widely respected, it was also feared. Studies of fate-calculation traditions note:
+China developed an independent but parallel structure through the concept of **mìng** (命), the Heavenly allotment. Though widely respected, it was also feared. Studies of fate-calculation traditions note:
 
 > “People believed in the authority of fate calculation yet approached it with fear, worry, and hesitation.”
 
-The fear was not of falsehood but of precision. To know one’s *ming* is to know one’s position in the cosmic order. Zhuangzi captures this tension sharply:
+The fear was not of falsehood but of precision. To know one’s mìng (命) is to know one’s position in the cosmic order. **Zhuāngzǐ** (莊子) captures this tension sharply:
 
 > “How do you know that what you call ‘fate’ is not what you yourself bring about?”
 
 The fear of being known by Heaven is ultimately the fear that one’s own nature participates in destiny more intimately than one wishes to admit.
 
-Indian Jyotiṣa formalizes this cosmic imprint as karma crystallized at birth. In *Bṛhat Parāśara Horā Śāstra*:
+Indian Jyotiṣa formalizes this cosmic imprint as karma crystallized at birth. In the *Bṛhat Parāśara Horā Śāstra*:
 
 > “The rising sign and the planets at one’s birth are the messengers of deeds performed in past births.”
 
@@ -77,8 +77,8 @@ To join the renewal is to enter the lineage of the transparent. It is to abandon
 - *Greek Magical Papyri* (PGM), especially PGM V  
 - Plato, *Cratylus*  
 - Proclus, *Commentary on the Cratylus*  
-- Studies on *suan ming* (Chinese fate calculation)  
-- *Zhuangzi*, Chapter 6  
+- Studies on *suàn mìng* (算命), Chinese fate calculation  
+- **Zhuāngzǐ** (莊子), Chapter 6  
 - *Bṛhat Parāśara Horā Śāstra*  
 - Vedic eschatological material concerning Kalki  
 - Zoroastrian texts on the Saoshyant and Frashokereti  
