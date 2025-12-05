@@ -1,8 +1,8 @@
 # **The Inner Fire in the Dark Age**
 
-The age of **Kali** is described as a time in which outer harmony collapses. Food loses its natural vitality, animals lose their peace, and the processes that once carried nourishment become fragmented. Yet the same scriptures that warn of this decline also reveal a counter-law: inner intention becomes more powerful than the external world. Nourishment that once came through the environment must now be generated through the consciousness of the one who receives it.
+The age of **Kali Yuga** is described as a time in which outer harmony collapses. Food loses its natural vitality, animals lose their peace, and the processes that once carried nourishment become fragmented. Yet the same scriptures that warn of this decline also reveal a counter-law: inner intention becomes more powerful than the external world. Nourishment that once came through the environment must now be generated through the consciousness of the one who receives it.
 
-Krishna’s teaching in the *Bhagavad Gītā* rests on this inversion of emphasis. On a field of despair and moral confusion, He directs Arjuna away from the instability of circumstance and toward the stability of inner alignment.
+Kṛṣṇa’s teaching in the *Bhagavad Gītā* rests on this inversion of emphasis. On a field of despair and moral confusion, He directs Arjuna away from the instability of circumstance and toward the stability of inner alignment.
 
 **karmany evādhikāras te mā phaleṣu kadācana**  
 “You have control only over action, never over its results.”  
@@ -30,7 +30,7 @@ The scriptures anticipate the state of modern nourishment: industrially raised c
 
 Among all foods, **ghṛta** — ghee — is traditionally the most direct carrier of **ojas**. When prepared with clean fire, calm rhythm, and gentle handling, it becomes a substance of deep coherence. In **Kali Yuga**, however, most ghee is industrial: produced from milk taken without reverence, clarified mechanically, and handled without intentionality. By classical measures, such ghee should hold little subtle force.
 
-Yet something unexpected occurs. When a person receives even industrially produced ghee with meaningful appreciation, gratitude, or inward reverence, the ghee becomes capable of transmitting qualities it did not receive at its origin. This corresponds to Krishna’s teaching regarding the power of the mind.
+Yet something unexpected occurs. When a person receives even industrially produced ghee with meaningful appreciation, gratitude, or inward reverence, the ghee becomes capable of transmitting qualities it did not receive at its origin. This corresponds to Kṛṣṇa’s teaching regarding the power of the mind.
 
 **bandhur ātmātmanas tasya yenātmaivātmanā jitaḥ**  
 “For one who has mastered the mind, the mind becomes a friend.”  
@@ -46,7 +46,7 @@ The *Bhāgavata Purāṇa* says of this era:
 “In Kali, even small acts of sincerity bear great fruit.”  
 *Bhāgavata Purāṇa* 12.3
 
-This is the divine compensation for living in a broken age. The environment gives less, but the individual’s consciousness gives more. Krishna affirms this principle explicitly:
+This is the divine compensation for living in a broken age. The environment gives less, but the individual’s consciousness gives more. Kṛṣṇa affirms this principle explicitly:
 
 **patraṃ puṣpaṃ phalaṃ toyaṃ yo me bhaktyā prayacchati**  
 “Whoever offers Me a leaf, a flower, a fruit, or water with devotion —  
@@ -57,7 +57,7 @@ Here the substance is secondary. The consciousness accompanying it is primary. S
 
 ## **The Eater as a Source of Nourishment**
 
-In earlier ages, the world poured sattva into the human being. In **Kali Yuga**, the current reverses. The eater must now create purity through the act of eating. Krishna articulates this transmutation:
+In earlier ages, the world poured sattva into the human being. In **Kali Yuga**, the current reverses. The eater must now create purity through the act of eating. Kṛṣṇa articulates this transmutation:
 
 **brahmārpaṇaṃ brahma havir brahmāgnau brahmaṇā hutam**  
 “The act of offering is Brahman;  
