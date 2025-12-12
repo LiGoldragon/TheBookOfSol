@@ -25,8 +25,6 @@ The *Bhagavadgītā* speaks directly to this principle:
 
 Here, Kṛṣṇa instructs neither apathy nor complicity. He identifies hatred as a distortion that prevents clarity and obstructs right action.
 
-Later he intensifies the point:
-
 > **yadā te moha-kalilaṃ buddhir vyatitariṣyati  
 > tadā gantāsi nirvedaṃ śrotavyasya śrutasya ca**  
 > When your understanding crosses beyond the tangle of delusion,  
