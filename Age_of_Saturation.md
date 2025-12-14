@@ -1,6 +1,6 @@
 # **Voladores and the Age of Saturation**
 
-The environment did not emerge by accident, and it is not merely mechanical. What governs it is not visible in the way objects are visible, yet it is perceivable to those who have learned to see energetically rather than materially.
+The environment did not emerge by accident, and it is not merely mechanical. Those who currently govern are not visible in the way objects are visible, yet they are perceivable to those who have learned to see energetically rather than materially.
 
 These beings do not possess fixed physical forms. They are not organisms in the biological sense. They are configurations of awareness—coherent, persistent, and active. Under conditions of shock, trauma, fasting, deprivation, or sudden perceptual rupture, humans sometimes perceive them directly. When this occurs without context or training, the experience is often misinterpreted as contact with “aliens.” The error lies not in the perception, but in the cultural vocabulary used to explain it.
 
