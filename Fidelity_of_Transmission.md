@@ -1,0 +1,13 @@
+## On Plasma Retention, Authority, and the Fidelity of Transmission
+
+Plasma retention (Śivāmbu), the recycling of *mūtra*, was not a peripheral curiosity but a central tenet placed by the earliest sage-writers, who wrote as practitioners and not as spectators. Authority arose from use, not theory; from embodied verification, not speculation. Where health was sovereign, speech was plain.
+
+Such clarity provoked resistance. A practice that dissolves dependency cannot be safely harmonized with power. The record therefore divides along a law of transmission. Explicit, procedural texts—brief enough for memory, daring enough to refuse allegory—force a binary upon editors: preserve intact or destroy. Where they survive, accuracy survives with them. The *Damar Tantra* stands here, preserved precisely because it could not be corrected without exposure.
+
+Comprehensive compendia follow another fate. The sheer length of the *Caraka Saṃhitā* made censorship possible. Vastness invites pruning; compilation invites correction. In a corpus of such scale, omission is invisible, substitution appears scholarly, and silence passes for refinement. Power need not burn what it can edit. Thus the text endured by harmonizing with order, filtering what threatened autonomy. It preserved medicine; it shed sovereignty.
+
+Within this very corpus the tension is visible. *Mūtra* is named *mala*, waste; yet excessive urination is declared harmful and depleting. What is dismissed as refuse is simultaneously guarded against loss. The contradiction betrays an underlying truth: what the body cannot afford to lose is not inert. Where recycling is unnamed, depletion is nonetheless feared. The doctrine recoils while the physiology speaks.
+
+Later yogic writings—such as the *Haṭha Yoga Pradīpikā*—reinforce this division. Issuing from lineages indifferent to court, creed, or politics, they preserved what worked, not what was acceptable. Their concern was practice, not propriety; liberation, not governance. Where they speak explicitly, they echo the earlier sages: autonomy over dependency, method over permission.
+
+The earliest authors knew what later editors feared. They centered *mūtra* recycling because it worked. Its health supremacy required no consensus, only practice. Truth persisted where it was stated without veil and compressed for memory when writing failed. Accuracy followed explicitness; sovereignty survived where courage prevailed.
