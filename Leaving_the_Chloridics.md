@@ -1,7 +1,6 @@
 # When Agreement Ends
 
-## *On social fracture, solitary alignment, and the cost of leaving the
-common table*
+## *On social fracture, solitary alignment, and the cost of leaving the common table*
 
 ### Habit as Membership
 
