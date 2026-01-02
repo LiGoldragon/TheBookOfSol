@@ -1,208 +1,183 @@
 # The Solar Zodiac and the Living Field
 
-### The Krāntivṛtta, the Plane of Inertia, and the Primordial Grammar of Solar World-Breathing
+### The Krāntivṛtta, the Plane of Inertia, and the Grammar of Solar Motion
 
-> “The Sun is the essential cause.”
-> “The zodiac… is a factor of time. It is a cycle — a process.”
-> “The equinoxes are the proper beginnings.”
-> — Claudius Ptolemy, *Tetrabiblos* I–II; 
+> “From the Sun proceed the motions of the planets, and the regulation
+> of their courses.”
+> — *Sūrya Siddhānta* I.6
+
+> “The Sun, impelled by its own power, draws after it the planets
+> which are bound to it.”
+> — *Sūrya Siddhānta* II.9
+
+The order of the heavens is solar. Motion, regulation, and sequence
+arise from the Sun itself, not from convention, decree, or inherited
+naming. The zodiac and the nakṣatras are therefore solar structures in
+the strict and literal sense. They arise from the observable motion of
+the Sun and from nothing else. Terminology such as “tropical” or
+“sidereal” gestures toward this reality but remains imprecise. The
+exact word is solar, because the Sun is the measure.
+
+The living field begins where motion is seen, where advance is
+followed by return, and where sequence can be counted without appeal
+to authority. The zodiac is the grammar of this motion.
+
+### The Sun as the Source of Time, Motion, and Life
+
+> “Time is produced from the Sun; from the Sun proceed motion and
+> rest; by the Sun all beings are made active.”
+> — *Sūrya Siddhānta* I.4–5
+
+> “The Sun is the cause of the production, preservation, and
+> destruction of the world.”
+> — *Sūrya Siddhānta* I.5
+
+The Sun is not one factor among others. It is the origin from which
+time itself is generated, the regulator by which motion and rest are
+distinguished, and the cause by which activity enters the world. This
+establishes the Sun as the primary standard of measure. All cycles
+derive their intelligibility from it. All secondary motions follow its
+lead.
+
+> “The Sun integrates and gives purpose to the whole cycle of
+> existence.”
 > — Dane Rudhyar, *The Zodiac as the Universal Matrix*
 
-Creation begins where light finds a way through. The universe is not a
-clock; it is a breathing field. The Sun stands as the dielectric
-aperture through which invisible pressure becomes visible radiance — a
-lucid wound in the fabric of stillness. Around this aperture, the
-cosmos curls as a torus: an outer membrane luminous with return, an
-inner current luminous with departure. In that living topology, the
-Earth is the plane of inertia — the still band of equilibrium — and
-the firmament is the field’s bright curvature returning upon
-itself. The zodiac is not a map of distant lamps; it is the grammar of
-this breath.
+Rudhyar’s formulation is explicit. The Sun is not symbolic decoration;
+it is the integrative center. The annual cycle makes visible what is
+otherwise implicit: the alternation of advance and return, effort and
+release, manifestation and recollection.
 
-> “Only the points determined by the equator and the tropics… are
-> beginnings.”  “Equal day and night: the crossing of balances.”  *—
-> Ptolemy, *Tetrabiblos I*; *Sūrya Siddhānta VI***
+### Observable Cycle and the Absence of Fiat
 
-The equator is the field’s horizontal neutrality — the slice of
-equality; the ecliptic is the inclined meridian of manifestation — the
-loop where the breath becomes visible. Their intersections are the
-equinoxes, polarity-inversion nodes: the precise instants when the
-outward and inward halves of the toroidal current exchange
-precedence. At the solstices the current reaches its shoulders — the
-vortex turnover bands — converting outward expansion into inward
-return, and return into outward surge. What tradition calls
-*Uttarāyaṇa* and *Dakṣiṇāyaṇa* is simply the upper and lower cups of
-the torus trading dominance: inhalation and exhalation of one,
-continuous, Solar World-Breath.
+> “The motions once finished are again begun in the same order.”
+> — *Sūrya Siddhānta* I.13
 
-## I. The Primordial Sun
+Completion is followed by renewal, and renewal follows the same path
+as before. No proclamation is required. The beginning of Aries is not
+legislated; it is seen. When the Sun completes its circuit and resumes
+its course in the same order, the cycle declares itself. Knowledge
+arises from observable motion, not from inherited authority.
 
-> “The Sun integrates and gives purpose.”  “Spirit in operation — the
-> living center of an organic whole.”  *— Dane Rudhyar, *The Zodiac as
-> the Universal Matrix***
+> “The zodiac is a factor of time. It is a cycle — a process.”
+> — Dane Rudhyar, *The Zodiac as the Universal Matrix*
 
-The Sun does not *represent* meaning; it *enacts* it. Every cycle in
-the organism of the world — seed and shoot, dawn and dusk, culture and
-conscience — keys itself to the Sun’s periodic declination, the rise
-and return of light through the plane of equality. In dielectric
-language the aperture is a locus of zero-dimensioned intensity, where
-counter-rotating flows converge to a point and issue as radiance. In
-human language this is will and awareness: the focal point of
-coherence in a life. The annual course only makes explicit what the
-moment makes perpetual — the alternation of outflow and inflow,
-individuation and reintegration, exhale and inhale.
+The zodiac exists because the cycle exists. It is read, not imposed.
 
-> “Every solar system is a living being; the Sun is its heart.”  *—
-> Rudhyar, *The Zodiac as the Universal Matrix***
+### Aries and the Equinox
 
-The heart does not move from place to place; it pulses the field that
-gives every place its life. So with the Sun. The seasonal arc is not
-the wander of a body; it is the visible cadence of a field. What
-appears as “north–south motion” is the luminous current curving above
-and below the neutral plane, crossing at equinox, culminating at
-solstice, pulsing through the organism of Earth and psyche alike.
+> “The equinoxes are the starting points of the zodiacal signs.”
+> — Claudius Ptolemy, *Tetrabiblos* I
 
-## II. The Zodiac: A Grammar of Phase, Not a Registry of Stars
+> “The first of the signs is Aries, beginning from the vernal
+> equinox.”
+> — Claudius Ptolemy, *Tetrabiblos* I
 
-> “Zodiacal position has significance in terms of the solar or
-> seasonal factor.”  “Two approaches: the seasonal frame… or a static
-> structure independent of the Sun.”  *— Rudhyar, *The Zodiac as the
-> Universal Matrix***
+Ptolemy is explicit. Aries is defined by the equinox itself. This
+definition is observational and solar, not stellar and not
+conventional. The zodiac begins where equality of day and night is
+seen and where the Sun reverses its direction of declination. Aries is
+not assigned. It is identified.
 
-The zodiac is the syntax of one breath divided by twelve. Each sign is
-a modal function of the field — a harmonic of the Sun’s phase with
-respect to the plane of inertia. This twelvefold is not arbitrary, any
-more than the hours of day are arbitrary. It is the minimum lattice
-that preserves difference across a single oscillation: ignition,
-projection, stabilization, distribution, culmination, synthesis — then
-the return arc of adjustment, balance, concentration, diffusion,
-re-orientation, dissolution, and seed. The signs are not *where*; they
-are *how*.
+> “When day and night are equal, that day is called an equinox.”
+> — *Sūrya Siddhānta* III.9
 
-* **Aries** — the up-crossing. “Exhale begins.” The dielectric current
-  breaches the neutral plane and commits to manifestation: ignition of
-  vector and will.
-* **Cancer** — the outward shoulder. “Radiance culminates.”
-  Individuation warms to form, clearing space for life to fruit.
-* **Libra** — the down-crossing. “Inhale begins.” The current yields
-  to balance; relation supersedes projection.
-* **Capricorn** — the inward shoulder. “Form crystallizes.” The field
-  plants seed within structure; essence returns to core.
+Greek and Sanskrit authorities converge on the same fact. The
+beginning of the zodiac is anchored in solar balance and observable
+reversal.
 
-Between nodes, six signs modulate ascent and descent: building layers
-on the way up; redistributing meaning on the way home. The outer world
-reads this as weather and agriculture; the inner world reads the same
-grammar as mood, motive, and meaning.
+### Balance, Limit, and Reversal
+
+> “Only the points determined by the equator and the tropics are the
+> proper beginnings.”
+> — Claudius Ptolemy, *Tetrabiblos* I
+
+> “When the Sun reaches its greatest declination, there it remains for
+> a time, and then returns.”
+> — *Sūrya Siddhānta* III.11
+
+The solar cycle contains points of balance and points of limit. At the
+equinoxes, equality marks a reversal in direction. At the solstices,
+the Sun reaches its extremes, completing inhalation or exhalation
+before reversal becomes inevitable. The year breathes, and its
+structure is disclosed by measure.
+
+### The Zodiac as a Grammar of Phase
 
 > “The apparent path of the Sun defines the rhythm of consciousness on
-> Earth.”  *— Rudhyar, *The Zodiac as the Universal Matrix***
+> Earth.”
+> — Dane Rudhyar, *The Zodiac as the Universal Matrix*
 
-The zodiac is the meter of that rhythm.
+The zodiac divides one complete solar cycle into intelligible
+phases. Each sign expresses a mode of the Sun’s action relative to
+balance and limit.
 
-## III. Decans, Nakṣatras, and Navāṃśas: Sub-Harmonics of the One Breath
+Aries corresponds to maximum inhalation, the moment of greatest effort
+and readiness, where the solar impulse is fully drawn in and ignition
+becomes possible. Cancer marks the fullness of the breath, the outer
+limit where expansion saturates form. Libra corresponds to maximum
+exhalation, where release is complete and relation supersedes
+projection. Capricorn marks the emptying of the breath, the inner
+limit where essence condenses and structure is seeded.
 
-> “Degrees as discrete quanta… each carrying its feature.”  “Ecliptic
-> and equator: declination from the inclined circle.”  “Respirations
-> of the path.”  *— Rudhyar, *The Zodiac as the Universal Matrix*;
-> *Sūrya Siddhānta II & VI***
+Between these cardinal moments, the remaining signs modulate ascent
+and descent. The zodiac does not describe location. It describes
+function.
 
-One breath admits of finer speech. The **decans** (10°) articulate
-three-act sequences within each sign: initiative → decision →
-delivery; tension → turn → testimony. The **27 nakṣatras** distribute
-the breath by lunar pacing: 27 equal tropical sectors — a stellar
-mnemonic for *where* along the solar meridian the Moon accents the
-current in a given night. The **108 navāṃśas** (3° 20′) are the
-pearl-grain of the field — four per nakṣatra, nine per sign — the
-smallest audible clicks of the cosmic mālā.
+### Subdivision and Harmonic Refinement
 
-In physics this is a spectrum problem. A single oscillation carries
-sub-harmonics. The decan is the third; the navāṃśa the ninth; the
-nakṣatra the lunar overlay that rides the same carrier wave. What
-astronomy names “declination” is the field’s latitude; what
-computation calls “valana,” the deflection of the ecliptic from level,
-is simply the local lean of the meridian through the neutral sheet. In
-the old Sanskrit apparatus even the bookkeeping is musical:
-“respirations traversed, respirations to be traversed.” The sky is a
-metronome that speaks.
+> “Degrees are not mere abstractions but phases of becoming.”
+> — Dane Rudhyar, *The Zodiac as the Universal Matrix*
 
-## IV. Geometry of Stillness, Mechanics of Breath
+> “The declination of the Sun is to be taken from the inclined
+> circle.”
+> — *Sūrya Siddhānta* II.6
 
-> “The sphere of the fixed revolves… the Earth at the center.”  “The
-> equator and the tropics determine the proper beginnings.”  “From the
-> inclined circle the declination is taken.”  *— Ptolemy, *Tetrabiblos
-> I–II*; *Sūrya Siddhānta II–III***
+The single solar oscillation admits refinement. Decans articulate
+threefold motion within each sign. Nakṣatras divide the solar circuit
+into twenty-seven equal measures, paced by the Moon yet determined by
+the Sun’s path. Navāṃśas refine this further, resolving the cycle into
+its smallest coherent intervals.
 
-Three lenses focus one fact.
+These are harmonics of one motion, not competing systems.
 
-* The classical geometric lens: two great circles — the equator
-  (balance) and the ecliptic (inclination) — cut each other at two
-  nodes. The heavens revolve about a pole; the Earth abides in the
-  middle.
-* The Sanskrit computational lens: measure the Sun’s latitude from the
-  inclined circle; count breaths between nodes; treat the equinox as
-  the fixed reference of meaning.
-* The humanistic field lens: the Earth is an organism within a
-  formative field; the zodiac is that field’s functional grammar;
-  planets are activators of its sectors; the Sun integrates the whole.
+### Geometry, Motion, and Measure
 
-These are not competing stories; they are complementary projections of
-one topology: a torus whose equatorial plane never moves, whose
-membrane glows with return, and whose aperture cannot help but shine.
+> “From the inclined circle the declination is taken.”
+> — *Sūrya Siddhānta* II.6
 
-## V. Against the Bureaucratization of Heaven
+> “The Sun passes north and south of the equator by reason of the
+> inclination.”
+> — *Sūrya Siddhānta* II.7
 
-> “A static structure independent of the motions of the Sun.”  *—
-> Rudhyar, *The Zodiac as the Universal Matrix***
+Geometry, computation, and observation converge on a single structure:
+an oscillating solar path measured relative to balance and
+limit. Declination is measure. Inclination is observation. The heavens
+disclose their order through motion.
 
-There is no quarrel with stars. The protest is against the habit of
-replacing cause with catalog. When the zodiac is rebranded as a
-registry of distant lamps, the living grammar gives way to
-bureaucracy. The breath is lost in the filing. The “siderealization”
-of meaning confuses address with action and coordinate with cause. It
-is the difference between reading a score and hearing a song. The
-score is useful; the song is the point. The universe is not a catalog;
-it is a voice.
+### The Living Field
 
-## VI. Physics and Meaning: One Correspondence
+> “The sphere of the fixed revolves, the Earth remaining in the
+> middle.”
+> — Claudius Ptolemy, *Tetrabiblos* I
 
-> “Electromagnetic field… the master architect.”  “The Sun as heart;
-> planets as organs.”  *— Rudhyar, *The Zodiac as the Universal
-> Matrix***
+> “The Sun is the heart of the whole system, through which the life of
+> the cycle circulates.”
+> — Dane Rudhyar, *The Zodiac as the Universal Matrix*
 
-The correspondence is not decorative; it is structural. In a toroidal
-field, currents alternate dominance above and below a neutral sheet;
-intensity climaxes at shoulders; polarity reverses at crossings;
-circulation sustains form. In a year, light performs the same figure:
-outward crescendo to summer; inward resonance to winter; reversals at
-equinox; a steady beat of sub-harmonics all the while.
+> “Time is produced from the Sun.”
+> — *Sūrya Siddhānta* I.4
 
-Meaning is what alignment with this figure feels like from within. The
-twelvefold teaches how exhale becomes skill and inhale becomes
-wisdom. The decans show *how* a phase accomplishes itself; the
-nakṣatras reveal *where* attention lands along the current; the
-navāṃśas whisper *why* a nuance matters. In every language the message
-is single: participate in the breath.
-
-## Coda: The Living Field
-
-> “The zodiac is the matrix within which the organism of Earth
-> unfolds.”  “The Sun is the will to be.”  “Equal day, equal night.”
-> *— Rudhyar, *The Zodiac as the Universal Matrix*; *Sūrya Siddhānta
-> I*; *Ptolemy, Tetrabiblos I***
-
-One image suffices: a ring of light that breathes itself. At the
-center, a point so still it shines. Around it, a body that remembers,
-a membrane that returns, a grammar that sings. Call it *Rāśi*, call it
-*Zōidiakos*, call it the Universal Matrix. It is the same verb, spoken
-in the language of a field: the world exhaling itself into forms, the
-world inhaling itself into meaning, and the Sun — the ever-present
-aperture — revealing that the source and the return are one.
+One image suffices. The Sun stands as the source of measure. Around
+it, motion unfolds, completes itself, and begins again in the same
+order. From this recurrence arise the zodiac, the nakṣatras, and every
+intelligible division of time. The field breathes, and its breath is
+visible. The Sun does not merely illuminate this order. It establishes
+it.
 
 ### References
 
-1. Claudius Ptolemy, *Tetrabiblos*, Books I–II.
-2. *Sūrya Siddhānta*, tr. Ebenezer Burgess (1860).
-3. Dane Rudhyar, *The Zodiac as the Universal Matrix* (1974).
-4. Supplemental field-physics context: classical treatments of
-   toroidal topology in electromagnetism, magnetohydrodynamics, and
-   dielectric field theory.
+Claudius Ptolemy, *Tetrabiblos*, Book I.  
+*Sūrya Siddhānta*, tr. Ebenezer Burgess (1860).  
+*Sūrya Siddhānta* and *Siddhānta Śiromaṇi*, tr. Bapu Deva Sastri and Lancelot Wilkinson (1861).  
+Dane Rudhyar, *The Zodiac as the Universal Matrix* (1974).
