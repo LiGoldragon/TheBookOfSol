@@ -183,5 +183,9 @@ life.
 
 ### References
 
-*Ṛgveda*.  *Atharva Veda*.  *Śatapatha Brāhmaṇa*.  *Vedāṅga Jyotiṣa*.
-*Sūrya Siddhānta*.  Claudius Ptolemy, *Tetrabiblos*.
+*Ṛgveda*.
+*Atharva Veda*.
+*Śatapatha Brāhmaṇa*.
+*Vedāṅga Jyotiṣa*.
+*Sūrya Siddhānta*.
+Claudius Ptolemy, *Tetrabiblos*.
