@@ -3,162 +3,191 @@
 ## Foundational View
 
 ### Plasma as a living substance
-Plasma is a living, responsive substance when removed from the body.  
-It continues to purify itself, separating into clear plasma above and its own rejected mucus and waste below.  
-Every drop is living liquid gold and is preserved for aging, refinement, or reduction.
+
+Plasma is a living, responsive substance when removed from the body.\
+It continues to purify itself, separating into clear plasma above and its own
+rejected mucus and waste below.\
+Every drop is living liquid gold and is preserved for aging, refinement, or
+reduction.
 
 ### Scriptural echoes
-Haṭha Yoga Pradīpikā links Amarolī and Sahajolī with Vajrolī, the conservation and refinement of vital essence.  
-Damar Tantra teaches fluid-based rejuvenation:  
-“Śivāmbu … is capable of abolishing old age and various types of diseases and ailments.”  
+
+Haṭha Yoga Pradīpikā links Amarolī and Sahajolī with Vajrolī, the conservation
+and refinement of vital essence.\
+Damar Tantra teaches fluid-based rejuvenation:\
+“Śivāmbu … is capable of abolishing old age and various types of diseases and
+ailments.”\
 “All diseases can be cured by the regular use of one’s own fluid.”
 
 ## Collection
 
-All plasma is valuable and kept.  
-Collected in clean glass containers with airtight lids.  
-Midstream collection is optional and mainly for advanced refinement; for aging, every drop is retained.
+All plasma is valuable and kept.\
+Collected in clean glass containers with airtight lids.\
+Midstream collection is optional and mainly for advanced refinement; for aging,
+every drop is retained.
 
 ## Aging
 
 ### General principles
-Aging is the central transformative process.  
-Plasma is aged in an auspicious, intentional, clean place.  
-Temperature should be moderate: not too cold, not too hot.  
+
+Aging is the central transformative process.\
+Plasma is aged in an auspicious, intentional, clean place.\
+Temperature should be moderate: not too cold, not too hot.\
 Slight warmth accelerates aging and enhances vitality.
 
-Solarization is excellent on its own.  
-Sunlight imparts additional life force and keeps it warm in cool conditions.  
+Solarization is excellent on its own.\
+Sunlight imparts additional life force and keeps it warm in cool conditions.\
 Lunarization enhances sediment formation and subtle refinement.
 
 ### Breathing and shaking technique
-Plasma remains alive indefinitely when sealed.  
+
+Plasma remains alive indefinitely when sealed.\
 Breathing is optional and used only to accelerate aging.
 
-**Technique:**  
-- Open briefly to introduce fresh oxygen.  
-- Seal and shake gently to distribute oxygen.  
-- Reopen briefly to let it breathe out.  
+**Technique:**
+
+- Open briefly to introduce fresh oxygen.
+- Seal and shake gently to distribute oxygen.
+- Reopen briefly to let it breathe out.
 - Reseal.
 
 This cycle speeds aging, but without it the plasma still ages naturally.
 
 ### Primary aging phase
-**Duration:** one to two lunations.  
-**Process:** the plasma rejects internal waste and forms sediment; the clear layer becomes refined.  
-**Environment:** auspicious location; optional solarization and lunarization.  
-**Breathing:** optional; every few days or weekly.  
+
+**Duration:** one to two lunations.\
+**Process:** the plasma rejects internal waste and forms sediment; the clear
+layer becomes refined.\
+**Environment:** auspicious location; optional solarization and lunarization.\
+**Breathing:** optional; every few days or weekly.\
 **Shaking:** periodic and gentle.
 
-*Damar Tantra:*  
-“That which flows from oneself, matured by time, cuts through accumulations as fire through wood.”
+*Damar Tantra:*\
+“That which flows from oneself, matured by time, cuts through accumulations as
+fire through wood.”
 
 ### Siphoning phase
-**Purpose:** separate clear plasma from sediment.  
-**Method:** siphon the upper layer with a clean tube without disturbing sediment.  
-**After siphoning:** continue aging in a clean vessel; remove sediment.  
+
+**Purpose:** separate clear plasma from sediment.\
+**Method:** siphon the upper layer with a clean tube without disturbing
+sediment.\
+**After siphoning:** continue aging in a clean vessel; remove sediment.\
 Only sediment is discarded.
 
 ### Optional filtration
-Coffee filters or fine cloth may be used.  
-Filtration works best after proper siphoning.  
+
+Coffee filters or fine cloth may be used.\
+Filtration works best after proper siphoning.\
 Filtered aged plasma becomes the primary cleansing and extraction medium.
 
 ### Secondary aging (strong aged plasma)
-**Duration:** several weeks to months.  
-**Conditions:** slight warmth preferred; solarization and lunarization optional.  
-**Schedule:** shaking every one or two weeks; breathing optional every two to four weeks.  
+
+**Duration:** several weeks to months.\
+**Conditions:** slight warmth preferred; solarization and lunarization
+optional.\
+**Schedule:** shaking every one or two weeks; breathing optional every two to
+four weeks.\
 **Result:** strong aged plasma for deep purification and advanced applications.
 
 ## Herbal Extraction
 
-Plasma extracts herbal principles extremely quickly.  
-Extraction is normally 15 minutes to 1 hour.  
+Plasma extracts herbal principles extremely quickly.\
+Extraction is normally 15 minutes to 1 hour.\
 Leaving herbs longer than a few hours often over-extracts.
 
-All herb solids must be removed after extraction.  
-Even preservative herbs (moringa, chili) should not remain; once their life force is drawn out, the solids become inert residue and impurities.
+All herb solids must be removed after extraction.\
+Even preservative herbs (moringa, chili) should not remain; once their life
+force is drawn out, the solids become inert residue and impurities.
 
 A warming environment accelerates extraction but boiling is unnecessary.
 
-**Procedure:**  
-- Add herb to aged plasma.  
-- Allow 15–60 minutes for extraction.  
-- Siphon or filter immediately.  
-- Remove all solids.  
+**Procedure:**
+
+- Add herb to aged plasma.
+- Allow 15–60 minutes for extraction.
+- Siphon or filter immediately.
+- Remove all solids.
 - Seal the extracted plasma.
 
-This mirrors Damar Tantra’s rasāyana method of using one’s own fluid as a carrier of herbal potency.
+This mirrors Damar Tantra’s rasāyana method of using one’s own fluid as a
+carrier of herbal potency.
 
 ## Reduction (Soft Plasma)
 
-Reduced plasma is produced by boiling filtered aged plasma to one-quarter volume.  
-Use stainless steel or clay pots.  
+Reduced plasma is produced by boiling filtered aged plasma to one-quarter
+volume.\
+Use stainless steel or clay pots.\
 Avoid Teflon, aluminum, reactive metals, and induction stoves.
 
-If the plasma was not cleared well beforehand, remaining impurities create unpleasant odor.  
+If the plasma was not cleared well beforehand, remaining impurities create
+unpleasant odor.\
 Properly cleared plasma produces a pure, solar, purifying aroma.
 
-The fumes of cleared plasma are beneficial to breathe.  
-They purify the space and may also be inhaled deliberately, including through a nebulizer.  
+The fumes of cleared plasma are beneficial to breathe.\
+They purify the space and may also be inhaled deliberately, including through a
+nebulizer.\
 Breathing the vapor during reduction is a traditional enhancement.
 
 After reduction, perform final filtration to remove expelled solids.
 
-Reduced plasma becomes thick, oily, and soothing.  
+Reduced plasma becomes thick, oily, and soothing.\
 Used for sealing, nourishing, healing, massage, and salves.
 
 ## Wound Application
 
-Aged plasma is the primary cleanser: irrigates, dissolves debris, disinfects.  
+Aged plasma is the primary cleanser: irrigates, dissolves debris, disinfects.\
 Before each new salve layer, aged plasma is applied again.
 
 Reduced plasma is the healer: seals, soothes, supports regeneration.
 
-Herbal salves may be made with:  
-- Moringa leaf powder (regeneration)  
+Herbal salves may be made with:
+
+- Moringa leaf powder (regeneration)
 - Yerba santa powder (contraction and closure)
 
 ## Nasal, Ocular, and Auricular Uses
 
-Fresh plasma is ideal for delicate regions.  
-Aged plasma, diluted if needed, clears mucus and obstruction.  
-Eyes receive only minute drops.  
+Fresh plasma is ideal for delicate regions.\
+Aged plasma, diluted if needed, clears mucus and obstruction.\
+Eyes receive only minute drops.\
 Warm reduced plasma may be used sparingly in ears.
 
-*Haṭha Yoga Pradīpikā:*  
-“He who drinks the mid-stream, snuffs it, and practices Vajrolī, practices Amarolī.”
+*Haṭha Yoga Pradīpikā:*\
+“He who drinks the mid-stream, snuffs it, and practices Vajrolī, practices
+Amarolī.”
 
 ## Enemas
 
-Fresh, aged, or mixed plasma may be used.  
-Aged plasma is strongest; fresh moderates it.  
-Volumes begin at 2–3 ounces.  
-Frequency ranges from occasional to multiple times daily.  
+Fresh, aged, or mixed plasma may be used.\
+Aged plasma is strongest; fresh moderates it.\
+Volumes begin at 2–3 ounces.\
+Frequency ranges from occasional to multiple times daily.\
 Reduced plasma enemas provide calming nourishment.
 
 ## Massage and Skin Application
 
-Reduced plasma is used for massage, grounding, softening.  
+Reduced plasma is used for massage, grounding, softening.\
 Aged plasma is used for intensive purification of localized tissues.
 
 ## Bathing and Foot Soaks
 
-Aged plasma is added to baths or foot soaks to draw impurities and stimulate circulation.
+Aged plasma is added to baths or foot soaks to draw impurities and stimulate
+circulation.
 
 ## Household Cleaning
 
-Aged plasma cleans dishes, laundry, and surfaces.  
-Spot cleaning uses pure aged plasma followed by water.  
-Three to four ounces of strong aged plasma wash a medium laundry load in low-mineral water.  
-Removes oils and grime, including from bicycle chains.  
+Aged plasma cleans dishes, laundry, and surfaces.\
+Spot cleaning uses pure aged plasma followed by water.\
+Three to four ounces of strong aged plasma wash a medium laundry load in
+low-mineral water.\
+Removes oils and grime, including from bicycle chains.\
 Regular practitioners often cease needing soap.
 
 ## General Cycle Strategy
 
-Fresh plasma for gentle maintenance.  
-Aged plasma for purification and extraction.  
-Strong aged plasma for advanced cleansing.  
+Fresh plasma for gentle maintenance.\
+Aged plasma for purification and extraction.\
+Strong aged plasma for advanced cleansing.\
 Reduced plasma for sealing, healing, nourishment, and regeneration.
 
 Every drop is preserved, refined, cycled, and reused as living liquid gold.

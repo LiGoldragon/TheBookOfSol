@@ -1,15 +1,80 @@
 **Chloride, the Narcotic of Desolation**
 
-Those who examined the workings of nature in earlier ages spoke of certain substances that do not nourish life but seduce it, that do not strengthen the body but entice the appetites, and that, by a quiet compulsion, draw the mind into torpor and unrest. Among these, none was more subtly feared than salt: not the crystalline token used upon altars for covenant, but the salt taken as food, which the ancients judged an agent of corruption and inward disorder. For this reason the priests of Isis, as Plutarch recounts, abstained from it with severity, “excluding salt from their meals, as an impure thing which inflames appetite and renders men over-eager after meat and drink.” Thus the servant of the goddess who sought clarity of soul fled from it as a meddler of hunger and a disturber of continence.
+Those who examined the workings of nature in earlier ages spoke of certain
+substances that do not nourish life but seduce it, that do not strengthen the
+body but entice the appetites, and that, by a quiet compulsion, draw the mind
+into torpor and unrest. Among these, none was more subtly feared than salt: not
+the crystalline token used upon altars for covenant, but the salt taken as food,
+which the ancients judged an agent of corruption and inward disorder. For this
+reason the priests of Isis, as Plutarch recounts, abstained from it with
+severity, “excluding salt from their meals, as an impure thing which inflames
+appetite and renders men over-eager after meat and drink.” Thus the servant of
+the goddess who sought clarity of soul fled from it as a meddler of hunger and a
+disturber of continence.
 
-If one listens carefully to these old voices, a single conviction emerges beneath their diverse tongues: salt belongs to the family of narcotics. Its appearance may be pale and familiar, its taste sharp yet alluring, but its essence is an inward poison—one that tempts the organism into a false vigor and leaves it desolate. The Hebrews, perceiving this nature, invoked salt when speaking of ruin. Lot’s wife, looking back toward the doomed valley, is fixed in a pillar of salt, a sign that the soul becomes rigid when it clings to corruption. Wormwood and salt are joined in Deuteronomy as marks of a cursed land where nothing grows, and the sower of vengeance in Judges scatters salt upon a conquered city to pronounce its barrenness forever. Wherever salt appears in Scripture in its punitive aspect, it stands as companion to destruction, lifelessness, and estrangement from the fertile breath of the world.
+If one listens carefully to these old voices, a single conviction emerges
+beneath their diverse tongues: salt belongs to the family of narcotics. Its
+appearance may be pale and familiar, its taste sharp yet alluring, but its
+essence is an inward poison—one that tempts the organism into a false vigor and
+leaves it desolate. The Hebrews, perceiving this nature, invoked salt when
+speaking of ruin. Lot’s wife, looking back toward the doomed valley, is fixed in
+a pillar of salt, a sign that the soul becomes rigid when it clings to
+corruption. Wormwood and salt are joined in Deuteronomy as marks of a cursed
+land where nothing grows, and the sower of vengeance in Judges scatters salt
+upon a conquered city to pronounce its barrenness forever. Wherever salt appears
+in Scripture in its punitive aspect, it stands as companion to destruction,
+lifelessness, and estrangement from the fertile breath of the world.
 
-Later voices tightened these strands still further. One physician of the last century, reflecting upon Egyptian customs and the laws of Holy Writ, called salt “the forbidden fruit and the chief cause of diseases of body and mind.” Whether his words captured every nuance or not, they reflect something deeply observed: that salt wounds the organism in a manner both physical and spiritual. For the body receives chloride not as nourishment but as an irritant. It stiffens the vessels, thickens the fluids, burdens the kidneys, agitates the nerves, and awakens a thirst that no draught can fully appease. Life recoils from it, yet appetite, once corrupted, desires it more urgently. Such is the mark of a narcotic: it rouses what it later devours and calls forth desire where it leaves only depletion.
+Later voices tightened these strands still further. One physician of the last
+century, reflecting upon Egyptian customs and the laws of Holy Writ, called salt
+“the forbidden fruit and the chief cause of diseases of body and mind.” Whether
+his words captured every nuance or not, they reflect something deeply observed:
+that salt wounds the organism in a manner both physical and spiritual. For the
+body receives chloride not as nourishment but as an irritant. It stiffens the
+vessels, thickens the fluids, burdens the kidneys, agitates the nerves, and
+awakens a thirst that no draught can fully appease. Life recoils from it, yet
+appetite, once corrupted, desires it more urgently. Such is the mark of a
+narcotic: it rouses what it later devours and calls forth desire where it leaves
+only depletion.
 
-Chloride, stripped of its disguises, reveals this narcotic character clearly. It offers neither warmth nor vigor, yet it provokes craving; it gives neither fullness nor strength, yet it compels return. Like a Saturnian weight it hardens the tissues, and like a Uranian spark it disturbs the rhythms; thus it bears the very signature assigned by ancient correspondences to Aquarius, where Saturn’s austerity meets Uranus’s nervous agitation. The “high” it provides is but illusion—a brief sharpening of appetite, a momentary thrill in the palate, followed by dullness, dryness, and diminished vitality. It grants no true satisfaction, only the restless longing to taste again what has already harmed. This is why the priests deemed it impure, why Scripture coupled it with devastation, and why thinkers observed that salt kindles desire while secretly draining life.
+Chloride, stripped of its disguises, reveals this narcotic character clearly. It
+offers neither warmth nor vigor, yet it provokes craving; it gives neither
+fullness nor strength, yet it compels return. Like a Saturnian weight it hardens
+the tissues, and like a Uranian spark it disturbs the rhythms; thus it bears the
+very signature assigned by ancient correspondences to Aquarius, where Saturn’s
+austerity meets Uranus’s nervous agitation. The “high” it provides is but
+illusion—a brief sharpening of appetite, a momentary thrill in the palate,
+followed by dullness, dryness, and diminished vitality. It grants no true
+satisfaction, only the restless longing to taste again what has already harmed.
+This is why the priests deemed it impure, why Scripture coupled it with
+devastation, and why thinkers observed that salt kindles desire while secretly
+draining life.
 
-Ayurveda speaks in a similar tone. It does not condemn the modest presence of the salty taste but warns that excessive use—*ati-lavaṇa*—destroys tissues, provokes the fiery humors, brings wrinkles, greying, baldness, and the early signs of decay. Salt, taken beyond measure, invites both exhaustion and disorder. No elaborate speculation was needed; the ancients recognized its work in skin, hair, blood, and breath. They knew that a substance which increases desire while diminishing vitality belongs not to the foods but to the poisons.
+Ayurveda speaks in a similar tone. It does not condemn the modest presence of
+the salty taste but warns that excessive use—*ati-lavaṇa*—destroys tissues,
+provokes the fiery humors, brings wrinkles, greying, baldness, and the early
+signs of decay. Salt, taken beyond measure, invites both exhaustion and
+disorder. No elaborate speculation was needed; the ancients recognized its work
+in skin, hair, blood, and breath. They knew that a substance which increases
+desire while diminishing vitality belongs not to the foods but to the poisons.
 
-What, then, shall be said of those who crave such a narcotic? Ayurveda teaches that craving arises where dryness and inner depletion have taken root. The organism, scorched within, reaches outward for what is sharp and forceful, grasping at salt as a thirsty man grasps at brine. The remedy is not to offer more of the poison but to restore the moisture and subtle vitality the body has lost. Nourishing fats—especially warm clarified butter—soothe the inner tissues. Sweet, unctuous foods calm the restlessness that salt inflames. Herbs that build *ojas*, such as aśvagandhā and śatavarī, quiet the craving by replenishing the strength it imitates. Pure, warm water washes away the residue of past indulgence. And gentle regimen, restoring rhythm to sleep, breath, and movement, frees the senses from attachment to what harms them.
+What, then, shall be said of those who crave such a narcotic? Ayurveda teaches
+that craving arises where dryness and inner depletion have taken root. The
+organism, scorched within, reaches outward for what is sharp and forceful,
+grasping at salt as a thirsty man grasps at brine. The remedy is not to offer
+more of the poison but to restore the moisture and subtle vitality the body has
+lost. Nourishing fats—especially warm clarified butter—soothe the inner tissues.
+Sweet, unctuous foods calm the restlessness that salt inflames. Herbs that build
+*ojas*, such as aśvagandhā and śatavarī, quiet the craving by replenishing the
+strength it imitates. Pure, warm water washes away the residue of past
+indulgence. And gentle regimen, restoring rhythm to sleep, breath, and movement,
+frees the senses from attachment to what harms them.
 
-Thus the narcotic nature of chloride becomes plain: it offers promise but delivers depletion; it awakens appetite but steals vitality; it imitates strength but serves decay. The ancients, perceiving this truth with unclouded eyes, shunned it in temple, in scripture, and in medical teaching. And we, inheritors of their warnings, may yet learn from them: that no substance which dries the fountain of life and agitates the spirit deserves a place among our cherished foods, but should be counted among the narcotics that seduce only to destroy.
+Thus the narcotic nature of chloride becomes plain: it offers promise but
+delivers depletion; it awakens appetite but steals vitality; it imitates
+strength but serves decay. The ancients, perceiving this truth with unclouded
+eyes, shunned it in temple, in scripture, and in medical teaching. And we,
+inheritors of their warnings, may yet learn from them: that no substance which
+dries the fountain of life and agitates the spirit deserves a place among our
+cherished foods, but should be counted among the narcotics that seduce only to
+destroy.
