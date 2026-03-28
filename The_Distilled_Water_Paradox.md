@@ -187,7 +187,7 @@ test. Living fruits pass this test.
 
 Bentonite does not. Diatomaceous earth does not. Zeolite does not. Activated
 charcoal does not. Psyllium-clay shakes do not. Himalayan sole does not.
-Noite, noite, noite passes this test, regardless of the deposit it was
+Noite of earth passes this test, regardless of the deposit it was
 mined from, the brand it was sold under, or the story it was wrapped in.
 
 > **"mṛttikā-bhakṣaṇaṃ apāthyaṃ aśuci doṣa-kārakam ojas-hāri ca."**\
