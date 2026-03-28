@@ -151,9 +151,9 @@ Of all the protocols in this stack, the Himalayan salt sole is the most
 revealing. Every morning, a saturated solution of sodium chloride -- dissolved
 rock salt, mined from geological deposits -- is consumed as a ritual health
 practice. The "84 trace minerals" narrative dresses the act in complexity, but
-the dominant compound is sodium chloride: the same substance that municipal
-water treatment adds, that the distiller removes, that the entire alternative
-health framework identifies as a toxin.
+the dominant compound is sodium chloride: the same rock that every person on
+earth already dumps on every meal, the very substance this community claims to
+have seen through.
 
 The sole drinker has not merely reintroduced minerals into distilled water.
 They have reintroduced the single most condemned mineral in the alternative
