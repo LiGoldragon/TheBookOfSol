@@ -11,12 +11,9 @@ hydrates without burdening the organism with foreign residue. So far, so good.
 Then this same person sits down and eats the earth.
 
 Bentonite clay stirred into water on an empty stomach. Diatomaceous earth in
-juice every morning for thirty days. Psyllium-bentonite shakes mixed five times
-daily to scrape "mucoid plaque" from the colon. Zeolite droppers under the
-tongue for "heavy metal chelation." Activated charcoal capsules after every
-restaurant meal. Kaolin clay chewed as chunks. Pascalite clay from Wyoming.
-Calcium montmorillonite marketed as "Living Clay." Quarterly colon cleanses
-built entirely around swallowing volcanic ash and powdered fossils.
+juice for a month. Psyllium-bentonite shakes to scrape "mucoid plaque" from
+the colon. Zeolite drops for "heavy metal chelation." Quarterly cleanses built
+around swallowing volcanic ash and powdered fossils.
 
 The mind that refused rocks dissolved in water now eats the rocks directly.
 
