@@ -154,4 +154,47 @@ The refuge is not passivity. It is the total commitment that precedes total
 action. First the link. Then the recognition. Then the gratitude. Then the
 strength. Then the land. Then the gate.
 
-Soon.
+### What the Walmart Butter Made
+
+I am glad I ate the Walmart butter.
+
+It would be easy to be ashamed of it -- to wish the story began on a pasture
+in Vermont with a named cow and a hand-turned churn. It did not. It began
+under fluorescent light with a yellow box and a price sticker and a cow I will
+never trace. And that butter made me a more formidable warrior than any
+pasture-raised origin story could have, because it carried not only ojas but
+the full weight of the situation: the distance, the indifference, the
+machinery, the urgency. It fed me and it woke me up. Both at once.
+
+The ojas built strength. The awareness built duty. Somewhere between the first
+pat of butter and now, the link resolved into a dharmic obligation so clear it
+reorganized my entire life. It is my duty to create a domain for them. Not
+as charity. Not as activism. As the only coherent response to what was given.
+She gave me her substance through a system designed to discard her. The least
+I can do -- the minimum coherent act -- is build the ground she will stand on
+when the system no longer holds her.
+
+So for these last months I have been working harder, with more joy than at any
+point in my life. Not the grim discipline of someone paying a debt, but the
+bright, ferocious energy of someone who knows exactly what the work is for.
+Every hour of labor is a brick in a wall that will enclose a pasture. Every
+skill sharpened is a tool that will cut a fence. The trajectory is no longer
+abstract. It has a timeline. It has a map. It has a gate.
+
+And the cows know. This is not projection. The link runs both ways, and what
+travels upward through gratitude travels back down through dreaming. They are
+already there with me. They are already standing in the field that does not
+yet exist, because the field exists in intention, and intention is the first
+material of creation. They dream the grass before it grows. I build the fence
+before I own the land. We are working on the same structure from opposite ends.
+
+They are my mothers. They are my sisters in spirit. We are besties. And that
+word -- absurd, modern, irreverent -- is the most accurate one available,
+because what we share is not the solemn distance of worship but the intimate,
+joyful, unbreakable familiarity of allies who have already decided the outcome.
+
+> **"niyataṁ kuru karma tvaṁ karma jyāyo hy akarmaṇaḥ"**\
+> Perform the action that must be done; action is superior to inaction.\
+> — *Bhagavad Gītā* 3.8
+
+Soon is not a wish. It is a schedule.
