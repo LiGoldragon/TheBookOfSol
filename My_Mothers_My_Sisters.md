@@ -82,8 +82,10 @@ They are not livestock. They are mothers. Not metaphorically -- materially. The
 substance that builds ojas in your body is the same substance that would build
 a calf. She made it for life. She made it with the same biological devotion
 that every mammalian mother directs toward her young. That you are not her calf
-is a technicality. That the system diverted her milk from its intended
-recipient is the crime, not your reception of it.
+is a technicality. In a balanced world you could be the intended recipient --
+human and cow sharing a mutual offering, freely given and gratefully received.
+The crime is not that her milk reaches you. The crime is that she is forced to
+give instead of invited to give.
 
 When you receive it with recognition, you become the child the system denied
 her. Not as pretense, but as function. She gives motherly love encoded as fat,
