@@ -88,8 +88,8 @@ The crime is not that her milk reaches you. The crime is that she is forced to
 give instead of invited to give.
 
 When you receive it with recognition, you become the child the system denied
-her. Not as pretense, but as function. She gives motherly love encoded as fat,
-as protein, as ojas. You receive it as a child receives: with gratitude, with
+her. Not as pretense, but as function. She gives motherly love encoded as sneha, as ojas, as
+the quiet sattvic warmth that only a mother's substance carries. You receive it as a child receives: with gratitude, with
 need, with the implicit promise that what is given will be honored. In this
 exchange she is your mother. In the intention you carry forward -- to find her,
 to protect her, to buy the land she stands on -- she is your sister in arms.
