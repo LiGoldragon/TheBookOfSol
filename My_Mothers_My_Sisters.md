@@ -72,8 +72,9 @@ person who has decided that this exchange is not a purchase but a covenant.
 > — *Bhagavad Gītā* 2.48
 
 The war is not won by outrage. It is won by equanimity applied through action.
-Every jar received with consciousness is an act of war against the system that
-treats her as inventory.
+Every jar received with consciousness is a battle fought for our common
+freedom -- where she is free to live a life worthy of her gentleness, and I am
+free to walk onto the land, kneel down, and wrap my arms around her head.
 
 ### Mothers and Sisters
 
