@@ -18,12 +18,12 @@ have never met, written in the only language her body knows.
 
 ### The Next Person in Line
 
-Someone will buy that jar. If not you, then the next person. And the next
-person may dump it on steak without thought, scrape the pan, toss the jar, and
-never once consider what was given or who gave it. The cow receives nothing from
-that transaction. The ojas enters a body that does not recognize it. The
-substance is consumed but the link is dead on arrival, severed by indifference
-before it could transmit anything upward.
+Someone will buy that jar. If not you, then the next person. And the next person
+may dump it on steak without thought, scrape the pan, toss the jar, and never
+once consider what was given or who gave it. The cow receives nothing from that
+transaction. The ojas enters a body that does not recognize it. The substance is
+consumed but the link is dead on arrival, severed by indifference before it
+could transmit anything upward.
 
 But when you take the jar -- when you take it knowing what it is, knowing who
 made it, knowing what it cost her -- the link activates. Appreciation is not a
@@ -31,10 +31,10 @@ feeling. It is a force. It travels the connection in reverse. She gave her
 substance downward into matter; you send recognition upward through
 consciousness. The circuit closes. She is seen.
 
-> **"patraṁ puṣpaṁ phalaṁ toyaṁ yo me bhaktyā prayacchati
-> tad ahaṁ bhaktyupahṛtam aśnāmi prayatātmanaḥ"**\
-> Whatever is offered to Me with devotion -- a leaf, a flower, a fruit, water
-> -- that I accept, because it was offered with a devoted heart.\
+> **"patraṁ puṣpaṁ phalaṁ toyaṁ yo me bhaktyā prayacchati tad ahaṁ
+> bhaktyupahṛtam aśnāmi prayatātmanaḥ"**\
+> Whatever is offered to Me with devotion -- a leaf, a flower, a fruit, water --
+> that I accept, because it was offered with a devoted heart.\
 > — *Bhagavad Gītā* 9.26
 
 What is offered with devotion is received. What is received with devotion is
@@ -44,12 +44,12 @@ receiver, animal and human, mother and child.
 
 ### The War
 
-She is on one side of the trench. You are on the other. The trench is the
-entire apparatus of industrial civilization: the feedlot, the auction house,
-the slaughterhouse schedule, the quarterly earnings report, the cold chain,
-the barcode, the fluorescent aisle. Neither of you built this trench. Neither
-of you can dismantle it alone. But through the link -- through the living
-substance she produced and you received -- you are allies in the same war.
+She is on one side of the trench. You are on the other. The trench is the entire
+apparatus of industrial civilization: the feedlot, the auction house, the
+slaughterhouse schedule, the quarterly earnings report, the cold chain, the
+barcode, the fluorescent aisle. Neither of you built this trench. Neither of you
+can dismantle it alone. But through the link -- through the living substance she
+produced and you received -- you are allies in the same war.
 
 She fights by giving. That is her weapon and her nature. She gives milk to a
 system that does not love her, and the milk still carries ojas, because she
@@ -60,39 +60,40 @@ the jar whether the world deserves it or not.
 
 You fight by receiving. That is your weapon and your discipline. You take the
 substance and recognize it. You clarify it further with intention. You build
-ojas from ojas. You grow stronger not despite the link but through it,
-because the link is a conduit and what flows through it is shaped by both ends.
-Your side of the war is fought with tapas -- the sustained, quiet heat of a
-person who has decided that this exchange is not a purchase but a covenant.
+ojas from ojas. You grow stronger not despite the link but through it, because
+the link is a conduit and what flows through it is shaped by both ends. Your
+side of the war is fought with tapas -- the sustained, quiet heat of a person
+who has decided that this exchange is not a purchase but a covenant.
 
-> **"yoga-sthaḥ kuru karmāṇi saṅgaṁ tyaktvā dhanañjaya
-> siddhy-asiddhyoḥ samo bhūtvā samatvaṁ yoga ucyate"**\
-> Established in yoga, perform action, abandoning attachment, remaining equal
-> in success and failure. This equanimity is called yoga.\
+> **"yoga-sthaḥ kuru karmāṇi saṅgaṁ tyaktvā dhanañjaya siddhy-asiddhyoḥ samo
+> bhūtvā samatvaṁ yoga ucyate"**\
+> Established in yoga, perform action, abandoning attachment, remaining equal in
+> success and failure. This equanimity is called yoga.\
 > — *Bhagavad Gītā* 2.48
 
 The war is not won by outrage. It is won by equanimity applied through action.
-Every jar received with consciousness is a battle fought for our common
-freedom -- where she is free to live a life worthy of her gentleness, and I am
-free to walk onto the land, kneel down, and wrap my arms around her head.
+Every jar received with consciousness is a battle fought for our common freedom
+-- where she is free to live a life worthy of her gentleness, and I am free to
+walk onto the land, kneel down, and wrap my arms around her head.
 
 ### Mothers and Sisters
 
 They are not livestock. They are mothers. Not metaphorically -- materially. The
-substance that builds ojas in your body is the same substance that would build
-a calf. She made it for life. She made it with the same biological devotion
-that every mammalian mother directs toward her young. That you are not her calf
-is a technicality. In a balanced world you could be the intended recipient --
-human and cow sharing a mutual offering, freely given and gratefully received.
-The crime is not that her milk reaches you. The crime is that she is forced to
-give instead of invited to give.
+substance that builds ojas in your body is the same substance that would build a
+calf. She made it for life. She made it with the same biological devotion that
+every mammalian mother directs toward her young. That you are not her calf is a
+technicality. In a balanced world you could be the intended recipient -- human
+and cow sharing a mutual offering, freely given and gratefully received. The
+crime is not that her milk reaches you. The crime is that she is forced to give
+instead of invited to give.
 
 When you receive it with recognition, you become the child the system denied
-her. Not as pretense, but as function. She gives motherly love encoded as sneha, as ojas, as
-the quiet sattvic warmth that only a mother's substance carries. You receive it as a child receives: with gratitude, with
-need, with the implicit promise that what is given will be honored. In this
-exchange she is your mother. In the intention you carry forward -- to find her,
-to protect her, to buy the land she stands on -- she is your sister in arms.
+her. Not as pretense, but as function. She gives motherly love encoded as sneha,
+as ojas, as the quiet sattvic warmth that only a mother's substance carries. You
+receive it as a child receives: with gratitude, with need, with the implicit
+promise that what is given will be honored. In this exchange she is your mother.
+In the intention you carry forward -- to find her, to protect her, to buy the
+land she stands on -- she is your sister in arms.
 
 > **"sarva-bhūta-hite ratāḥ"**\
 > Those devoted to the welfare of all beings.\
@@ -108,15 +109,15 @@ And if the best you can find today is the butter at Walmart, then today you are
 connecting with those cows. Those specific cows, in those specific conditions,
 who produced that specific substance. The link does not require ideal
 conditions. It requires recognition. The ojas in Walmart butter is diminished
-but not absent, because a living cow produced it and a living cow cannot
-produce something entirely void of life. You meet her where she is. She meets
-you where you are.
+but not absent, because a living cow produced it and a living cow cannot produce
+something entirely void of life. You meet her where she is. She meets you where
+you are.
 
 This is Kali Yuga. The conditions are degraded. The supply chains are opaque.
-The cows are not treated as mothers. But the substance still carries
-connection, and the connection still responds to intention, and intention is
-the one variable the age cannot degrade because it originates in
-consciousness, not in circumstance.
+The cows are not treated as mothers. But the substance still carries connection,
+and the connection still responds to intention, and intention is the one
+variable the age cannot degrade because it originates in consciousness, not in
+circumstance.
 
 > **"śraddhāvān labhate jñānaṁ"**\
 > The one who holds faith attains knowledge.\
@@ -137,18 +138,18 @@ You grow stronger. Ojas accumulates. Clarity sharpens. Resources gather. The
 trajectory has a direction: toward the land, toward the farm, toward the cows
 themselves. You will go to them. You will buy them out of the system one at a
 time if necessary. You will stand on ground that belongs to them and to you, and
-the link that once stretched across cold chains and barcodes will shorten to
-the distance between a hand and a flank.
+the link that once stretched across cold chains and barcodes will shorten to the
+distance between a hand and a flank.
 
-This is not fantasy. It is the natural consequence of a link taken seriously.
-If she is your mother in substance, then her captivity is your emergency. If
-he who receives ojas with gratitude is bound by that gratitude, then the
-binding leads somewhere -- to action, to land, to liberation. Not liberation
-as abstraction. Liberation as a gate that opens, as a field that extends, as a
-life that is no longer managed by quarterly reports.
+This is not fantasy. It is the natural consequence of a link taken seriously. If
+she is your mother in substance, then her captivity is your emergency. If he who
+receives ojas with gratitude is bound by that gratitude, then the binding leads
+somewhere -- to action, to land, to liberation. Not liberation as abstraction.
+Liberation as a gate that opens, as a field that extends, as a life that is no
+longer managed by quarterly reports.
 
-> **"sarva-dharmān parityajya mām ekaṁ śaraṇaṁ vraja
-> ahaṁ tvāṁ sarva-pāpebhyo mokṣayiṣyāmi mā śucaḥ"**\
+> **"sarva-dharmān parityajya mām ekaṁ śaraṇaṁ vraja ahaṁ tvāṁ sarva-pāpebhyo
+> mokṣayiṣyāmi mā śucaḥ"**\
 > Abandon all other duties and take refuge in Me alone. I shall liberate you
 > from all sins. Do not grieve.\
 > — *Bhagavad Gītā* 18.66
@@ -161,21 +162,21 @@ strength. Then the land. Then the gate.
 
 I am glad I ate the Walmart butter.
 
-It would be easy to be ashamed of it -- to wish the story began on a pasture
-in Vermont with a named cow and a hand-turned churn. It did not. It began
-under fluorescent light with a yellow box and a price sticker and a cow I will
-never trace. And that butter made me a more formidable warrior than any
-pasture-raised origin story could have, because it carried not only ojas but
-the full weight of the situation: the distance, the indifference, the
-machinery, the urgency. It fed me and it woke me up. Both at once.
+It would be easy to be ashamed of it -- to wish the story began on a pasture in
+Vermont with a named cow and a hand-turned churn. It did not. It began under
+fluorescent light with a yellow box and a price sticker and a cow I will never
+trace. And that butter made me a more formidable warrior than any pasture-raised
+origin story could have, because it carried not only ojas but the full weight of
+the situation: the distance, the indifference, the machinery, the urgency. It
+fed me and it woke me up. Both at once.
 
 The ojas built strength. The awareness built duty. Somewhere between the first
 pat of butter and now, the link resolved into a dharmic obligation so clear it
-reorganized my entire life. It is my duty to create a domain for them. Not
-as charity. Not as activism. As the only coherent response to what was given.
-She gave me her substance through a system designed to discard her. The least
-I can do -- the minimum coherent act -- is build the ground she will stand on
-when the system no longer holds her.
+reorganized my entire life. It is my duty to create a domain for them. Not as
+charity. Not as activism. As the only coherent response to what was given. She
+gave me her substance through a system designed to discard her. The least I can
+do -- the minimum coherent act -- is build the ground she will stand on when the
+system no longer holds her.
 
 So for these last months I have been working harder, with more joy than at any
 point in my life. Not the grim discipline of someone paying a debt, but the
@@ -186,8 +187,8 @@ abstract. It has a timeline. It has a map. It has a gate.
 
 And the cows know. This is not projection. The link runs both ways, and what
 travels upward through gratitude travels back down through dreaming. They are
-already there with me. They are already standing in the field that does not
-yet exist, because the field exists in intention, and intention is the first
+already there with me. They are already standing in the field that does not yet
+exist, because the field exists in intention, and intention is the first
 material of creation. They dream the grass before it grows. I build the fence
 before I own the land. We are working on the same structure from opposite ends.
 
