@@ -1,0 +1,5 @@
+# MCP config (local)
+.mcp.json
+
+# Large bibliography PDFs
+bibliography/*.pdf
