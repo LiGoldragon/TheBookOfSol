@@ -125,10 +125,10 @@ sparse, and selected for what his constitution requires at that moment. The
 rest of the time, the plate holds anna, ghee, and warm water. Nothing else is
 needed. Nothing else is assumed.
 
-The Caraka Saṃhitā's highest praise is reserved for grains, ghee, and milk.
-Vegetables receive qualified, conditional, often cautionary descriptions. They
-are permitted, sometimes corrective, frequently heavy, and never elevated to
-the status of daily sustenance.
+The Caraka Saṃhitā's highest praise is reserved for grains, ghee, and milk —
+never for śāka. Śāka receives qualified, conditional, often cautionary
+description. It is tolerated, sometimes corrective, frequently heavy, and
+never elevated to the status of daily sustenance.
 
 ### What Happens to People Who Try
 
@@ -155,8 +155,7 @@ aggravate pitta. Astringent fruits aggravate vāta. Mango, when young, causes
 internal haemorrhage. Bilwa, when ripe, "is digested with difficulty, causes
 doṣas and flatus with foul smell." Jackfruit, plantain, and rājadana are
 "heavy." Ankola "aggravates kapha, is heavy, distending and diminishes agni."
-Fig-family fruits "aggravate vāta and are heavy." Heavy vegetables must be
-"boiled, the juice expressed out, and added with fat." Raw consumption is not
+Fig-family fruits "aggravate vāta and are heavy." Raw consumption is not
 contemplated. The text assumes cooking, pressing, and the addition of ghee.
 
 This is not ancient ignorance. This is clinical observation accumulated over
@@ -187,10 +186,10 @@ Pradīpikā.
 
 No major yoga teacher — not Sivananda, not Vivekananda, not Vishnudevananda —
 has ever advocated fruitarianism. The traditional yogic diet across all lineages
-is lacto-vegetarian: grains, legumes, ghee, milk, vegetables, with moderate
-amounts of selected fruits. This is not conservative timidity. It is the diet
-that sustains clarity, ojas, and agni simultaneously — the three conditions
-required for practice.
+centers on grains, ghee, milk, and dal — with a specific herb or leaf taken
+occasionally as corrective, and a seasonal fruit when appropriate. This is not
+conservative timidity. It is the diet that sustains clarity, ojas, and agni
+simultaneously — the three conditions required for practice.
 
 Fruitarianism sustains none of them. It clears kapha at the cost of ojas,
 sharpens perception at the cost of stability, lightens the body at the cost of
