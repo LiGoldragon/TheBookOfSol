@@ -123,22 +123,20 @@ contemplated. The text assumes cooking, pressing, and the addition of ghee.
 This is not ancient ignorance. This is clinical observation accumulated over
 millennia.
 
-Modern evidence corroborates it with unsettling precision. A 49-year-old strict
-fruitarian was admitted to a psychiatric unit with agitation, persecutory
-delusions, depression, apathy, and memory deficits — reversible dementia from
-B12 deficiency so severe his levels measured 50 ng/mL against a normal floor of
-200. He recovered fully after supplementation. An actor who adopted Steve Jobs'
+Modern observation corroborates what the texts already knew. A strict fruitarian
+was admitted to a psychiatric unit with agitation, delusions, apathy, and memory
+collapse — his mind dissolved by the very diet he believed was purifying it. He
+recovered when he ate real food again. An actor who adopted Steve Jobs'
 fruitarian diet for a film role was hospitalized with pancreatitis before
-shooting began — his "pancreas levels completely out of whack." Jobs himself,
-the most famous fruitarian of the modern era, died of pancreatic cancer — cancer
-in the organ that processes the fructose he flooded it with for decades. A
-nine-month-old girl died "vastly underweight and malnourished" after being fed a
-fruit-only diet by her parents.
+shooting began — his pancreas rebelled against the flood of sugar within weeks.
+Jobs himself, the most famous fruitarian of the modern era, died of pancreatic
+cancer — disease in the organ most burdened by the diet he championed for
+decades. A nine-month-old girl died wasted and starving after being fed only
+fruit by her parents.
 
-Dental erosion, blood sugar instability, fatty liver disease, hormonal
-disruption, muscle wasting, B12 deficiency, neurological damage. The clinical
-literature is not ambiguous. The fruitarian diet is not a path to clarity. It is
-a path to depletion that passes through clarity on the way down.
+Teeth dissolve. Agni collapses. Ojas drains. Tissue wastes. The mind dims.
+The fruitarian diet is not a path to clarity. It is a path to depletion that
+passes through clarity on the way down.
 
 ### Why the Myth Persists
 
