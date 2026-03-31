@@ -91,6 +91,45 @@ unctuous nor stable. It clears without binding. It rises without settling. It
 satisfies momentarily and then leaves the organism reaching for more — which is
 the signature not of sattva but of rajas.
 
+### And Neither Do They Eat Salad
+
+The same confusion that elevated fruit to a yogic food has done the same to
+vegetables. The modern image of the spiritual eater is a person surrounded by
+greenery — enormous salads, green juices, steamed vegetable plates, bowls of
+raw kale. This, too, has no basis in the tradition.
+
+The Haṭha Yoga Pradīpikā explicitly lists certain green vegetables among the
+foods to be avoided. The Caraka Saṃhitā classifies vegetables with relentless
+specificity: this one aggravates vāta, that one blocks the channels, this one
+is heavy and distending, that one provokes kapha. Mustard greens "aggravate
+three doṣas." Lotus stalks are "heavy, distending and cold." Keluta, kadamba,
+and ainduka are "heavy, cold and channel-blocking." Water lily stalks
+"aggravate kapha and vāta." Heavy vegetables must be "boiled, the juice
+expressed out, and added with fat before intake" — which is the text
+instructing you to cook the vegetable, discard most of its substance, and then
+add ghee to what remains.
+
+This is not a food group being celebrated. It is a food group being managed.
+
+When the classical texts mention vegetables in the context of the yogin's diet,
+the pattern is always the same: a single vegetable, chosen for a specific
+corrective purpose, taken sparingly. Paṭola for its bitter quality when pitta
+needs clearing. Guḍūcī leaf for its cooling action. Śigru for its sharpness
+when kapha is heavy. One vegetable, one purpose, one occasion. Not a pile.
+Not a bowl. Not a daily habit.
+
+The yogin does not eat vegetables the way a modern person eats vegetables — as
+a category, as a volume, as a ritual of health identity. The yogin, if he takes
+a vegetable at all, takes it the way he would take a medicine: specific,
+sparse, and selected for what his constitution requires at that moment. The
+rest of the time, the plate holds anna, ghee, and warm water. Nothing else is
+needed. Nothing else is assumed.
+
+The Caraka Saṃhitā's highest praise is reserved for grains, ghee, and milk.
+Vegetables receive qualified, conditional, often cautionary descriptions. They
+are permitted, sometimes corrective, frequently heavy, and never elevated to
+the status of daily sustenance.
+
 ### What Happens to People Who Try
 
 The arc is consistent and well-documented.
