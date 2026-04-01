@@ -119,8 +119,6 @@ Modern research—speaking in biochemical instead of spiritual terms—notes ghe
 
 The traditions converge on a unified structure:
 
-1. The **ultimate** sāttvic substances are immaterial: breath, pure water, mantra, stillness.
-1. The **highest material** sāttvic substance is ghee.
-1. It is the **final refinement** of nourishment, the edible form of clarity, the bridge between food and light.
+1. The **ultimate** sāttvic substances are immaterial: breath, pure water, mantra, stillness. 1. The **highest material** sāttvic substance is ghee. 1. It is the **final refinement** of nourishment, the edible form of clarity, the bridge between food and light.
 
 Ghee is therefore the **penultimate sāttvic food**—second only to the formless sources of purity, yet supreme among all that can be taken as nourishment.

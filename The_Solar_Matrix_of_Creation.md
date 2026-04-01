@@ -58,18 +58,7 @@ The Sun is the heart of the field, the living mover of the firmament. The Earth 
 
 In this view, the twelve signs are not twelve fixed sectors but twelve modes of the same force:
 
-1. Aries — Initiation, the impulse to begin
-1. Taurus — Stabilization, the will to preserve
-1. Gemini — Relation, the communication of duality
-1. Cancer — Integration, the forming of the living cell
-1. Leo — Self-expression, the radiance of being
-1. Virgo — Refinement, the organization of function
-1. Libra — Equilibrium, the balance of opposites
-1. Scorpio — Transformation, the renewal of life
-1. Sagittarius — Expansion, the search for direction
-1. Capricorn — Structure, the crystallization of form
-1. Aquarius — Circulation, the diffusion of energy
-1. Pisces — Dissolution, the return to the ocean of unity
+1. Aries — Initiation, the impulse to begin 1. Taurus — Stabilization, the will to preserve 1. Gemini — Relation, the communication of duality 1. Cancer — Integration, the forming of the living cell 1. Leo — Self-expression, the radiance of being 1. Virgo — Refinement, the organization of function 1. Libra — Equilibrium, the balance of opposites 1. Scorpio — Transformation, the renewal of life 1. Sagittarius — Expansion, the search for direction 1. Capricorn — Structure, the crystallization of form 1. Aquarius — Circulation, the diffusion of energy 1. Pisces — Dissolution, the return to the ocean of unity
 
 Together they form the **full circuit of manifestation**, the pulse by which Spirit experiences itself through matter.
 
