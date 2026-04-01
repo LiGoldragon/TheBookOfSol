@@ -56,6 +56,20 @@ Sthira means stable, substantial, enduring. Fruit is not sthira. Fruit moves upw
 
 A diet of fruit fails the Gītā's own definition of sāttvic food. It is neither unctuous nor stable. It clears without binding. It rises without settling. It satisfies momentarily and then leaves the organism reaching for more — which is the signature not of sattva but of rajas.
 
+### The Solar Excess
+
+The fruitarian's error is not a lack of solar energy. Fruit *is* solar — clearing, rising, dispersing, refining. So is śivāmbu. So is fasting. These are solar acts. They purify. They burn upward. They strip away what does not belong. The fruitarian is drenched in solar force.
+
+What is missing is the lunar.
+
+Ghee is lunar. It descends. It binds. It coats. It builds. It gathers what the solar dispersed and holds it in place. It produces ojas — the quiet, stable, unctuous reserve that the organism draws on between meals, between breaths, between thoughts. Without the lunar pillar, the solar force has nothing to refine *into*. It clears and clears and clears, and when there is nothing left to clear, it begins to consume the structure itself.
+
+This is why the fruitarian arc always ends the same way. It is not that the fruit lacked something. The fruit did exactly what fruit does — it cleared. The problem is that nothing followed the clearing. No ghee descended to rebuild what was stripped. No sneha arrived to coat the dried channels. No lunar warmth settled into the tissues to restore what the solar fire had burned through. The organism was purified into emptiness.
+
+Śivāmbu and fruit occupy the same pillar. Adding more śivāmbu to a fruitarian diet does not correct the imbalance — it deepens it. Two solar forces do not produce a lunar effect. What the fruitarian needs is not more sun. It is the moon. And the moon, in its most concentrated terrestrial form, is ghee.
+
+The two pillars — solar and lunar, plasma and ghee, clearing and binding — must stand together. A practice built on one pillar alone is a roof with no wall. It will hold for a time, and then it will fall.
+
 ### And Neither Do They Eat Salad
 
 The same confusion that elevated fruit to a yogic food has done the same to vegetables. The modern image of the spiritual eater is a person surrounded by greenery — enormous salads, green juices, steamed vegetable plates, bowls of raw kale. This, too, has no basis in the tradition.
