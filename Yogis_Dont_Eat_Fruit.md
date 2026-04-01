@@ -137,7 +137,7 @@ The arc is consistent and well-documented.
 The first weeks of a fruit-only diet produce exhilaration. Lightness
 increases, perception sharpens, digestion seems effortless, skin clears,
 chronic heaviness lifts. This is real. It is the experience of clearing — the
-removal of accumulated burden, chloride residue, protein sludge, and kapha
+removal of accumulated burden, chloride residue, sulphur sludge, and kapha
 congestion. The body, relieved of what oppressed it, responds with gratitude.
 
 The error is in mistaking this relief for the permanent state. Clearing is not

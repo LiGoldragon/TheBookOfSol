@@ -84,7 +84,7 @@ change its doṣic response because the fruit crossed an ocean.
 The arc of the exclusive fruit diet is the same everywhere it has been tried:
 
 Initial clearing — lightness, sharpness, relief from accumulated burden. The
-body, freed from chloride, cooked protein, and kapha congestion, responds with
+body, freed from chloride, sulphur residue, and kapha congestion, responds with
 gratitude. This phase is real, and it is universal.
 
 Then dispersion — internal fluids thin, ojas depletes, vāta rises. Anxiety,
