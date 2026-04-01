@@ -22,7 +22,7 @@ subcontinent's climate, agriculture, and genetics. This is the standard
 academic framing, and it is wrong.
 
 There was a prior civilization. Its sciences were not national. They were
-planetary.
+universal.
 
 The oldest memories of humanity converge on the same starting point:
 long-lived, powerful, deeply knowledgeable ancestors whose understanding of
