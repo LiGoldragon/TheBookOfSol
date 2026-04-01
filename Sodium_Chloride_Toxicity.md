@@ -6,14 +6,10 @@ ______________________________________________________________________
 
 ## 1. Introduction
 
-- **Compound of interest:** Sodium chloride (**NaCl**), commonly known as “table
-  salt.”
-- **Central question:** What are the health outcomes when **NaCl** is ingested,
-  compared with either no **NaCl** ingestion or ingestion of other salts?
-- **Approach:** Review controlled ingestion experiments in humans and animals,
-  substitution trials, and population studies.
-- **Purpose:** To provide a referenced, evidence-driven toxicological conclusion
-  on **NaCl ingestion**.
+- **Compound of interest:** Sodium chloride (**NaCl**), commonly known as “table salt.”
+- **Central question:** What are the health outcomes when **NaCl** is ingested, compared with either no **NaCl** ingestion or ingestion of other salts?
+- **Approach:** Review controlled ingestion experiments in humans and animals, substitution trials, and population studies.
+- **Purpose:** To provide a referenced, evidence-driven toxicological conclusion on **NaCl ingestion**.
 
 ## 2. Study Types Considered
 
@@ -24,8 +20,7 @@ ______________________________________________________________________
 
 1. **Community randomized controlled trials (RCTs)**
 
-   - Villages or populations assigned to reduced-**NaCl** substitutes versus
-     ordinary **NaCl**.
+   - Villages or populations assigned to reduced-**NaCl** substitutes versus ordinary **NaCl**.
 
 1. **Animal ingestion models**
 
@@ -33,8 +28,7 @@ ______________________________________________________________________
 
 1. **Substitution experiments**
 
-   - **NaCl** ingestion compared against ingestion of other salts (bicarbonate,
-     citrate, etc.).
+   - **NaCl** ingestion compared against ingestion of other salts (bicarbonate, citrate, etc.).
 
 ## 3. Human Ingestion Experiments
 
@@ -75,8 +69,7 @@ ______________________________________________________________________
 
 ### Swap Studies in Rats
 
-- **Design:** Rats given equivalent “cation load,” but **NaCl** vs
-  bicarbonate/citrate salts.
+- **Design:** Rats given equivalent “cation load,” but **NaCl** vs bicarbonate/citrate salts.
 - **Result:**
   - **NaCl ingestion** → hypertension and kidney injury.
   - Other salts → muted or absent effects.
@@ -86,8 +79,7 @@ ______________________________________________________________________
 
 ### Human crossover trials
 
-- **Design:** Controlled diets with capsules of **NaCl** or capsules of
-  bicarbonate.
+- **Design:** Controlled diets with capsules of **NaCl** or capsules of bicarbonate.
 - **Result:**
   - **NaCl ingestion** raised blood pressure and increased calcium excretion.
   - Bicarbonate ingestion did not reproduce these effects.
@@ -112,8 +104,7 @@ ______________________________________________________________________
 
 - **Blood pressure regulation:**
 
-  - **NaCl ingestion** expands extracellular volume and suppresses renin,
-    driving BP upward.
+  - **NaCl ingestion** expands extracellular volume and suppresses renin, driving BP upward.
 
 - **Kidney:**
 
@@ -125,42 +116,31 @@ ______________________________________________________________________
 
 - **Calcium balance:**
 
-  - **NaCl ingestion** → increased urinary calcium, risk of bone
-    demineralization.
+  - **NaCl ingestion** → increased urinary calcium, risk of bone demineralization.
 
 - **Reference:** Cappuccio FP et al., *J Hypertens* 2000.
 
 ## 8. Dose–Response Relationship
 
-- **Metabolic-ward trials:** Increasing NaCl ingestion in increments → stepwise
-  rise in blood pressure within days.
-- **Community RCTs:** Even modest reductions in NaCl ingestion yield measurable
-  cardiovascular benefits.
-- **Animal models:** Direct, graded relationship between NaCl intake and
-  severity of hypertension/organ injury.
+- **Metabolic-ward trials:** Increasing NaCl ingestion in increments → stepwise rise in blood pressure within days.
+- **Community RCTs:** Even modest reductions in NaCl ingestion yield measurable cardiovascular benefits.
+- **Animal models:** Direct, graded relationship between NaCl intake and severity of hypertension/organ injury.
 
 ## 9. Synthesis
 
-- **Not interchangeable:** The evidence demonstrates that **NaCl ingestion** is
-  uniquely harmful compared to ingestion of other salts.
-- **Consistency across species:** Humans, animals, and population-level data
-  converge on the same pattern.
-- **Mechanistic plausibility:** Kidney, vascular, and hormonal pathways explain
-  how **NaCl ingestion** exerts its toxic effects.
-- **No safe upper bound demonstrated:** Every increment of **NaCl ingestion**
-  increases measurable risk.
+- **Not interchangeable:** The evidence demonstrates that **NaCl ingestion** is uniquely harmful compared to ingestion of other salts.
+- **Consistency across species:** Humans, animals, and population-level data converge on the same pattern.
+- **Mechanistic plausibility:** Kidney, vascular, and hormonal pathways explain how **NaCl ingestion** exerts its toxic effects.
+- **No safe upper bound demonstrated:** Every increment of **NaCl ingestion** increases measurable risk.
 
 ## 10. Final Verdict
 
 Across more than a century of experiments:
 
-- **NaCl ingestion elevates blood pressure, injures kidneys, and raises
-  cardiovascular risk.**
+- **NaCl ingestion elevates blood pressure, injures kidneys, and raises cardiovascular risk.**
 - These effects **do not occur to the same extent with other salts**.
-- **NaCl is therefore a cardiovascular–renal toxicant with a clear dose–response
-  relationship.**
-- **Conclusion:** Every added gram of ingested NaCl increases risk. Reduction or
-  replacement consistently improves health outcomes.
+- **NaCl is therefore a cardiovascular–renal toxicant with a clear dose–response relationship.**
+- **Conclusion:** Every added gram of ingested NaCl increases risk. Reduction or replacement consistently improves health outcomes.
 
 ## 11. References
 

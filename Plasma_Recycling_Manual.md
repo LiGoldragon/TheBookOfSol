@@ -5,26 +5,21 @@
 ### Plasma as a living substance
 
 Plasma is a living, responsive substance when removed from the body.\
-It continues to purify itself, separating into clear plasma above and its own
-rejected mucus and waste below.\
-Every drop is living liquid gold and is preserved for aging, refinement, or
-reduction.
+It continues to purify itself, separating into clear plasma above and its own rejected mucus and waste below.\
+Every drop is living liquid gold and is preserved for aging, refinement, or reduction.
 
 ### Scriptural echoes
 
-Haṭha Yoga Pradīpikā links Amarolī and Sahajolī with Vajrolī, the conservation
-and refinement of vital essence.\
+Haṭha Yoga Pradīpikā links Amarolī and Sahajolī with Vajrolī, the conservation and refinement of vital essence.\
 Damar Tantra teaches fluid-based rejuvenation:\
-“Śivāmbu … is capable of abolishing old age and various types of diseases and
-ailments.”\
+“Śivāmbu … is capable of abolishing old age and various types of diseases and ailments.”\
 “All diseases can be cured by the regular use of one’s own fluid.”
 
 ## Collection
 
 All plasma is valuable and kept.\
 Collected in clean glass containers with airtight lids.\
-Midstream collection is optional and mainly for advanced refinement; for aging,
-every drop is retained.
+Midstream collection is optional and mainly for advanced refinement; for aging, every drop is retained.
 
 ## Aging
 
@@ -56,21 +51,18 @@ This cycle speeds aging, but without it the plasma still ages naturally.
 ### Primary aging phase
 
 **Duration:** one to two lunations.\
-**Process:** the plasma rejects internal waste and forms sediment; the clear
-layer becomes refined.\
+**Process:** the plasma rejects internal waste and forms sediment; the clear layer becomes refined.\
 **Environment:** auspicious location; optional solarization and lunarization.\
 **Breathing:** optional; every few days or weekly.\
 **Shaking:** periodic and gentle.
 
 *Damar Tantra:*\
-“That which flows from oneself, matured by time, cuts through accumulations as
-fire through wood.”
+“That which flows from oneself, matured by time, cuts through accumulations as fire through wood.”
 
 ### Siphoning phase
 
 **Purpose:** separate clear plasma from sediment.\
-**Method:** siphon the upper layer with a clean tube without disturbing
-sediment.\
+**Method:** siphon the upper layer with a clean tube without disturbing sediment.\
 **After siphoning:** continue aging in a clean vessel; remove sediment.\
 Only sediment is discarded.
 
@@ -83,10 +75,8 @@ Filtered aged plasma becomes the primary cleansing and extraction medium.
 ### Secondary aging (strong aged plasma)
 
 **Duration:** several weeks to months.\
-**Conditions:** slight warmth preferred; solarization and lunarization
-optional.\
-**Schedule:** shaking every one or two weeks; breathing optional every two to
-four weeks.\
+**Conditions:** slight warmth preferred; solarization and lunarization optional.\
+**Schedule:** shaking every one or two weeks; breathing optional every two to four weeks.\
 **Result:** strong aged plasma for deep purification and advanced applications.
 
 ## Herbal Extraction
@@ -96,8 +86,7 @@ Extraction is normally 15 minutes to 1 hour.\
 Leaving herbs longer than a few hours often over-extracts.
 
 All herb solids must be removed after extraction.\
-Even preservative herbs (moringa, chili) should not remain; once their life
-force is drawn out, the solids become inert residue and impurities.
+Even preservative herbs (moringa, chili) should not remain; once their life force is drawn out, the solids become inert residue and impurities.
 
 A warming environment accelerates extraction but boiling is unnecessary.
 
@@ -109,23 +98,19 @@ A warming environment accelerates extraction but boiling is unnecessary.
 - Remove all solids.
 - Seal the extracted plasma.
 
-This mirrors Damar Tantra’s rasāyana method of using one’s own fluid as a
-carrier of herbal potency.
+This mirrors Damar Tantra’s rasāyana method of using one’s own fluid as a carrier of herbal potency.
 
 ## Reduction (Soft Plasma)
 
-Reduced plasma is produced by boiling filtered aged plasma to one-quarter
-volume.\
+Reduced plasma is produced by boiling filtered aged plasma to one-quarter volume.\
 Use stainless steel or clay pots.\
 Avoid Teflon, aluminum, reactive metals, and induction stoves.
 
-If the plasma was not cleared well beforehand, remaining impurities create
-unpleasant odor.\
+If the plasma was not cleared well beforehand, remaining impurities create unpleasant odor.\
 Properly cleared plasma produces a pure, solar, purifying aroma.
 
 The fumes of cleared plasma are beneficial to breathe.\
-They purify the space and may also be inhaled deliberately, including through a
-nebulizer.\
+They purify the space and may also be inhaled deliberately, including through a nebulizer.\
 Breathing the vapor during reduction is a traditional enhancement.
 
 After reduction, perform final filtration to remove expelled solids.
@@ -153,8 +138,7 @@ Eyes receive only minute drops.\
 Warm reduced plasma may be used sparingly in ears.
 
 *Haṭha Yoga Pradīpikā:*\
-“He who drinks the mid-stream, snuffs it, and practices Vajrolī, practices
-Amarolī.”
+“He who drinks the mid-stream, snuffs it, and practices Vajrolī, practices Amarolī.”
 
 ## Enemas
 
@@ -171,15 +155,13 @@ Aged plasma is used for intensive purification of localized tissues.
 
 ## Bathing and Foot Soaks
 
-Aged plasma is added to baths or foot soaks to draw impurities and stimulate
-circulation.
+Aged plasma is added to baths or foot soaks to draw impurities and stimulate circulation.
 
 ## Household Cleaning
 
 Aged plasma cleans dishes, laundry, and surfaces.\
 Spot cleaning uses pure aged plasma followed by water.\
-Three to four ounces of strong aged plasma wash a medium laundry load in
-low-mineral water.\
+Three to four ounces of strong aged plasma wash a medium laundry load in low-mineral water.\
 Removes oils and grime, including from bicycle chains.\
 Regular practitioners often cease needing soap.
 
