@@ -3,3 +3,10 @@
 
 # Large bibliography PDFs
 bibliography/*.pdf
+
+# OCR working pages (local)
+bibliography/.ocr_pages/
+
+# Temporary read artifacts
+tmp_read/
+

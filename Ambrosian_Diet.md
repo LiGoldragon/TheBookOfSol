@@ -80,7 +80,7 @@ The Damar Tantra names the practice and its substance without euphemism:
 > Śivāmbu … abolishes all diseases.\
 > — *Damar Tantra*, Śivāmbu Kalpa Vidhi
 
-The Haṭha Yoga Pradīpikā places amarolī among the oli mudrās and defines it plainly:
+The Haṭha Yoga Pradīpikā places amarolī among the *oli mudrās* and defines it plainly:
 
 > **"madhya-dhārā-grahaṇena amarolī prakīrtitā."**\
 > The taking of the middle stream is called amarolī.\
