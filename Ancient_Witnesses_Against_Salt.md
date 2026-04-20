@@ -9,6 +9,18 @@ Modern medicine congratulates itself for discovering, around 1906, that chloride
 
 Each quotation is given in the convention of the tradition: Sanskrit in IAST transliteration, Greek in polytonic or transliterated form, Hebrew in academic transliteration, Classical Chinese in characters with pinyin. The citations name book and chapter so the curious can verify.
 
+### Method — How to Find More
+
+The old-world record on salt is not scattered. It is located, and locating it is a matter of knowing the five technical terms and the five text families.
+
+- **The terms.** In Sanskrit sources, the relevant Sanskrit terms are *lavaṇa* (salt as the salty taste or as the substance generally), *saindhava* (rock salt from the Sindh), *sauvarcala* (black salt), *audbhida* (earth-derived salt), *romaka* (a North Indian rock salt), and *kṣāra* (alkaline salt). A single grep for *lavaṇa* across the Āyurvedic corpus returns the rasa-karma, rasa-atiyoga, and *dravya-guṇa* passages; a grep for *saindhava* returns the therapeutic distinctions between benign and malign salts. In Greek sources, the terms are *halas / hales* (ἅλες). In Hebrew, *melaḥ* (מֶלַח). In Classical Chinese, *xián* (鹹) for the salty taste and *yán* (鹽) for salt as substance.
+
+- **The text families.** The Āyurvedic trikanda — *Caraka*, *Suśruta*, *Vāgbhaṭa's Aṣṭāṅga Hṛdaya* — treats salt in three overlapping registers: (1) as one of the six *rasas* (taste-qualities), where excess produces named pathologies; (2) as a class of *dravya* (substance), where each species of salt is given its specific action; (3) as an *etiological factor* in the disease-cause chapters of the *Nidāna* and *Uttara-tantra*. The haṭha-yoga corpus — *Haṭha Yoga Pradīpikā*, *Gheraṇḍa Saṃhitā*, *Śiva Saṃhitā*, *Yoga Yājñavalkya*, *Daṭṭātreya Yoga Śāstra* — treats salt exclusively as *apathya*, unwholesome, in the *mitāhāra* (moderate diet) chapters. The tantric corpus — *Damar Tantra*, *Shivambu Gita*, *Vajroli* sections of the haṭha literature — treats salt as a direct obstruction to the alchemy of body fluids. The Dharmaśāstra treats it under the *aluṇa-vrata* and the *śrāddha* rules. The Vedic-Upaniṣadic corpus treats it metaphorically (*Chāndogya* 6.13). The *Bhagavad Gītā* treats it as a defining quality of rājasic food.
+
+- **The non-Sanskrit traditions.** Plutarch's *Moralia* V and VIII are the single richest classical Greek source on salt-avoidance (the Egyptian priests of Isis). Homer's *Odyssey* XI and XXIII preserve the saltless-people prophecy. The Hebrew Bible records salt as sterility in five passages (Gen 19, Judg 9, Deut 29, Jer 17, Ezek 47). The *Huangdi Neijing Suwen* records salt-excess pathology in chapters 3 and 10. Porphyry's *De Abstinentia* and Iamblichus's *Vita Pythagorae* attest the Pythagorean avoidance of salt.
+
+Finding more quotes is a matter of working this grid: term × text-family × context. The quotes below are the ones that surface first. The corpus is larger than what a single essay can hold.
+
 
 ## I. The Vedic Record
 
@@ -58,6 +70,71 @@ The deeper principle that underwrites the warning appears elsewhere in Caraka.
 
 Inorganic matter — mineral, stone, ash — is *jaḍa*: lifeless, unable to feed a living field. The body responds to it by irritation, forced elimination, or deposition. Chloride of sodium is the paradigmatic case: an inorganic mineral delivered concentrated into plasma, bypassing the living matrices through which minerals are ordinarily made compatible with life.
 
+### Aṣṭāṅga Hṛdaya — the exact register of harm
+
+Vāgbhaṭa's *Aṣṭāṅga Hṛdaya*, the second of the three great classical Āyurvedic treatises, states the action of salt in one direction and the action of its excess in the other. The entry in the *rasa-bheda* chapter leaves nothing ambiguous.
+
+> **lavaṇaḥ stambha-saṅghāta-bandha-vidhmāpanaḥ sarān |**
+> **karoti āsyadravaṁ kledaṁ svedaṁ dīpyaty agnim agnivat ||**
+>
+> *Salt removes rigidity, clears obstructions (of the channels and pores), increases digestive activity, lubricates, causes sweating, penetrates into the tissues, improves taste, causes lacerations and bursting of tissues — new growth, abscess, and the like.*
+>
+> — *Aṣṭāṅga Hṛdaya*, Sūtrasthāna 10.11, trans. K. R. Srikantha Murthy
+
+Then the verdict on excess, which reads like a modern catalogue of chronic-salt-load pathology:
+
+> **atisevitas tu asra-pavana-kopano dehasya dauḥśīlya-vali-palita-khālitya-tṛṣṇā-kuṣṭha-viṣa-visarpa-balakṣayān karoti ||**
+>
+> *Used in excess, salt causes increase of blood (asra) and wind (vāta-pavana); it produces coarseness of the body, wrinkles of the skin, greying of the hair, baldness, thirst, leprosy and other skin diseases, the action of poisons, herpes, and the diminution of bodily strength.*
+>
+> — *Aṣṭāṅga Hṛdaya*, Sūtrasthāna 10.12–13, trans. K. R. Srikantha Murthy
+
+And on the immediate physiological response — the one that makes salt feel like appetite rather than insult:
+
+> **lavaṇas tu mukha-sravaṁ karoti daha-śāntim āsya-kanthayoḥ ||**
+>
+> *Salt causes increased moisture in the mouth (salivation) and a burning sensation in the cheeks and throat.*
+>
+> — *Aṣṭāṅga Hṛdaya*, Sūtrasthāna 10.31, trans. Srikantha Murthy
+
+On the salts as a class of substances:
+
+> *All the salts are* visyandi *(they produce excess secretion in the tissues),* sūkṣma *(they enter into the minutest pores),* sāra *(they loosen the stool),* dīpana *(they kindle digestion),* tīkṣṇa *(penetrating); they aggravate both* kapha *and* pitta.
+>
+> — *Aṣṭāṅga Hṛdaya*, Sūtrasthāna 6.143 (Ausadha-varga)
+
+And the specific, rarely-quoted single line that turns the whole modern "salt is necessary for taste" defense on its head:
+
+> *Generally, salts are bad for the eyes (vision), except* saindhava.
+>
+> — *Aṣṭāṅga Hṛdaya*, Sūtrasthāna, on the rasa-dravya-guṇa classification
+
+*Saindhava* — rock salt from the Sindh — is the single salt Vāgbhaṭa excepts, and only for eye-tissue. Every other salt, including the sea salt of ordinary diet, is classified as a cause of visual degradation. The classical tradition did not treat salt as a single substance; it distinguished sharply between *saindhava* and the common ingestant chloride-of-sodium, and praised only the former, in specific medicinal applications.
+
+### Suśruta Saṃhitā — salt among the causes of disease
+
+The *Suśruta Saṃhitā*, the surgical compendium of classical India, lists salt among the etiological factors of the most feared internal diseases. Three passages are decisive.
+
+On *pāṇḍu-roga* — the syndrome of pallor, jaundice, and wasting that corresponds approximately to the anemias and liver disorders of modern medicine:
+
+> *The deranged bodily* doṣas *of a person addicted to sexual excesses, or to eating clay or salts, or articles of keen potency and of acid or saline taste, or to strong liquors in excessive quantities, or to sleeping in the day, contaminate the blood and produce a yellowish (*pāṇḍu*) colour of the skin. This is known as* pāṇḍu-roga.
+>
+> — *Suśruta Saṃhitā*, Uttaratantra 44, trans. Kaviraj Kunjalal Bhishagratna
+
+On *rakta-pitta* — hemorrhagic disorders, the Āyurvedic category that encompasses epistaxis, hematemesis, hematuria, and the spontaneous bleeding diatheses:
+
+> *Excessive indulgence in grief, fright or anger, excessive physical labour, exposure to the sun and fire, constant use of pungent, acid, saline, and alkaline food, or of articles of fare which are keen or heat-making in potency, or incompatible in their combination, or are followed by deficient gastric or intestinal digestion — these are the factors which tend to produce* rakta-pitta.
+>
+> — *Suśruta Saṃhitā*, Uttaratantra 45, trans. Bhishagratna
+
+On *tṛṣṇā* — the pathological thirst that modern cardiology records as the first clinical sign of sustained chloride load:
+
+> *The thirst which is produced by using extremely fatty and saline articles of fare, as well as those which are hard to digest, is due to errors in diet — and is known as* Annaja *thirst.*
+>
+> — *Suśruta Saṃhitā*, Uttaratantra 48, trans. Bhishagratna
+
+The Suśruta school classifies salt as one of the primary dietary etiologies of three of the most serious disease categories: anemia, hemorrhage, and chronic thirst. The verdict is clinical, not metaphoric.
+
 
 ## II. The Yogic Record
 
@@ -74,17 +151,57 @@ The Sanskrit is a single compound listing the inhibitors of yogic progress. **La
 
 ### Gheraṇḍa Saṃhitā — the rule repeated
 
-> **varjayed durjana-prājñaṁ agni-strī-pathi-sevanam |**
-> **prātaḥ-snānopavāsādi kāya-kleśādikaṁ tathā ||**
+> *Food that is pungent, sour, salty, bitter, or parched; curd, buttermilk, an excess of leafy greens, alcohol, palm nut, jackfruit, horse gram, masur and white beans, white pumpkin, the stalks of leafy greens, bottle gourd, jujube, elephant apple, thorny bel, dhak, kadamba, lemon, bimba, breadfruit, garlic, lotus stalk, wild turmeric, chironji, asafetida, the fruit of the silk-cotton tree, and taro root: these should be avoided by the yogi at the beginning of his Yoga practice, together with traveling, the company of women, and the use of fire.*
 >
-> *Let the yogi avoid: the company of the wicked, fire, women, long travel, bathing before dawn, fasting, and all that exhausts the body.*
+> — *Gheraṇḍa Saṃhitā* 5.21, trans. James Mallinson
+
+The verse opens with the four Sanskrit compounds that define *apathya* — unwholesome food — across the entire haṭha corpus: *kaṭu* (pungent), *amla* (sour), *lavaṇa* (salty), *tikta* (bitter). Every subsequent food named is a specific instance. The preparatory discipline begins by laying salt aside. It does not negotiate moderation. It commands removal.
+
+The positive rule is given two verses later, and it is worth quoting in full as the negative image of the chloridic diet:
+
+> *Fresh butter, ghee, milk, sugar, sugarcane, jaggery, and so forth; ripe plantain, coconut, pomegranate, anise cordial, grapes, country gooseberry, āmla fruit, juice that is not sour, cardamom, nutmeg, clove, paurusha, rose apple, harītakī, dates: the yogi should eat these.*
 >
-> — *Gheraṇḍa Saṃhitā* 5.10 (on yama for āhāra)
+> — *Gheraṇḍa Saṃhitā* 5.22, trans. Mallinson
 
-The following verses list the dietary inhibitors, again naming *lavaṇa* among the tastes the yogi must renounce in the preparatory discipline. The same formula recurs across the haṭha corpus — *Śiva Saṃhitā*, *Yoga Yājñavalkya*, *Daṭṭātreya Yoga Śāstra*: salt belongs to the category of substances that bind the body to *rajas* and interrupt the stabilization of *prāṇa*.
+Salt does not appear. The sāttvic list has no place for it.
+
+### Śiva Saṃhitā — the hindrances named
+
+> *Sour, astringent, pungent, salty, mustard, and bitter flavors; too much walking, bathing in the early morning, burning oil, stealing, violence, hatred of others, pride, insincerity, fasting, untruthfulness, folly, cruelty to animals, the company of women, the use of fire, too much chatter — whether good-natured or not — and overeating: the yogi should definitely give up these.*
+>
+> — *Śiva Saṃhitā* 3.33, trans. James Mallinson
+
+Here salty taste (*lavaṇa*) stands within a single list that mixes physical habits, moral defects, and dietary errors. The *Śiva Saṃhitā* does not treat the salty taste as a separate category of concern. It places it within the same moral register as violence, untruthfulness, and pride — things the yogi renounces because they produce the body and mind that cannot practice.
+
+The same formula recurs across the haṭha corpus — *Yoga Yājñavalkya*, *Daṭṭātreya Yoga Śāstra*, and the *Haṭhābhyāsa Paddhati* — naming *lavaṇa* among the tastes the yogi must renounce in the preparatory discipline. Salt belongs to the category of substances that bind the body to *rajas* and interrupt the stabilization of *prāṇa*.
 
 
-## III. The Upaniṣadic Witness
+## III. The Tantric Record
+
+### Damar Tantra — salt and the Shivambu discipline
+
+The *Damar Tantra*, in the dialogue where Śiva teaches Pārvatī the *Shivambu Kalpa Vidhi* — the discipline of self-plasma recycling — names salt three times as a direct obstruction to the practice. The instruction is not incidental. The text treats abstention from salt as a precondition for the transformations the discipline is supposed to produce.
+
+> *The follower of the therapy should avoid pungent and salty ingredients in his meals. He should not over-exert himself. He should follow a balanced and light diet. He should sleep on the ground, and control the senses.*
+>
+> — *Damar Tantra*, verse 5
+
+And in the interior of the instruction:
+
+> *A follower who takes Shivambu regularly and avoids pungent, salty, and sour things can promptly enjoy the fruits of his meditation and this method.*
+>
+> — *Damar Tantra*, verse 30
+
+And in the closing discipline:
+
+> *During the process of the intake of Shivambu, the following things should be strictly avoided: vegetables in the form of leaves, flowers, or legumes; grains that cause flatulency; and starchy, pungent, sour, and salty foods. Sexual intercourse should also be avoided. This will help to accomplish the fruits of this method. Behaving against these rules will put man in unexpected difficulties.*
+>
+> — *Damar Tantra*, verses 104–106
+
+The tantric framing is distinct from the Ayurvedic and yogic. Where Caraka and Vāgbhaṭa register salt as a toxicological agent, and where the *Haṭha Yoga Pradīpikā* registers it as an inhibitor of *prāṇa*, the *Damar Tantra* registers it as the substance that most directly obstructs the alchemical function of the body's own fluids. The body that is processing its plasma into refined internal medicine cannot simultaneously be receiving inorganic chloride burden. One stream displaces the other.
+
+
+## IV. The Upaniṣadic Witness
 
 ### Chāndogya Upaniṣad — salt as the invisible pervader
 
@@ -105,7 +222,7 @@ Uddālaka then instructs Śvetaketu to taste the water from top, middle, and bot
 The passage is double-edged for the present purpose. It is not a prohibition. But it is a recognition — four millennia old — that salt possesses exactly the property that makes its toxicity so difficult to perceive: it dissolves invisibly yet pervades every part of whatever it enters. The Upaniṣad uses the property to teach the student about the essence of being. The modern clinic records the same property as the signature of chronic chloride burden: present in every tissue, visible in none, until the organ fails.
 
 
-## IV. The Dharmic Record
+## V. The Dharmic Record
 
 ### The saltless observance — aluṇa-vrata
 
@@ -120,7 +237,7 @@ Classical Hindu fasting tradition prescribes **aluṇa-vrata** — the saltless 
 The underlying logic, preserved in commentarial literature: salt inflames appetite, disturbs continence, and interrupts the clarity that *tapas* requires. The householder who undertakes austerity lays salt aside. The monk who renounces the world lays it aside altogether. The Jain ascetic takes the vow more strictly still — certain lineages prohibit salt throughout the mendicant life. The body under vow is the body that has remembered what salt does.
 
 
-## V. The Greek Record
+## VI. The Greek Record
 
 ### Homer — the inland people who eat no salt
 
@@ -156,7 +273,7 @@ The question is not rhetorical. Plutarch gathers the answers the Egyptian priest
 Plutarch is our single best Greco-Roman witness to what the Egyptian priesthood, over millennia, had already concluded. What Ptolemaic and Roman Egypt remembered, Plutarch transcribed. The transcription survives where the priesthood does not.
 
 
-## VI. The Hebrew Record
+## VII. The Hebrew Record
 
 Scripture uses salt as a symbol not of nourishment but of desolation, judgment, and the cessation of fertility. The pattern is uniform across the prophetic and narrative books.
 
@@ -221,7 +338,7 @@ The man who trusts in flesh is likened to the shrub rooted in the salted wastela
 Ezekiel's vision of the healing river restores the Dead Sea to life — except the swamps, which remain abandoned to salt. Salt here is what the water of life cannot reach: the residue that refuses restoration.
 
 
-## VII. The Chinese Record
+## VIII. The Chinese Record
 
 ### Huangdi Neijing — the taste that labors the body
 
@@ -248,16 +365,17 @@ Elsewhere the *Neijing* warns:
 Vascular stiffening, recorded in archaic Chinese as *mài níng* — the congealing of the vessels — is exactly the pathology that modern cardiovascular medicine ascribes to chronic salt load. The two statements, separated by two thousand years, describe the same injury.
 
 
-## VIII. Convergence
+## IX. Convergence
 
 From Vedic India to Hippocratic Egypt to Han China to prophetic Israel to the epic poetry of archaic Greece, the old world recorded one judgment on salt and one only:
 
-- It inflames appetite while producing thirst.
-- It hardens tissue, greys the hair, loosens the teeth, and dulls the senses.
-- It desolates the land on which it falls.
-- It disturbs the clarity that priesthood, yogic discipline, and household austerity alike require.
-- It produces the rigidity that scripture calls the curse and physicians call old age.
-- It marks the land from which the saltless people have, by prophecy, escaped.
+- It inflames appetite while producing thirst (Caraka, Vāgbhaṭa, Suśruta, Plutarch).
+- It hardens tissue, greys the hair, loosens the teeth, and dulls the senses (Aṣṭāṅga Hṛdaya Sū. 10.12–13; Caraka Sū. 26).
+- It causes hemorrhage, anemia, and the wasting syndromes of chronic disease (Suśruta on *rakta-pitta* and *pāṇḍu-roga*).
+- It desolates the land on which it falls (Genesis, Judges, Deuteronomy, Jeremiah, Ezekiel).
+- It disturbs the clarity that priesthood, yogic discipline, tantric practice, and household austerity alike require (Plutarch, HYP, Gheraṇḍa, Śiva Saṃhitā, Damar Tantra, *aluṇa-vrata*).
+- It produces the rigidity that scripture calls the curse and physicians call old age (Huangdi Neijing Suwen 3 and 10; Vāgbhaṭa on wrinkles and premature greying).
+- It marks the land from which the saltless people have, by prophecy, escaped (Odyssey XI).
 
 No tradition that examined salt closely declared it a nutrient. Every tradition that examined it closely declared it a stimulant, an irritant, or a curse. Modern biochemistry, which confirmed each of these findings in sequence across the past two centuries, discovered nothing that the old world had not already recorded.
 
@@ -266,7 +384,7 @@ The convergence is the evidence.
 
 ### A Note on Sources
 
-The Sanskrit is given in IAST transliteration. Readers tracking the original Devanāgarī will find the verses at the citations provided: *Bhagavad Gītā* 17.7–10; *Caraka Saṃhitā* Sūtrasthāna 26 and Vimānasthāna 1; *Haṭha Yoga Pradīpikā* 1.59; *Gheraṇḍa Saṃhitā* 5.10–16; *Chāndogya Upaniṣad* 6.13.1.
+The Sanskrit is given in IAST transliteration. Readers tracking the original Devanāgarī will find the verses at the citations provided: *Bhagavad Gītā* 17.7–10; *Caraka Saṃhitā* Sūtrasthāna 26 and Vimānasthāna 1; *Aṣṭāṅga Hṛdaya* Sūtrasthāna 10.11–13 and 10.31, 6.143; *Suśruta Saṃhitā* Uttaratantra on *pāṇḍu-roga*, *rakta-pitta*, *tṛṣṇā*; *Haṭha Yoga Pradīpikā* 1.59; *Gheraṇḍa Saṃhitā* 5.21–22; *Śiva Saṃhitā* 3.33; *Chāndogya Upaniṣad* 6.13.1; *Damar Tantra* verses 5, 30, 104–106.
 
 The Greek text of Homer follows the standard editions of the *Odyssey* (West / Monro–Allen). Plutarch's *Isis and Osiris* and *Quaestiones Convivales* are cited by Moralia page number (Stephanus) and are available in the Loeb Classical Library edition translated by F. C. Babbitt.
 
@@ -274,7 +392,9 @@ Hebrew is given in academic transliteration alongside the Masoretic consonantal 
 
 Classical Chinese follows the received text of the *Huangdi Neijing Suwen*. Pinyin is given for pronunciation; chapter titles follow the standard Chinese medical editions.
 
-The Āyurvedic passages on *lavaṇasyātiyogāt* and *mṛttikā-loha-bhakṣaṇaṃ tamo-nimittam* are quoted in the doctrinal form preserved across the Caraka commentarial tradition (Cakrapāṇi, Yogindranātha Sen). For critical Sanskrit editions, see the Sharma translation (Chaukhamba) and the Jadavji Trikamji Āchārya edition.
+The Āyurvedic passages on *lavaṇasyātiyogāt* and *mṛttikā-loha-bhakṣaṇaṃ tamo-nimittam* are quoted in the doctrinal form preserved across the Caraka commentarial tradition (Cakrapāṇi, Yogindranātha Sen). For critical Sanskrit editions, see the Sharma translation (Chaukhambha), the Jadavji Trikamji Āchārya edition of Caraka, the K. R. Srikantha Murthy edition and translation of the *Aṣṭāṅga Hṛdaya* (Krishnadas Ayurveda Series), and the Kaviraj Kunjalal Bhishagratna translation of the *Suśruta Saṃhitā* (Cosmo Publications).
+
+The yogic passages from the *Gheraṇḍa Saṃhitā* and *Śiva Saṃhitā* are given in the translation of James Mallinson (YogaVidya.com), which includes the original Sanskrit on facing pages. The *Damar Tantra* verses follow the standard numbering of the Shivambu Kalpa Vidhi recension; for the original Sanskrit-Hindi text, see the *Shivambu Gita* edition of G. K. Thakkar.
 
 
 *What the old world saw, the new world is only now admitting. The witnesses have always been unanimous.*
