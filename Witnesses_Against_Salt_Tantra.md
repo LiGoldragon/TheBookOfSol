@@ -42,7 +42,7 @@ The *Shivambu Gita*, preserved in the lineage of the Damar Tantra and compiled i
 
 The tantric framing differs from the yogic and the Āyurvedic in one important respect. Ayurveda treats salt as an agent that produces specific pathologies. Yoga treats it as an obstructor of breath and concentration. Tantra treats it as an *alchemical contaminant* — a substance that, by its very presence, prevents the transmutation the practice is attempting to perform.
 
-The body that is processing its own plasma into refined nectar must be uncontaminated by the crude mineral salts that circulate in the chloridic diet. The *amṛta* of the tradition — the inner elixir that consists of the body's own living fluids, received, concentrated, and returned — cannot form in a body whose extracellular fluid is saturated with the pressurization agent of sodium chloride. The laboratory has to be clean for the experiment to proceed.
+The body that is processing its own plasma into refined nectar must be uncontaminated by the crude mineral salts that circulate in the chloridic diet. The *amṛta* of the tradition — the inner elixir that consists of the body's own living fluids, received, concentrated, and returned — cannot form in a body whose extracellular fluid is saturated with the pressurization agent of chloride of sodium. The laboratory has to be clean for the experiment to proceed.
 
 This framing explains why the *Damar Tantra* does not moderate its prohibition. Abstention from salt is not a suggestion. It is a structural precondition of the practice. The practitioner who maintains salt intake will simply not produce the conditions the text describes as the fruit of the method.
 

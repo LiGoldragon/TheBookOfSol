@@ -84,7 +84,7 @@ Colburn's two points — that modern salt consumption is a recent commercial phe
 >
 > — Henry David Thoreau, *Walden*, "The Bean-Field" chapter
 
-Thoreau's testimony — first-person, informal, published in the middle of the Hygienist period — adds a personal observation that the formal medical literature would later confirm: removing salt reduces thirst rather than producing it. The paradox that the salted diet produces thirst was resolved by Thoreau's two-year experiment at Walden Pond through the simple observation that without salt, the body needs less water. The modern cardiologist would name the same phenomenon the "sodium-thirst relationship" and locate its mechanism in the osmotic detection of the hypothalamus. Thoreau names it with the proper noun "that grossest of groceries" and moves on.
+Thoreau's testimony — first-person, informal, published in the middle of the Hygienist period — adds a personal observation that the formal medical literature would later confirm: removing salt reduces thirst rather than producing it. The paradox that the salted diet produces thirst was resolved by Thoreau's two-year experiment at Walden Pond through the simple observation that without salt, the body needs less water. The modern cardiologist would name the same phenomenon the "chloride-thirst relationship" and locate its mechanism in the osmotic detection of the hypothalamus. Thoreau names it with the proper noun "that grossest of groceries" and moves on.
 
 ## Dr. Benjamin Rush — on the American Indians
 
@@ -118,7 +118,7 @@ Shelton, the twentieth-century consolidator of the Hygienist tradition, devoted 
 
 And the stimulation-irritation equivalence:
 
-> *"It is everywhere admitted that taken in large doses sodium chloride is an 'irritant poison.' In smaller doses it is said to be a beneficial stimulant. This is a medical delusion. Stimulation and irritation are identical phenomena. The only difference between the stimulation of small doses and the irritation of large doses is that of degree, not of kind."*
+> *"It is everywhere admitted that taken in large doses chloride of sodium is an 'irritant poison.' In smaller doses it is said to be a beneficial stimulant. This is a medical delusion. Stimulation and irritation are identical phenomena. The only difference between the stimulation of small doses and the irritation of large doses is that of degree, not of kind."*
 >
 > — Shelton, *Orthotrophy*, Ch. XVI
 

@@ -4,7 +4,7 @@
 
 ### I. The Crime Against the Living Body
 
-A poison normalized by habit is still a poison. A toxin distributed across meals is still a toxin. A narcotic defended by custom is still a narcotic. This essay sets down, in plain order and with the witnesses assembled, the case that has been gathering for two centuries: that sodium chloride, misnamed "salt" and falsely promoted as "electrolyte," is a protoplasmic irritant, a vascular toxin, a renal burden, a nervous agitant, and a social narcotic — and that its use is sustained not by proof of benefit but by the inertia of a civilization that cannot bear to examine its own staple.
+A poison normalized by habit is still a poison. A toxin distributed across meals is still a toxin. A narcotic defended by custom is still a narcotic. This essay sets down, in plain order and with the witnesses assembled, the case that has been gathering for two centuries: that chloride of sodium, misnamed "salt" and falsely promoted as "electrolyte," is a protoplasmic irritant, a vascular toxin, a renal burden, a nervous agitant, and a social narcotic — and that its use is sustained not by proof of benefit but by the inertia of a civilization that cannot bear to examine its own staple.
 
 The argument does not depend on metaphor, mysticism, or novelty. Every premise is drawn from the published record of orthodox medicine, from classical clinical observation, from controlled experiment, from population data, and from the testimony of traditions older than chemistry. What follows is not a new claim. It is an old claim finally assembled, fully witnessed, and refused the shelter of euphemism.
 
@@ -20,7 +20,7 @@ To name the agent accurately, one must say chloride. To describe its dietary for
 
 **Richard Bright, 1827.** In *Reports of Medical Cases*, Bright described kidneys overwhelmed by a retained substance he could not yet name. Edema, albuminuria, cardiac enlargement, retinal change. The disease was catalogued before its cause was known.
 
-**Fernand Widal and Adolphe Javal, 1906.** In *La cure de déchloruration dans le mal de Bright et dans quelques maladies hydropigènes* (Baillière, Paris), Widal and Javal named the retained substance explicitly: chloride. They demonstrated, patient by patient, that withdrawing chloride of sodium reversed edema and stabilized the failing kidney. The original retention was not of water; it was of chloride, and water followed it. *La cure de déchloruration* — the decontaminating cure — became the ancestor of every sodium-restriction protocol of the twentieth century, even where its paternity was later forgotten.
+**Fernand Widal and Adolphe Javal, 1906.** In *La cure de déchloruration dans le mal de Bright et dans quelques maladies hydropigènes* (Baillière, Paris), Widal and Javal named the retained substance explicitly: chloride. They demonstrated, patient by patient, that withdrawing chloride of sodium reversed edema and stabilized the failing kidney. The original retention was not of water; it was of chloride, and water followed it. *La cure de déchloruration* — the decontaminating cure — became the ancestor of every chloride-restriction protocol of the twentieth century, even where its paternity was later forgotten.
 
 **Joseph Achard and Fernand Widal, 1901–1905.** Parallel French work confirmed that edema and collapse in cardiac and renal failure followed chloride burden itself. Fragile organisms could not tolerate chloride load; the substance behaved as toxin, not necessity.
 
@@ -92,7 +92,7 @@ A civilization that declares a substance essential without ever demonstrating it
 
 ### VIII. The Ethical Consequence
 
-Ingesting sodium chloride is the self-administration of a substance with documented toxic and degenerative effects on the human body. A human being is an animal. An animal knowingly administering injury to an animal is, by any non-arbitrary reading of the word, abusing an animal.
+Ingesting chloride of sodium is the self-administration of a substance with documented toxic and degenerative effects on the human body. A human being is an animal. An animal knowingly administering injury to an animal is, by any non-arbitrary reading of the word, abusing an animal.
 
 Veganism, if it means opposition to animal abuse rather than a symbolic list of permitted ingredients, cannot exempt one animal species — the human — by default. Whoever claims the ethic and practices the abuse must either deny that humans are animals, deny that chloride ingestion is harmful, or rewrite veganism to mean something other than what it says. None of these moves survive honest inspection.
 

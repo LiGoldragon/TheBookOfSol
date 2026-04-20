@@ -100,7 +100,7 @@ The British colonial system, recognizing what had been taken from them, arrested
 
 ## The Modern Food Industry: Pharmaceutical-Grade Addiction at Civilizational Scale
 
-The twenty-first-century extension of the salt-as-political-narcotic pattern is the global processed food industry. The mechanism is no longer royal monopoly or colonial criminalization. It is more efficient than those. Modern processed foods — industrial bread, industrial cheese, industrial meat, industrial soup, industrial cereal, industrial snacks, restaurant meals, fast food — contain quantities of salt that were simply impossible to consume in any premodern diet. The sodium content of a single modern fast-food meal exceeds, many times over, the daily intake of the premodern agricultural population of any region on earth.
+The twenty-first-century extension of the salt-as-political-narcotic pattern is the global processed food industry. The mechanism is no longer royal monopoly or colonial criminalization. It is more efficient than those. Modern processed foods — industrial bread, industrial cheese, industrial meat, industrial soup, industrial cereal, industrial snacks, restaurant meals, fast food — contain quantities of salt that were simply impossible to consume in any premodern diet. The chloride content of a single modern fast-food meal exceeds, many times over, the daily intake of the premodern agricultural population of any region on earth.
 
 The reasons this industry uses salt are the reasons every previous salt monopoly has used salt:
 

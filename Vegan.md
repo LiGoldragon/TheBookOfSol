@@ -82,7 +82,7 @@ This return to natural meaning protects both **language** and **life**.
 
 ## 7. Conclusion
 
-Words evolve toward truth. As *icon*, *energy*, and *vibe* sank back into their roots, *vegan* ripens into its natural sense: **exclusively vegetal** — which, by definition and by physiology, excludes sodium chloride, an **inorganic protoplasmic poison** masquerading as food.
+Words evolve toward truth. As *icon*, *energy*, and *vibe* sank back into their roots, *vegan* ripens into its natural sense: **exclusively vegetal** — which, by definition and by physiology, excludes chloride of sodium, an **inorganic protoplasmic poison** masquerading as food.
 
 **Salt embalms. Plants enliven. Vegan means choosing life.**
 

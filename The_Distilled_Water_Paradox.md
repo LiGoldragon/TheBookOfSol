@@ -63,9 +63,9 @@ Some go further. Fulvic acid drops and ConcenTrace mineral concentrates are adde
 
 ### The Himalayan Salt Sole
 
-The most complete expression of the split mind is the Himalayan salt sole: a saturated solution of sodium chloride -- dissolved rock salt, mined from geological deposits -- consumed every morning as a ritual health practice. The "84 trace minerals" narrative dresses the act in complexity, but the dominant compound is sodium chloride: the same rock that every person on earth already dumps on every meal, the very substance this community claims to have seen through.
+The most complete expression of the split mind is the Himalayan salt sole: a saturated solution of chloride of sodium -- dissolved rock salt, mined from geological deposits -- consumed every morning as a ritual health practice. The "84 trace minerals" narrative dresses the act in complexity, but the dominant compound is chloride of sodium: the same rock that every person on earth already dumps on every meal, the very substance this community claims to have seen through.
 
-The sole drinker has reintroduced the most ubiquitous inorganic mineral on the planet -- chloride of sodium -- and called it sacred because it is pink, because it is Himalayan, because it is ancient. The geological age of the deposit does not alter the chemistry. The color does not alter the physiology. A saturated brine of sodium chloride is a saturated brine of sodium chloride whether it comes from a mine in Punjab or a shaker on a diner table.
+The sole drinker has reintroduced the most ubiquitous inorganic mineral on the planet -- chloride of sodium -- and called it sacred because it is pink, because it is Himalayan, because it is ancient. The geological age of the deposit does not alter the chemistry. The color does not alter the physiology. A saturated brine of chloride of sodium is a saturated brine of chloride of sodium whether it comes from a mine in Punjab or a shaker on a diner table.
 
 This is chloridism wearing a prayer shawl.
 

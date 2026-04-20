@@ -22,7 +22,7 @@ The *Neijing*'s treatment of the salty flavor is consistent across its chapters:
 
 The three-fold clinical consequence of excess salt is named in nine Chinese characters.
 
-- **大骨氣勞** (*dà gǔ qì láo*) — "the great bones labor." The skeletal frame, especially the larger long bones, is overstressed. The pathology modern medicine calls hypercalciuria-induced bone demineralization — the urinary loss of calcium that chronic sodium intake produces — is recorded here as *gǔ qì láo*, the "laboring of bone-qi."
+- **大骨氣勞** (*dà gǔ qì láo*) — "the great bones labor." The skeletal frame, especially the larger long bones, is overstressed. The pathology modern medicine calls hypercalciuria-induced bone demineralization — the urinary loss of calcium that chronic chloride intake produces — is recorded here as *gǔ qì láo*, the "laboring of bone-qi."
 - **短肌** (*duǎn jī*) — "the muscles shrink" or "the flesh is shortened." Muscle wasting under chronic salt load, again an observation the modern clinical literature has slowly re-derived (protein catabolism, vascular damage to capillary beds feeding the musculature).
 - **心氣抑** (*xīn qì yì*) — "the heart-qi is suppressed." The cardiac function is inhibited, the vital current at the heart is dampened. The modern cardiologist would call this reduced stroke volume, cardiac hypertrophy with diminished output, or ventricular dysfunction under chronic pressure load.
 

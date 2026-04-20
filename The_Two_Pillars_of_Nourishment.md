@@ -6,7 +6,7 @@ The solar force sustains life through clarity, vitality, and upward-rising energ
 
 ### The Solar Shadow
 
-Opposing the solar nourishment is the solar narcotic: chloride bound by sodium. This crystal substance forces solar energy outward, producing a counterfeit rush of calm as vitality escapes the system. Its rigidity and desiccation mirror the anti-solar principle: hardening what should be soft, draining what should rise, mineralizing what should flow. It is the perfect inverse of the sun’s enlivening quality.
+Opposing the solar nourishment is the solar narcotic: chloride of sodium. This crystal substance forces solar energy outward, producing a counterfeit rush of calm as vitality escapes the system. Its rigidity and desiccation mirror the anti-solar principle: hardening what should be soft, draining what should rise, mineralizing what should flow. It is the perfect inverse of the sun’s enlivening quality.
 
 ______________________________________________________________________
 
