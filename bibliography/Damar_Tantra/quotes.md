@@ -3,7 +3,6 @@
 Extracted from the *Shivambu Kalpa Vidhi* (the urine-revitalising technique),
 as given by Lord Shiva to Parvati in the Damar Tantra.
 
----
 
 ## On the Practice Itself
 

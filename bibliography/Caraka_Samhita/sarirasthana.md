@@ -3,7 +3,6 @@
 Extracted from *Caraka Samhita*, trans. Priya Vrat Sharma (Chaukhambha
 Orientalia, 2014).
 
----
 
 ## The Nature of the Self (Ātman / Puruṣa)
 
@@ -57,7 +56,6 @@ Orientalia, 2014).
 > activeness."
 > — C.Śā. 1.75–76
 
----
 
 ## Consciousness, Body, and the Relationship Between Them
 
@@ -89,7 +87,6 @@ Orientalia, 2014).
 > alone is the agent of happiness and misery and none else."
 > — C.Śā. 5.7
 
----
 
 ## Embryology and Formation of the Body
 
@@ -127,7 +124,6 @@ Orientalia, 2014).
 > intellect, memory, ego and will."
 > — C.Śā. 3.10
 
----
 
 ## Rebirth, Karma, and Past Lives
 
@@ -164,7 +160,6 @@ Orientalia, 2014).
 > — one who recollects the previous life."
 > — C.Śā. 3.13
 
----
 
 ## The Nature of the Mind (Manas)
 
@@ -191,7 +186,6 @@ Orientalia, 2014).
 > situated in the lamp case, pure, stable and with pleasant light."
 > — C.Śā. 5.13–15
 
----
 
 ## Philosophical Insights on Existence and Emancipation
 

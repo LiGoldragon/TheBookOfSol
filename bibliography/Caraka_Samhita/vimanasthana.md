@@ -3,7 +3,6 @@
 Extracted from *Caraka Samhita*, trans. Priya Vrat Sharma (Chaukhambha
 Orientalia, 2014).
 
----
 
 ## Rasa, Food, and the Properties of the Earth
 
@@ -39,7 +38,6 @@ Orientalia, 2014).
 > and single rasa are often weak, un-enduring and short-lived."
 > — C.Vi. 8.118
 
----
 
 ## Epidemics, Their Causes, and the Role of Adharma
 
@@ -76,7 +74,6 @@ Orientalia, 2014).
 > not certain during that difficult period."
 > — C.Vi. 3.12–18
 
----
 
 ## Timely and Untimely Death; Fate and Effort
 
@@ -102,7 +99,6 @@ Orientalia, 2014).
 > distinguished daiva, puruṣakāra is subdued."
 > — C.Vi. 3.33
 
----
 
 ## Epistemology and the Three Sources of Knowledge
 
@@ -122,7 +118,6 @@ Orientalia, 2014).
 > diseases successfully."
 > — C.Vi. 4.9–12
 
----
 
 ## Reasoning, Logic, and the Art of Debate
 
@@ -162,7 +157,6 @@ Orientalia, 2014).
 > the world is teacher while for the unwise it is enemy."
 > — C.Vi. 8.14
 
----
 
 ## The Physician's Oath
 

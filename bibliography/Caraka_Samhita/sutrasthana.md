@@ -3,7 +3,6 @@
 Extracted from *Caraka Samhita*, trans. Priya Vrat Sharma (Chaukhambha
 Orientalia, 2014).
 
----
 
 ## On the Nature of Ayurveda
 
@@ -22,7 +21,6 @@ Orientalia, 2014).
 > not a composition and hence has no beginning."
 > — C.Su. 30.27
 
----
 
 ## On Life, Health and Disease
 
@@ -48,7 +46,6 @@ Orientalia, 2014).
 > disorders in the diseased."
 > — C.Su. 30.26
 
----
 
 ## On Food and Diet
 
@@ -79,7 +76,6 @@ Orientalia, 2014).
 > leads to constipation, obstruction of channels and wasting."
 > — C.Su. 26.43–45
 
----
 
 ## On Ghee
 
@@ -95,7 +91,6 @@ Orientalia, 2014).
 > strength."
 > — C.Su. 27.234
 
----
 
 ## On Cow Milk
 
@@ -110,7 +105,6 @@ Orientalia, 2014).
 > effects of nectar in old age."
 > — C.Su. 27.218–219
 
----
 
 ## On Water
 
@@ -126,7 +120,6 @@ Orientalia, 2014).
 > plunging."
 > — C.Su. 6.41–48
 
----
 
 ## On Honey
 
@@ -142,7 +135,6 @@ Orientalia, 2014).
 > unctuous, nourishing and laxative."
 > — C.Su. 27.244
 
----
 
 ## On Ojas
 
@@ -161,7 +153,6 @@ Orientalia, 2014).
 > excessive activity, aggravated vata and so on."
 > — C.Su. 17.78
 
----
 
 ## On the Tridosa
 
@@ -186,7 +177,6 @@ Orientalia, 2014).
 > joints, forbearance, absence of greed and unctuousness of body."
 > — C.Su. 18.51
 
----
 
 ## On Drugs and Medicine
 
@@ -204,7 +194,6 @@ Orientalia, 2014).
 > objective."
 > — C.Su. 26.12
 
----
 
 ## On the Physician
 
@@ -222,7 +211,6 @@ Orientalia, 2014).
 > he harms the people, like a fire covered with ashes."
 > — C.Su. 29.12
 
----
 
 ## On Conduct and the Natural Urges
 
@@ -245,7 +233,6 @@ Orientalia, 2014).
 > conquering the diseases."
 > — C.Su. 8.17–18
 
----
 
 ## On Samanya and Visesa
 
@@ -254,7 +241,6 @@ Orientalia, 2014).
 > among all the objects whether moving or static."
 > — C.Su. 1.44–45
 
----
 
 ## On the Three Desires
 

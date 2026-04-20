@@ -3,7 +3,6 @@
 Extracted from *The Water of Life: A Treatise on Urine Therapy* by John W.
 Armstrong (Ebury Publishing, 2011).
 
----
 
 ## The Healing Power of Urine
 
@@ -50,7 +49,6 @@ Armstrong (Ebury Publishing, 2011).
 > skin disease."
 > — Chapter VII
 
----
 
 ## Historical and Scriptural References
 
@@ -91,7 +89,6 @@ Armstrong (Ebury Publishing, 2011).
 > same means they can also traverse deserts inaccessible to ordinary mortals."
 > — Chapter II (on Maurice Wilson, who attempted to climb Everest)
 
----
 
 ## Armstrong's Self-Cure
 
@@ -118,7 +115,6 @@ Armstrong (Ebury Publishing, 2011).
 > abstaining from food."
 > — Chapter XVII
 
----
 
 ## Fasting Combined with Urine Therapy
 
@@ -151,7 +147,6 @@ Armstrong (Ebury Publishing, 2011).
 > atropin in both."
 > — Chapter XVIII
 
----
 
 ## Remarkable Case Histories
 
@@ -206,7 +201,6 @@ Armstrong (Ebury Publishing, 2011).
 > nothing wrong with his kidney."
 > — Chapter XIV (reported by O. Warnock-Fielden)
 
----
 
 ## Arguments Against Conventional Medicine
 
@@ -251,7 +245,6 @@ Armstrong (Ebury Publishing, 2011).
 > what he knows he cannot cure."
 > — Chapter VI
 
----
 
 ## The Body's Self-Healing Capacity
 
@@ -289,7 +282,6 @@ Armstrong (Ebury Publishing, 2011).
 > forces outside the body.'"
 > — Dr. T. Wilson Deachman, quoted in Chapter II
 
----
 
 ## Memorable Aphorisms
 

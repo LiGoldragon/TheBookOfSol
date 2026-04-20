@@ -3,7 +3,6 @@
 Extracted from *Caraka Samhita*, trans. Priya Vrat Sharma (Chaukhambha
 Orientalia, 2014).
 
----
 
 ## On the Nature and Origin of Disease
 
@@ -33,7 +32,6 @@ Orientalia, 2014).
 > which in turn causes fever, and both together give rise to phthisis."
 > — C.Ni. 8.16
 
----
 
 ## On Fever — King of Diseases
 
@@ -54,7 +52,6 @@ Orientalia, 2014).
 > earliest in appearance of the somatic diseases."
 > — C.Ni. 1.16
 
----
 
 ## On the Pathogenesis of Prameha (Madhumeha)
 
@@ -71,7 +68,6 @@ Orientalia, 2014).
 > activities enjoys happy life."
 > — C.Ni. 4.50–52
 
----
 
 ## On Phthisis (Rājayakṣmā) — Wasting and Strength
 
@@ -104,7 +100,6 @@ Orientalia, 2014).
 > should eat wholesome, measured and timely food with self-restraint."
 > — C.Ni. 6.11
 
----
 
 ## On Kuṣṭha (Skin Disorders) — Time and the Curable
 
@@ -121,7 +116,6 @@ Orientalia, 2014).
 > regimen."
 > — C.Ni. 5.9
 
----
 
 ## On Prognosis — Curability, Palliation, Rejection
 
@@ -137,7 +131,6 @@ Orientalia, 2014).
 > measures."
 > — C.Ni. 8.33–35
 
----
 
 ## On Insanity — Karma, Intellect, and the Self
 
@@ -158,7 +151,6 @@ Orientalia, 2014).
 > should follow the propitious path without any fear."
 > — C.Ni. 7.21
 
----
 
 ## On Treatment and the Physician
 

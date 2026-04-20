@@ -143,7 +143,6 @@ Chloride is not salt in the honorable sense of that old word. It is *chlorure de
 
 The test is complete. The result is unambiguous. The only question remaining is whether the reader will act on evidence or on habit. The evidence has waited long enough.
 
----
 
 ### References
 
@@ -162,6 +161,5 @@ Plutarch. *Moralia V: Isis and Osiris.* Loeb Classical Library, trans. Babbitt. 
 **Cultural history:**
 Kurlansky M. *Salt: A World History.* Penguin, 2003.
 
----
 
 *Chloride is not salt. Chloride is chloride. The record has been assembled. The verdict stands.*

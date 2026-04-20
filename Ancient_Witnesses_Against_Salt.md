@@ -2,7 +2,6 @@
 
 ## *A Quote-Book of the Old World on Chloride*
 
----
 
 ### Why This Collection Exists
 
@@ -10,7 +9,6 @@ Modern medicine congratulates itself for discovering, around 1906, that chloride
 
 Each quotation is given in the convention of the tradition: Sanskrit in IAST transliteration, Greek in polytonic or transliterated form, Hebrew in academic transliteration, Classical Chinese in characters with pinyin. The citations name book and chapter so the curious can verify.
 
----
 
 ## I. The Vedic Record
 
@@ -60,7 +58,6 @@ The deeper principle that underwrites the warning appears elsewhere in Caraka.
 
 Inorganic matter — mineral, stone, ash — is *jaḍa*: lifeless, unable to feed a living field. The body responds to it by irritation, forced elimination, or deposition. Chloride of sodium is the paradigmatic case: an inorganic mineral delivered concentrated into plasma, bypassing the living matrices through which minerals are ordinarily made compatible with life.
 
----
 
 ## II. The Yogic Record
 
@@ -86,7 +83,6 @@ The Sanskrit is a single compound listing the inhibitors of yogic progress. **La
 
 The following verses list the dietary inhibitors, again naming *lavaṇa* among the tastes the yogi must renounce in the preparatory discipline. The same formula recurs across the haṭha corpus — *Śiva Saṃhitā*, *Yoga Yājñavalkya*, *Daṭṭātreya Yoga Śāstra*: salt belongs to the category of substances that bind the body to *rajas* and interrupt the stabilization of *prāṇa*.
 
----
 
 ## III. The Upaniṣadic Witness
 
@@ -108,7 +104,6 @@ Uddālaka then instructs Śvetaketu to taste the water from top, middle, and bot
 
 The passage is double-edged for the present purpose. It is not a prohibition. But it is a recognition — four millennia old — that salt possesses exactly the property that makes its toxicity so difficult to perceive: it dissolves invisibly yet pervades every part of whatever it enters. The Upaniṣad uses the property to teach the student about the essence of being. The modern clinic records the same property as the signature of chronic chloride burden: present in every tissue, visible in none, until the organ fails.
 
----
 
 ## IV. The Dharmic Record
 
@@ -124,7 +119,6 @@ Classical Hindu fasting tradition prescribes **aluṇa-vrata** — the saltless 
 
 The underlying logic, preserved in commentarial literature: salt inflames appetite, disturbs continence, and interrupts the clarity that *tapas* requires. The householder who undertakes austerity lays salt aside. The monk who renounces the world lays it aside altogether. The Jain ascetic takes the vow more strictly still — certain lineages prohibit salt throughout the mendicant life. The body under vow is the body that has remembered what salt does.
 
----
 
 ## V. The Greek Record
 
@@ -161,7 +155,6 @@ The question is not rhetorical. Plutarch gathers the answers the Egyptian priest
 
 Plutarch is our single best Greco-Roman witness to what the Egyptian priesthood, over millennia, had already concluded. What Ptolemaic and Roman Egypt remembered, Plutarch transcribed. The transcription survives where the priesthood does not.
 
----
 
 ## VI. The Hebrew Record
 
@@ -227,7 +220,6 @@ The man who trusts in flesh is likened to the shrub rooted in the salted wastela
 
 Ezekiel's vision of the healing river restores the Dead Sea to life — except the swamps, which remain abandoned to salt. Salt here is what the water of life cannot reach: the residue that refuses restoration.
 
----
 
 ## VII. The Chinese Record
 
@@ -255,7 +247,6 @@ Elsewhere the *Neijing* warns:
 
 Vascular stiffening, recorded in archaic Chinese as *mài níng* — the congealing of the vessels — is exactly the pathology that modern cardiovascular medicine ascribes to chronic salt load. The two statements, separated by two thousand years, describe the same injury.
 
----
 
 ## VIII. Convergence
 
@@ -272,7 +263,6 @@ No tradition that examined salt closely declared it a nutrient. Every tradition 
 
 The convergence is the evidence.
 
----
 
 ### A Note on Sources
 
@@ -286,6 +276,5 @@ Classical Chinese follows the received text of the *Huangdi Neijing Suwen*. Piny
 
 The Āyurvedic passages on *lavaṇasyātiyogāt* and *mṛttikā-loha-bhakṣaṇaṃ tamo-nimittam* are quoted in the doctrinal form preserved across the Caraka commentarial tradition (Cakrapāṇi, Yogindranātha Sen). For critical Sanskrit editions, see the Sharma translation (Chaukhamba) and the Jadavji Trikamji Āchārya edition.
 
----
 
 *What the old world saw, the new world is only now admitting. The witnesses have always been unanimous.*

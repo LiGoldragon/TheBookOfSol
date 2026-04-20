@@ -3,7 +3,6 @@
 Extracted from *Caraka Saṃhitā*, trans. Priya Vrat Sharma (Chaukhambha
 Orientalia, 2014). All references are to Sūtrasthāna (C.Su.) chapters 26-27.
 
----
 
 ## General Principles (C.Su. 27.3-4)
 
@@ -21,7 +20,6 @@ Most fruits are sweet or sour. By this classification, they are inherently
 either kapha-aggravating or pitta-aggravating, and none are listed among the
 exceptions.
 
----
 
 ## Vegetables (C.Su. 27.88-124)
 
@@ -55,7 +53,6 @@ expressed out and then added with some fat before intake.**"
 This instruction — boil, press out the juice, add fat — is the opposite of
 raw consumption.
 
----
 
 ## Fruits (C.Su. 27.125-165)
 
@@ -99,7 +96,6 @@ raw consumption.
   conflicting with kapha and pitta." But the "only sour and rough" variety
   "**aggravates pitta and vāta**."
 
----
 
 ## Incompatible Combinations Involving Fruits (C.Su. 26.84)
 
@@ -107,7 +103,6 @@ raw consumption.
 kośāmra, bhavya, jambū, nārikela, dāḍima, āmalaka — **these fruits and similar
 other substances, all sour liquids or non-liquids are antagonistic to milk.**"
 
----
 
 ## Summary of the Pattern
 

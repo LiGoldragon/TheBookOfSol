@@ -3,7 +3,6 @@
 Extracted from *Hatha Yoga Pradīpikā* with commentary by Swami
 Muktibodhananda (Bihar School of Yoga).
 
----
 
 ## The Purpose and Nature of Hatha Yoga
 
@@ -26,7 +25,6 @@ Muktibodhananda (Bihar School of Yoga).
 > which is the unmani avastha immediately sprouts forth."
 > — HYP 4.104
 
----
 
 ## Prāṇa and Life
 
@@ -62,7 +60,6 @@ Muktibodhananda (Bihar School of Yoga).
 > indulging in boastful and false tales."
 > — HYP 4.114
 
----
 
 ## Kuṇḍalinī
 
@@ -78,7 +75,6 @@ Muktibodhananda (Bihar School of Yoga).
 > connections and death is averted."
 > — HYP 3.3
 
----
 
 ## Āsana
 
@@ -100,7 +96,6 @@ Muktibodhananda (Bihar School of Yoga).
 > khechari and no laya or dissolution of mind like nada, the inner sound."
 > — HYP 1.43
 
----
 
 ## Diet (Mitāhāra)
 
@@ -112,7 +107,6 @@ Muktibodhananda (Bihar School of Yoga).
 > should nourish the dhatus and be pleasing and suitable."
 > — HYP 1.63
 
----
 
 ## Mind and Prāṇa
 
@@ -129,7 +123,6 @@ Muktibodhananda (Bihar School of Yoga).
 > what cannot be perfected?"
 > — HYP 4.26
 
----
 
 ## Mudrā and Bandha
 
@@ -138,7 +131,6 @@ Muktibodhananda (Bihar School of Yoga).
 > and death."
 > — HYP 3.6–7
 
----
 
 ## Bindu, Ojas, and Vitality
 
@@ -154,7 +146,6 @@ Muktibodhananda (Bihar School of Yoga).
 > conserved."
 > — HYP 3.90
 
----
 
 ## Vajrolī, Sahajolī, and Amarolī
 
@@ -167,7 +158,6 @@ Muktibodhananda (Bihar School of Yoga).
 > seen the truth and not those who are selfish."
 > — HYP 3.95
 
----
 
 ## Nāda — The Inner Sound
 
@@ -205,7 +195,6 @@ Muktibodhananda (Bihar School of Yoga).
 > supreme lord."
 > — HYP 4.101–102
 
----
 
 ## Samādhi
 
@@ -238,7 +227,6 @@ Muktibodhananda (Bihar School of Yoga).
 > perfectly healthy, is verily liberated."
 > — HYP 4.112
 
----
 
 ## Cautions, Warnings, and Aphorisms
 

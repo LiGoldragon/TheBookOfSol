@@ -3,7 +3,6 @@
 Extracted from *Caraka Samhita*, trans. Priya Vrat Sharma (Chaukhambha
 Orientalia, 2014).
 
----
 
 ## The Nature of Fatal Signs (Ariṣṭa)
 
@@ -27,7 +26,6 @@ Orientalia, 2014).
 > should be known."
 > — C.In. 9.23–24
 
----
 
 ## The Shadow, Complexion, and Aura of the Dying
 
@@ -64,7 +62,6 @@ Orientalia, 2014).
 > as one devoid of life-span and about to die."
 > — C.In. 1.25
 
----
 
 ## The Deterioration of the Senses
 
@@ -100,7 +97,6 @@ Orientalia, 2014).
 > or never."
 > — C.In. 11.24
 
----
 
 ## The Limits of Medicine and the Physician's Duty
 
@@ -125,7 +121,6 @@ Orientalia, 2014).
 > mortals."
 > — C.In. 10.21
 
----
 
 ## Philosophical Reflections on Death and the Departing Self
 
@@ -154,7 +149,6 @@ Orientalia, 2014).
 > though looking at their kins or attendants who are calling him from nearby."
 > — C.In. 11.21
 
----
 
 ## Bodily Signs of Imminent Death
 
@@ -192,7 +186,6 @@ Orientalia, 2014).
 > no sign goes without its consequence."
 > — C.In. 8.27
 
----
 
 ## Smell, Taste, and the Body's Final Transformations
 
