@@ -1,8 +1,13 @@
 # MCP config (local)
 .mcp.json
 
-# Large bibliography PDFs
-bibliography/*.pdf
+# Book binaries do NOT belong here — put them in ~/git/bibliography/ instead.
+# This folder holds project-local quote extractions (.md files) only.
+bibliography/**/*.pdf
+bibliography/**/*.epub
+bibliography/**/*.mobi
+bibliography/**/*.djvu
+bibliography/**/*.zip
 
 # OCR working pages (local)
 bibliography/.ocr_pages/
