@@ -51,6 +51,32 @@ These apply to all articles in the repository.
 
 Never use Markdown `---` horizontal rules as section dividers. Structure articles with headings (`##`, `###`) alone. If you need a visual break, use a new heading or a blank line. This rule applies to new articles, edits to existing articles, and files under `bibliography/`.
 
+### Primary-source quote blocks — Sanskrit, translation, citation (in that order)
+
+Every block-quote of a primary source uses this structure: **Sanskrit (bold IAST) on top, blank blockquote line, English translation in double quotes, hard line break, em-dash attribution on the final line.** The citation always goes at the end, after the translation — never between the Sanskrit and the English, and never before the Sanskrit.
+
+Canonical form:
+
+```
+> **Sanskrit line**\
+> **continuation line if the verse has more than one pāda**
+>
+> "English translation, flowing across\
+> multiple lines if useful."\
+> — *Source Text* chapter.verse, trans. Translator (optional)
+```
+
+Rules of thumb:
+
+- Use `\` (backslash) at the end of every line that should break but stay inside the quote — including the final line of the Sanskrit and the final line of the English before the attribution.
+- Put a blank `>` line (a blockquote with nothing after the marker) between the Sanskrit and the English. This is the only blank line inside the quote.
+- The em-dash attribution line sits immediately after the closing quotation mark of the English, joined by a `\` hard break so it renders on its own line but inside the same blockquote.
+- Italicize the source text title (`*Caraka Saṃhitā*`, `*Haṭha Yoga Pradīpikā*`, `*Bṛhadāraṇyaka Upaniṣad*`).
+- If the Sanskrit text is a paraphrase or a proverbial formulation rather than an exact verse, say so in the attribution: `— proverbial formulation, after *Aṣṭāṅga Hṛdaya* Sūtrasthāna 12`.
+- If you have no Sanskrit, you may use a plain block-quote of the English with the attribution underneath on its own `\\`-broken line.
+
+Worked example — see [Cooking_and_Spices.md](Cooking_and_Spices.md) for the current reference implementation. Do **not** imitate the older pattern used in `Āyurveda.md`, `True_Ayurveda.md`, and the `Witnesses_Against_Salt_*.md` files, which places the citation between the Sanskrit and the English — that pattern is wrong and is being retired as those files are edited.
+
 ### "Chloride of sodium," not "sodium chloride"
 
 The only permissible way to name NaCl is **"chloride of sodium"** (following the Romance-language order: *chlorure de sodium*, *cloruro di sodio*, *cloruro de sodio*). Never write "sodium chloride" (the misleading English order), and never use standalone "sodium" as shorthand for the compound. Use "chloride" alone for the active ion or principle.
