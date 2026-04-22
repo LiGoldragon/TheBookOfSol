@@ -37,7 +37,7 @@ Book binaries must never live here. The `.gitignore` at the repo root enforces t
 
 When an article or extraction requires a book:
 
-1. Search Anna's Archive (via the `bibliotheca` MCP server when available, or via web search) for the book and its MD5.
+1. Search Anna's Archive via the `annas` CLI (on `PATH` through the mentci-tools bundle). Full usage lives at [`~/git/tools-documentation/annas/basic-usage.md`](../tools-documentation/annas/basic-usage.md) — the short form is `annas book-search "<query>"` to find MD5 hashes and `annas book-download <md5> <filename.ext>` to fetch. Downloads land in `$PWD`, so `cd` to the target folder first.
 2. Download it to `~/git/bibliography/en/<author-slug>/<slug-name>.<ext>` using the standard kebab-case naming.
 3. Register it in `~/git/bibliography/bibliography.md` with a short entry explaining why it matters for the project.
 4. Extract quotes into `TheBookOfSol/bibliography/<Book_Name>/quotes.md` or similar, and cite the author / title / chapter in the article.
