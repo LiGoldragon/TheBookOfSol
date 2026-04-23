@@ -50,6 +50,7 @@ Written and compiled by Olivier Francoeur, aka Li Goldragon.
 - [The Two Pillars of Nourishment](./The_Two_Pillars_of_Nourishment.md)
 - [Nourishment in Kali Yuga](./Nourishment_in_Kali_Yuga.md)
 - [Cooking and Spices](./Cooking_and_Spices.md)
+- [Apathya](./Apathya.md)
 - [Triphala](./Triphala.md)
 - [Madhumeha](./Madhumeha.md)
 - [Fidelity of Transmission](./Fidelity_of_Transmission.md)
@@ -124,11 +125,11 @@ Written and compiled by Olivier Francoeur, aka Li Goldragon.
 
 ## Primary-source extractions
 
-- *Caraka Saṃhitā* — [OCR pages](./bibliography/Caraka_Samhita/pages/) · curated digests: [Sūtrasthāna](./bibliography/Caraka_Samhita/sutrasthana.md) · [Vimānasthāna](./bibliography/Caraka_Samhita/vimanasthana.md) · [Śārīrasthāna](./bibliography/Caraka_Samhita/sarirasthana.md) · [Indriyasthāna](./bibliography/Caraka_Samhita/indriyasthana.md) · [Nidānasthāna](./bibliography/Caraka_Samhita/nidanasthana.md)
-- *Caraka Saṃhitā* — [fruit & vegetable warnings](./bibliography/Caraka_Samhita_Fruit_Vegetable_Warnings.md)
-- [*Haṭha Yoga Pradīpikā*](./bibliography/Hatha_Yoga_Pradipika/)
-- [*Ḍāmar Tantra*](./bibliography/Damar_Tantra/)
-- [*Water of Life*](./bibliography/Water_of_Life/)
+- **Caraka Saṃhitā** — all Caraka extraction work (per-page OCR, per-*sthāna* digests, fruit & vegetable warnings, philological notes) now lives in the dedicated [caraka-samhita repository](../caraka-samhita/).
+- [*Apathya* and *Mitāhāra* — primary-source extracts](./source-extracts/Apathya.md) (cross-source compilation — Caraka quotes are inline)
+- [*Haṭha Yoga Pradīpikā*](./source-extracts/Hatha_Yoga_Pradipika/)
+- [*Ḍāmar Tantra*](./source-extracts/Damar_Tantra/)
+- [*Water of Life*](./source-extracts/Water_of_Life/)
 
 ## Research
 

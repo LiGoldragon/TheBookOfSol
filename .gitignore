@@ -3,14 +3,14 @@
 
 # Book binaries do NOT belong here — put them in ~/git/bibliography/ instead.
 # This folder holds project-local quote extractions (.md files) only.
-bibliography/**/*.pdf
-bibliography/**/*.epub
-bibliography/**/*.mobi
-bibliography/**/*.djvu
-bibliography/**/*.zip
+source-extracts/**/*.pdf
+source-extracts/**/*.epub
+source-extracts/**/*.mobi
+source-extracts/**/*.djvu
+source-extracts/**/*.zip
 
 # OCR working pages (local)
-bibliography/.ocr_pages/
+source-extracts/.ocr_pages/
 
 # Temporary read artifacts
 tmp_read/
