@@ -60,4 +60,4 @@ All three name the same substance. All three prohibit its use as ordinarily cons
 
 The *Damar Tantra* verses follow the standard numbering of the *Shivambu Kalpa Vidhi* recension. The English translations used here follow the version prepared and distributed in the modern urine-therapy literature, traceable to the Hindi and English editions associated with G. K. Thakkar's *Shivambu Gita*. For the Sanskrit-Hindi original, see the *Shivambu Gita* edition. The practices are elaborated in the *Haṭha Yoga Pradīpikā*'s chapter on mudrās (*amarolī* and *vajrolī*) and across the tantric haṭha corpus.
 
-*See also: [Witnesses_Against_Salt_Ayurveda](Witnesses_Against_Salt_Ayurveda.md) for the medical framework; [Witnesses_Against_Salt_Yoga](Witnesses_Against_Salt_Yoga.md) for the haṭha prohibition.*
+*See also: [Witnesses_Against_Salt_Ayurveda](./Witnesses_Against_Salt_Ayurveda.md) for the medical framework; [Witnesses_Against_Salt_Yoga](./Witnesses_Against_Salt_Yoga.md) for the haṭha prohibition.*

@@ -1,6 +1,6 @@
 # Apathya and Mitāhāra — Primary-Source Extracts
 
-A thematic digest of *direct passages* from the *bṛhat-trayī* (Caraka, Suśruta, Vāgbhaṭa), the Yogic corpus (*Haṭha Yoga Pradīpikā*, *Gheraṇḍa Saṃhitā*, *Śiva Saṃhitā*), the *Bhagavad Gītā*, and the *Upaniṣads*, on what the śāstra identifies as unwholesome food (*apathya*) and how it defines the measured discipline of eating (*mitāhāra*). This is a working compilation for the article [*Apathya*](../Apathya.md) and any future work on the modern misuse of Ayurvedic vocabulary.
+A thematic digest of *direct passages* from the *bṛhat-trayī* (Caraka, Suśruta, Vāgbhaṭa), the Yogic corpus (*Haṭha Yoga Pradīpikā*, *Gheraṇḍa Saṃhitā*, *Śiva Saṃhitā*), the *Bhagavad Gītā*, and the *Upaniṣads*, on what the śāstra identifies as unwholesome food (*apathya*) and how it defines the measured discipline of eating (*mitāhāra*). This is a working compilation for the article [*Apathya*](../ayurveda/Apathya.md) and any future work on the modern misuse of Ayurvedic vocabulary.
 
 Format follows the project's canonical quote-block: Sanskrit IAST on top (bold), blank blockquote line, English translation in quotes, em-dash attribution line. Where no clean Sanskrit IAST is available in the working corpus, the passage appears as an English-only block quote with the attribution on its own break.
 

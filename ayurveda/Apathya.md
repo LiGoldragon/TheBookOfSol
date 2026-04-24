@@ -1,6 +1,6 @@
 # Apathya
 
-![A brass thali with rice, ghee, and milk — the accepted foods of the classical plate — beside lime, chilies, greens, salt, and garlic, the tastes and substances the tradition names as *apathya*.](./generated-images/apathya-banner.png)
+![A brass thali with rice, ghee, and milk — the accepted foods of the classical plate — beside lime, chilies, greens, salt, and garlic, the tastes and substances the tradition names as *apathya*.](../generated-images/apathya-banner.png)
 
 ## *What Ayurveda actually forbids on the plate, and why almost every modern recipe marketed as "Ayurvedic" gets it wrong*
 
@@ -209,7 +209,7 @@ Caraka states the principle in a single verse on the eating of earth and metal:
 
 Every dietary salt sold today falls under this verse. The pink crystal mined from Pakistan, the grey crystal raked from Brittany, the white crystal extracted from seawater and refined in Germany — all of them are crystallized chloride of sodium, concentrated inorganic mineral, delivered in a form the body cannot assimilate through any living matrix. The body responds to all of them the same way: by irritation. Thirst. Elevated blood pressure. Disturbed kidney function. Progressive vascular stiffening. The sensations salt produces — heightened appetite, transient alertness, a sense of being "charged up" — are *defensive reactions to the irritation of inorganic material in the plasma*, misread as nourishment.
 
-The project's linguistic position on this compound, developed in the companion article [Chloridism](./Chloridism.md), is that the Romance-language naming — *chlorure de sodium*, *cloruro di sodio*, "chloride of sodium" — is more accurate than the English "sodium chloride," because the active toxic principle is the chloride anion, not the sodium cation. The full toxicological case is given in [The Chloride Indictment](./The_Chloride_Indictment.md). The Ayurvedic record in full is in [Witnesses Against Salt — Āyurveda](./Witnesses_Against_Salt_Ayurveda.md).
+The project's linguistic position on this compound, developed in the companion article [Chloridism](../chloride/Chloridism.md), is that the Romance-language naming — *chlorure de sodium*, *cloruro di sodio*, "chloride of sodium" — is more accurate than the English "sodium chloride," because the active toxic principle is the chloride anion, not the sodium cation. The full toxicological case is given in [The Chloride Indictment](../chloride/The_Chloride_Indictment.md). The Ayurvedic record in full is in [Witnesses Against Salt — Āyurveda](../chloride/witnesses/Witnesses_Against_Salt_Ayurveda.md).
 
 ### The practical upshot
 
@@ -299,4 +299,4 @@ The two most serious occupants of the category, for the modern recipe under disc
 
 The restoration required comes down to two adjectives and one verb: *snigdha-madhura*, *mita*. Unctuous, sweet, measured. Rice with ghee. Mung with ghee. Rice with milk. Warm, cooked through, few ingredients, eaten attentively. This is what the tradition calls food. The modern "Ayurvedic" recipe, as currently written, is *apathya* — and the classical texts have said so in their own words for two thousand years.
 
-The primary-source extracts used in this essay — with full Sanskrit, English translation, and chapter-and-verse citation for each passage — are collected in [*Apathya* and *Mitāhāra* — Primary-Source Extracts](./source-extracts/Apathya.md).
+The primary-source extracts used in this essay — with full Sanskrit, English translation, and chapter-and-verse citation for each passage — are collected in [*Apathya* and *Mitāhāra* — Primary-Source Extracts](../source-extracts/Apathya.md).

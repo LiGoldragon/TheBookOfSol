@@ -120,4 +120,4 @@ There is no Āyurvedic defense of free salt intake. There is a therapeutic use o
 
 For the Sanskrit originals: *Caraka Saṃhitā* — the Priya Vrat Sharma edition (Chaukhambha, 2014) and the Jadavji Trikamji Āchārya critical edition. For Vāgbhaṭa: the K. R. Srikantha Murthy translation of the *Aṣṭāṅga Hṛdaya* (Krishnadas Ayurveda Series). For Suśruta: the Kaviraj Kunjalal Bhishagratna translation (Cosmo Publications), based on the original Sanskrit text.
 
-*See also the companion files in this series: [Witnesses_Against_Salt_Yoga](Witnesses_Against_Salt_Yoga.md), [Witnesses_Against_Salt_Tantra](Witnesses_Against_Salt_Tantra.md), [Witnesses_Against_Salt_Dharma](Witnesses_Against_Salt_Dharma.md), and the index at [Ancient_Witnesses_Against_Salt](Ancient_Witnesses_Against_Salt.md).*
+*See also the companion files in this series: [Witnesses_Against_Salt_Yoga](./Witnesses_Against_Salt_Yoga.md), [Witnesses_Against_Salt_Tantra](./Witnesses_Against_Salt_Tantra.md), [Witnesses_Against_Salt_Dharma](./Witnesses_Against_Salt_Dharma.md), and the index at [Ancient_Witnesses_Against_Salt](./Ancient_Witnesses_Against_Salt.md).*

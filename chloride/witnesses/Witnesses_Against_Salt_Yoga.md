@@ -81,4 +81,4 @@ For the tradition that had watched the human body and its energies with the clos
 
 The *Haṭha Yoga Pradīpikā* is available in many critical editions; the reference text for the present work is the Svāmi Muktibodhānanda translation (Bihar School of Yoga) and the Brian Dana Akers Sanskrit-English facing-page edition. The *Gheraṇḍa Saṃhitā* and *Śiva Saṃhitā* are given in the translation of James Mallinson (YogaVidya.com), which includes the original Sanskrit on facing pages. The wider haṭha corpus is documented in Mallinson & Singleton, *Roots of Yoga* (Penguin Classics).
 
-*See also: [Witnesses_Against_Salt_Ayurveda](Witnesses_Against_Salt_Ayurveda.md) for the medical framework that the yogic inhibition builds upon; [Witnesses_Against_Salt_Tantra](Witnesses_Against_Salt_Tantra.md) for the tantric elaboration of the same rule in the *Damar Tantra*.*
+*See also: [Witnesses_Against_Salt_Ayurveda](./Witnesses_Against_Salt_Ayurveda.md) for the medical framework that the yogic inhibition builds upon; [Witnesses_Against_Salt_Tantra](./Witnesses_Against_Salt_Tantra.md) for the tantric elaboration of the same rule in the *Damar Tantra*.*

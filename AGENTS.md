@@ -77,7 +77,7 @@ Rules of thumb:
 - If the Sanskrit text is a paraphrase or a proverbial formulation rather than an exact verse, say so in the attribution: `— proverbial formulation, after *Aṣṭāṅga Hṛdaya* Sūtrasthāna 12`.
 - If you have no Sanskrit, you may use a plain block-quote of the English with the attribution underneath on its own `\\`-broken line.
 
-Worked example — see [Cooking_and_Spices.md](Cooking_and_Spices.md) for the current reference implementation. Do **not** imitate the older pattern used in `Āyurveda.md`, `True_Ayurveda.md`, and the `Witnesses_Against_Salt_*.md` files, which places the citation between the Sanskrit and the English — that pattern is wrong and is being retired as those files are edited.
+Worked example — see [Cooking_and_Spices.md](./ayurveda/Cooking_and_Spices.md) for the current reference implementation. Do **not** imitate the older pattern used in `Āyurveda.md`, `True_Ayurveda.md`, and the `Witnesses_Against_Salt_*.md` files, which places the citation between the Sanskrit and the English — that pattern is wrong and is being retired as those files are edited.
 
 ### "Chloride of sodium," not "sodium chloride"
 
@@ -152,10 +152,10 @@ State the positive directly. If the dismissed alternative carries information (e
 
 When in doubt about voice, match these articles (which represent the clean target):
 
-- [Cooking_and_Spices.md](Cooking_and_Spices.md) — grounded textual argument, primary-source dense.
-- [Apathya.md](Apathya.md) — accessible exposition for non-experts, two-error framing.
-- [The_Chloride_Indictment.md](The_Chloride_Indictment.md) — clinical summary voice.
-- [Witnesses_Against_Salt_Ayurveda.md](Witnesses_Against_Salt_Ayurveda.md) — primary-source compilation form.
+- [Cooking_and_Spices.md](./ayurveda/Cooking_and_Spices.md) — grounded textual argument, primary-source dense.
+- [Apathya.md](./ayurveda/Apathya.md) — accessible exposition for non-experts, two-error framing.
+- [The_Chloride_Indictment.md](./chloride/The_Chloride_Indictment.md) — clinical summary voice.
+- [Witnesses_Against_Salt_Ayurveda.md](./chloride/witnesses/Witnesses_Against_Salt_Ayurveda.md) — primary-source compilation form.
 
 ## Version Control
 

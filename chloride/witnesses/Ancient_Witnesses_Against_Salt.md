@@ -12,15 +12,15 @@ This collection is organized by tradition. Each file collects, in the original l
 
 | File | Tradition | Core Witnesses |
 |------|-----------|---------------|
-| [Witnesses_Against_Salt_Ayurveda](Witnesses_Against_Salt_Ayurveda.md) | Classical Indian medicine | *Caraka Saṃhitā*, *Aṣṭāṅga Hṛdaya*, *Suśruta Saṃhitā* |
-| [Witnesses_Against_Salt_Yoga](Witnesses_Against_Salt_Yoga.md) | Haṭha-yoga corpus | *Haṭha Yoga Pradīpikā*, *Gheraṇḍa Saṃhitā*, *Śiva Saṃhitā* |
-| [Witnesses_Against_Salt_Tantra](Witnesses_Against_Salt_Tantra.md) | Tantric alchemy | *Damar Tantra*, *Shivambu Gita* |
-| [Witnesses_Against_Salt_Dharma](Witnesses_Against_Salt_Dharma.md) | Ethical and ritual | *Bhagavad Gītā*, Dharmaśāstras, *aluṇa-vrata* |
-| [Witnesses_Against_Salt_Greek](Witnesses_Against_Salt_Greek.md) | Classical Mediterranean | Homer, Plutarch, Pythagoreans |
-| [Witnesses_Against_Salt_Hebrew](Witnesses_Against_Salt_Hebrew.md) | Biblical | Genesis, Judges, Deuteronomy, Jeremiah, Ezekiel, Psalms |
-| [Witnesses_Against_Salt_Chinese](Witnesses_Against_Salt_Chinese.md) | Classical Chinese medicine | *Huangdi Neijing*, Sun Simiao, Zhu Danxi |
-| [Witnesses_Against_Salt_Hygienists](Witnesses_Against_Salt_Hygienists.md) | 19th–20th c. Western Natural Hygiene | Graham, Trall, Shelton, Thoreau, Rush |
-| [Witnesses_Against_Salt_Political](Witnesses_Against_Salt_Political.md) | Political and economic history | Aztec tribute, Roman *Via Salaria*, Chinese monopoly, French *gabelle*, British Salt Act, Gandhi, modern industry |
+| [Witnesses_Against_Salt_Ayurveda](./Witnesses_Against_Salt_Ayurveda.md) | Classical Indian medicine | *Caraka Saṃhitā*, *Aṣṭāṅga Hṛdaya*, *Suśruta Saṃhitā* |
+| [Witnesses_Against_Salt_Yoga](./Witnesses_Against_Salt_Yoga.md) | Haṭha-yoga corpus | *Haṭha Yoga Pradīpikā*, *Gheraṇḍa Saṃhitā*, *Śiva Saṃhitā* |
+| [Witnesses_Against_Salt_Tantra](./Witnesses_Against_Salt_Tantra.md) | Tantric alchemy | *Damar Tantra*, *Shivambu Gita* |
+| [Witnesses_Against_Salt_Dharma](./Witnesses_Against_Salt_Dharma.md) | Ethical and ritual | *Bhagavad Gītā*, Dharmaśāstras, *aluṇa-vrata* |
+| [Witnesses_Against_Salt_Greek](./Witnesses_Against_Salt_Greek.md) | Classical Mediterranean | Homer, Plutarch, Pythagoreans |
+| [Witnesses_Against_Salt_Hebrew](./Witnesses_Against_Salt_Hebrew.md) | Biblical | Genesis, Judges, Deuteronomy, Jeremiah, Ezekiel, Psalms |
+| [Witnesses_Against_Salt_Chinese](./Witnesses_Against_Salt_Chinese.md) | Classical Chinese medicine | *Huangdi Neijing*, Sun Simiao, Zhu Danxi |
+| [Witnesses_Against_Salt_Hygienists](./Witnesses_Against_Salt_Hygienists.md) | 19th–20th c. Western Natural Hygiene | Graham, Trall, Shelton, Thoreau, Rush |
+| [Witnesses_Against_Salt_Political](./Witnesses_Against_Salt_Political.md) | Political and economic history | Aztec tribute, Roman *Via Salaria*, Chinese monopoly, French *gabelle*, British Salt Act, Gandhi, modern industry |
 
 ### Method — How to Find More
 
