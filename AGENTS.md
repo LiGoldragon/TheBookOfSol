@@ -109,6 +109,54 @@ Do not refer to Earth as a "planet" in astronomical or astrological contexts. Us
 
 If a workflow needs Google Gemini, use the `gemini` CLI locally. Do not construct direct Gemini API calls via `curl`.
 
+### Prose style — avoid ChatGPT tics
+
+The project's voice is declarative, confident, and textually grounded. It states positions directly, lets primary sources do the heavy lifting, and does not construct arguments through rhetorical antithesis. Several patterns common to LLM-drafted prose must be actively eliminated.
+
+**Negative-contrast (the "X is not Y. It is Z." pattern) is the single most important thing to avoid.** This is the signature ChatGPT rhetorical move — building a point by first denying an alternative and then asserting the real claim. It is mechanical, tedious in repetition, and adds no information. Variants include:
+
+- "X is not Y. It is Z." (two-sentence form)
+- "X is not Y; it is Z." / "X is not Y — it is Z." (one-sentence forms)
+- "X is not Y, but Z." / "Not merely X, but Y." / "Not just X, but Y."
+- "Not A. Not B. Not C. But D." (triple-fragment hammer)
+- "This is not [thing]. It is [other thing]." (as a standalone paragraph or section opener)
+
+State the positive directly. If the dismissed alternative carries information (e.g., naming a common misreading to correct it), integrate it as a trailing concession: *"X is Z, not Y"* — but use this form sparingly, not as default. Most occurrences of the pattern can be eliminated entirely by cutting the "X is not Y" setup and keeping only the positive claim. A rule of thumb: if an article uses the pattern more than ~3 times, it has become the article's default rhythm and needs a full pass.
+
+**No meta-prose about the essay itself.** Do not open with "This essay does two things...", "The argument below...", "In what follows we will see...", "A few concepts appear throughout the essay — they are worth introducing at the outset...". Do not announce the structure. Begin with the substance.
+
+**Gloss technical terms on first use.** Articles are read by non-experts. Sanskrit terms, classical text names, and physiological concepts must carry parenthetical or inline English glosses on first appearance in each article. Subsequent uses can drop the gloss. Never assume the reader has encountered *agni*, *ojas*, *snigdha*, *mitāhāra*, *Caraka Saṃhitā*, *Haṭha Yoga Pradīpikā*, etc. before.
+
+**Let primary sources do the heavy lifting.** The pattern that works: short orientation (one or two paragraphs of plain English), then primary-source quote block, then minimal commentary, then the next quote. Do not speak over the rishis; bring them forward and frame them. If you use an opening quote, keep it short — a long extended compound as the first thing the reader sees buries the essay's own argument.
+
+**Example illustrates, never dominates.** When an article uses a concrete example (a modern recipe, a specific product, a named practice) to illustrate a classical doctrine, the example is one illustration, not the subject of the essay. Do not frame articles as "audits," "line-by-line analyses," or "detailed critiques of X." Frame as: "the classical doctrine says X; here is one example of a contemporary practice that violates it." The doctrine is primary; the example is secondary.
+
+**No structural mirroring between articles.** Each subject has its own form. Do not imitate the section skeleton, paragraph count, or rhetorical pattern of another article when writing a new one. Borrow voice and register; invent structure anew each time.
+
+**Banned filler phrases.** Remove on sight:
+
+- "it is worth noting," "it is important to note," "it should be remembered"
+- "notably," "crucially," "indeed," "moreover," "furthermore" (as paragraph openers)
+- "truly," "fundamentally," "literally" (in non-literal contexts)
+- "delves into," "unpacks," "navigates the complexities of," "in the realm of," "rich tapestry," "at the intersection of"
+- "the fact that..." (almost always compressible)
+- Stage-setting openers: "Notice that...", "Observe how...", "Note that..."
+
+**Em-dashes used with discipline.** Em-dashes are a powerful tool for parenthetical asides and rhythmic breaks. They become a tic when used as the default emphasis device. A paragraph with three or more em-dashes is almost always restructurable into cleaner syntax. Keep density below roughly five em-dashes per 500 words of prose.
+
+**Straight quotes, not curly.** Use `"` and `'` in all article prose. Curly quotes (`"` `"` `'` `'`) are a ChatGPT/Word-export artifact and are inconsistent with the rest of the repository.
+
+**Aphoristic closings are welcome.** The project's best closings are brief declaratives, sometimes one-line. "Soon is a schedule." "It asked to be seen." "This is what the tradition calls food." Do not trail off with restatement or summary.
+
+### Reference implementations for the target voice
+
+When in doubt about voice, match these articles (which represent the clean target):
+
+- [Cooking_and_Spices.md](Cooking_and_Spices.md) — grounded textual argument, primary-source dense.
+- [Apathya.md](Apathya.md) — accessible exposition for non-experts, two-error framing.
+- [The_Chloride_Indictment.md](The_Chloride_Indictment.md) — clinical summary voice.
+- [Witnesses_Against_Salt_Ayurveda.md](Witnesses_Against_Salt_Ayurveda.md) — primary-source compilation form.
+
 ## Version Control
 
 ### TheBookOfSol
