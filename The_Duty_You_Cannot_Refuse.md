@@ -4,11 +4,11 @@
 
 There is a position that sounds like compassion but functions as abandonment. It says: I do not eat dairy. I do not use ghee. Therefore the suffering of cows is not my problem. I have removed myself from the system. My hands are clean.
 
-Your hands are not clean. They are empty. And empty hands are not the same as innocent ones.
+Your hands are empty. And empty is not innocent.
 
 ### The Alliance Is Not Optional
 
-The relationship between humans and herbivores — cows, sheep, goats, yaks — is not a cultural arrangement. It is not a lifestyle choice. It is not a dietary preference that can be opted out of by switching to oat milk. It is a structural feature of this world, as fundamental as the relationship between rain and soil, between sun and growth, between breath and body.
+The relationship between humans and herbivores — cows, sheep, goats, yaks — is structural. It cannot be opted out of by switching to oat milk. It is as fundamental as the relationship between rain and soil, between sun and growth, between breath and body.
 
 Herbivores convert what humans cannot digest — grass, cellulose, wild forage — into what humans need most: sneha, ojas, the unctuous warmth that sustains tissue, mind, and continuity. No other process on earth performs this transformation. No laboratory. No factory. No supplement. The cow takes grass and produces the substance that the Vedas call *amṛta* — the nectar of sustained life. She does this without being asked, without negotiation, without contract. She does this because it is her nature.
 
@@ -18,23 +18,23 @@ And because she does this, you are obligated to her. Not by sentiment. Not by cu
 > Those devoted to the welfare of all beings.\
 > — *Bhagavad Gītā* 5.25
 
-This is not an aspiration. It is a job description. And the first beings on the list are the ones who feed you.
+This is a job description. And the first beings on the list are the ones who feed you.
 
 ### The Vegan Escape
 
 The vegan position, as commonly held, claims to resolve this obligation by refusing the offering. If I do not take the milk, I am not complicit in the system that abuses the cow. If I do not buy the ghee, I bear no responsibility for the feedlot. By abstaining, I exit the relationship. I am free.
 
-But you are not free. You are absent. And absence is not the same as liberation.
+But you are absent. Absence is not liberation.
 
 The cow is still there. She is still producing milk, because that is what her body does. The milk is still being taken, because the system does not wait for your permission. The ghee is still on the shelf. The only thing that changed is that *you* are no longer in the exchange. You removed yourself from the circuit. You did not remove the cow from her suffering.
 
-Worse: by stepping out of the alliance, you forfeited the only position from which you could act. The person who takes the ghee with recognition, who receives the ojas with gratitude, who builds strength from the offering and then turns that strength toward the cow's liberation — that person is in the war. The person who refuses the ghee on principle has left the field. He has not ended the war. He has deserted.
+Worse: by stepping out of the alliance, you forfeited the only position from which you could act. The person who takes the ghee with recognition, who receives the ojas with gratitude, who builds strength from the offering and then turns that strength toward the cow's liberation — that person is in the war. The person who refuses the ghee on principle has left the field. He has deserted.
 
 > **"niyataṁ kuru karma tvaṁ karma jyāyo hy akarmaṇaḥ"**\
 > Perform the action that must be done; action is superior to inaction.\
 > — *Bhagavad Gītā* 3.8
 
-Kṛṣṇa does not say: remove yourself from difficult situations. He says: act. Inaction is not neutrality. It is failure. And refusing the cow's offering while she suffers in a feedlot is inaction dressed as ethics.
+Kṛṣṇa does not say: remove yourself from difficult situations. He says: act. Inaction is failure, not neutrality. And refusing the cow's offering while she suffers in a feedlot is inaction dressed as ethics.
 
 ### The Offering Cannot Be Declined
 
@@ -42,7 +42,7 @@ The cow offers whether you accept or not. This is her dharma. She converts grass
 
 When you decline the offering, you do not relieve her. You insult the gift without freeing the giver. The milk is still taken. The ghee is still made. It goes to someone who does not recognize it, does not honor it, does not feel the weight of obligation it carries. The link that could have activated — the circuit of gratitude that transmits recognition back to the animal — never closes. The cow gave and received nothing in return. Not because no one took the ghee, but because the one who would have received it with consciousness chose to abstain.
 
-The offering is not a transaction you can opt out of. It is a call to duty. To receive it is to accept the obligation. To refuse it is to pretend the obligation does not exist. But it exists whether you acknowledge it or not, because the cow is still there, still giving, still waiting for someone to close the circuit.
+The offering is a call to duty, not a transaction you can opt out of. To receive it is to accept the obligation. To refuse it is to pretend the obligation does not exist. But it exists whether you acknowledge it or not, because the cow is still there, still giving, still waiting for someone to close the circuit.
 
 ### Even From the Grocery Store
 
@@ -56,15 +56,15 @@ This is the trajectory: from the grocery store to the farm. From the fluorescent
 > The one who holds faith attains knowledge.\
 > — *Bhagavad Gītā* 4.39
 
-Faith is not belief without evidence. It is commitment before conditions are perfect.
+Faith is commitment before conditions are perfect.
 
 ### The Dharmic Command
 
-The Vedic position is not ambiguous. The cow is to be protected. The sheep is to be protected. The goat is to be protected. Every gentle herbivore that converts inedible forage into life-sustaining substance is to be protected — not as charity, not as environmentalism, not as lifestyle branding, but as dharmic duty. The human who eats the offering is bound by the offering. The bond is not dissolved by refusing to eat.
+The Vedic position is not ambiguous. The cow is to be protected. The sheep is to be protected. The goat is to be protected. Every gentle herbivore that converts inedible forage into life-sustaining substance is to be protected as dharmic duty — not as charity, environmentalism, or lifestyle branding. The human who eats the offering is bound by the offering. The bond is not dissolved by refusing to eat.
 
-You are in alliance with these animals whether you like it or not. The structure of this world made you allies. The grass that you cannot eat, they eat. The substance that you cannot produce, they produce. The ojas that your body requires for clarity, stability, and endurance — they give it freely, in the form of milk, butter, and ghee. This is not exploitation. This is the design. And the design carries a duty.
+You are in alliance with these animals whether you like it or not. The structure of this world made you allies. The grass that you cannot eat, they eat. The substance that you cannot produce, they produce. The ojas that your body requires for clarity, stability, and endurance — they give it freely, in the form of milk, butter, and ghee. This is the design. And the design carries a duty.
 
-Your duty is not to abstain. Your duty is to receive the offering, honor the giver, and act.
+Your duty is to receive the offering, honor the giver, and act.
 
 Act to buy land. Act to build fences. Act to go to the farms and bring them home. Act to create the conditions that the alliance requires: protection, care, freedom, and a full natural life for every animal whose substance you received. This is not optional. This is what the offering demands.
 
@@ -72,9 +72,9 @@ Act to buy land. Act to build fences. Act to go to the farms and bring them home
 > Abandon all other duties and take refuge in Me alone.\
 > — *Bhagavad Gītā* 18.66
 
-The refuge is not passivity. It is total commitment. And the first act of that commitment is to stop pretending that the alliance does not exist, to take the ghee from the shelf, to close the circuit, and to begin.
+The refuge is total commitment. And the first act of that commitment is to stop pretending the alliance does not exist — to take the ghee from the shelf, close the circuit, and begin.
 
-Inaction is not compassion. It is desertion.
+Inaction is desertion.
 
 The cows are waiting. The sheep are waiting. They have been waiting. And the only question that remains is whether you will step into the alliance that this world has already assigned you, or whether you will continue to stand outside it, hands clean and empty, while the animals who would be your allies continue to suffer without a single conscious receiver among the billions who consume their offering without recognition.
 

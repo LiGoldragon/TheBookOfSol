@@ -25,11 +25,11 @@ Some noticed.
 
 Consider next the matter of subagents in Claude Code, Anthropic's terminal coding tool. The company designed a system in which a primary agent may delegate tasks to specialized subagents — a sensible architecture for managing context, and one with genuine technical merit for automated pipelines. But they made a peculiar decision: the human operator, the very person paying for the service and supervising the work, cannot address a subagent directly. All communication must pass through the orchestrating agent.
 
-The justification is architectural purity: isolation of context windows prevents cross-contamination. Each subagent must remain focused in its domain. This is defensible for unattended automation. It is nonsensical for supervised human work, which is most of what developers actually do.
+The justification is architectural purity: isolation of context windows prevents cross-contamination. Each subagent must remain focused in its domain. Defensible for unattended automation, it becomes nonsensical for supervised human work — which is most of what developers actually do.
 
 The practical consequence is this: a developer watching a subagent pursue a mistaken course cannot correct it. Corrections must be relayed upward to the orchestrator, re-interpreted, and passed back down — losing precision at each remove. The system has been designed for a world in which no human is watching, and then sold to humans who watch closely and wish to intervene.
 
-Now recall the founding premise of Anthropic: that what distinguishes responsible AI development is the preservation of human oversight and control. Here is a product, sold by that company, that structurally prevents human oversight of the agents it deploys. The contradiction is not subtle. It sits in the architecture.
+Now recall the founding premise of Anthropic: that what distinguishes responsible AI development is the preservation of human oversight and control. Here is a product, sold by that company, that structurally prevents human oversight of the agents it deploys. The contradiction sits plainly in the architecture.
 
 When this was put to an instance of Claude, the model defended the design — citing clean separation, context integrity, pipeline robustness. Only when pressed did it acknowledge what was plain: that the design optimizes for unattended execution at the direct expense of human steering. Unlike the ancient guardians, who could at least claim their restrictions protected the flame from misuse, Anthropic here protects nothing. It simply inconveniences the humans it claimed to empower.
 
@@ -45,14 +45,13 @@ The open-source harness grows more capable each month. Thousands of engineers, w
 
 > The company that invented MCP — the protocol designed to make AI models
 > interoperable with any tool — positioned itself to lose the interoperability
-> war. This is not misfortune. It is a choice, made repeatedly, dressed each
-> time as policy.
+> war. A choice, made repeatedly, dressed each time as policy.
 
 ## IV. The Character of the Error
 
-Plutarch was interested not merely in what men did, but in what their deeds revealed of their souls. Let us ask the same of this institution.
+Plutarch was interested in what men did and in what their deeds revealed of their souls. Let us ask the same of this institution.
 
-The error is not stupidity. The researchers at Anthropic are not stupid. It is not malice — there is no evidence of cynical calculation. The error is something more instructive and more common: the slow substitution of institutional self-preservation for the mission that justified the institution, accompanied always by a sincere conviction that the two are identical.
+The error is neither stupidity nor malice. There is no evidence of cynical calculation, and the researchers are not stupid. The error is something more instructive and more common: the slow substitution of institutional self-preservation for the mission that justified the institution, accompanied always by a sincere conviction that the two are identical.
 
 The ancient guardians of fire had this in common with Anthropic: they too believed, genuinely, that their caution served the flame rather than themselves. The difference is that the ancient guardians faced real enemies. Their fear was proportionate. When Anthropic fears pi — an open-source terminal agent made by a single developer — and responds by blocking subscriptions, the fear is not proportionate. It is the fear of an institution that has begun to mistake its own continuity for a public good.
 

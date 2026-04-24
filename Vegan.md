@@ -1,6 +1,4 @@
-# Vegan, Reclaimed: Exclusively Vegetal — and Why Sodium Chloride Is Not Food
-
-# Vegan, Reclaimed: Exclusively Vegetal and Salt-Free
+# Vegan, Reclaimed: Exclusively Vegetal — and Why Chloride of Sodium Is Not Food
 
 ## 1. Words Remember Their Roots
 
@@ -21,9 +19,9 @@ Language is not static. Words wander, bend, and are borrowed for fashions and ca
 
 Anything **not of vegetal origin** fails the test immediately.
 
-## 3. Why Sodium Chloride Cannot Be Vegan
+## 3. Why Chloride of Sodium Cannot Be Vegan
 
-Sodium chloride (NaCl) fails on first principles:
+Chloride of sodium (NaCl) fails on first principles:
 
 - It is **mined, inorganic, crystalline** — not a product of plant life.
 - It does **not** build living tissue; it **irritates**, **desiccates**, and **hardens**.
