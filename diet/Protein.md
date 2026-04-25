@@ -26,9 +26,9 @@ Underlying this persistence is a human tendency to worship difficulty. What is h
 
 ## The Failure of the Nutrient and Machine Models
 
-Modern nutrition treats the body as a machine fueled by quantifiable inputs: calories, vitamins, protein. Yet calories are measures of combustion, not life. Vitamins were discovered through deficiency states, not vitality. Protein was defined before its nature was understood. The entire model privileges what is measurable over what is real.
+Modern nutrition treats the body as a machine fed by quantifiable inputs and measures food in units that have no correspondence to lived experience: heat-of-combustion, isolated micronutrient assays, gram-counts of "protein." The Āyurvedic categories describe the same food in the terms by which the eater actually meets it: *rasa* (taste, the first contact with the food), *vīrya* (potency, the heating or cooling tendency it carries), *vipāka* (the post-digestive register the food settles into), *prabhāva* (the specific action that exceeds the sum of these), and the food's effect on *agni* (the digestive fire), on the three *doṣas* (*vāta*, *pitta*, *kapha*), and on *ojas* (the refined essence of digestion that underlies vitality). The mechanical model privileges what is measurable in a beaker; the classical model describes what the body itself registers.
 
-No one experiences a calorie or a gram of protein. What is experienced is clarity or heaviness, flow or obstruction. Fasting often sharpens perception rather than collapsing it. Individuals have lived with strength and lucidity on minimal or no material intake, exposing the incompleteness of the mechanical model.
+No one experiences a unit of combustion-heat or a gram of protein. What is experienced is clarity or heaviness, *prāṇa* (vital breath) flowing or obstructed, *agni* steady or labored. Fasting often sharpens perception rather than collapsing it. Practitioners have lived with strength and lucidity on minimal or no material intake, exposing the incompleteness of the mechanical model.
 
 Life is not sustained by matter alone. Ancient systems recognized breath, light, and subtle force—prāṇa, qì (氣), pneuma—as primary. Matter follows force, not the reverse. The machine metaphor blinds modern thought to this reality and confines nourishment to what can be weighed rather than what can be lived.
 

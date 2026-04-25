@@ -39,9 +39,9 @@ Honey (madhu) occupies a unique position in the classical pharmacology. Old hone
 - **Lekhana** (scraping — it strips accumulation from the channels)
 - **Yogavāhī** (carrier — it intensifies the action of whatever it is combined with)
 
-Honey's essential function is **lekhana** — it scrapes. It clears kapha, mobilises fat, dissolves residue from the srotāmsi. This is why Āyurveda praises it: not because it is sweet, but because it is the one sweetener that does not build kapha. It cuts where sugar accumulates. It moves where heaviness stalls.
+Honey's essential function is **lekhana**. It scrapes. It clears *kapha*, mobilises fat, dissolves residue from the *srotāṃsi* (channels of the body). Āyurveda praises it as the one sweetener that scrapes rather than builds, that cuts where sugar accumulates and moves where heaviness stalls.
 
-The Caraka Saṃhitā then issues one of its most specific prohibitions — honey and fat in equal quantity is viṣa (poison):
+The *Caraka Saṃhitā* then issues one of its most specific prohibitions. Honey and fat in equal quantity is *viṣa* (poison):
 
 > **"madhusarpiḥ samadhṛtaṁ mātrayā tadvirudhyatē"**\
 > Honey and ghee held in equal measure — by quantity, that becomes incompatible.\
@@ -94,7 +94,7 @@ This mixture fails every condition. It is cold. It is excessively unctuous (coco
 
 The most structurally damaging aspect of this combination is the simultaneous presence of **rūkṣa** and **snigdha** in the same mass.
 
-Dehydrated fruit is rūkṣa. Honey is rūkṣa. Together they create an intensely drying force within the bolus. Coconut butter is snigdha — intensely unctuous and lubricating. These are not complementary qualities finding balance. They are warring qualities creating confusion.
+Dehydrated fruit is *rūkṣa*. Honey is *rūkṣa*. Together they create an intensely drying force within the bolus. Coconut butter is *snigdha*, intensely unctuous and lubricating. The qualities collide. *Agni* receives instructions in two opposing registers at once.
 
 When rūkṣa and snigdha arrive simultaneously in the same mass, agni cannot determine whether to produce the secretions needed for dry food or the bile acids needed for fat. The digestive response fragments. Partial digestion begins on each front, completing on neither. The result is **āma**:
 

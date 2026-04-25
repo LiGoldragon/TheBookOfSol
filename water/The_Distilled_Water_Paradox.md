@@ -16,7 +16,7 @@ The clay-cleanse industry is not a fringe curiosity. It is the structuring ritua
 
 The narrative follows a specific architecture. The body is imagined as a vessel encrusted with deposits -- calcium in the joints, heavy metals in the brain, "mucoid plaque" lining the intestines, parasites nesting in the colon. Years of civilized eating have left the inner terrain coated, congested, toxic. The cleanse is the act of scraping it clean, and earth is the tool.
 
-Bentonite is said to carry a "negative charge" that "magnetically attracts positively charged toxins." Diatomaceous earth supposedly "scrubs the intestinal wall" with microscopic fossilized edges. Zeolite "traps heavy metals in its crystalline cage structure." Activated charcoal "adsorbs poisons like a sponge." Each substance arrives with its own mechanism story, its own brand, its own protocol -- but every one of them is dirt. Earth. Rock. The geological substrate from which tap water acquires the very minerals the distiller was built to remove.
+Bentonite is said to carry a "negative charge" that "magnetically attracts positively charged toxins." Diatomaceous earth supposedly "scrubs the intestinal wall" with microscopic fossilized edges. Zeolite "traps heavy metals in its crystalline cage structure." Activated charcoal "adsorbs poisons like a sponge." Each substance arrives with its own mechanism story, its own brand, its own protocol. Every one of them is dirt. Earth. Rock. The geological substrate from which tap water acquires the very minerals the distiller was built to remove.
 
 ### The Mucoid Plaque Loop
 

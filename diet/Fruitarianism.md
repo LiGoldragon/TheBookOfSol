@@ -1,6 +1,6 @@
 # Fruit, Ahara, and What Upholds Life
 
-Humans are not inherently fruitarians. They are breatharians first. Breath precedes ingestion; circulation precedes substance. What enters the mouth enters a system already governed by air, heat, and movement. When this order is ignored, nourishment is mistaken for accumulation.
+Humans live first by breath. Breath precedes ingestion; circulation precedes substance. What enters the mouth enters a system already governed by air, heat, and movement. When this order is ignored, nourishment is mistaken for accumulation.
 
 Fruit accords with human physiology because it is light, hydrating, and low in friction. It clears perception and reduces burden. Yet fruit disperses. It moves upward and outward. No living system endures on dispersion alone. Continuity is required: warmth, moisture, cohesion, and descent. Where these are not restored, depletion follows—not as failure, but as consequence.
 
@@ -10,7 +10,7 @@ Fruit accords with human physiology because it is light, hydrating, and low in f
 > *Āhāra is the sustaining support of the vital currents.*\
 > — *Caraka Saṃhitā*
 
-*Āhāra* here does not mean “food” in the modern, mechanical sense. It signifies that which upholds *prāṇa*: breath, warmth, fluid, rhythm, substance. Food is one expression of āhāra, not its definition. Breath remains primary; intake is secondary. Nourishment is not achieved by enumeration of parts, but by what can be transformed, retained, and circulated. Where assimilation fails, abundance is meaningless.
+*Āhāra* here means more than "food" in the modern, mechanical sense. It signifies that which upholds *prāṇa* (the vital breath, the principle of animation): breath, warmth, fluid, rhythm, substance. Food is one expression of *āhāra*. Breath remains primary; intake is secondary. Nourishment is achieved by what can be transformed, retained, and circulated. Where assimilation fails, abundance is meaningless.
 
 ## On Fruit and Poison
 
@@ -28,7 +28,7 @@ The yogic texts state the hierarchy without ambiguity. They do not deny food; th
 > *Hunger and thirst come to cessation.*\
 > — *Haṭha Yoga Pradīpikā*
 
-This is not metaphor. It is refined physiology. When internal circulation and retention are stabilized, dependence on external intake diminishes. Breath, heat, and conserved fluid assume command. Food becomes *support*, not compensation.
+The verse describes refined physiology. When internal circulation and retention are stabilized, dependence on external intake diminishes. Breath, heat, and conserved fluid assume command. Food becomes *support* rather than compensation.
 
 This explains the familiar arc of exclusive fruit diets. At first, clarity arises: lightness increases, perception sharpens, friction falls away. Yet as internal fluids thin and lubrication is lost, the same dispersion that clarified now destabilizes. The colon dries; downward coordination weakens. Constipation appears—not as “toxins leaving,” but as *continuity breaking*. The error is not fruit, but mistaking clearing for sustaining.
 
@@ -38,7 +38,7 @@ This explains the familiar arc of exclusive fruit diets. At first, clarity arise
 
 *Cooked before raw.* Gentle cooking converts dispersion into assimilation. Stewed fruits, soft vegetables, and warm reductions restore moisture and direction while preserving lightness.
 
-*Sweet as stabilizing.* Sweet here means grounding and binding: squash, pumpkin, carrot, beet, ripe fruits, and well-cooked grains nourish *rasa* and steady continuity.
+*Sweet as stabilizing.* Sweet here means grounding and binding: squash, pumpkin, carrot, beet, ripe fruits, and well-cooked grains nourish *rasa* (the first nutritive juice — the plasma-like fluid into which digested food first becomes tissue) and steady continuity.
 
 *Unctuous carriers.* *Ghṛta* (clarified butter) is the classical medium for nerves, blood, and the colon—warming, lubricating, binding—without the instability of seed oils or nuts.
 

@@ -113,12 +113,14 @@ Contemporary Ayurvedic and yogic teachers frequently describe ghee as:
 - “ojas made visible”
 - “the food that steadies the mind”
 
-Modern research—speaking in biochemical instead of spiritual terms—notes ghee’s anti-inflammatory lipids, gut-supportive butyrate, vision-supporting vitamins, and stable cooking properties. These findings mirror classical descriptions of nourishment, clarity, and steadiness.
+Contemporary biochemical descriptions of ghee — its short-chain fatty acids, its stability under heat, its action on the lining of the gut — restate in laboratory vocabulary what the classical texts already named in the language of *snigdha*, *medhya*, and *ojaskara*: nourishment that lubricates without burdening, steadies without dulling, and refines what it carries.
 
 ## **Why Ghee Is the Penultimate Sāttvic Food**
 
 The traditions converge on a unified structure:
 
-1. The **ultimate** sāttvic substances are immaterial: breath, pure water, mantra, stillness. 1. The **highest material** sāttvic substance is ghee. 1. It is the **final refinement** of nourishment, the edible form of clarity, the bridge between food and light.
+1. The **ultimate** sāttvic substances are immaterial: breath, pure water, mantra, stillness.
+2. The **highest material** sāttvic substance is ghee.
+3. It is the **final refinement** of nourishment, the edible form of clarity, the bridge between food and light.
 
 Ghee is therefore the **penultimate sāttvic food**—second only to the formless sources of purity, yet supreme among all that can be taken as nourishment.
