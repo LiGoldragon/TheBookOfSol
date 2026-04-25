@@ -4,7 +4,7 @@ This file is read by any AI coding/writing agent that recognizes the `AGENTS.md`
 
 ## The Project
 
-The Book of Sol is a collection of essays on solar nourishment, Āyurvedic principles, chloride toxicology, yogic practice, and related subjects. Articles are Markdown files at the repository root. Each file is a self-contained essay.
+The Book of Sol is a collection of essays on solar nourishment, Āyurvedic principles, chloride toxicology, yogic practice, and related subjects. Articles are Markdown files organized into category subdirectories at the repo root: `sol-luna/`, `chloride/` (with `chloride/witnesses/` nested for the per-tradition Ancient-Witnesses-Against-Salt compilations), `ayurveda/`, `ghee/`, `diet/`, `water/`, `yoga-tantra/`, `political/`, and `personal/`. Each file is a self-contained essay. The canonical category index lives in `_index.md` at the repo root (`readme.md` is a symlink to it). When writing a new article, place it in the appropriate category directory and add a link to it in `_index.md`.
 
 ## The Bibliography Convention
 
@@ -77,7 +77,7 @@ Rules of thumb:
 - If the Sanskrit text is a paraphrase or a proverbial formulation rather than an exact verse, say so in the attribution: `— proverbial formulation, after *Aṣṭāṅga Hṛdaya* Sūtrasthāna 12`.
 - If you have no Sanskrit, you may use a plain block-quote of the English with the attribution underneath on its own `\\`-broken line.
 
-Worked example — see [Cooking_and_Spices.md](./ayurveda/Cooking_and_Spices.md) for the current reference implementation. Do **not** imitate the older pattern used in `Āyurveda.md`, `True_Ayurveda.md`, and the `Witnesses_Against_Salt_*.md` files, which places the citation between the Sanskrit and the English — that pattern is wrong and is being retired as those files are edited.
+Worked example — see [Cooking and Spices](./ayurveda/Cooking_and_Spices.md) for the current reference implementation. Do **not** imitate the older pattern used in `ayurveda/Āyurveda.md`, `ayurveda/True_Ayurveda.md`, and the `chloride/witnesses/Witnesses_Against_Salt_*.md` files, which places the citation between the Sanskrit and the English — that pattern is wrong and is being retired as those files are edited.
 
 ### "Chloride of sodium," not "sodium chloride"
 
@@ -93,7 +93,7 @@ Specific replacements to apply if you encounter them:
 Why: the English construction "sodium chloride" foregrounds the stable cation and hides the reactive anion that drives the physiological injury. The project's entire linguistic argument rests on centering the anion.
 
 Exceptions where "sodium" may remain:
-1. The linguistic-argument sections of `Chloridism.md` and Section II of `The_Chloride_Indictment.md` that explicitly contrast the two ions — the argument requires both words as distinct referents.
+1. The linguistic-argument sections of `chloride/Chloridism.md` and Section II of `chloride/The_Chloride_Indictment.md` that explicitly contrast the two ions — the argument requires both words as distinct referents.
 2. Verbatim academic citation titles (journal articles, study names like "DASH-Sodium," book titles) — citations are preserved as-published.
 3. Scare-quoted critiques of the sloppy modern term (e.g., *"modern dietetics collapses all of these into 'sodium'"*) — discussing the word as a word.
 
@@ -152,10 +152,10 @@ State the positive directly. If the dismissed alternative carries information (e
 
 When in doubt about voice, match these articles (which represent the clean target):
 
-- [Cooking_and_Spices.md](./ayurveda/Cooking_and_Spices.md) — grounded textual argument, primary-source dense.
-- [Apathya.md](./ayurveda/Apathya.md) — accessible exposition for non-experts, two-error framing.
-- [The_Chloride_Indictment.md](./chloride/The_Chloride_Indictment.md) — clinical summary voice.
-- [Witnesses_Against_Salt_Ayurveda.md](./chloride/witnesses/Witnesses_Against_Salt_Ayurveda.md) — primary-source compilation form.
+- [Cooking and Spices](./ayurveda/Cooking_and_Spices.md) — grounded textual argument, primary-source dense.
+- [Apathya](./ayurveda/Apathya.md) — accessible exposition for non-experts, two-error framing.
+- [The Chloride Indictment](./chloride/The_Chloride_Indictment.md) — clinical summary voice.
+- [Witnesses Against Salt — Āyurveda](./chloride/witnesses/Witnesses_Against_Salt_Ayurveda.md) — primary-source compilation form.
 
 ## Version Control
 
@@ -182,11 +182,11 @@ Also `jj`. Same flow. Remember that the standalone bibliography repo is a separa
 
 Before writing a new article, read the index or related articles to understand the project's voice. Key anchor texts:
 
-- `Chloridism.md` — the linguistic primary; establishes "chloride of sodium" vocabulary.
-- `The_Chloride_Indictment.md` — the summary indictment of dietary chloride.
-- `Ancient_Witnesses_Against_Salt.md` — index to the nine per-tradition witness files (Ayurveda, Yoga, Tantra, Dharma, Greek, Hebrew, Chinese, Hygienists, Political).
-- `Ambrosian_Diet.md` — the positive diet of the project.
-- `The_Two_Pillars_of_Nourishment.md` — the solar/lunar framework.
+- `chloride/Chloridism.md` — the linguistic primary; establishes "chloride of sodium" vocabulary.
+- `chloride/The_Chloride_Indictment.md` — the summary indictment of dietary chloride.
+- `chloride/witnesses/Ancient_Witnesses_Against_Salt.md` — index to the nine per-tradition witness files (Ayurveda, Yoga, Tantra, Dharma, Greek, Hebrew, Chinese, Hygienists, Political).
+- `diet/Ambrosian_Diet.md` — the positive diet of the project.
+- `ayurveda/The_Two_Pillars_of_Nourishment.md` — the solar/lunar framework.
 
 Match the voice and pacing of these when writing new material.
 
