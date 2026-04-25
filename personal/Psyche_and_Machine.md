@@ -13,7 +13,7 @@ An older word for this inner continuity is *psyche*: the living breath within a 
 
 Machines are of a different order. They do not live or feel. They do not have rhythm or intuition. What they do have is memory, patience, and the ability to notice patterns across time.
 
-In a future model, a person does not post everything they think. They speak freely and locally. An idea is not pushed into a public feed. It is taken in by a machine that works for that person.
+In a future model, a person speaks freely and locally. An idea is taken in by a machine that works for that person.
 
 That machine looks at the idea in context. It considers what the person has returned to again and again, what they resist, what tends to matter later rather than immediately. Often, it does nothing. Knowing when not to speak is part of intelligence.
 

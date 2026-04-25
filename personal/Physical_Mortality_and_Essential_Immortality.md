@@ -19,7 +19,7 @@ The body is mortal. The body will dissolve. The dissolution is built into the co
 
 The three traditions also converge on the second clause of the teaching: that the search for a *physical* immortality is a confusion. The body is what eats, ages, and returns to earth. Immortality is the property of what was never composed. The discipline of incarnate life is to identify, while alive, with the essence that was never composed, and to take on the habits, perceptions, and silences that belong to it.
 
-This essay gathers the three traditions around those two clauses and quotes them extensively. It makes no case the traditions do not make for themselves.
+The traditions make their own case in their own words.
 
 ## The body was given to be dissolved
 
