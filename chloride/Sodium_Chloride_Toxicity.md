@@ -1,12 +1,8 @@
-______________________________________________________________________
-
-## Title: Sodium Chloride Toxicity
-
 # Toxicological Evaluation of Ingested Sodium Chloride (NaCl)
 
 ## 1. Introduction
 
-- **Compound of interest:** Sodium chloride (**NaCl**), commonly known as “table salt.”
+- **Compound of interest:** Sodium chloride (**NaCl**), commonly known as "table salt."
 - **Central question:** What are the health outcomes when **NaCl** is ingested, compared with either no **NaCl** ingestion or ingestion of other salts?
 - **Approach:** Review controlled ingestion experiments in humans and animals, substitution trials, and population studies.
 - **Purpose:** To provide a referenced, evidence-driven toxicological conclusion on **NaCl ingestion**.
@@ -69,7 +65,7 @@ ______________________________________________________________________
 
 ### Swap Studies in Rats
 
-- **Design:** Rats given equivalent “cation load,” but **NaCl** vs bicarbonate/citrate salts.
+- **Design:** Rats given equivalent "cation load," but **NaCl** vs bicarbonate/citrate salts.
 - **Result:**
  - **NaCl ingestion** → hypertension and kidney injury.
  - Other salts → muted or absent effects.

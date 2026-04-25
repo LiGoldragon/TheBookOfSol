@@ -4,7 +4,7 @@
 
 There is a position that sounds like compassion but functions as abandonment. It says: I do not eat dairy. I do not use ghee. Therefore the suffering of cows is not my problem. I have removed myself from the system. My hands are clean.
 
-Your hands are empty. And empty is not innocent.
+Your hands are empty. Empty hands are still complicit.
 
 ### The Alliance Is Not Optional
 

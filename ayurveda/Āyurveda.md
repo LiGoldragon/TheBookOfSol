@@ -2,7 +2,7 @@
 
 ## That which supports life is the support of prāṇa
 
-Āyurveda begins by dissolving its own authority. The *Caraka Saṃhitā* defines Āyurveda as discernment grounded in lived effects, not as obedience to a canon. From its first principles, truth is not inherited from the past; it is verified in the present.
+Āyurveda begins by dissolving its own authority. The *Caraka Saṃhitā* defines Āyurveda as discernment grounded in lived effects rather than obedience to a canon. From its first principles, truth is verified in the present.
 
 > **hitāhitaṁ sukhaṁ duḥkhaṁ\
 > āyuṣyaṁ cānāyuṣyam eva ca\

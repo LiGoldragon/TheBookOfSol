@@ -12,7 +12,7 @@ Hermetic teaching frames instruction as an act of responsibility. To teach is to
 >
 > - Corpus Hermeticum XVI
 
-Greek philosophy echoes the same restraint. Wisdom is not distributed by default; it is guarded by discernment.
+Greek philosophy echoes the same restraint. Wisdom is guarded by discernment.
 
 > "One must not give philosophy to those who will abuse it."
 >
@@ -38,7 +38,7 @@ Yogic transmission rules reduce the principle to a single injunction.
 
 The Bhagavad Gita states the restriction without ambiguity, naming the specific disqualifications.
 
-> idam te natapaskaya nabhaktaya kadacana Â· na casusrusave vacyam na ca mam yo'bhyasuyati *This is never to be taught to one without discipline, nor to one without devotion, nor to one unwilling to listen, nor to one who is hostile.*
+> idam te natapaskaya nabhaktaya kadacana na casusrusave vacyam na ca mam yo'bhyasuyati *This is never to be taught to one without discipline, nor to one without devotion, nor to one unwilling to listen, nor to one who is hostile.*
 >
 > - Bhagavad Gita 18.67
 
@@ -54,4 +54,4 @@ Even in modern testimony, stripped of scripture and ritual, the warning survives
 >
 > - Carlos Castaneda
 
-The convergence is exact. Knowledge is fire. It warms, illuminates, and forges, but it also consumes. To teach without discernment is not generosity; it is negligence. Silence, delay, and refusal are not betrayals of truth. They are among its necessary protections.
+The convergence is exact. Knowledge is fire. It warms, illuminates, and forges, but it also consumes. To teach without discernment is negligence. Silence, delay, and refusal are among truth's necessary protections.

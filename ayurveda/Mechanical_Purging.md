@@ -26,7 +26,7 @@ To impose upon them the weight of foreign matter is to injure what one seeks to 
 > **yad apathyam, tan na śarīre pratiṣṭhāṃ labhate**\
 > What is unwholesome cannot find rightful place in the body.
 
-So teaches Suśruta, and so the truth stands: the body rejects what it cannot transform. What is unwholesome is not merely unfit to eat; it is unfit to participate in the living law. Clay, husk, and solvent do not harmonize with the fire; therefore they have no rightful work in cleansing. Their impressive expulsions are the movements of distress, not the movements of restoration.
+So teaches Suśruta, and so the truth stands: the body rejects what it cannot transform. What is unwholesome is unfit to participate in the living law. Clay, husk, and solvent do not harmonize with the fire; therefore they have no rightful work in cleansing. Their impressive expulsions are the movements of distress, not the movements of restoration.
 
 > **agnir hi śarīrasya mūlabhūtaḥ prāṇaḥ**\
 > The digestive fire is the root and breath of life.
@@ -40,12 +40,12 @@ The healing traditions that have endured did not embrace spectacle. They honored
 Among all purifying substances, one stands above the rest. The ancient seers taught that what is produced within the body and ripened by time carries a power that no external purge can rival.
 
 > **svam eva śuddhiṃ karoti jīvana-tejasā yuktaṃ**\
-> That which is one’s own, endowed with the fire of life, performs purification itself.
+> That which is one's own, endowed with the fire of life, performs purification itself.
 
-Properly aged **śivāmbu**, matured in stillness until it is no longer mere fluid but a refined essence, possesses this exact virtue. It enters the channels as one who belongs there. It carries the body’s own intelligence, for it is born of that intelligence. It acts without violence, yet with decisiveness; it softens without weakening; it purges without frightening; it strengthens the fire even as it clears what obstructs it.
+Properly aged **śivāmbu**, matured in stillness until it is no longer mere fluid but a refined essence, possesses this exact virtue. It enters the channels as one who belongs there. It carries the body's own intelligence, for it is born of that intelligence. It acts without violence, yet with decisiveness; it softens without weakening; it purges without frightening; it strengthens the fire even as it clears what obstructs it.
 
 Such a purge does not impress the senses. It does not produce the dramatic masses that delight the eye but injure the frame. Its work is profound, not theatrical. It draws out what does not belong, not by swelling against it, but by recognizing it. Its action is the action of discernment, not of alarm.
 
 No spectacle arises from this purification. There is no great story to tell, no great heap to display, no marvel to announce. What remains afterward is clarity of fire, freedom of breath, and a brightness of mind—signs that the work has been done in accordance with life, not against it.
 
-Thus the counsel stands: the tyranny of visible results must give way to the quiet authority of inward transformation. The body is not healed by what astonishes, but by what understands. The remedy that cooperates with the fire is greater than the remedy that forces the flesh. And among purifying agents, none surpasses the substance that carries the imprint of one’s own life-force, matured, refined, and returned to its source as a liberating medicine.
+Thus the counsel stands: the tyranny of visible results must give way to the quiet authority of inward transformation. The body is not healed by what astonishes, but by what understands. The remedy that cooperates with the fire is greater than the remedy that forces the flesh. And among purifying agents, none surpasses the substance that carries the imprint of one's own life-force, matured, refined, and returned to its source as a liberating medicine.

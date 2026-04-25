@@ -6,7 +6,7 @@
 
 Where Āyurveda registers salt as a toxicological agent, and where the haṭha-yoga corpus registers it as an inhibitor of *prāṇa*, the tantric literature registers it in a third and distinct register: as the substance that most directly obstructs the alchemical function of the body's own fluids. The body, for tantric practice, is not merely a vehicle for consciousness but a laboratory in which ordinary substances are transmuted into refined internal medicine. Salt, by its crude inorganic penetration of every tissue, interrupts this transmutation. It forces the body into a different chemistry than the one the practice is trying to produce.
 
-The *Damar Tantra* — the dialogue in which Śiva teaches Pārvatī the *Shivambu Kalpa Vidhi*, the discipline of self-plasma recycling (*amarolī*, *vajrolī*) — names salt three times as a direct obstruction. The instruction is not incidental. It is structural: the body that is processing its own plasma into the *amṛta* of immortality cannot simultaneously be receiving inorganic chloride burden from the outside. One stream displaces the other.
+The *Damar Tantra*, the dialogue in which Śiva teaches Pārvatī the *Shivambu Kalpa Vidhi* (the discipline of self-plasma recycling, *amarolī*, *vajrolī*), names salt three times as a direct obstruction. The instruction is structural: the body that is processing its own plasma into the *amṛta* of immortality cannot simultaneously be receiving inorganic chloride burden from the outside. One stream displaces the other.
 
 ## Damar Tantra — The Three Prohibitions
 
@@ -44,7 +44,7 @@ The tantric framing differs from the yogic and the Āyurvedic in one important r
 
 The body that is processing its own plasma into refined nectar must be uncontaminated by the crude mineral salts that circulate in the chloridic diet. The *amṛta* of the tradition — the inner elixir that consists of the body's own living fluids, received, concentrated, and returned — cannot form in a body whose extracellular fluid is saturated with the pressurization agent of chloride of sodium. The laboratory has to be clean for the experiment to proceed.
 
-This framing explains why the *Damar Tantra* does not moderate its prohibition. Abstention from salt is not a suggestion. It is a structural precondition of the practice. The practitioner who maintains salt intake will simply not produce the conditions the text describes as the fruit of the method.
+This framing explains why the *Damar Tantra* does not moderate its prohibition. Abstention from salt is a structural precondition of the practice. The practitioner who maintains salt intake will simply not produce the conditions the text describes as the fruit of the method.
 
 ## Convergence
 

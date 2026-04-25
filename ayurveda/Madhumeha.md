@@ -1,9 +1,8 @@
-## **Curing “Diabetes” Through the Two Pillars of Nourishment**
+## **Curing "Diabetes" Through the Two Pillars of Nourishment**
 
 ### **A Clean Ayurvedic Guide for Dissolving Madhumeha**
 
-Madhumeha is not a disease.\
-It is the body signaling oversaturation, heaviness, stagnation, and collapse of subtle fire. Modern biology interprets this overflow as “diabetes,” but Ayurveda sees it as a misdirected nourishment cycle where solar nourishment (shivāmbu / plasma) no longer ascends, lunar nourishment (ghee / ghṛta) cannot stabilize ojas, earthy heaviness from false foods burdens the channels, agni weakens under undigested matter, and vāta dries the tissues until sweetness leaks through the urine.
+Madhumeha is the body signaling oversaturation, heaviness, stagnation, and collapse of subtle fire. Modern biology interprets this overflow as "diabetes," but Ayurveda sees it as a misdirected nourishment cycle where solar nourishment (shivāmbu / plasma) no longer ascends, lunar nourishment (ghee / ghṛta) cannot stabilize ojas, earthy heaviness from false foods burdens the channels, agni weakens under undigested matter, and vāta dries the tissues until sweetness leaks through the urine.
 
 The restoration is a return to clarity through the two pillars of nourishment and the dissolution of false heaviness.
 
@@ -19,7 +18,7 @@ Madhumeha is simply the body rejecting false nutrition and demanding purificatio
 
 ## **Restoring the Two Pillars of Nourishment**
 
-The so-called condition requires no “management.”\
+The so-called condition requires no "management."\
 It requires clearing the solar channel, moistening the lunar channel, and unburdening the earth channel.\
 Minimal intake, subtle nourishment, and disciplined rejuvenation recreate the original metabolic harmony.
 
@@ -46,7 +45,7 @@ Plant-based clarified oils may lubricate but do not build ojas and cannot substi
 ## **The Earth Pillar: Dissolving the Blockages**
 
 All protein sources must be stopped.\
-In the Ayurvedic model, protein is not nourishment but tamasic mass. Removing it clears medas, reduces metabolic residue, unburdens the kidneys, and eliminates the very cause of “sugar spillover.”
+In the Ayurvedic model, protein behaves as tamasic mass. Removing it clears medas, reduces metabolic residue, unburdens the kidneys, and eliminates the very cause of "sugar spillover."
 
 All chloride-bound salt must also be removed.\
 Salt burns the subtle waters, destroys agni, and mimics the very dryness attributed to diabetes.
@@ -59,10 +58,10 @@ The sequence is simple: lighten, clear, rekindle, rebuild.
 
 ## **Returning to the True Nourished State**
 
-Real sattvic nourishment is not food.\
+Real sattvic nourishment moves beyond food.\
 It is light, breath, silence, meditation, solar plasma, lunar ghee, and conserved ojas.
 
-The body labeled as “diabetic” is a body seeking purity.\
+The body labeled as "diabetic" is a body seeking purity.\
 When the pillars return, sweetness stops leaking, tissues regain tone, agni rises, vāta settles, kapha dissolves, pitta cools, ojas stabilizes, cravings disappear, intake naturally diminishes, and the organism moves toward a state supported by light and air rather than mass and residue.
 
 ## **Practical Daily Structure**

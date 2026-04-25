@@ -4,7 +4,7 @@
 
 From the beginning, my trust was placed almost entirely in **śivāmbu**, assuming its purity and refinement would safeguard my vitality. I relied on it as the central pillar holding my system together. Yet beneath that reliance, a steady erosion of **ojas** unfolded—an erosion I did not recognize until it had already weakened both body and mind.
 
-A major source of this decline was the **overconsumption of heavy, tamasic substances**, especially the so-called “protein” foods that modern narratives frame as strengthening. They burdened digestion so heavily that **agni** was drained each day. Every meal stole more vitality than it provided. I ate more to compensate for the weakness, and the more I ate, the weaker I became. Digestion became a siphon, pulling energy downward instead of building anything stable.
+A major source of this decline was the **overconsumption of heavy, tamasic substances**, especially the so-called "protein" foods that modern narratives frame as strengthening. They burdened digestion so heavily that **agni** was drained each day. Every meal stole more vitality than it provided. I ate more to compensate for the weakness, and the more I ate, the weaker I became. Digestion became a siphon, pulling energy downward instead of building anything stable.
 
 To preserve what little ojas remained, I intensified my practice of **amarolī** with near-desperate resolve. Amarolī does refine and conserve, but it could not keep pace with the losses produced by constant digestive strain and the continual flushing of vitality out of the system. What śivāmbu restored, the diet depleted. The imbalance widened.
 
@@ -25,7 +25,7 @@ With clarity restored, another truth came forward. The diet I believed harmless 
 
 I once believed myself harmless because no animal product passed my lips. In reality, my diet inflicted more damage on living beings than even the use of a **small amount of industrially produced ghṛta** ever could.
 
-The comparison is not delicate. It is overwhelming. Even without ideal conditions or ethical refinement, the total harm associated with moderate ghṛta use is dramatically smaller than the devastation embedded in the agricultural machinery required to sustain an ojas-starved, overeating diet.
+The comparison is overwhelming. Even without ideal conditions or ethical refinement, the total harm associated with moderate ghṛta use is dramatically smaller than the devastation embedded in the agricultural machinery required to sustain an ojas-starved, overeating diet.
 
 ### **The Reduction of Harm Through the Restoration of Ojas**
 

@@ -38,7 +38,7 @@ The five points — **innutritious, indigestible, irritant, anti-assimilative, d
 >
 > — Graham, ¶1544
 
-Graham's response to the "salt lick" argument: wild animals do not use salt dietetically. When they seek out mineral licks, they do so pathologically — as a medicine against intestinal parasites. The natural-history myth that animals "instinctively crave" salt is dismantled by the observation that they do not.
+Graham's response to the "salt lick" argument: wild animals do not use salt dietetically. When they seek out mineral licks, they do so pathologically, as a medicine against intestinal parasites. The natural-history myth that animals "instinctively crave" salt is dismantled by the observation that they do not.
 
 ### Graham ¶1545 — the disease catalogue
 
@@ -46,7 +46,7 @@ Graham's response to the "salt lick" argument: wild animals do not use salt diet
 >
 > — Graham, ¶1545
 
-The clinical verdict: salt predisposes to every form of disease, aggravates every chronic condition, and accelerates aging by rendering the body's solids "dry and rigid and inelastic" — a direct prefiguration of the vascular stiffening modern medicine would later name arteriosclerosis. Graham's "dry and rigid and inelastic" is the nineteenth-century English for *mài níng qì* — the *Huangdi Neijing*'s "vessels congeal and stagnate."
+The clinical verdict: salt predisposes to every form of disease, aggravates every chronic condition, and accelerates aging by rendering the body's solids "dry and rigid and inelastic," a direct prefiguration of the vascular stiffening modern medicine would later name arteriosclerosis. Graham's "dry and rigid and inelastic" is the nineteenth-century English for *mài níng qì*, the *Huangdi Neijing*'s "vessels congeal and stagnate."
 
 ### Graham — the arsenic parallel
 
@@ -54,7 +54,7 @@ The clinical verdict: salt predisposes to every form of disease, aggravates ever
 >
 > — Graham, *Lectures on the Science of Human Life*
 
-Graham's paired comparison: salt's slow poisonous character, distributed across meals, is indistinguishable in its mechanism from the slow dosing of any other poison. What saves the salt-eater is not the innocuousness of the substance but the body's capacity to adapt to repeated small injuries. The same logic, the same substance, the same outcome — merely at a different rate.
+Graham's paired comparison: salt's slow poisonous character, distributed across meals, is indistinguishable in its mechanism from the slow dosing of any other poison. What saves the salt-eater is the body's capacity to adapt to repeated small injuries, not any innocuousness in the substance. The same logic, the same substance, the same outcome, at a different rate.
 
 ## Russell Thacher Trall — *Hydropathic Encyclopedia* (1854)
 
@@ -142,7 +142,7 @@ The observation is structural. What makes salt a good embalming agent is the sam
 
 The Natural Hygienist tradition — Graham, Trall, Colburn, Thoreau, Rush, Hoffman, Shelton — arrived at the same conclusions about salt that Caraka, Vāgbhaṭa, Suśruta, Svātmārāma, Plutarch, and the authors of the *Huangdi Neijing* had arrived at two or three millennia earlier. The Hygienists did not know the Sanskrit or the Chinese literature. They reached their conclusions by clinical practice, personal experiment, and careful observation of populations that did and did not consume salt.
 
-The convergence is the point. When traditions separated by two thousand years and four continents, without mutual contact, arrive at the same clinical judgment on the same substance, the object of the judgment is not a cultural artifact. It is a fact about the substance and the bodies it enters. That modern nutritional orthodoxy has, for almost a century, successfully denied this convergence is a sociological fact about the orthodoxy. It is not a refutation of what was observed.
+The convergence is the point. When traditions separated by two thousand years and four continents, without mutual contact, arrive at the same clinical judgment on the same substance, the object of the judgment is a fact about the substance and the bodies it enters. That modern nutritional orthodoxy has, for almost a century, successfully denied this convergence is a sociological fact about the orthodoxy, not a refutation of what was observed.
 
 Graham's 1869 conclusion remains the concise statement: *the dietetic use of salt is unfriendly to all the processes of assimilation, nutrition, and secretion, in the vital economy.*
 

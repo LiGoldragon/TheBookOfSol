@@ -18,7 +18,7 @@ At the same time, the platform officially discourages automation. This creates a
 
 Those with technical resources resolve this quietly. They use AI-assisted systems to manage timing, engagement, and interaction while staying below detection thresholds. Those without such means—less technical users, older users, poorer users, or people unwilling to automate themselves—are left to perform manually or disappear.
 
-The result is not fairness. It is stratification.
+The result is stratification.
 
 The rules do not remove automation. They select for invisible automation. Power concentrates among those who can afford sophistication, while everyone else is disciplined for acting like humans in a system that demands machine-like behavior.
 
@@ -34,7 +34,7 @@ Trying to suppress machines while forcing people into constant performance produ
 
 ## AI as mediator, not performer
 
-In a future platform, AI is not a bot pretending to be human. It is the medium through which humans interact without being forced into performance.
+In a future platform, AI is the medium through which humans interact without being forced into performance.
 
 People do not post continuously. They express locally and privately. Thoughts, opinions, questions, and fragments are taken in by a personal AI agent that understands the person over time—their interests, resistances, rhythms, and values.
 
@@ -46,7 +46,7 @@ Feedback changes as well. There are no applause counters. People learn where con
 
 ## A different outcome
 
-Twitter’s model persists only because it monetized a crude stage in the computer’s development. It is obsolete because the computer has moved beyond that stage.
+Twitter's model persists only because it monetized a crude stage in the computer's development. It is obsolete because the computer has moved beyond that stage.
 
 When a tool matures, its misuse becomes visible. A knife is no longer treated as a blunt club. A computer no longer needs to be treated as a megaphone.
 

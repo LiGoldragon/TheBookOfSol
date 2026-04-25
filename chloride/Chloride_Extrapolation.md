@@ -4,7 +4,7 @@
 
 Few substances enjoy such complete immunity from scrutiny as chloride. It is declared essential by repetition rather than by proof, defended by tradition rather than by demonstration, and absorbed into doctrine by the sheer weight of inheritance. Its alleged healthfulness at low dose is not established by experiment; it is presumed. Where proof should stand, habit reigns.
 
-No controlled experiment has shown that ingesting chloride enhances vitality, coherence, mood, or lived strength when compared against a true zero-intake control. This is not a minor omission. It is the entire question. Health, properly understood, is not the avoidance of collapse but the amplification of life. On this standard, the case for chloride remains empty.
+No controlled experiment has shown that ingesting chloride enhances vitality, coherence, mood, or lived strength when compared against a true zero-intake control. This is the entire question. Health, properly understood, is the amplification of life rather than the avoidance of collapse. On this standard, the case for chloride remains empty.
 
 ## What the record admits
 
@@ -14,7 +14,7 @@ These are not speculative claims. They are accepted facts.
 
 From this accepted region, a simple ordering emerges: high intake is harmful; higher intake is more harmful; extreme intake is lethal. No benefit appears as dose rises. No rebound occurs. No hormetic rescue bends the curve. Harm steepens. Compensation fails.
 
-From this ordering alone, a provisional and openly theoretical extrapolation follows. If harm scales monotonically with burden where data exist, then, absent counter-evidence, reducing burden reduces harm. Within this model, zero intake is the least-harm endpoint. This extrapolation is not proof. It is geometry applied to accepted facts, and it stands unopposed by any experiment demonstrating the contrary.
+From this ordering alone, a provisional and openly theoretical extrapolation follows. If harm scales monotonically with burden where data exist, then, absent counter-evidence, reducing burden reduces harm. Within this model, zero intake is the least-harm endpoint. The extrapolation is geometry applied to accepted facts, offered as such, and it stands unopposed by any experiment demonstrating the contrary.
 
 ## Voices from the record
 
@@ -48,11 +48,11 @@ He further related in Devotion to Nutrition:
 
 > "My experiments showed that salt eating, with the retention in the body of salt and water, impairs the body's functions."
 
-These are not modern trials. They do not pretend to be. They are witnesses: clinical, chemical, experiential. They do not claim enhancement. They describe irritation, contraction, dehydration, retention, degeneration.
+These are witnesses: clinical, chemical, experiential. They describe irritation, contraction, dehydration, retention, degeneration.
 
 ## The narcotic pattern
 
-A narcotic is not defined by pleasure alone. It is defined by suppression: the dulling of sensation, the masking of imbalance, the creation of dependence through relief that conceals injury. Chloride follows this pattern precisely. It irritates tissues, provokes thirst, alters fluid distribution, and produces transient sensations of satisfaction that reinforce use. Habit forms. Tolerance follows. More is required for the same effect. The body adapts, then pays.
+A narcotic is defined by suppression: the dulling of sensation, the masking of imbalance, the creation of dependence through relief that conceals injury. Chloride follows this pattern precisely. It irritates tissues, provokes thirst, alters fluid distribution, and produces transient sensations of satisfaction that reinforce use. Habit forms. Tolerance follows. More is required for the same effect. The body adapts, then pays.
 
 That excessive chloride is harmful is conceded. That moderate chloride prevents pathology is assumed. That low-dose chloride enhances health has never been shown. Yet the assumption persists, defended by the same logic that would declare heroin healthy for the addict because it suppresses withdrawal.
 
@@ -68,8 +68,8 @@ Where evidence ends, assumption must not begin masquerading as truth.
 
 ## Clarity without dogma
 
-This essay does not assert that chloride is poison in a metaphysical sense. It asserts something far more modest and far more rigorous: poison remains a live hypothesis, while healthful necessity does not meet the evidentiary bar.
+The claim here is modest and rigorous: poison remains a live hypothesis, while healthful necessity does not meet the evidentiary bar.
 
-Common sense aligns with this conclusion. The data admitted by mainstream medicine align with it. Historical observation aligns with it. What stands opposed is not evidence, but habit.
+Common sense aligns with this conclusion. The data admitted by mainstream medicine align with it. Historical observation aligns with it. What stands opposed is habit, not evidence.
 
-Until proof appears, clarity requires restraint. And restraint, in this case, is the most rational position of all.
+Until proof appears, clarity requires restraint. Restraint, in this case, is the rational position.
