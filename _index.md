@@ -135,6 +135,9 @@ Written and compiled by Olivier Francoeur, aka Li Goldragon.
 - [Carlos Castaneda — death, the Eagle, and the definitive journey](./source-extracts/Carlos_Castaneda/death-the-eagle-and-the-definitive-journey.md)
 - [Armando Torres — death, the sorcerers' option, and the eternal essence](./source-extracts/Armando_Torres/death-the-sorcerers-option.md)
 - [Upaniṣads — death and the imperishable self (Kaṭha, Muṇḍaka, Ṛgveda)](./source-extracts/Upanisads/death-and-the-imperishable-self.md)
+- [Aṣṭāṅga Hṛdaya — water, thirst, and the *ambuvaha-srotas*](./source-extracts/Astanga_Hrdaya/water-and-srotas.md)
+- [Khecarīvidyā — the lunar nectar and the body sustained from within](./source-extracts/Khecarividya/lunar-nectar-and-breath.md)
+- [Roots of Yoga — breatharian witnesses, lunar nectar, and the body that eats itself](./source-extracts/Roots_of_Yoga/breatharian-witnesses.md)
 
 ## Research
 
