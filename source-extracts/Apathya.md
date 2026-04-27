@@ -71,15 +71,20 @@ The word is *anna* — cooked grain, the staple of the śāstraic diet — not *
 
 The two-word positive register of the yogic meal: *snigdha-madhura*. Everything outside these two adjectives is either allowed marginally or excluded.
 
-### Aṣṭāṅga Hṛdaya Sū. 8 — food that kindles agni
+### Aṣṭāṅga Hṛdaya Sū. 8.1–2 — measured eating kindles agni
 
-> **uṣṇaṁ snigdhaṁ mātrāvad ajīrṇe'nupasevitam |**\
-> **agniṁ dīpayati āhāraḥ samyak tu bala-vardhanaḥ ||**
+> **mātrāśī sarva-kālaṃ syān mātrā hy agneḥ pravartikā |\
+> mātrāṃ dravyāṇy apekṣante gurūṇy api laghūny api ||\
+> gurūṇām ardha-sauhityaṃ laghūnāṃ nāti-tṛpta-tā |\
+> mātrā-pramāṇaṃ nirdiṣṭaṃ sukhaṃ yāvad vijīryati ||**
 >
-> "Food taken warm, unctuous, in proper measure,\
-> and not during indigestion, kindles agni\
-> and nourishes strength."\
-> — *Aṣṭāṅga Hṛdaya*, Sūtrasthāna 8 (on āhāra-vidhi)
+> "One should always eat in measure — for measure is what kindles *agni*.\
+> All substances depend on measure, whether heavy or light.\
+> Of heavy foods, half-fullness; of light foods, not over-fullness:\
+> this is the standard, eating only as much as digests with ease."\
+> — *Aṣṭāṅga Hṛdaya* Sūtrasthāna 8.1–2
+
+The doctrinal companion verse is the famous Caraka Vimānasthāna 1.24–25 list — *uṣṇa, snigdha, mātrāvat, jīrṇe, vīrya-aviruddha, iṣṭa-deśe, iṣṭa-sarvasvaṃ, na ati-drutaṃ, na ati-vilambitam, a-jalpan, a-hasan, tan-manā* — eat warm, unctuous, in measure, after the previous meal has digested, without dietary antagonism, in a favourable place, with all the proper accessories, not too fast, not too slow, not while talking or laughing, with full attention. The two passages, taken together, are the complete classical *āhāra-vidhi*. Caraka's eight-fold rule is the elaboration; Vāgbhaṭa's *mātrāśī sarva-kālaṃ syāt* is the compressed core.
 
 ## III. The prohibition list — apathya
 
@@ -198,18 +203,16 @@ The full doctrinal elaboration of the same passage:
 > in order to derive benefit (from them)."\
 > — *Caraka Saṃhitā*, Sūtrasthāna 26.44, trans. Priya Vrat Sharma
 
-### Aṣṭāṅga Hṛdaya Sū. 10.12–13 — lavaṇa in excess (Vāgbhaṭa)
+### Aṣṭāṅga Hṛdaya Sū. 10.13–14ab — lavaṇa in excess (Vāgbhaṭa)
 
-> **atisevitas tu asra-pavana-kopano\
-> dehasya dauḥśīlya-vali-palita-khālitya-\
-> tṛṣṇā-kuṣṭha-viṣa-visarpa-balakṣayān karoti ||**
+> **snehanaḥ svedanas tīkṣṇo rocanaś cheda-bheda-kṛt |\
+> so 'ti-yukto 'sra-pavanaṃ khalatiṃ palitaṃ valīm |\
+> tṛṭ-kuṣṭha-viṣa-vīsarpān janayet kṣapayed balam ||**
 >
-> "Used in excess, salt causes increase of blood and wind;\
-> it produces coarseness of the body, wrinkles of the skin,\
-> greying of the hair, baldness, thirst,\
-> leprosy and other skin diseases, the action of poisons, herpes,\
-> and the diminution of bodily strength."\
-> — *Aṣṭāṅga Hṛdaya*, Sūtrasthāna 10.12–13, trans. K. R. Srikantha Murthy
+> "Salt is unctuous, sudorific, sharp, palatable, breaking up and cutting through.\
+> Used in excess, it produces vitiation of blood and *vāta*, baldness, greying, wrinkles,\
+> **thirst**, leprosy, poisoning, erysipelas — and it consumes strength."\
+> — *Aṣṭāṅga Hṛdaya* Sūtrasthāna 10.13–14ab
 
 ### Suśruta Uttara 44 — salt among the causes of pāṇḍu-roga
 

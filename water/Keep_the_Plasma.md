@@ -51,7 +51,7 @@ The doctrine of [The Distilled Water Paradox](./The_Distilled_Water_Paradox.md) 
 > Whether it does good or harm depends further on place and season."\
 > — *Aṣṭāṅga Hṛdaya* Sūtrasthāna 5.1–2
 
-Rain water resembles rasa because rain has not yet picked up the load of the earth. Distilled water is the engineering equivalent: water freed of the inorganic load it acquired in transit. Every other water enters the body owing it a settlement.
+Rain water resembles rasa because rain has not yet picked up the load of the earth. Distilled water is the engineering equivalent: water freed of the inorganic load it acquired in transit. Every other water arrives carrying what it picked up on the way, and the body has to clear that load before it can use the water.
 
 ## What the Ambrosian Diet Builds
 

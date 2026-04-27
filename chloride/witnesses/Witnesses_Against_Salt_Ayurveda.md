@@ -42,43 +42,56 @@ Caraka recognizes six tastes — *madhura* (sweet), *amla* (sour), *lavaṇa* (s
 
 Vāgbhaṭa's *Aṣṭāṅga Hṛdaya*, the synthesizing classical compendium, states the harms of salt excess in language that reads like a modern summary of chronic-salt-load pathology.
 
-### On the effects of excess (Sūtrasthāna 10.12–13)
+### On the effects of excess (Sūtrasthāna 10.13–14ab)
 
-> **atisevitas tu asra-pavana-kopano dehasya dauḥśīlya-vali-palita-khālitya-tṛṣṇā-kuṣṭha-viṣa-visarpa-balakṣayān karoti ||**
+> **snehanaḥ svedanas tīkṣṇo rocanaś cheda-bheda-kṛt |\
+> so 'ti-yukto 'sra-pavanaṃ khalatiṃ palitaṃ valīm |\
+> tṛṭ-kuṣṭha-viṣa-vīsarpān janayet kṣapayed balam ||**
 >
-> *Used in excess, salt causes increase of blood (asra) and wind (vāta-pavana); it produces coarseness of the body, wrinkles of the skin, greying of the hair, baldness, thirst, leprosy and other skin diseases, the action of poisons, herpes, and the diminution of bodily strength.*
->
-> — *Aṣṭāṅga Hṛdaya*, Sūtrasthāna 10.12–13, trans. K. R. Srikantha Murthy
+> "Salt is unctuous, sudorific, sharp, palatable, breaking up and cutting through.\
+> Used in excess, it produces vitiation of blood and *vāta*, baldness, greying, wrinkles,\
+> thirst, leprosy, poisoning, erysipelas — and it consumes strength."\
+> — *Aṣṭāṅga Hṛdaya* Sūtrasthāna 10.13–14ab
 
-The list — *asra-kopa, vali, palita, khālitya, tṛṣṇā, kuṣṭha, visarpa, bala-kṣaya* — runs item by item through the visible signatures of chronic hypertension: vascular congestion, skin changes, greying, baldness, pathological thirst, inflammatory skin disease, vesicular eruption, and loss of physical strength. What modern cardiology measures with blood pressure cuffs and lipid panels, classical Āyurveda had already catalogued as the *atiyoga* of *lavaṇa rasa*.
+The catalogue — *asra-pavana-kopa, khalati, palita, vali, tṛṣṇā, kuṣṭha, viṣa, vīsarpa, bala-kṣaya* — runs item by item through the visible signatures of chronic hypertension: vascular congestion, baldness, greying, skin folds, pathological thirst, inflammatory skin disease, vesicular eruption, and loss of physical strength. What modern cardiology measures with blood-pressure cuffs and lipid panels, classical Āyurveda had already catalogued as the *atiyoga* of *lavaṇa rasa*.
 
-### The saindhava exception
+### The saindhava exception (Sūtrasthāna 10.34cd)
 
 The single most diagnostic line in Vāgbhaṭa for the present argument:
 
-> *Generally, salts are bad for the eyes (vision), except* saindhava.
+> **a-pathyaṃ lavaṇaṃ prāyaś cakṣuṣo 'nya-tra saindhavāt ||**
 >
-> — *Aṣṭāṅga Hṛdaya*, Sūtrasthāna, on the rasa-dravya-guṇa classification
+> "Salt is generally unwholesome for the eyes, except *saindhava*."\
+> — *Aṣṭāṅga Hṛdaya* Sūtrasthāna 10.34cd
 
-*Saindhava* — rock salt from the Sindh — is the single salt Vāgbhaṭa excepts from his blanket negative classification, and only for a specific therapeutic application to the eye-tissues. Every other salt, including the sea-derived chloride of sodium of ordinary diet, is classified as an agent of visual degradation. The classical tradition did not treat salt as one substance. It distinguished with surgical precision between *saindhava* (rock salt, used medicinally), *sauvarcala* (black salt, digestive), *bida* (pit salt), *sāmudra* (sea salt — the common chloride ingestant), *audbhida* (earth-derived, alkaline), *romaka* (Punjabi rock salt), and *pāṃsuja* (earth-exuded).
+*Saindhava* — rock salt from the Sindh — is the single salt Vāgbhaṭa excepts from his blanket negative classification, and only for a specific therapeutic application to the eye-tissues. Every other salt, including the sea-derived chloride of sodium of ordinary diet, is classified as an agent of visual degradation. The classical tradition treated salt not as one substance but as eight, distinguishing *saindhava* (rock salt, used medicinally), *sauvarcala* (black salt, digestive), *viḍa* (pit salt, alkaline-pungent), *sāmudra* (sea salt, the common chloride ingestant), *audbhida* (earth-derived, bitter-pungent-alkaline), *romaka* (Punjabi rock salt, light), *pāṃsūttha* (earth-exuded, alkaline), and *kṛṣṇa* (black salt, sauvarcala-like).
 
-### The eight-fold salt classification (Sūtrasthāna 6.147–148)
+### The eight-fold salt classification (Sūtrasthāna 10.27)
 
-Vāgbhaṭa lists the eight salts by name:
+Vāgbhaṭa lists the salt-group:
 
-> *Varam (saindhava), sauvarcala, kṛṣṇa (bida), sāmudra, audbhida, romaka, pāṃsuja — all these are lavaṇas or salts — sīsa (lead) and kṣāra (alkalies) form the salt group.*
+> **varaṃ sauvarcalaṃ kṛṣṇaṃ viḍaṃ sāmudram audbhidam |\
+> romakaṃ pāṃsu-jaṃ sīsaṃ kṣāraś ca lavaṇo gaṇaḥ ||**
 >
-> — *Aṣṭāṅga Hṛdaya*, Sūtrasthāna 6.147, trans. Srikantha Murthy
+> "*Saindhava* (the best), *sauvarcala*, *kṛṣṇa*, *viḍa*, *sāmudra*, *audbhida*,\
+> *romaka*, *pāṃsuja*, *sīsa* (lead), and *kṣāra* (alkali) — these constitute the salt group."\
+> — *Aṣṭāṅga Hṛdaya* Sūtrasthāna 10.27
 
-And their individual characters:
+And in the lavaṇa-varga of chapter 6, their individual characters (Sū 6.143–149):
 
-> *Sauvarcala is easily digestable, good for the heart, possesses good smell, purifies belchings, pungent at the end of digestion, relieves constipation, kindles digestion.*
+> **viṣyandi lavaṇaṃ sarvaṃ sūkṣmaṃ sṛṣṭa-malaṃ viduḥ |\
+> vāta-ghnaṃ pāki tīkṣṇoṣṇaṃ rocanaṃ kapha-pitta-kṛt |\
+> saindhavaṃ tatra sa-svādu vṛṣyaṃ hṛdyaṃ tri-doṣa-nut ||**
 >
-> *Audbhida is slightly bitter, pungent and alkaline in taste, penetrates deep and increases the secretions.*
+> "All salt is universally cloying, subtle, laxative.\
+> Among them *saindhava* is sweet, aphrodisiac, dear to the heart, and pacifies all three *doṣas*;\
+> it alleviates *vāta*, is digestive, sharp and hot, palatable, and yet aggravates *kapha* and *pitta*."\
+> — *Aṣṭāṅga Hṛdaya* Sūtrasthāna 6.143cd–144
+
+> **vipāke svādu sāmudraṃ guru śleṣma-vivardhanam ||**
 >
-> *Romaka is easily digestable; pāṃsūttha is slightly alkaline, aggravates kapha and not easily digestable.*
->
-> — *Aṣṭāṅga Hṛdaya*, Sūtrasthāna 6.148, trans. Srikantha Murthy
+> "*Sāmudra* (sea salt) is sweet in *vipāka*, heavy, and increases *kapha*."\
+> — *Aṣṭāṅga Hṛdaya* Sūtrasthāna 6.147cd
 
 The distinctions are not ceremonial. Each salt is a different agent with a different therapeutic and toxicological profile. Modern dietetics collapses all of these into "sodium" or "salt," and then defends the indiscriminate consumption of what classical Āyurveda would have identified as the single most harmful species of the category: *sāmudra lavaṇa* — the sea salt of the ordinary table.
 
@@ -118,6 +131,6 @@ There is no Āyurvedic defense of free salt intake. There is a therapeutic use o
 
 ### Sources
 
-For the Sanskrit originals: *Caraka Saṃhitā* — the Priya Vrat Sharma edition (Chaukhambha, 2014) and the Jadavji Trikamji Āchārya critical edition. For Vāgbhaṭa: the K. R. Srikantha Murthy translation of the *Aṣṭāṅga Hṛdaya* (Krishnadas Ayurveda Series). For Suśruta: the Kaviraj Kunjalal Bhishagratna translation (Cosmo Publications), based on the original Sanskrit text.
+For the Sanskrit originals: *Caraka Saṃhitā* — the Priya Vrat Sharma edition (Chaukhambha, 2014) and the Jadavji Trikamji Āchārya critical edition. For Vāgbhaṭa: the [GRETIL plain-text](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_vAgbhaTa-aSTAGgahRdayasUtra.txt) edition of the *Aṣṭāṅga Hṛdaya Sūtrasthāna* (Das & Emmerick, collated from Pārādakara and Kunte/Navre); the K. R. Srikantha Murthy translation (Krishnadas Ayurveda Series) is used as English cross-check only — the English in this file is fresh, drafted to match the project's voice. For Suśruta: the Kaviraj Kunjalal Bhishagratna translation (Cosmo Publications), based on the Sanskrit text of the Nirṇaya Sāgara edition.
 
 *See also the companion files in this series: [Witnesses_Against_Salt_Yoga](./Witnesses_Against_Salt_Yoga.md), [Witnesses_Against_Salt_Tantra](./Witnesses_Against_Salt_Tantra.md), [Witnesses_Against_Salt_Dharma](./Witnesses_Against_Salt_Dharma.md), and the index at [Ancient_Witnesses_Against_Salt](./Ancient_Witnesses_Against_Salt.md).*
