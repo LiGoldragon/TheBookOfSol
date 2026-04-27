@@ -70,6 +70,6 @@ The article's working thesis — that the body does not want water but a plasma 
 
 ## Sources
 
-- Mallinson, James, and Mark Singleton. 2017. *Roots of Yoga*. London: Penguin Classics. [`bibliography/en/mallinson-singleton/`](../../../bibliography/en/mallinson-singleton/)
-- Mallinson, James (ed. and trans.). 2007. *The Khecarīvidyā of Ādinātha*. London: Routledge. [`bibliography/en/adinatha/`](../../../bibliography/en/adinatha/)
+- Mallinson, James, and Mark Singleton. 2017. *Roots of Yoga*. London: Penguin Classics. Bibliography path: [`en/mallinson-singleton/`](https://github.com/LiGoldragon/bibliography/tree/main/en/mallinson-singleton).
+- Mallinson, James (ed. and trans.). 2007. *The Khecarīvidyā of Ādinātha*. London: Routledge. Bibliography path: [`en/adinatha/`](https://github.com/LiGoldragon/bibliography/tree/main/en/adinatha).
 - Editions reproduced in *Roots of Yoga*: *Amaraughaprabodha* (Ed. K. Mallik 1954); *Jñāneśvarī* (Marathi text, Pradhan trans.); Ibn Baṭṭūṭa, *Riḥla* (trans. H. A. R. Gibb); *Tashrīḥ al-Aqvām* (trans. M. K. Dhavalikar); Sir Claude Wade, eyewitness account 1837.

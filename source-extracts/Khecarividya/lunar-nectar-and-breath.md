@@ -51,12 +51,12 @@ The 128 sequence — *sour, pungent, bitter, milky, sweet, syrupy* — is the si
 
 ## V. Cross-references inside this repository
 
-- The *external* version of this circuit — collecting, aging, and distilling the body's own plasma so that the *Lunar essence* (Seahawk's name) becomes the daily drinking water — is documented in [Plasma Recycling Manual](../../water/Plasma_Recycling_Manual.md) and at [/home/li/git/AnaSeahawk-website/sovereign-biophysics-distillation/](../../../AnaSeahawk-website/sovereign-biophysics-distillation/).
+- The *external* version of this circuit — collecting, aging, and distilling the body's own plasma so that the *Lunar essence* (Seahawk's name) becomes the daily drinking water — is documented in [Plasma Recycling Manual](../../water/Plasma_Recycling_Manual.md) and in Ana Seahawk's [Sovereign Biophysics Distillation archive](https://github.com/AnaSeahawk/website/tree/main/sovereign-biophysics-distillation).
 - The Ambrosian dietary regime that supplies the body with the *snigdha-madhura* substrate the cranial nectar is constituted of: [The Ambrosian Diet](../../diet/Ambrosian_Diet.md).
 - The vajrolī-amarolī-sahajolī triad from HYP 3 (the precondition for khecarī to function): [Vajrolī](../../yoga-tantra/Vajrolī.md).
 - The "throat-well closes" endpoint stated by Patañjali (YS 3.30): see [The Ambrosian Diet](../../diet/Ambrosian_Diet.md) and (planned) *The Body Does Not Want Water*.
 
 ## Sources
 
-- Mallinson, James (ed. and trans.). 2007. *The Khecarīvidyā of Ādinātha: A Critical Edition and Annotated Translation of an Early Text of Haṭhayoga*. Routledge Studies in Tantric Traditions. London: Routledge. [`bibliography/en/adinatha/`](../../../bibliography/en/adinatha/)
-- Mallinson, James, and Mark Singleton. 2017. *Roots of Yoga*. Penguin Classics. [`bibliography/en/mallinson-singleton/`](../../../bibliography/en/mallinson-singleton/)
+- Mallinson, James (ed. and trans.). 2007. *The Khecarīvidyā of Ādinātha: A Critical Edition and Annotated Translation of an Early Text of Haṭhayoga*. Routledge Studies in Tantric Traditions. London: Routledge. Bibliography path: [`en/adinatha/`](https://github.com/LiGoldragon/bibliography/tree/main/en/adinatha).
+- Mallinson, James, and Mark Singleton. 2017. *Roots of Yoga*. Penguin Classics. Bibliography path: [`en/mallinson-singleton/`](https://github.com/LiGoldragon/bibliography/tree/main/en/mallinson-singleton).

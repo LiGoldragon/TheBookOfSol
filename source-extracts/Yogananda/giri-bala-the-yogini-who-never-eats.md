@@ -113,4 +113,4 @@ Giri Bālā's case is the **strongest pre-clinical-instrumentation witness in th
 
 ## Source
 
-Yogānanda, Paramahansa. 1946. *Autobiography of a Yogi*. Los Angeles: Self-Realization Fellowship. (11th ed., 8th paperbound printing 1985 — md5 `8e8842e59c61812396fbe8eb4d48a64d`; or Global Grey EPUB md5 `1c43a5f712257e1893e10fd92afa19ac`.) [`bibliography/en/yogananda/`](../../../bibliography/en/yogananda/)
+Yogānanda, Paramahansa. 1946. *Autobiography of a Yogi*. Los Angeles: Self-Realization Fellowship. (11th ed., 8th paperbound printing 1985 — md5 `8e8842e59c61812396fbe8eb4d48a64d`; or Global Grey EPUB md5 `1c43a5f712257e1893e10fd92afa19ac`.) Bibliography path: [`en/yogananda/`](https://github.com/LiGoldragon/bibliography/tree/main/en/yogananda).

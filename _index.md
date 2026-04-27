@@ -127,7 +127,7 @@ Written and compiled by Olivier Francoeur, aka Li Goldragon.
 
 ## Primary-source extractions
 
-- **Caraka Saṃhitā** — all Caraka extraction work (per-page OCR, per-*sthāna* digests, fruit & vegetable warnings, philological notes) now lives in the dedicated [caraka-samhita repository](../caraka-samhita/).
+- **Caraka Saṃhitā** — all Caraka extraction work (per-page OCR, per-*sthāna* digests, fruit & vegetable warnings, philological notes) now lives in the dedicated [caraka-samhita repository](https://github.com/LiGoldragon/caraka-samhita).
 - [*Apathya* and *Mitāhāra* — primary-source extracts](./source-extracts/Apathya.md) (cross-source compilation — Caraka quotes are inline)
 - [*Haṭha Yoga Pradīpikā*](./source-extracts/Hatha_Yoga_Pradipika)
 - [*Ḍāmar Tantra*](./source-extracts/Damar_Tantra)

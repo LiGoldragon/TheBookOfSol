@@ -88,5 +88,5 @@ Van der Kroon's text — read carefully — does not contain the explicit assert
 
 ## Sources
 
-- van der Kroon, Coen. 1994. *The Golden Fountain: The Complete Guide to Urine Therapy*. Translated from the Dutch *De Gouden Fontein* (1993). Foreword by Swami Pragyamurti Saraswati. New Delhi: B. Jain Publishers. [`bibliography/en/coen-van-der-kroon/`](../../../bibliography/en/coen-van-der-kroon/)
+- van der Kroon, Coen. 1994. *The Golden Fountain: The Complete Guide to Urine Therapy*. Translated from the Dutch *De Gouden Fontein* (1993). Foreword by Swami Pragyamurti Saraswati. New Delhi: B. Jain Publishers. Bibliography path: [`en/coen-van-der-kroon/`](https://github.com/LiGoldragon/bibliography/tree/main/en/coen-van-der-kroon).
 - Saraswati, Swami Satyananda. 1978. *Amaroli — The Way of the Yogi*. Munger: Bihar School of Yoga.

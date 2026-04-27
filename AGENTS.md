@@ -31,7 +31,7 @@ A **folder inside this repo**. It is not a place for books. It holds:
 - Hand-curated quote extractions from specific source texts (`.md` files), organized into per-book subfolders (`Damar_Tantra/`, `Hatha_Yoga_Pradipika/`, `Water_of_Life/`, etc.).
 - These `.md` files feed the article drafts directly and are committed.
 
-**The *Caraka Saṃhitā* lives in its own dedicated repository** at [`~/git/caraka-samhita/`](../caraka-samhita/). All per-page OCR, per-*sthāna* digests, thematic extractions (fruit/vegetable warnings, etc.), and philological notes on Caraka belong there. When a downstream article here cites Caraka, the citation should reference an entry in the caraka-samhita repo (either a verified-Sanskrit note under `notes/philology/` or a curated digest), not an ad-hoc local copy.
+**The *Caraka Saṃhitā* lives in its own dedicated repository** at `~/git/caraka-samhita/` ([github.com/LiGoldragon/caraka-samhita](https://github.com/LiGoldragon/caraka-samhita)). All per-page OCR, per-*sthāna* digests, thematic extractions (fruit/vegetable warnings, etc.), and philological notes on Caraka belong there. When a downstream article here cites Caraka, the citation should reference an entry in the caraka-samhita repo (either a verified-Sanskrit note under `notes/philology/` or a curated digest), not an ad-hoc local copy.
 
 Book binaries must never live here. The `.gitignore` at the repo root enforces this (all `*.pdf`, `*.epub`, `*.mobi`, `*.djvu`, `*.zip` under `source-extracts/` are excluded). If you need to reference a book, download it to the standalone repo and reference it from there.
 
@@ -39,7 +39,7 @@ Book binaries must never live here. The `.gitignore` at the repo root enforces t
 
 When an article or extraction requires a book:
 
-1. Search Anna's Archive via the `annas` CLI (on `PATH` through the mentci-tools bundle). Full usage lives at [`~/git/tools-documentation/annas/basic-usage.md`](../tools-documentation/annas/basic-usage.md) — the short form is `annas book-search "<query>"` to find MD5 hashes and `annas book-download <md5> <filename.ext>` to fetch. Downloads land in `$PWD`, so `cd` to the target folder first.
+1. Search Anna's Archive via the `annas` CLI (on `PATH` through the mentci-tools bundle). Full usage lives at `~/git/tools-documentation/annas/basic-usage.md` ([github.com/LiGoldragon/tools-documentation](https://github.com/LiGoldragon/tools-documentation/blob/main/annas/basic-usage.md)) — the short form is `annas book-search "<query>"` to find MD5 hashes and `annas book-download <md5> <filename.ext>` to fetch. Downloads land in `$PWD`, so `cd` to the target folder first.
 2. Download it to `~/git/bibliography/en/<author-slug>/<slug-name>.<ext>` using the standard kebab-case naming.
 3. Register it in `~/git/bibliography/bibliography.md` with a short entry explaining why it matters for the project.
 4. Extract quotes into `TheBookOfSol/source-extracts/<Book_Name>/quotes.md` or similar, and cite the author / title / chapter in the article.

@@ -96,7 +96,7 @@ Avoid Teflon, aluminum, induction stoves, and reactive metals — same rule as f
 Glass storage is preferred for both fractions; the spirit's volatility makes airtight glass essential.\
 Run the still all the way through. Every drop that has not come over is plasma the body produced and the practice is meant to refine — leaving any in the chamber is waste. What remains at the end is the dense retentate, naturally a small fraction.
 
-For deeper engineering — apparatus, fraction handling, electrochemical measurements — see the [Sovereign Biophysics Distillation archive](../../AnaSeahawk-website/sovereign-biophysics-distillation/).
+For deeper engineering — apparatus, fraction handling, electrochemical measurements — see Ana Seahawk's [Sovereign Biophysics Distillation archive](https://github.com/AnaSeahawk/website/tree/main/sovereign-biophysics-distillation).
 
 ### The spirit (solar fraction)
 
