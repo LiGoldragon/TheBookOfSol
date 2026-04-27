@@ -94,7 +94,7 @@ The still separates the plasma into two volatile fractions plus a retentate:
 A simple home distiller is sufficient.\
 Avoid Teflon, aluminum, induction stoves, and reactive metals — same rule as for reduction.\
 Glass storage is preferred for both fractions; the spirit's volatility makes airtight glass essential.\
-The Damar Tantra's instruction to reduce to one quarter of volume is the natural endpoint: when about a quarter of the original plasma remains in the chamber, the run is complete.
+Run the still all the way through. Every drop that has not come over is plasma the body produced and the practice is meant to refine — leaving any in the chamber is waste. What remains at the end is the dense retentate, naturally a small fraction.
 
 For deeper engineering — apparatus, fraction handling, electrochemical measurements — see the [Sovereign Biophysics Distillation archive](../../AnaSeahawk-website/sovereign-biophysics-distillation/).
 
