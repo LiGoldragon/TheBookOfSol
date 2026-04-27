@@ -131,7 +131,7 @@ There is a separate signal, *pipāsā*, the body's actual report that it wants w
 
 ## Closing the Loop
 
-Inside the body the chain runs anna → rasa → rakta → māṃsa → medas → asthi → majjā → śukra → ojas. Each stage is a refinement of the fluid produced by the stage before. The terminal product is what Caraka places at the heart:
+Inside the body the chain runs anna → rasa → rakta → māṃsa → medas → asthi → majjā → śukra → ojas. Each stage refines the fluid produced before it. The terminal product is what Caraka places at the heart:
 
 > **ojas tu nāma śukrānte saṃbhavaḥ sarvadehinām;\
 > tasmin vinaṣṭe vinaśyanti sarve prāṇinaḥ.**
@@ -142,11 +142,22 @@ Inside the body the chain runs anna → rasa → rakta → māṃsa → medas �
 
 Every litre of foreign water the kidneys process is rasa that had to leave to make room for it, and ojas that did not get built because the rasa that would have built it was flushed. The body that drinks by routine spends its day rebuilding what its routine has dismantled. The body that builds rasa from anna and keeps it spends its day refining further down the chain.
 
-Outside the body the same loop runs at the next register. The kidneys release what could not be held; aged and distilled, the refined fraction returns. The *Damar Tantra* names the practice (*amarolī*, from *amara* — undying) and gives the dietary precondition:
+## The Essence — What Replaces Water
+
+Outside the body the same loop runs at the next register. The kidneys release what the body could not hold — but what they release is plasma the body had already begun the work of refining, freed of what could not currently be used. Aged for one or two lunations, the plasma separates: sediment drops out, the upper layer clarifies. Distilled, it yields two fractions:
+
+- The **spirit** — solar, volatile, hot, drying, clearing. Used in drops for *āma* and other accumulations. A small dose works fast.
+- The **essence** — lunar, watery, quiet, slightly alkaline, very low in dissolved load. The body of the plasma, returned.
+
+The essence is what the body wants when the body is thirsty. It has already passed through the body once, been concentrated by aging, and freed of the volatile and the heavy by the still. What returns is the body's own water, refined — almost ready to be received back into rasa without the intermediate conversion. The body welcomes it because it came from the body.
+
+This makes the essence the appropriate fluid for any use water has. Drinking. Cooking porridge and grain. Hydrating the skin. Lubricating the channels — nose, ear, eye. Enemas. Yoni infusion. Mixing with ghee for *anupāna*. Anywhere the kitchen or the body asks for a fluid, the essence does the work better than water, because it is closer to what the body is going to make of it. Even rain water and distilled water are foreign by comparison: the body still has to clear what they brought before any of it can become plasma. The essence is already plasma.
+
+The *Damar Tantra* names the practice (*amarolī*, from *amara* — undying) and gives its dietary precondition:
 
 > "The follower of the therapy should avoid pungent, salty ingredients in his meals. He should not over-exert himself. He should follow a balanced and light diet."\
 > — *Damar Tantra* Verse 5
 
-The Ambrosian diet again, this time as the prerequisite for the practice that closes the external loop. A salt-sour-bitter plasma cannot be returned to the body; the body is trying to eject it. A *madhura-snigdha* plasma can. The scaffolding for working with the external loop lives in [Plasma Recycling Manual](./Plasma_Recycling_Manual.md).
+The Ambrosian diet again, this time as the prerequisite for the practice that closes the external loop. A salt-sour-bitter plasma cannot be returned to the body; the body is trying to eject it. A *madhura-snigdha* plasma can. The scaffolding for the practice — collection, aging, distillation, fraction storage, applications — lives in [Plasma Recycling Manual](./Plasma_Recycling_Manual.md).
 
 Keep the plasma. The body has already made what it needs.

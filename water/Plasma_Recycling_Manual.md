@@ -79,6 +79,90 @@ Filtered aged plasma becomes the primary cleansing and extraction medium.
 **Schedule:** shaking every one or two weeks; breathing optional every two to four weeks.\
 **Result:** strong aged plasma for deep purification and advanced applications.
 
+## Distillation
+
+Distillation is the highest refinement the practice produces.\
+Plasma can be distilled at any stage — fresh, recently siphoned, or fully aged.\
+The longer the plasma has aged, the larger the spirit fraction it yields; well-aged plasma yields a noticeably stronger spirit than fresh.
+
+The still separates the plasma into two volatile fractions plus a retentate:
+
+- **The spirit** — the solar fraction, the first to rise: volatile, hot, drying, clearing.
+- **The essence** — the lunar fraction, the body of the plasma: quiet, watery, sustaining.
+- **The retentate** — what remains in the still: dense, mineral-rich, used like reduced plasma for skin and salves.
+
+A simple home distiller is sufficient.\
+Avoid Teflon, aluminum, induction stoves, and reactive metals — same rule as for reduction.\
+Glass storage is preferred for both fractions; the spirit's volatility makes airtight glass essential.\
+The Damar Tantra's instruction to reduce to one quarter of volume is the natural endpoint: when about a quarter of the original plasma remains in the chamber, the run is complete.
+
+For deeper engineering — apparatus, fraction handling, electrochemical measurements — see the [Sovereign Biophysics Distillation archive](../../AnaSeahawk-website/sovereign-biophysics-distillation/).
+
+### The spirit (solar fraction)
+
+Volatile, hot, drying, cleansing, clearing.\
+Strongly alkaline; sharp aroma; carries the charge that aging built.\
+Used in small quantities only, never as a daily fluid.
+
+The spirit dissolves accumulation.\
+It is for residue: *āma* (sticky undigested matter), stagnant deposits, areas of buildup.\
+A few drops in essence or in pure water, before meals or on rising, when there is reason to clear.
+
+**Topical:** spot application for accumulations, eruptions, stagnant residue.\
+**Oral care:** swished briefly along the gum line, then followed by an essence rinse.\
+**Grain washing:** a small addition to pure water before soaking wheat or rice; the alkalinity opens the grain's outer structure — the same chemistry as nixtamalization, lutefisk, and Appalachian hominy.
+
+The spirit should not enter the eyes.\
+The spirit should not be applied to open wounds or to nasal mucosa for routine use — the volatile compounds inflame thin tissue.\
+A small dose, used with indication, clears. A larger dose, used without, burns.
+
+### The essence (lunar fraction)
+
+The clear middle distillate.\
+The body of the plasma, separated from its volatile spirit and its mineral retentate, returned as a refined water.\
+Quiet in character; slightly alkaline; very low in dissolved load.
+
+The essence is what the body wants when the body is thirsty.\
+It has already passed through the body once, been concentrated by aging, and freed of the volatile and the heavy by the still.\
+What returns is the body's own water, refined.
+
+**Central observation:** the essence is superior to water in every use water has.\
+Even rain water and distilled water are foreign — the body has to do the conversion work before any of it can be received into rasa.\
+The essence is already rasa, almost ready to enter the *anna → rasa → rakta → … → ojas* chain without the intermediate step.\
+The body welcomes it because it came from the body.
+
+**Drinking.** The primary daily fluid. A small quantity satisfies thirst that a larger quantity of water cannot, because what the body's thirst was asking for was rasa, and the essence is rasa returned.
+
+**Cooking.** Porridge, rice, dāl, soups — anything the kitchen would otherwise make with water. The grain is cooked in something already kin to what it is going to become.
+
+**Skin hydration.** A spray bottle of essence, used after the shower while the skin is still warm and the pores are open. The skin recognizes it.
+
+**Nasal application.** A few drops in each nostril for routine clearing or when the airways feel dry. The essence is structurally clean and close to the body's own osmotic balance — gentler than aged plasma, suitable for daily use.
+
+**Auricular application.** A single drop in each ear when the canal feels dry or congested.
+
+**Ocular application.** Single drops, when the eyes are tired or strained. Where double-distilled essence is available, that is preferred for the eyes.
+
+**Enemas.** Warm essence, alone or combined with a small portion of aged plasma for stronger clearing. The colon receives it as readily as it would receive its own rasa.
+
+**Yoni infusion.** The appropriate fraction for somatic infusion — quiet, low-mineral, structurally clean. Aged plasma is too caustic for internal mucosal tissue; the spirit is unsuitable here.
+
+**Anywhere water would be used.** Mixing with ghee for *anupāna* (the carrier vehicle in Āyurvedic medicine), watering medicinal preparations, brushing the teeth, rinsing the mouth — wherever the kitchen or the body asks for a fluid, the essence does the work better than water, because it is closer to what the body is going to make of it.
+
+### What the two fractions together do
+
+Aged plasma was the previous level of refinement: gravity-separated, sediment dropped, the upper layer ready to use.\
+Distillation refines further: the aged plasma is itself sorted by volatility, and the body gets back two substances instead of one.
+
+The spirit is the rajasic edge — fast, hot, dissolving, used in drops for specific work.\
+The essence is the sattvic body — quiet, sustaining, the daily fluid.\
+The retentate, dense and mineral-rich, is reserved for topical and salve work — same register as reduced plasma but more concentrated.
+
+The full circuit closes when the practitioner is drinking essence, washing in essence, cooking with essence, treating residue with spirit, and applying the retentate to the skin.\
+The kidneys release what the body could not hold; the still refines what was released; what comes back through the mouth, nose, ears, eyes, skin, and gut is the body's own water — clarified, returned, and welcomed.
+
+For the doctrinal frame — why the body welcomes its own essence and treats foreign water as foreign — see [Keep the Plasma](./Keep_the_Plasma.md).
+
 ## Herbal Extraction
 
 Plasma extracts herbal principles extremely quickly.\
@@ -167,9 +251,12 @@ Regular practitioners often cease needing soap.
 
 ## General Cycle Strategy
 
-Fresh plasma for gentle maintenance.\
-Aged plasma for purification and extraction.\
+Fresh plasma for gentle maintenance and emergency use.\
+Aged plasma for purification, extraction, and topical clearing.\
 Strong aged plasma for advanced cleansing.\
-Reduced plasma for sealing, healing, nourishment, and regeneration.
+Reduced plasma for sealing, healing, nourishment, and regeneration.\
+Spirit (solar distillate) for residue and accumulation, in drops only.\
+Essence (lunar distillate) for daily drinking, cooking, and any use water would have.\
+Retentate (the still's residue) for topical and salve work — denser than reduced plasma.
 
 Every drop is preserved, refined, cycled, and reused as living liquid gold.
