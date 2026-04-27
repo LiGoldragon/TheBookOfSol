@@ -14,10 +14,14 @@
     },
     {
       "source_path": "water/Plasma_Recycling_Manual.md",
+      "post_id": 195637803,
+      "slug": "plasma-recycling-manual-amaroli",
       "banner_image": "generated-images/plasma-recycling-manual-banner.png"
     },
     {
       "source_path": "water/The_Distilled_Water_Paradox.md",
+      "post_id": 195637783,
+      "slug": "the-distilled-water-paradox",
       "banner_image": "generated-images/the-distilled-water-paradox-banner.png"
     }
   ]
