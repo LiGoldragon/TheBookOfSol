@@ -1,5 +1,7 @@
 # Keep the Plasma
 
+![A luminous seated figure preserving a golden plasma within, with cooked grain, ghee, and a true distillation apparatus under a solar-lunar sky.](../generated-images/keep-the-plasma-banner.png)
+
 The body does not want water. It wants the plasma it has built from its food, and it wants to keep that plasma in.
 
 ## What the Body Builds
