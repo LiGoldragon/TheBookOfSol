@@ -138,6 +138,8 @@ Written and compiled by Olivier Francoeur, aka Li Goldragon.
 - [Aṣṭāṅga Hṛdaya — water, thirst, and the *ambuvaha-srotas*](./source-extracts/Astanga_Hrdaya/water-and-srotas.md)
 - [Khecarīvidyā — the lunar nectar and the body sustained from within](./source-extracts/Khecarividya/lunar-nectar-and-breath.md)
 - [Roots of Yoga — breatharian witnesses, lunar nectar, and the body that eats itself](./source-extracts/Roots_of_Yoga/breatharian-witnesses.md)
+- [The Golden Fountain — urine as nectar and the amarolī tradition (van der Kroon 1994)](./source-extracts/Golden_Fountain/urine-as-nectar-and-the-amaroli-tradition.md)
+- [Giri Bālā — the yoginī who never eats (Yogānanda *Autobiography of a Yogi* ch. 46)](./source-extracts/Yogananda/giri-bala-the-yogini-who-never-eats.md)
 
 ## Research
 
