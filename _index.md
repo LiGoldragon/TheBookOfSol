@@ -89,6 +89,7 @@ Written and compiled by Olivier Francoeur, aka Li Goldragon.
 - [The Distilled Water Paradox](./water/The_Distilled_Water_Paradox.md)
 - [Carbon Dioxide](./water/Carbon_Dioxide.md)
 - [Plasma Recycling Manual](./water/Plasma_Recycling_Manual.md)
+- [Keep the Plasma](./water/Keep_the_Plasma.md)
 
 ## Yoga & Tantra
 
