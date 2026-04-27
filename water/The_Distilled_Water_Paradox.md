@@ -1,5 +1,7 @@
 # The Distilled Water Paradox
 
+![A clear vessel of distilled water set against clay, mineral powder, and earth, showing the split mind that purifies water and then eats rock.](../generated-images/the-distilled-water-paradox-banner.png)
+
 ## On the Split Mind That Purifies Its Water and Then Eats the Earth
 
 There is a type of person who has seen through one layer of the mineral myth and stopped precisely there, mistaking a half-truth for liberation. This person drinks distilled water. The reasoning is sound in isolation: minerals dissolved in water are inorganic, the body cannot assimilate rocks, and pure water hydrates without burdening the organism with foreign residue. So far, so good.

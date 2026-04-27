@@ -1,5 +1,7 @@
 # The Ambrosian Diet
 
+![Warm bowls of cooked grain, ghee, and milk arranged as a quiet Ambrosian plate under a luminous horizon.](../generated-images/ambrosian-diet-banner.png)
+
 ## The Diet of Amṛta
 
 The word *ambrosia* enters Western language from Greek as that which does not decay — the substance of the gods, not because it is abundant but because it does not lead toward death. Its semantic field overlaps precisely with the Sanskrit *amṛta*: the deathless essence, the nectar churned from the cosmic ocean, the substance that restores the gods when depletion has set in. *A-mṛta*: without death. *Am-brosia*: without decay. The two words are cognates separated by geography, reunited by meaning.

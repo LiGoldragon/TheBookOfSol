@@ -1,5 +1,7 @@
 # Plasma Recycling Manual (Amarolī)
 
+![A true glass distillation apparatus beside jars of aging luminous plasma, with solar spirit and lunar essence held in clear vessels.](../generated-images/plasma-recycling-manual-banner.png)
+
 ## Foundational View
 
 ### Plasma as a living substance
