@@ -1,88 +1,140 @@
 # Aṣṭāṅga Hṛdaya — Water, Thirst, and the Channels (Srotāṃsi)
 
-A thematic digest of *direct passages* from Vāgbhaṭa's *Aṣṭāṅga Hṛdaya* (with the *Aṣṭāṅga Saṅgraha* commentarial extension) on (1) when water should be consumed and when withheld, (2) the etiology of pathological thirst, and (3) the *ambuvaha-srotas* — the body's water-carrying channels — and what vitiates them.
+A thematic digest of *direct passages* from Vāgbhaṭa's *Aṣṭāṅga Hṛdaya* (with the *Aṣṭāṅga Saṅgraha* commentarial extension) on (1) when water should be consumed and when withheld, (2) the etiology of pathological thirst, and (3) the *udakavaha-srotas* — the body's water-carrying channels — and what vitiates them.
 
-Translation: K. R. Srikantha Murthy, *Vāgbhaṭa's Aṣṭāṅga Hṛdayam (Text, English Translation, Notes, Appendix and Indices)*, 3 vols (Krishnadas Academy, Varanasi, 5th edition 2001). Volume I covers Sūtrasthāna and Śārīrasthāna, used here.
+Sanskrit text: GRETIL plain-text edition of the *Aṣṭāṅga Hṛdaya Sūtrasthāna* and *Śārīrasthāna* (R. P. Das & R. E. Emmerick, collated from the Pārādakara and Kunte/Navre editions) — [the GRETIL text file](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_vAgbhaTa-aSTAGgahRdayasUtra.txt). For *Aṣṭāṅga Saṅgraha* Śārīra, the Atrideva Gupta Caukhambha edition via [Sanskrit Wikisource](https://sa.wikisource.org/wiki/अष्टाङ्गसंग्रहः_शरीरस्थानम्_अध्याय_१-६). English translations below are fresh, drafted to match the project's voice; cross-checked against K. R. Srikantha Murthy, *Vāgbhaṭa's Aṣṭāṅga Hṛdayam* (Krishnadas Academy, Varanasi, 5th ed. 2001) — whose stiffer English is good for verification but unsuitable for direct quotation.
 
-This extract supports the article *The Body Does Not Want Water* and complements [*Apathya*](../Apathya.md) (which already covers the apathya prohibition lists and the rasa-atiyoga doctrine).
+This extract supports [Keep the Plasma](../../water/Keep_the_Plasma.md) and complements [*Apathya*](../Apathya.md) (which already covers the *apathya* prohibition lists and the *rasa-atiyoga* doctrine).
 
 ## I. The body does not, by default, want water
 
-### AH Sū. 5.13–14 — Jalapāna varjya (avoidance of drinking water)
+### AH Sū. 5.13cd–14ab — Jalapāna-varjya (when water is not to be drunk)
 
-> "Water should not be consumed, or consumed in very little quantity if unavoidable due to debility, by those suffering from poor digestive function, tumors of the abdomen, anaemia, enlargement of the abdomen, diarrhoea, haemorrhoids, diseases of the duodenum, consumption or dropsy. **Except in śarad (autumn) and nidāgha (summer) even healthy persons should drink less quantity of water** (in all other seasons)."\
-> — *Aṣṭāṅga Hṛdaya*, Sūtrasthāna 5.13–14, trans. Srikantha Murthy
+> **nāmbu peyam aśaktyā vā svalpam alpāgni-gulmibhiḥ |\
+> pāṇḍūdarātisārārśo-grahaṇī-śoṣa-śothibhiḥ |\
+> ṛte śaran-nidāghābhyāṃ pibet svastho 'pi cālpaśaḥ ||**
+>
+> "Water is not to be drunk — or drunk only sparingly — by those of weak *agni*,\
+> by those afflicted with *gulma*, *pāṇḍu*, ascites, diarrhoea, piles, *grahaṇī*, wasting, oedema.\
+> **Outside *śarad* (autumn) and *nidāgha* (summer), even the healthy man should drink only sparingly.**"\
+> — *Aṣṭāṅga Hṛdaya* Sūtrasthāna 5.13cd–14ab
 
-The categorical line is the closing clause: *even healthy persons should drink less in all seasons except autumn and summer.* Vāgbhaṭa is not describing a regimen for the sick — he is stating the seasonal default. The body's appetite for water is climatically narrow. Off-season free drinking is not hydration but a vitiation of the channels.
+The categorical line is the closing clause: *pibet svastho 'pi cālpaśaḥ* — "even the healthy man should drink only sparingly." Vāgbhaṭa is stating the seasonal default. The body's appetite for water is climatically narrow. Off-season free drinking is a vitiation of the channels.
 
-### AH Sū. 5.14b — Jalapāna phala (effects of drinking water)
+### AH Sū. 5.14cd — Jalapāna-phala (effects of drinking water at the meal)
 
-> "Persons who drink water in the middle, at the end, and at the commencement of the meal will remain normal, become stout, and become emaciated respectively."\
-> — *Aṣṭāṅga Hṛdaya*, Sūtrasthāna 5.14b, trans. Srikantha Murthy
+> **sama-sthūla-kṛśā bhukta-madhyānta-prathamāmbu-pāḥ ||**
+>
+> "Drinking water in the middle, at the end, or at the start of the meal\
+> makes one balanced, stout, or lean — respectively."\
+> — *Aṣṭāṅga Hṛdaya* Sūtrasthāna 5.14cd
 
-The technical doctrine on water-with-food: only *middle-of-the-meal* water leaves the eater unchanged. Water at the end produces *kapha* excess (stoutness); water at the start produces *vāta* excess (emaciation). The body has a single narrow window in which it accepts water *with* food. Outside that window, water-with-food is itself an error.
+The technical doctrine on water-with-food: only *bhukta-madhya* — water taken between morsels in the middle of the meal — leaves the eater *sama* (balanced). Water at the end (*anta*) produces *kapha*-excess (stoutness); water at the start (*prathama*) produces *vāta*-excess (leanness). The body accepts water with food in one narrow window. Outside it, water with food is itself a fault.
 
-### AH Sū. 5.18 — boiled-and-cooled water vs. overnight static water
+### AH Sū. 5.18 — boiled-and-cooled water vs. overnight stale water
 
-> "Water which has been boiled and then cooled is not going to increase the moisture inside the body; too much (of it) is easily digestable and ideal for the dosas associated with pitta. Water which has been kept overnight (so become static) causes (aggravation of) all the three doṣas."\
-> — *Aṣṭāṅga Hṛdaya*, Sūtrasthāna 5.18, trans. Srikantha Murthy
+> **anabhiṣyandi laghu ca toyaṃ kvathita-śītalam |\
+> pitta-yukte hitaṃ doṣe vyuṣitaṃ tat tridoṣa-kṛt ||**
+>
+> "Water that has been boiled and then cooled is non-cloying and light;\
+> in *pitta*-disorders it is wholesome.\
+> The same water, left standing overnight, becomes *tridoṣa*-provoking."\
+> — *Aṣṭāṅga Hṛdaya* Sūtrasthāna 5.18
 
-The water that does *not* increase internal moisture is the boiled-and-cooled. The water that has stagnated overnight aggravates *all three doṣas*. This is the classical anchor for the project's distilled-water and freshly-collected-rain doctrine, and reads as a precise pharmacological statement: water has a chemistry that the body either accepts or treats as an irritant.
+The water that does not cloy (*anabhiṣyandi*) is the freshly boiled-and-cooled. The same water, left to stagnate, vitiates all three doṣas. The classical anchor for the project's distilled-water and fresh-rain doctrine, stated as pharmacology: water has a chemistry that decays under storage, and the body responds to that chemistry.
 
-### AH Sū. 5.15 — when cold water is appropriate
+### AH Sū. 5.15–16 — cold water as therapy
 
-> "Cold water relieves alcoholic intoxication, exhaustion, fainting, vomiting, debility (fatigue), giddiness, thirst, heat (of the sun), burning sensation, aggravation of pitta, rakta and poison."\
-> — *Aṣṭāṅga Hṛdaya*, Sūtrasthāna 5.15, trans. Srikantha Murthy
+> **śītaṃ madātyaya-glāni-mūrcchā-chardi-śrama-bhramān |\
+> tṛṣṇoṣṇa-dāha-pittāsra-viṣāṇy ambu niyacchati ||**
+>
+> "Cold water dispels intoxication, exhaustion, fainting,\
+> vomiting, fatigue, and giddiness;\
+> thirst, heat, burning, *rakta-pitta*, and poisons it abates."\
+> — *Aṣṭāṅga Hṛdaya* Sūtrasthāna 5.15–16
 
-Cold water is therapeutic for a specific set of *pitta*-aggravation conditions — including thirst proper. Its indications are clinical, not constitutional. Reading Sū. 5.13–18 together: cold water is medicine; routine drinking is not.
+Cold water (*śīta-jala*) is therapeutic for a specific set of *pitta*-aggravation conditions, including thirst itself. Its indications are clinical, not constitutional. Read Sū. 5.13–18 together: cold water is medicine; routine drinking is not.
 
 ## II. The etiology of pathological thirst
 
-### AH Sū. 4.10 — Tṛṣṇārodha (suppression of the urge of thirst)
+### AH Sū. 4.10cd–11ab — Tṛṣṇā-vega-rodha (suppression of the urge of thirst)
 
-> "Suppression of (the urge of) thirst will give rise to emaciation, debility of the body, deafness, loss of consciousness (delusion), giddiness, and heart diseases; for this, all kinds of cold measures (cold food, drinks, bath, use of drugs of cold potency, etc.) are ideal."\
-> — *Aṣṭāṅga Hṛdaya*, Sūtrasthāna 4.10, trans. Srikantha Murthy
+> **śoṣāṅga-sāda-bādhirya-saṃmoha-bhrama-hṛd-gadāḥ |\
+> tṛṣṇāyā nigrahāt tatra śītaḥ sarvo vidhir hitaḥ ||**
+>
+> "From suppression of thirst arise wasting, weakness of the limbs, deafness,\
+> confusion, vertigo, and disease of the heart.\
+> The remedy in that case is the entire cooling regimen."\
+> — *Aṣṭāṅga Hṛdaya* Sūtrasthāna 4.10cd–11ab
 
-Read with Caraka 7.3–4 (which lists thirst among the natural urges that must not be suppressed): *true* thirst is a real signal — to be answered with cold water. The pathology of suppression is named clearly. But the same chapter (Sū. 4) does not authorize routine drinking outside that signal. The rule is: respect the signal when it arises, do not manufacture the signal by routine.
+Read with Caraka 7.3–4 (which lists thirst among the natural urges that must not be suppressed): *true* thirst is a real signal, to be answered with cold water. The pathology of suppression is named clearly. The same chapter does not authorize routine drinking outside the signal. The rule: respect the signal when it arises; do not manufacture it by routine.
 
-## III. The ambuvaha-srotas — the channels that carry water
+## III. The udakavaha-srotas — the channels that carry water
 
-### Aṣṭāṅga Saṅgraha (Śārīrasthāna 6) — the thirteen channels (cited in AH Śā. 3 commentary)
+### Aṣṭāṅga Saṅgraha Śārīrasthāna 6.16 — the udakavaha (ambuvaha) channels
 
-The body has thirteen channel-systems (*srotāṃsi*); two are directly relevant to the thesis.
+The *Aṣṭāṅga Saṅgraha*'s *Srotovijñānīya* chapter (Śārīrasthāna 6) catalogues the thirteen channel-systems (*srotāṃsi*) of the body. The water-channels are given as a single passage of prose:
 
-> "**1. Prāṇavaha-srotas** — its chief organs are the *hṛdaya* (heart) and the *mahāsrotas* (alimentary tract). It gets vitiated by dryness and depletion of tissues, suppression of thirst, hunger, and other urges of the body, etc. Respiration — increased, decreased, difficult, or interrupted, accompanied with pain and sound — are the chief signs of vitiation. Treatment is the same as that of *śvāsa* (dyspnoea)."\
-> — *Aṣṭāṅga Saṅgraha*, Śārīrasthāna 6 (cited in AH Śā. 3 commentary by Srikantha Murthy)
+> **udaka-vāhināṃ tālu mūlaṃ kloma ca |\
+> tāny āma-bhayāti-pānoṣṇa-śuṣkānna-kaṣāya-tṛṣṇā-nigrahādibhir duṣyanti |\
+> tato 'ti-tṛṣṇā mukha-śoṣaḥ karṇa-kṣveḍanaṃ tamo-darśanaṃ ca |\
+> tatra tṛṣṇoktam auṣadham ||**
+>
+> "Of the channels that carry water, the root is the palate (*tālu*) and the *kloma*.\
+> They become vitiated by *āma* (undigested residue), fear, excessive drinking,\
+> hot food, dry food, astringents, and the suppression of thirst.\
+> The vitiation produces extreme thirst, dryness of the mouth,\
+> ringing in the ears, and darkness before the eyes.\
+> The remedy is what has been prescribed for *tṛṣṇā* itself."\
+> — *Aṣṭāṅga Saṅgraha* Śārīrasthāna 6.16
 
-The channel that carries *prāṇa* shares its primary organs with the channel that receives *anna*: the heart and the alimentary tract. Anna, properly digested, *is* the substrate of prāṇa. The same passage continues with the water-channels:
-
-> "**2. Ambuvaha (udakavaha) srotas** — its chief organs are *tālu* (palate) and *kloma* (pancreas). It gets vitiated by *āma* (uncooked/undigested food), fear, excess of alcoholic drinks, dry foods, and suppression of thirst, etc. Severe thirst, dryness of the mouth, ringing in the ears, and unconsciousness are the signs of its vitiation. Treatment is the same as that of *tṛṣṇā* (thirst)."\
-> — *Aṣṭāṅga Saṅgraha*, Śārīrasthāna 6 (cited in AH Śā. 3 commentary by Srikantha Murthy)
-
-The *ambuvaha-srotas* doctrine is the missing structural piece. Pathological thirst is *not* a request for more water — it is a *vitiation of the channel that conducts water through the body*, produced by:
+The *udakavaha-srotas* doctrine is the missing structural piece. Pathological thirst is a *vitiation of the channel that conducts water through the body*, produced by:
 
 - *āma* — undigested food residue
 - fear
-- excess of alcoholic drinks
-- **dry foods**
-- suppression of thirst
+- excessive drinking (*ati-pāna*)
+- hot food (*uṣṇa-anna*)
+- **dry food (*śuṣka-anna*)**
+- astringents (*kaṣāya*)
+- suppression of thirst (*tṛṣṇā-nigraha*)
 
-The cure for pathological thirst, the text says, is *the same as the cure for thirst itself* — meaning the regimen, not more water. The body that is constantly thirsty has a vitiated water-channel, and the answer is to repair the channel: cook food properly, eliminate dry/raw inputs, eliminate alcohol, respect natural urges, eat *snigdha-madhura* (HYP 1.58).
+The closing line — *tatra tṛṣṇoktam auṣadham*, "the remedy is what has been prescribed for *tṛṣṇā* itself" — is the doctrinal pivot: the body that is constantly thirsty has a vitiated water-channel, and the cure is the regimen that repairs the channel, not more water. Cook the food properly, eliminate dry and astringent excess, eliminate alcohol, respect the natural signal, eat *snigdha-madhura* (HYP 1.58).
+
+The *prāṇavaha* channels share the same pivot. Srikantha Murthy's commentary on AH Śā. 3 cites the *Aṣṭāṅga Saṅgraha* passage on the *prāṇa*-channels alongside the water-channels: *"its chief organs are the *hṛdaya* (heart) and the *mahāsrotas* (alimentary tract); it gets vitiated by dryness and depletion of tissues, suppression of thirst, hunger, and other urges of the body."* The same dietary errors that vitiate the water-channel vitiate the breath-channel. Anna, properly digested, is the substrate of *prāṇa*.
 
 ## IV. The plasma (rasa-dhātu) is built from cooked food, not raw input
 
-### AH Śā. 3 (around verses 50–54) — agni and the formation of dhātus
+### AH Śā. 3.53–54 — agni and the formation of dhātus
 
-> "When [grahaṇī] is strong, it withholds the ingested food in the *āmāśaya* (stomach), cooks (digests) it well and then brings it down [into the *pakvāśaya* (intestines)]; but when weak it allows even uncooked (undigested) food into the *pakvāśaya*.\
+The verse on *agni-grahaṇī* in the *Śārīrasthāna* makes the chain explicit: no agni → no rasa → no dhātus → no ojas.
+
+> **grahaṇyā balam agnir hi sa cāpi grahaṇī-balaḥ |\
+> dūṣite 'gnāv ato duṣṭā grahaṇī roga-kāriṇī ||\
+> yad annaṃ deha-dhātv-ojo-bala-varṇādi-poṣaṇam |\
+> tatrāgnir hetur āhārān na hy apakvād rasādayaḥ ||**
 >
-> "The strength of the *grahaṇī* is from agni itself, and itself (strength of agni) is from *grahaṇī*; when the agni undergoes vitiation, it (*grahaṇī*) also gets vitiated and produces diseases.\
+> "The strength of *grahaṇī* is *agni* itself; *agni* in turn draws its strength from *grahaṇī*.\
+> When agni is corrupted, *grahaṇī* is corrupted too, and disease arises.\
+> The food that nourishes the body, the *dhātus*, *ojas*, strength, and complexion —\
+> *agni* is the cause of it. **From uncooked food, *rasa* and the rest do not arise.**"\
+> — *Aṣṭāṅga Hṛdaya* Śārīrasthāna 3.53–54
+
+The continuation (3.55–56) gives the digestive image:
+
+> **annaṃ kāle 'bhyavahṛtaṃ koṣṭhaṃ prāṇānilāhṛtam |\
+> dravair vibhinna-saṃghātaṃ nītaṃ snehena mārdavam |\
+> saṃdhukṣitaḥ samānena pacaty āmāśaya-sthitam |\
+> audaryo 'gnir yathā bāhyaḥ sthālī-sthaṃ toya-taṇḍulam ||**
 >
-> "That food which bestows nourishment to the *dhātus* of the body, ojas, strength, colour (and complexion), etc. is really made so by the agni, which is the cause for its cooking (digestion); **rasa and other dhātus do not get formed and nourished by uncooked (undigested) food**."\
-> — *Aṣṭāṅga Hṛdaya*, Śārīrasthāna 3.50–54, trans. Srikantha Murthy
+> "Food taken at the proper hour is carried by *prāṇa-vāyu* into the *koṣṭha*,\
+> broken up by liquids, softened by *sneha* (oily substance);\
+> kindled by *samāna*, it is cooked in the *āmāśaya* by the belly's fire —\
+> **as an outer fire cooks the rice and water in the pot.**"\
+> — *Aṣṭāṅga Hṛdaya* Śārīrasthāna 3.55–56
 
-The first dhātu — *rasa*, the plasma — is built only from properly cooked-and-digested food. Raw input does not become rasa; it becomes *āma*, residue. A body whose plasma is malformed is a body whose digestive fire was given the wrong fuel.
+The first *dhātu* — *rasa*, the plasma — is built only from food that has been cooked twice: once on the stove, once again by *agni* in the *āmāśaya*. Raw input does not become rasa; it becomes *āma*, the residue that vitiates the *udakavaha-srotas* (AS Śā. 6.16). The plasma the body makes is downstream of the cooking — both the cooking pot's and the body's.
 
-This is the structural anchor for the article's thesis: when the plasma the body produces is salt-sour-bitter rather than madhura-snigdha, it is because the *anna* was not anna — was not properly cooked grain finished in ghee — and the rasa-dhātu is not rasa-dhātu. The body drinks water because the plasma has nothing else to draw on. The fix is not more water; it is the diet that lets agni form *rasa* properly.
+This is the structural anchor for the article's thesis. When the plasma the body produces is salt-sour-bitter rather than *madhura-snigdha*, the cause is upstream: the *anna* was not anna, the agni did not produce ojas, and the rasa-dhātu is not the rasa-dhātu. The body drinks water because the plasma has nothing else to draw on. The repair is the diet that lets *agni* form *rasa* properly.
 
 ## V. The simple synthesis
 
@@ -97,5 +149,6 @@ The body that does not want water is the body whose channels are clean and whose
 
 ## Sources
 
-- *Aṣṭāṅga Hṛdayam (Text, English Translation, Notes, Appendix and Indices)*, trans. K. R. Srikantha Murthy, 3 vols (Krishnadas Academy, Varanasi, 5th edition 2001). [`bibliography/en/vagbhata/`](../../../bibliography/en/vagbhata/)
-- *Aṣṭāṅga Saṅgraha*, cited via Srikantha Murthy's commentary on AH Śārīrasthāna.
+- **Sanskrit (AH)**: GRETIL plain-text edition of the *Aṣṭāṅga Hṛdaya Sūtrasthāna* and *Śārīrasthāna* (Das & Emmerick, collated from the Pārādakara and Kunte/Navre printed editions). [GRETIL plaintext](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_vAgbhaTa-aSTAGgahRdayasUtra.txt) · [GRETIL HTML](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_vAgbhaTa-aSTAGgahRdayasUtra.htm)
+- **Sanskrit (AS)**: Atrideva Gupta's Caukhambha edition, transcribed at [Sanskrit Wikisource — *Aṣṭāṅga Saṅgraha Śārīrasthāna* 1–6](https://sa.wikisource.org/wiki/अष्टाङ्गसंग्रहः_शरीरस्थानम्_अध्याय_१-६). PDF facsimile at [Internet Archive](https://archive.org/details/in.ernet.dli.2015.383455).
+- **English cross-check**: K. R. Srikantha Murthy, *Vāgbhaṭa's Aṣṭāṅga Hṛdayam (Text, English Translation, Notes, Appendix and Indices)*, 3 vols (Krishnadas Academy, Varanasi, 5th edition 2001). Verse-locations and reading variants cross-checked, but the English in the extract is fresh, drafted to match this project's voice. [`bibliography/en/vagbhata/`](../../../bibliography/en/vagbhata/)

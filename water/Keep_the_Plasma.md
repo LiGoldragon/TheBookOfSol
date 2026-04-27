@@ -4,8 +4,12 @@ The first tissue (*dhātu*) the body forms from its food is *rasa*: the plasma, 
 
 When the *Aṣṭāṅga Hṛdaya* (Vāgbhaṭa's Āyurvedic compendium) describes how *rasa* is produced, it makes the dependence on *agni* unconditional:
 
-> "That food which bestows nourishment to the dhātus of the body, ojas, strength, colour and complexion, is really made so by the agni, which is the cause for its cooking. **Rasa and other dhātus do not get formed and nourished by uncooked food.**"\
-> — *Aṣṭāṅga Hṛdaya*, Śārīrasthāna 3.50–54, trans. Srikantha Murthy
+> **yad annaṃ deha-dhātv-ojo-bala-varṇādi-poṣaṇam |\
+> tatrāgnir hetur āhārān na hy apakvād rasādayaḥ ||**
+>
+> "The food that nourishes the body, the *dhātus*, *ojas*, strength, and complexion —\
+> *agni* is the cause of it. **From uncooked food, *rasa* and the rest do not arise.**"\
+> — *Aṣṭāṅga Hṛdaya* Śārīrasthāna 3.54
 
 Rasa is what the body has made out of food it has cooked. Once it is in the body, it is the body. The work of nourishment is to keep it there.
 
@@ -13,22 +17,39 @@ Rasa is what the body has made out of food it has cooked. Once it is in the body
 
 Water that enters the body from outside is a solvent of variable composition, carrying whatever its source contained, asking the channels (*srotāṃsi*) that handle it to take account of those properties before it can be assimilated. Vāgbhaṭa is precise about when this is appropriate and when it is not:
 
-> "Water should not be consumed, or consumed in very little quantity if unavoidable due to debility, by those suffering from poor digestive function, tumors of the abdomen, anaemia, enlargement of the abdomen, diarrhoea, haemorrhoids, diseases of the duodenum, consumption or dropsy. **Except in śarad (autumn) and nidāgha (summer) even healthy persons should drink less quantity of water in all other seasons.**"\
-> — *Aṣṭāṅga Hṛdaya*, Sūtrasthāna 5.13–14
+> **nāmbu peyam aśaktyā vā svalpam alpāgni-gulmibhiḥ |\
+> pāṇḍūdarātisārārśo-grahaṇī-śoṣa-śothibhiḥ |\
+> ṛte śaran-nidāghābhyāṃ pibet svastho 'pi cālpaśaḥ ||**
+>
+> "Water is not to be drunk — or drunk only sparingly — by those of weak *agni*,\
+> by those afflicted with *gulma*, *pāṇḍu*, ascites, diarrhoea, piles, *grahaṇī*, wasting, oedema.\
+> **Outside *śarad* (autumn) and *nidāgha* (summer), even the healthy man should drink only sparingly.**"\
+> — *Aṣṭāṅga Hṛdaya* Sūtrasthāna 5.13cd–14ab
 
 The closing clause is the load-bearing line. Even in health, water is for two seasons out of six. The other four, the body neither requires it nor benefits from it. Drinking it anyway asks the channels to dilute the rasa they have built, then rebuild it from scratch.
 
 The same chapter explains what happens at the table:
 
-> "Persons who drink water in the middle, at the end, and at the commencement of the meal will remain normal, become stout, and become emaciated respectively."\
-> — *Aṣṭāṅga Hṛdaya*, Sūtrasthāna 5.14b
+> **sama-sthūla-kṛśā bhukta-madhyānta-prathamāmbu-pāḥ ||**
+>
+> "Drinking water in the middle, at the end, or at the start of the meal\
+> makes one balanced, stout, or lean — respectively."\
+> — *Aṣṭāṅga Hṛdaya* Sūtrasthāna 5.14cd
 
 The window is narrow. Water at the end sits over the food and turns the unction into kapha-excess. Water at the start dilutes the agni before the food arrives. Only water taken between morsels, in measured sips, while the food is being broken down, is neutral. Outside that window, water with food vitiates digestion.
 
 The doctrine of [The Distilled Water Paradox](./The_Distilled_Water_Paradox.md) already names the higher rule: *yad bhūtam jāyate jīvenā* — only what has passed through life sustains life. Tap water, mineral water, well water carry the inorganic load of the geology they crossed. The body recognizes none of it as kin. The single water Vāgbhaṭa names *amṛta-saṃkāśa* — like the deathless nectar — is rain that has fallen from the sky and not yet touched soil:
 
-> "Enlivening, satiating, comforting to the heart (mind), refreshing, stimulating the intellect, thin, of imperceptible tastes, slightly sweet, cold, easily digestible, nectar-like in property and effect, are the properties of *gaṅgāmbu* (rain water) which has fallen from the sky, coming in contact with sunlight, moonlight and wind."\
-> — *Aṣṭāṅga Hṛdaya*, Sūtrasthāna 5.1–2
+> **jīvanaṃ tarpaṇaṃ hṛdyaṃ hlādi buddhi-prabodhanam |\
+> tanv avyakta-rasaṃ mṛṣṭaṃ śītaṃ laghv amṛtopamam ||\
+> gaṅgāmbu nabhaso bhraṣṭaṃ spṛṣṭaṃ tv arkendu-mārutaiḥ |\
+> hitāhita-tve tad bhūyo deśa-kālāv apekṣate ||**
+>
+> "Life-giving, satisfying, dear to the heart, refreshing, awakener of intelligence;\
+> subtle, of imperceptible taste, sweet, cold, light, comparable to *amṛta* itself —\
+> such is *gaṅgāmbu*, the water of the sky, fallen and touched by sun, moon, and wind.\
+> Whether it does good or harm depends further on place and season."\
+> — *Aṣṭāṅga Hṛdaya* Sūtrasthāna 5.1–2
 
 Rain water resembles rasa because rain has not yet picked up the load of the earth. Distilled water is the engineering equivalent: water freed of the inorganic load it acquired in transit. Every other water enters the body owing it a settlement.
 
@@ -85,12 +106,22 @@ Anna, ghṛta, milk, dāl: all *madhura* in rasa, all *madhura* in *vipāka* (th
 
 ## The Channel and the Signal
 
-The chronic thirst that asks for more water is the symptom of a vitiated channel. Vāgbhaṭa names the channel directly: the *ambuvaha-srotas*, the channel that conducts water through the body. The *Aṣṭāṅga Saṅgraha* (Vāgbhaṭa's longer companion text) lists what vitiates it:
+The chronic thirst that asks for more water is the symptom of a vitiated channel. Vāgbhaṭa names the channel directly: the *udakavaha-srotas*, the channel that conducts water through the body. The *Aṣṭāṅga Saṅgraha* (Vāgbhaṭa's longer companion text) gives the locus of vitiation, the causes, and the symptoms in a single passage of prose:
 
-> "Ambuvaha (udakavaha) srotas — its chief organs are *tālu* (palate) and *kloma* (pancreas). It gets vitiated by ***āma*** (uncooked or undigested food), fear, excess of alcoholic drinks, **dry foods**, and **suppression of thirst**. Severe thirst, dryness of the mouth, ringing in the ears, and unconsciousness are the signs of its vitiation."\
-> — *Aṣṭāṅga Saṅgraha*, Śārīrasthāna 6 (cited in Srikantha Murthy commentary on AH Śā. 3)
+> **udaka-vāhināṃ tālu mūlaṃ kloma ca |\
+> tāny āma-bhayāti-pānoṣṇa-śuṣkānna-kaṣāya-tṛṣṇā-nigrahādibhir duṣyanti |\
+> tato 'ti-tṛṣṇā mukha-śoṣaḥ karṇa-kṣveḍanaṃ tamo-darśanaṃ ca |\
+> tatra tṛṣṇoktam auṣadham ||**
+>
+> "Of the channels that carry water, the root is the palate (*tālu*) and the *kloma*.\
+> They become vitiated by *āma* (undigested residue), fear, excessive drinking,\
+> hot food, **dry food, astringents, and the suppression of thirst**.\
+> The vitiation produces extreme thirst, dryness of the mouth,\
+> ringing in the ears, and darkness before the eyes.\
+> The remedy is what has been prescribed for *tṛṣṇā* itself."\
+> — *Aṣṭāṅga Saṅgraha* Śārīrasthāna 6.16
 
-The body that drinks water all day to manage chronic thirst is the body whose ambuvaha-srotas has been vitiated by the sour-salty-bitter-pungent-astringent inputs Caraka catalogued. The repair is the diet, not more water. The dry food, the suppressed signal, the *āma*: these are what built the thirst. Building a different rasa drains it.
+The body that drinks water all day to manage chronic thirst is the body whose *udakavaha-srotas* has been vitiated by the inputs the verse names: *āma*, dry food, astringents, and the suppression of the natural signal. The repair is the diet, not more water. The dry food, the suppressed signal, the *āma*: these are what built the thirst. Building a different rasa drains it.
 
 There is a separate and legitimate signal, *pipāsā*, the body's actual report that it wants water. Caraka and Vāgbhaṭa both list it among the urges the wise do not suppress:
 
