@@ -1,5 +1,7 @@
 # Dehydrated Fruit Mixed with Coconut Butter and Honey
 
+![Dense sticky dried fruit bound with white coconut butter and amber honey into rich bars and clusters under a warm but oppressive glow.](../generated-images/dehydrated-fruit-coconut-honey-banner.png)
+
 ## On the Modern Confection and Its Classical Incompatibilities
 
 There is a preparation that has become ubiquitous in the modern health-food landscape: dehydrated fruit — mango, banana, date, fig, berry — bound together with coconut butter and raw honey into bars, balls, slabs, or clusters. It is sold as wholesome. It is marketed as ancient. It is presented as the food of vitality.
