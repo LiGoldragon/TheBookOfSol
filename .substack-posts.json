@@ -1,6 +1,12 @@
 {
   "posts": [
     {
+      "source_path": "chloride/The_Chloride_Indictment.md",
+      "post_id": 194783381,
+      "slug": "the-chloride-indictment",
+      "banner_image": "generated-images/the-chloride-indictment-banner.png"
+    },
+    {
       "source_path": "diet/Ambrosian_Diet.md",
       "post_id": 193562915,
       "slug": "the-ambrosian-diet",

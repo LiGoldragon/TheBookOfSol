@@ -1,6 +1,6 @@
 # The Ambrosian Diet
 
-![Warm bowls of cooked grain, ghee, and milk arranged as a quiet Ambrosian plate under a luminous horizon.](../generated-images/ambrosian-diet-banner.png)
+![Warm bowls of cooked grain, ghee, milk, and a separate clear vessel of pale straw-gold amaroli arranged as an Ambrosian table under a luminous horizon.](../generated-images/ambrosian-diet-banner.png)
 
 ## The Diet of Amṛta
 
