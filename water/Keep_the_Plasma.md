@@ -19,7 +19,7 @@ The *Aṣṭāṅga Hṛdaya* makes the dependence on *agni* unconditional:
 
 Rasa is what the body has cooked twice: once on the stove, and again by *agni* in the *āmāśaya* (the digestive cavity). What the kitchen and *agni* together cannot finish becomes *āma* — sticky undigested residue the body has to dispose of. The work of nourishment is to feed agni what it can finish, so that what enters the body becomes the body, and stays.
 
-## Why Most Plasma Cannot Be Kept
+## What Drains the Plasma
 
 The plasma the body produces inherits the qualities of what was eaten. The classical six tastes — *madhura* (sweet), *amla* (sour), *lavaṇa* (saline), *kaṭu* (pungent), *tikta* (bitter), *kaṣāya* (astringent) — compose every food. Caraka's verses on the excess of each are precise about what each does to the rasa-dhātu:
 
@@ -43,7 +43,7 @@ Five of the six rasas, in excess, produce thirst or directly dry up the rasa-dh�
 > "Madhura rasa is conducive to life-span, pleasing to the six sense organs, promotes strength and lustre, alleviates *pitta*, poisons, and *vāyu*; **pacifies thirst and heat**; is nourishing, vitalizing, saturating, bulk-promoting, stabilizing."\
 > — *Caraka Saṃhitā* Sūtrasthāna 26.43(1)
 
-A body whose plasma was built from sour, salty, bitter, pungent, or astringent excess cannot keep what it has built. It thirsts, it sweats, it urinates. It reaches for water to flush what its own diet produced. The dehydration is real. The cause is a plasma the body keeps having to cycle out.
+A body whose plasma was built from sour, salty, bitter, pungent, or astringent excess holds less of what it built. It thirsts, it sweats, it urinates. It reaches for water to dilute what its own diet produced. The plasma still nourishes; the body works with what it has. But more of it has to be released, and the body experiences this as the chronic need for more water.
 
 ## What Foreign Water Does
 
@@ -58,7 +58,7 @@ Water from outside enters as a solvent of variable composition, carrying whateve
 > **Outside *śarad* (autumn) and *nidāgha* (summer), even the healthy man should drink only sparingly.**"\
 > — *Aṣṭāṅga Hṛdaya* Sūtrasthāna 5.13cd–14ab
 
-Even in health, water is for two seasons out of six. The other four, the body neither requires it nor benefits from it. Drinking it anyway asks the channels to dilute the rasa they spent the day building, and rebuild it from scratch.
+Even in health, water is to be drunk freely in only two seasons out of six. *Alpaśaḥ* — sparingly — is the rule for the other four. Drinking more anyway asks the channels to dilute the rasa they spent the day building, and to rebuild what was thinned.
 
 The same chapter explains what happens at the table:
 
@@ -108,7 +108,7 @@ And the staple it is built on:
 > "The yogi should take nourishing and sweet food mixed with **ghee and milk**; it should nourish the *dhātus* and be pleasing and suitable."\
 > — *Haṭha Yoga Pradīpikā* 1.63
 
-Anna with ghṛta. Milk and dāl. Occasional medicinal herbs. *Madhura* in rasa, *madhura* in *vipāka* (the post-digestive transformation). The classical Ambrosian floor, already laid out in [The Ambrosian Diet](../diet/Ambrosian_Diet.md), produces a plasma in the same register as the foods that built it. The body running on this plasma has nothing to flush.
+Anna with ghṛta. Milk and dāl. Occasional medicinal herbs. *Madhura* in rasa, *madhura* in *vipāka* (the post-digestive transformation). The classical Ambrosian floor, already laid out in [The Ambrosian Diet](../diet/Ambrosian_Diet.md), produces a plasma in the same register as the foods that built it. The body running on this plasma flushes less and keeps more.
 
 ## The Channel That Carries Water
 
@@ -127,7 +127,7 @@ The chronic thirst that asks for more water is the symptom of a vitiated channel
 > The remedy is what has been prescribed for *tṛṣṇā* itself."\
 > — *Aṣṭāṅga Saṅgraha* Śārīrasthāna 6.16
 
-The closing line — *tatra tṛṣṇoktam auṣadham* — is the doctrinal pivot. The cure for chronic thirst is the regimen, not the water. The channel vitiated by *āma*, by dry and astringent inputs, by chronic suppression of natural urges, repairs by being given the substrate that lets it close.
+The closing line, *tatra tṛṣṇoktam auṣadham*, is the doctrinal pivot. The cure for chronic thirst is the regimen, not the water. The channel vitiated by *āma*, by dry and astringent inputs, by chronic suppression of natural urges, repairs by being given the substrate that lets it close.
 
 There is a separate signal, *pipāsā*, the body's actual report that it wants water. Caraka and Vāgbhaṭa both list it among the urges the wise do not suppress. When the signal arises naturally, satisfy it with cold water, immediately. That is the rule. The rule does not authorize manufacturing the signal by routine drinking, by salty or pungent food chosen for the thirst it produces, or by the modern fear of dehydration that has displaced the body's own report.
 
@@ -142,24 +142,24 @@ Inside the body the chain runs anna → rasa → rakta → māṃsa → medas �
 > if it is destroyed, all living beings perish."\
 > — *Caraka Saṃhitā* Sūtrasthāna 30.9
 
-Every litre of foreign water the kidneys process is rasa that had to leave to make room for it, and ojas that did not get built because the rasa that would have built it was flushed. The body that drinks by routine spends its day rebuilding what its routine has dismantled. The body that builds rasa from anna and keeps it spends its day refining further down the chain.
+Foreign water the kidneys process pulls rasa with it as it goes; the ojas that would have arisen from that rasa is built more slowly. The body that drinks by routine spends part of its day rebuilding what its routine has thinned. The body that builds rasa from anna and keeps most of it spends that time refining further down the chain.
 
 ## The Essence — What Replaces Water
 
-Outside the body the same loop runs at the next register. The kidneys release what the body could not hold — but what they release is plasma the body had already begun the work of refining, freed of what could not currently be used. Aged for one or two lunations, the plasma separates: sediment drops out, the upper layer clarifies. Distilled, it yields two fractions:
+Outside the body the same loop runs at the next register. The kidneys release what the body could not hold; what they release is plasma the body had already begun the work of refining, freed of what could not currently be used. Aged for one or two lunations, the plasma separates: sediment drops out, the upper layer clarifies. Distilled, it yields two fractions:
 
 - The **spirit** — solar, volatile, hot, drying, clearing. Used in drops for *āma* and other accumulations. A small dose works fast.
 - The **essence** — lunar, watery, quiet, slightly alkaline, very low in dissolved load. The body of the plasma, returned.
 
-The essence is what the body wants when the body is thirsty. It has already passed through the body once, been concentrated by aging, and freed of the volatile and the heavy by the still. What returns is the body's own water, refined — almost ready to be received back into rasa without the intermediate conversion. The body welcomes it because it came from the body.
+The essence is what the body wants when the body is thirsty. It has already passed through the body once, been concentrated by aging, and freed of the volatile and the heavy by the still. What returns is the body's own water, refined and almost ready to be received back into rasa without the intermediate conversion. The body welcomes it because it came from the body.
 
-This makes the essence the appropriate fluid for any use water has. Drinking. Cooking porridge and grain. Hydrating the skin. Lubricating the channels — nose, ear, eye. Enemas. Yoni infusion. Mixing with ghee for *anupāna*. Anywhere the kitchen or the body asks for a fluid, the essence does the work better than water, because it is closer to what the body is going to make of it. Even rain water and distilled water are foreign by comparison: the body still has to clear what they brought before any of it can become plasma. The essence is already plasma.
+This makes the essence the appropriate fluid for any use water has. Drinking. Cooking porridge and grain. Hydrating the skin. Lubricating the channels — nose, ear, eye. Enemas. Yoni infusion. Mixing with ghee for *anupāna*. Anywhere the kitchen or the body asks for a fluid, the essence does the work more readily than water, because it is closer to what the body is going to make of it. Rain water and distilled water still need to become plasma; the essence already is.
 
 The *Damar Tantra* names the practice (*amarolī*, from *amara* — undying) and gives its dietary precondition:
 
 > "The follower of the therapy should avoid pungent, salty ingredients in his meals. He should not over-exert himself. He should follow a balanced and light diet."\
 > — *Damar Tantra* Verse 5
 
-The Ambrosian diet again, this time as the prerequisite for the practice that closes the external loop. A salt-sour-bitter plasma cannot be returned to the body; the body is trying to eject it. A *madhura-snigdha* plasma can. The scaffolding for the practice — collection, aging, distillation, fraction storage, applications — lives in [Plasma Recycling Manual](./Plasma_Recycling_Manual.md).
+The Ambrosian diet again, this time as the precondition for the practice that closes the external loop. Both plasmas remain usable; the diet shifts the proportion. A salt-sour-bitter plasma is harder to return: more of what the body released was marked for ejection, and aging and distillation have to do more of the work the diet did not. A *madhura-snigdha* plasma comes back more readily, because less of what was released was waste to begin with, and the refinement that aging and the still perform is closer to a polish than a rescue. The scaffolding for the practice (collection, aging, distillation, fraction storage, applications) lives in [Plasma Recycling Manual](./Plasma_Recycling_Manual.md).
 
 Keep the plasma. The body has already made what it needs.
