@@ -151,7 +151,7 @@ Outside the body the same loop runs at the next register. The kidneys release wh
 - The **spirit** — solar, volatile, hot, drying, clearing. Used in drops for *āma* and other accumulations. A small dose works fast.
 - The **essence** — lunar, watery, quiet, slightly alkaline, very low in dissolved load. The body of the plasma, returned.
 
-The essence is what the body wants when the body is thirsty. It has already passed through the body once, been concentrated by aging, and freed of the volatile and the heavy by the still. What returns is the body's own water, refined and almost ready to be received back into rasa without the intermediate conversion. The body welcomes it because it came from the body.
+The essence is what the body wants when the body is thirsty. It has already passed through the body once and been freed of the volatile and the heavy by the still. What returns is the body's own water, refined and almost ready to be received back into rasa without the intermediate conversion. The body welcomes it because it came from the body.
 
 This makes the essence the appropriate fluid for any use water has. Drinking. Cooking porridge and grain. Hydrating the skin. Lubricating the channels — nose, ear, eye. Enemas. Yoni infusion. Mixing with ghee for *anupāna*. Anywhere the kitchen or the body asks for a fluid, the essence does the work more readily than water, because it is closer to what the body is going to make of it. Rain water and distilled water still need to become plasma; the essence already is.
 
