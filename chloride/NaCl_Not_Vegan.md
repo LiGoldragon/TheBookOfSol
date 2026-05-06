@@ -1,4 +1,4 @@
-**Salt Is Not Vegan**
+# Salt Is Not Vegan
 
 Veganism is grounded in a single ethical claim: the refusal to participate in animal abuse. It is not fundamentally a list of permitted ingredients, nor a rule about animal-derived substances, but a principle about harm. Everything else is downstream of that premise.
 

@@ -1,4 +1,6 @@
-**The Living Cannot Eat the Dead: Biological Incompatibility of Inorganic Minerals**
+# Inorganic Minerals
+
+## *The Living Cannot Eat the Dead: Biological Incompatibility of Inorganic Minerals*
 
 ### The Principle of Life-Origin in Nourishment
 

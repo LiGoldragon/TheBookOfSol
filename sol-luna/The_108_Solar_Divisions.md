@@ -1,3 +1,5 @@
+# The 108 Solar Divisions
+
 ### **Aries (Mesha) | The Spark of Being**
 
 - **Nakshatra: Ashwini (The Horseman) | Padas 1-4**

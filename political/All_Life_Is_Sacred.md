@@ -1,3 +1,5 @@
+# All Life Is Sacred
+
 No being in whom the life of **Īśvara** quivers can ever be called a corpse. Every spark of the divine Flame, from the mineral in its stillness to the sage in his wisdom, is a developing seed of God. While the mastery of **prāṇa** and the awakening of **kuṇḍalinī** are indeed the sublime goals of the unfolding Spirit, they are fruits that must ripen in their own season.
 
 To demand the powers of the adept from the soul of the child is to violate the Law of **Dharma**. For the man whose inner nature is yet struggling with the discipline of service, or the lessons of justice and courage, his **Dharma** is found in the faithful discharge of those duties—not in the premature grasping of occult fires. Function must be in relation to power; to pluck the fruit ere it is ripe is to set the teeth on edge and stunt the very evolution you seek to quicken.

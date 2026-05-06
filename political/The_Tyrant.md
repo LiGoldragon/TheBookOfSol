@@ -1,6 +1,6 @@
-______________________________________________________________________
+# The Tyrant
 
-## Title: The Tyrant: A Gift Worthy of the Warrior
+## *A Gift Worthy of the Warrior*
 
 In the endless, silent desert of existence, where time flows in cycles like the sun and moon, a warrior walks his path with heart. He knows that the world is a mystery, a stupendous, awesome, and unfathomable place where nothing can be taken for granted. He understands that his time on this earth is short, too short to witness all its marvels, and so he learns to make every act count. This warrior knows that his only true companion is his death, which walks always to his left, at an arm's length, an infallible adviser that will never lie to him. It is this awareness of his impending death that gives him the detachment necessary to face the world, not as a blessing or a curse, but as a series of challenges.
 

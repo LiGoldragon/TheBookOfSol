@@ -1,4 +1,6 @@
-**The Proper Food in Yoga: Grain Cooked in Water**
+# Yogic Food
+
+## *The Proper Food in Yoga: Grain Cooked in Water*
 
 Yoga does not frame eating as preference, ethics, or identity. Yoga frames eating as structure. The proper yogic food is **anna**—grain—prepared by **thorough cooking in ample water**, the preparation Āyurveda names **vilēpī** (with thinner forms called **peya** and **yavāgu**). This position is not reconstructed from theory; it is stated directly and repeatedly across the classical corpus.
 

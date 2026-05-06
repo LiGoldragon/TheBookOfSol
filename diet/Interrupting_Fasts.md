@@ -1,4 +1,6 @@
-**The Shock of Eating Earth: How Inorganic Matter Triggers Emergency and Derails a Fast**
+# Interrupting Fasts
+
+## *The Shock of Eating Earth: How Inorganic Matter Triggers Emergency and Derails a Fast*
 
 Fasting shifts the entire organism inward. Metabolic force turns toward repair, unused debris begins to loosen, and the channels open for real cleansing. This inward momentum depends on one thing: nothing enters that forces the body to reverse direction.
 

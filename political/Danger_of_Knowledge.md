@@ -1,4 +1,6 @@
-## On the Danger of Teaching What Burns
+# The Danger of Knowledge
+
+## *On the Danger of Teaching What Burns*
 
 Across civilizations and centuries, knowledge is treated not as neutral information but as a volatile force. What illuminates the prepared can corrupt the unready, and what liberates the disciplined can arm the impulsive. The warning is not against knowledge itself, but against its careless transmission.
 

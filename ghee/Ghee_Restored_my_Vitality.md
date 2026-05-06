@@ -1,6 +1,8 @@
-**How Ghee Restored My Vitality and Reduced Animal Harm**
+# Ghee Restored My Vitality
 
-### **The Descent into Ojas Deficiency**
+## *How Ghee Restored My Vitality and Reduced Animal Harm*
+
+### The Descent into Ojas Deficiency
 
 From the beginning, my trust was placed almost entirely in **śivāmbu**, assuming its purity and refinement would safeguard my vitality. I relied on it as the central pillar holding my system together. Yet beneath that reliance, a steady erosion of **ojas** unfolded—an erosion I did not recognize until it had already weakened both body and mind.
 

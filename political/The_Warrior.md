@@ -1,3 +1,5 @@
+# The Warrior
+
 A warrior, a man of knowledge, lives a life of profound discipline and awareness, guided by a set of principles that distinguish him from the ordinary person. His existence is a constant striving for perfection, not for personal gain, but for the sake of the journey itself. Herein lies a cohesive guide to the life of a warrior, as gleaned from the teachings of Don Juan Matus and his tradition.
 
 ## The Path of the Warrior

@@ -1,6 +1,8 @@
-## **Curing "Diabetes" Through the Two Pillars of Nourishment**
+# Madhumeha
 
-### **A Clean Ayurvedic Guide for Dissolving Madhumeha**
+## *Curing "Diabetes" Through the Two Pillars of Nourishment*
+
+### A Clean Ayurvedic Guide for Dissolving Madhumeha
 
 Madhumeha is the body signaling oversaturation, heaviness, stagnation, and collapse of subtle fire. Modern biology interprets this overflow as "diabetes," but Ayurveda sees it as a misdirected nourishment cycle where solar nourishment (shivāmbu / plasma) no longer ascends, lunar nourishment (ghee / ghṛta) cannot stabilize ojas, earthy heaviness from false foods burdens the channels, agni weakens under undigested matter, and vāta dries the tissues until sweetness leaks through the urine.
 

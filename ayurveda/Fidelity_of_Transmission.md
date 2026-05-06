@@ -1,4 +1,6 @@
-## On Plasma Retention, Tyranny, and the Fidelity of Transmission
+# Fidelity of Transmission
+
+## *On Plasma Retention, Tyranny, and the Fidelity of Transmission*
 
 **Plasma retention**, known in the yogic tradition as **Śivāmbu** and systematized as **Amarolī**, was not a peripheral curiosity but a **central tenet** placed by the earliest sage-writers, who wrote as practitioners and not as spectators. Authority arose from **use**, not theory; from **embodied verification**, not speculation. Where health was sovereign, speech was **plain**.
 

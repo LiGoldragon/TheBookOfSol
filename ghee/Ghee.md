@@ -1,6 +1,8 @@
-The Navel of Immortality A Cross-Traditional Monograph on Ghee (Ghṛta)
+# Ghee
 
-I. Names, Etymology, and Basic Nature
+## *The Navel of Immortality — A Cross-Traditional Monograph on Ghee (Ghṛta)*
+
+## I. Names, Etymology, and Basic Nature
 
 In Sanskrit, clarified butter is called ghṛta, from the verbal root ghṛ- meaning "to sprinkle, to anoint, to shine." The cluster of meanings—shining, brightened, poured—already hints at a substance that is both luminous and libational. Philological surveys of Vedic vocabulary consistently trace ghṛta to this root and note its ritual association with light, clarity, and consecration.
 

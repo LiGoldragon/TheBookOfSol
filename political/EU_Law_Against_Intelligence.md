@@ -1,4 +1,6 @@
-**Europe's Safety Laws Are Quietly Eroding Its Citizens' Intelligence**
+# EU Law Against Intelligence
+
+## *Europe's Safety Laws Are Quietly Eroding Its Citizens' Intelligence*
 
 ### The Architecture of Fragmentation
 

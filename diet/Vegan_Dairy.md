@@ -1,4 +1,6 @@
-**Dairy Is Not Intrinsically Non-Vegan**
+# Vegan Dairy
+
+## *Dairy Is Not Intrinsically Non-Vegan*
 
 Veganism was originally defined as a diet that proceeds from the non-abuse of animals. It was never framed as a rule about excluding entire categories of substances by origin alone, but as an ethical criterion: what matters is whether animals are abused in the process.
 

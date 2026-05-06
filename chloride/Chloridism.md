@@ -1,6 +1,6 @@
-## Chloride, Chloridic, Chloridism
+# Chloridism
 
-### Restoring Precision to Language, Toxicology, and Meaning
+## *Chloride, Chloridic, Chloridism — Restoring Precision to Language, Toxicology, and Meaning*
 
 ### *Chloride* of Sodium and the Question of Order
 
