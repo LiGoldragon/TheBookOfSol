@@ -28,16 +28,14 @@ The political utility of a population with these characteristics is obvious and 
 
 The most transparent premodern salt-politics is the one Cortés, to his own subsequent advantage, documented in detail. The Aztec imperial system controlled the salt-flats of central Mexico and distributed salt through the tribute system as a rank-marker and as a tool of political stratification.
 
-> *"2000 loaves of very white salt, refined in the shape of a mold, for the consumption only of the lords of Mexico."*
->
+> "2000 loaves of very white salt, refined in the shape of a mold, for the consumption only of the lords of Mexico."\
 > — Aztec tribute record, preserved in William Prescott, *History of the Conquest of Mexico* (1843)
 
 Two observations follow from this tribute list. First, the noble caste received *refined, white, mold-shaped* salt — the premium product, designed to concentrate the pharmacological effect. The common subject, who received less or none, was paradoxically less dependent and therefore, from the state's perspective, *less reliable*. Imperial subjects consumed what the tribute system allocated; their dependency was the measure of their incorporation into the empire.
 
 Second, and this is the crucial political-pharmacological point: the populations that were *not* incorporated into the Aztec tribute system were also the populations that did not eat salt.
 
-> *"The Tlatoque had maintained their independence and avoided the oppression of the Aztecs by abstaining from salt. 'They ate no salt because there was none in their land,' he [Cortés] wrote, and like the British, they feared salt dependency."*
->
+> "The Tlatoque had maintained their independence and avoided the oppression of the Aztecs by abstaining from salt. 'They ate no salt because there was none in their land,' he [Cortés] wrote, and like the British, they feared salt dependency."\
 > — reported in Mark Kurlansky, *Salt: A World History* (2002)
 
 The phrase *they feared salt dependency* is the key one. Cortés, with a conquistador's clear eye for the political uses of substances, recognized immediately what the Tlatoque were doing. They were declining to be narcotized. They were keeping their bodies — and therefore their consciousness, their capacity for political resistance, their solar warmth — outside the Aztec pharmacology. This made them ungovernable by tribute, ungovernable by economic pressure, ungovernable by the slow drip of the shared salted meal. And they remained independent until a different, more forceful pharmacology — Spanish steel and Spanish disease — replaced the Aztec one.
@@ -56,16 +54,14 @@ The Roman expansion into the interior of Italy, and later across the Mediterrane
 
 The Han dynasty established the first fully formalized state salt monopoly, and the court debate over it has been preserved in the *Yantielun* (鹽鐵論, "Discourses on Salt and Iron," 81 BCE). The extraordinary feature of the Discourses is that the Confucian *Literati*, representing the traditional moral voice of the empire, argued explicitly against the monopoly and named both its economic and its political-pharmacological dimensions.
 
-> *"The profit from salt should flow to the people who live by the sea and the lakes, not be drained away to the central treasury. To monopolize salt is to tax the kitchen of every household in the realm."*
->
+> "The profit from salt should flow to the people who live by the sea and the lakes, not be drained away to the central treasury. To monopolize salt is to tax the kitchen of every household in the realm."\
 > — paraphrase of the Literati's argument in the *Yantielun*
 
 The argument lost. The imperial officials who maintained the monopoly did so on the grounds the Literati had already identified — that monopoly revenue funded the expansion of the state — but what the Discourses does not quite say, though the shape of the argument implies it, is that the monopoly funded the *expansion* of the state because it simultaneously produced the *docility* of the taxed. The Chinese salt monopoly persisted, with periods of interruption, for nearly two thousand years. When the monopoly revenue was strong, the state could project its power outward; when the monopoly collapsed (as it did at the end of most dynasties), the state's capacity to extract revenue *and* the state's capacity to govern its population both collapsed at once. This is not coincidence. It is the signature of the two-mechanism pattern: the same apparatus that produced the revenue produced the population.
 
 Later Chinese medical writers — Sun Simiao in the Tang, Zhu Danxi in the Yuan — observed clinically what the Han officials were doing politically. Zhu Danxi wrote:
 
-> *"The ancients did not eat salt heavily; their bones were strong and their years long. The people of today eat salt to excess, and the signs of early aging appear in the prime of life."*
->
+> "The ancients did not eat salt heavily; their bones were strong and their years long. The people of today eat salt to excess, and the signs of early aging appear in the prime of life."\
 > — paraphrase of Zhu Danxi, *Danxi xinfa* 丹溪心法
 
 The clinical observation and the political arrangement were two faces of the same fact. The population was eating more salt than its ancestors had eaten; its bodies were showing the effects; and the state was the beneficiary of the economic transaction that was producing the ageing bodies. The salt monopoly was, in effect, a geriatric tax — extracted from a population that the monopoly itself was prematurely ageing.
@@ -90,8 +86,7 @@ The pharmacological mechanism served the British exactly as it had served every 
 
 Gandhi understood this. The Dandi March of March 1930 was not, in the first instance, a protest against a particular tax. It was a political-spiritual reclamation of the body itself. Gandhi, who observed extended periods of *aluṇa-vrata* as part of his own *tapas*, did not think of salt as a food the Indian people needed. He thought of salt as a *substance the Indian people should be free to access or refuse as their own tradition directed* — and the British colonial monopoly had taken this choice away from them.
 
-> *"It would be folly to assume that an Indian Rockefeller would be better than an American Rockefeller."*
->
+> "It would be folly to assume that an Indian Rockefeller would be better than an American Rockefeller."\
 > — M. K. Gandhi
 
 Gandhi's point, quoted in Kurlansky, cuts in the direction this file is arguing. The political problem with salt is not which particular tyrant holds the monopoly. The political problem is the existence of the monopoly — the dependency structure itself, which will produce the same compliant, salted, diminished population regardless of whether its beneficiary is a British Viceroy, an American industrial baron, or an Indian post-colonial nationalist. The Salt March gathered a few grains of salt from the sea and held them up to the camera. What was being reclaimed in that gesture was not salt. It was the body, the taste-field, the capacity for political attention, and the solar sovereignty that every population has when it is not on the state's narcotic.

@@ -12,24 +12,21 @@ The *Damar Tantra*, the dialogue in which Śiva teaches Pārvatī the *Shivambu 
 
 ### Verse 5 — the opening discipline
 
-> *The follower of the therapy should avoid pungent and salty ingredients in his meals. He should not over-exert himself. He should follow a balanced and light diet. He should sleep on the ground, and control the senses.*
->
+> "The follower of the therapy should avoid pungent and salty ingredients in his meals. He should not over-exert himself. He should follow a balanced and light diet. He should sleep on the ground, and control the senses."\
 > — *Damar Tantra*, verse 5
 
 The prohibition comes at the opening of the discipline, before the practice itself is described. Salt is listed first — before over-exertion, before the regulation of sleep, before the control of the senses. The text treats salt-abstention as a precondition without which the subsequent practice cannot yield its fruit.
 
 ### Verse 30 — the interior rule
 
-> *A follower who takes Shivambu regularly and avoids pungent, salty, and sour things can promptly enjoy the fruits of his meditation and this method.*
->
+> "A follower who takes Shivambu regularly and avoids pungent, salty, and sour things can promptly enjoy the fruits of his meditation and this method."\
 > — *Damar Tantra*, verse 30
 
 The formulation is direct: *avoids pungent, salty, and sour things*. The three agitating tastes — the same three the Gītā identifies as *rājasa* and the haṭha corpus as *apathya* — are named together. The tantric logic converges with the yogic: these tastes produce the restless, heated body that cannot hold the practice.
 
 ### Verses 104–106 — the closing discipline
 
-> *During the process of the intake of Shivambu, the following things should be strictly avoided: vegetables in the form of leaves, flowers, or legumes; grains that cause flatulency; and starchy, pungent, sour, and salty foods. Sexual intercourse should also be avoided. This will help to accomplish the fruits of this method. Behaving against these rules will put man in unexpected difficulties.*
->
+> "During the process of the intake of Shivambu, the following things should be strictly avoided: vegetables in the form of leaves, flowers, or legumes; grains that cause flatulency; and starchy, pungent, sour, and salty foods. Sexual intercourse should also be avoided. This will help to accomplish the fruits of this method. Behaving against these rules will put man in unexpected difficulties."\
 > — *Damar Tantra*, verses 104–106
 
 The closing injunction is strict. The phrase *behaving against these rules will put man in unexpected difficulties* is the text's own closing warning, which applies specifically to the combination it names: starchy, pungent, sour, and salty foods, plus sexual activity. The discipline will not work if these are not removed.

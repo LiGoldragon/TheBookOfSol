@@ -16,8 +16,7 @@ The *Caraka Saṃhitā*'s *rasa-vimāna* — the chapter on the balance and imba
 
 > **lavaṇasyātiyogāt puṁstvopaghāta indriyopaghāto vali-palita-khālityaṃ ca bhavati ||**
 >
-> *From excess of the salty taste comes loss of virility, impairment of the senses, and the production of wrinkles, greying, and baldness.*
->
+> "From excess of the salty taste comes loss of virility, impairment of the senses, and the production of wrinkles, greying, and baldness."\
 > — *Caraka Saṃhitā*, Sūtrasthāna 26 (atiyoga-prakaraṇa)
 
 The fuller doctrinal form extends the list: aggravation of blood (*rakta-kopa*), kindling of skin diseases (*kuṣṭha*), bleeding disorders (*rakta-pitta*), loosening of teeth, weakening of flesh, thirst (*tṛṣṇā*), and premature ageing. Every item on the list is a specific clinical syndrome of chronic chloride burden as modern cardiology would later catalogue it.
@@ -28,8 +27,7 @@ The deeper metaphysical principle that underwrites the warning appears elsewhere
 
 > **mṛttikā-loha-bhakṣaṇaṃ tamo-nimittam ||**
 >
-> *The eating of earth and metal arises from tamas — from inertia and the obscuration of intelligence.*
->
+> "The eating of earth and metal arises from tamas — from inertia and the obscuration of intelligence."\
 > — *Caraka Saṃhitā* (doctrinal statement, Sūtrasthāna tradition)
 
 Inorganic matter — mineral, stone, ash — is *jaḍa*: lifeless, unable to feed a living field. The body responds to it by irritation, forced elimination, or pathological deposition. Chloride of sodium is the paradigmatic case: an inorganic mineral delivered concentrated into plasma, bypassing the living matrices through which minerals are ordinarily made compatible with life. The ingestion of such matter is, for Caraka, a *tamasic* act — rooted in obscuration, producing obscuration.
@@ -101,24 +99,21 @@ The *Suśruta Saṃhitā*, the surgical compendium of classical India, lists sal
 
 ### On *pāṇḍu-roga* — anemia, jaundice, and wasting
 
-> *The deranged bodily* doṣas *of a person addicted to sexual excesses, or to eating clay or salts, or articles of keen potency and of acid or saline taste, or to strong liquors in excessive quantities, or to sleeping in the day, contaminate the blood and produce a yellowish (*pāṇḍu*) colour of the skin. This is known as* pāṇḍu-roga.
->
+> "The deranged bodily *doṣas* of a person addicted to sexual excesses, or to eating clay or salts, or articles of keen potency and of acid or saline taste, or to strong liquors in excessive quantities, or to sleeping in the day, contaminate the blood and produce a yellowish (*pāṇḍu*) colour of the skin. This is known as *pāṇḍu-roga*."\
 > — *Suśruta Saṃhitā*, Uttaratantra 44, trans. Kaviraj Kunjalal Bhishagratna
 
 *Pāṇḍu-roga* corresponds approximately to the modern categories of iron-deficiency anemia, hepatic jaundice, chronic wasting. Classical Suśruta places salt in the same etiological list as clay-eating (the paradigm of *tamasic* ingestion), alcoholism, sexual exhaustion, and day-sleep. This is the company the text puts salt in.
 
 ### On *rakta-pitta* — hemorrhagic disorders
 
-> *Excessive indulgence in grief, fright or anger, excessive physical labour, exposure to the sun and fire, constant use of pungent, acid, saline, and alkaline food, or of articles of fare which are keen or heat-making in potency, or incompatible in their combination, or are followed by deficient gastric or intestinal digestion — these are the factors which tend to produce* rakta-pitta.
->
+> "Excessive indulgence in grief, fright or anger, excessive physical labour, exposure to the sun and fire, constant use of pungent, acid, saline, and alkaline food, or of articles of fare which are keen or heat-making in potency, or incompatible in their combination, or are followed by deficient gastric or intestinal digestion — these are the factors which tend to produce *rakta-pitta*."\
 > — *Suśruta Saṃhitā*, Uttaratantra 45, trans. Bhishagratna
 
 *Rakta-pitta* encompasses epistaxis, hematemesis, hematuria, and the spontaneous bleeding diatheses. Salt is named among the dietary agents that contaminate blood to the point of hemorrhage. Modern hypertension is precisely a pressure-driven bleeding disorder of the small vessels: retinal hemorrhage, cerebral hemorrhage, microvascular rupture. The classical Suśruta diagnosis and the modern one are the same diagnosis.
 
 ### On *tṛṣṇā* — pathological thirst
 
-> *The thirst which is produced by using extremely fatty and saline articles of fare, as well as those which are hard to digest, is due to errors in diet — and is known as* Annaja *thirst.*
->
+> "The thirst which is produced by using extremely fatty and saline articles of fare, as well as those which are hard to digest, is due to errors in diet — and is known as *Annaja* thirst."\
 > — *Suśruta Saṃhitā*, Uttaratantra 48, trans. Bhishagratna
 
 Modern cardiology records pathological thirst as the first clinical sign of sustained chloride load. Suśruta records the same sign two millennia earlier, with the same etiology, under the same doctrinal heading.

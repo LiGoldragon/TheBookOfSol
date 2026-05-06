@@ -15,8 +15,7 @@ The *Bhagavad Gītā*'s chapter seventeen divides food, like action and like kno
 > **kaṭv-amla-lavaṇāty-uṣṇa-tīkṣṇa-rūkṣa-vidāhinaḥ |**
 > **āhārā rājasasyeṣṭā duḥkha-śokāmaya-pradāḥ ||**
 >
-> *Foods that are pungent, sour, salty, excessively hot, sharp, dry, and burning are dear to those of agitated nature. Such foods bring forth sorrow, grief, and disease.*
->
+> "Foods that are pungent, sour, salty, excessively hot, sharp, dry, and burning are dear to those of agitated nature. Such foods bring forth sorrow, grief, and disease."\
 > — *Bhagavad Gītā* 17.9
 
 The verse is surgical. *Lavaṇa* (salt) is one of the six defining qualities of rājasic food, named alongside *kaṭu* (pungent), *amla* (sour), *uṣṇa* (excessively hot), *tīkṣṇa* (sharp), and *rūkṣa* (dry). The outcome is stated without hedging: *duḥkha-śoka-āmaya-pradāḥ*, producing sorrow, grief, and disease. These foods *produce* suffering as their proper output. That is what rājasic food is.
@@ -35,8 +34,7 @@ The second major dharmic register is ritual. Across the *Dharmaśāstra* literat
 
 > **lavaṇaṃ varjayed vratī ||**
 >
-> *The one under vow shall abstain from salt.*
->
+> "The one under vow shall abstain from salt."\
 > — standard Dharmaśāstra formula, recurring in *Manusmṛti*, *Yājñavalkya Smṛti*, *Viṣṇu Smṛti*, and the Purāṇic ritual compendia
 
 The *aluṇa-vrata* (literally "saltless vow") is a canonical category of observance. The woman observing certain *nakṣatra* vows, the widow in mourning, the householder during *pitṛ-pakṣa*, the brahmacārin during periods of study, the renunciant at the moment of taking *saṃnyāsa*, the Jain *muni* on specific days and in many lineages throughout the mendicant life: all abstain from salt.

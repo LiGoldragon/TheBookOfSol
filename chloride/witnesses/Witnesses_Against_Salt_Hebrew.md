@@ -16,8 +16,7 @@ The earliest occurrence in scripture is also the most structural.
 >
 > *wattabēṭ ʾištô mēʾaḥărāyw wattəhî nəṣîb melaḥ*
 >
-> *His wife looked back, and she became a pillar of salt.*
->
+> "His wife looked back, and she became a pillar of salt."\
 > — *Genesis* 19:26
 
 Lot's wife, fleeing the destruction of Sodom, looks back and is transfixed. The form her petrifaction takes is *melaḥ* — salt. Scripture associates, at the founding moment, the form of salt with the end of living motion: the woman who turns from her escape into rigidity, held in place by the crystallization that is salt's defining physical property.
@@ -30,8 +29,7 @@ The second major occurrence is political: Abimelech's destruction of Shechem.
 >
 > *wayyilkōd ʾet hā-ʿîr wəʾet hā-ʿām ʾăšer bāh hārāg wayyittōṣ ʾet hā-ʿîr wayyizrāʿehā melaḥ*
 >
-> *He captured the city, killed the people within it, razed the city, and sowed it with salt.*
->
+> "He captured the city, killed the people within it, razed the city, and sowed it with salt."\
 > — *Judges* 9:45
 
 Abimelech salts Shechem after its slaughter. The ritual completes the annihilation: nothing will grow there again. The act is formulaic — salt is the seal of sterility, applied to ground that is to be *prevented* from returning to life. This Iron Age military practice, attested across the ancient Near East, operates on the same observation that modern agriculture confirms: salt in soil prevents plants from recovering water; the salted field is the field that cannot germinate.
@@ -44,8 +42,7 @@ The covenantal curse of Deuteronomy 29 takes the form of salted land.
 >
 > *goprît wāmelaḥ śərēpâ kol-ʾarṣāh*
 >
-> *Its whole land is brimstone and salt and burning.*
->
+> "Its whole land is brimstone and salt and burning."\
 > — *Deuteronomy* 29:22 (Masoretic numbering; 29:23 in some Christian Bibles)
 
 The passage describes the fate of a people who break the covenant: their land becomes *gopher wa-melaḥ śerēpâ*, "brimstone and salt, a burning." The three-fold image evokes the destruction of Sodom (brimstone from heaven) and the salting of Shechem (salt upon the ruin), compounded into a single covenantal curse. The land that once produced food now produces only the mineral residues of fire and salt. Nothing sown shall rise.
@@ -58,8 +55,7 @@ The prophetic tradition uses the salted land as a standing image of the barren c
 >
 > *kəʿarʿār bāʿărābâ wəlōʾ yirʾe kî-yābôʾ ṭôb wəšākan ḥărērîm ba-midbār ʾereṣ məlēḥâ wəlōʾ tēšēb*
 >
-> *He shall be like a shrub in the desert, and shall not see when good comes; he shall inhabit the parched places of the wilderness, in a salt land, uninhabited.*
->
+> "He shall be like a shrub in the desert, and shall not see when good comes; he shall inhabit the parched places of the wilderness, in a salt land, uninhabited."\
 > — *Jeremiah* 17:6
 
 Jeremiah 17 likens the man who trusts in flesh to a stunted shrub rooted in *ʾereṣ məlēḥâ*, a salt land, a land that cannot be dwelt in. The image depends on the reader already knowing what a salt land is: the place where life does not take hold, where the small plant does not reach the water, where good never comes.
@@ -74,8 +70,7 @@ Ezekiel's vision of the healing river restores the Dead Sea to life — except t
 >
 > *biṣṣōʾtāyw ûḡəbāʾāyw wəlōʾ yērāpəʾû ləmelaḥ nittānû*
 >
-> *Its swamps and marshes shall not be healed; they are given over to salt.*
->
+> "Its swamps and marshes shall not be healed; they are given over to salt."\
 > — *Ezekiel* 47:11
 
 The vision of Ezekiel 47 is one of restoration. The river that flows from the Temple reaches the sea, and the sea is healed; fish return, the dead waters become alive. But the swamps, *biṣṣōʾtāyw ûḡəbāʾāyw*, remain. They are *nittānû ləmelaḥ*, "given over to salt." Salt here is what the water of life *cannot reach*: the residue that refuses restoration. The healing works everywhere except in the pockets given over to the mineral.
@@ -88,8 +83,7 @@ A single verse from Job turns the image of salt by inversion.
 >
 > *hăyēʾākēl tāpēl mibbəlî-melaḥ ʾim-yeš-ṭaʿam bərîr ḥallāmût*
 >
-> *Can tasteless food be eaten without salt? Or is there flavour in the juice of mallow?*
->
+> "Can tasteless food be eaten without salt? Or is there flavour in the juice of mallow?"\
 > — *Job* 6:6
 
 Read in context, Job 6:6 is metaphor rather than defense: Job compares his own insipid words of complaint to food so poor that even salt cannot save it. The verse preserves, in passing, the ancient observation that salt is the ordinary rescuer of unpalatable food, the very function the Hygienist tradition would later attack as the corruption of the taste-field. Job unintentionally confirms what Shelton would later indict: that the world runs on salt because without it, the world's ordinary food fails to satisfy. The Indian *sāttvic* rule, the Egyptian priestly abstention, and the biblical image of the salted land together suggest an alternative: living food that requires no rescue.
@@ -102,8 +96,7 @@ Psalm 107 preserves the fullest statement of the salting-of-land as covenant jud
 >
 > *yāśēm nəhārôt ləmidbār ûmōṣāʾê mayim ləṣimmāʾôn ʾereṣ pərî limlēḥâ mērāʿat yōšəbê bāh*
 >
-> *He turns rivers into a desert, springs of water into thirsty ground, a fruitful land into a salt waste, because of the evil of those who dwell in it.*
->
+> "He turns rivers into a desert, springs of water into thirsty ground, a fruitful land into a salt waste, because of the evil of those who dwell in it."\
 > — *Psalm* 107:33–34
 
 The Psalmist gives the formula directly: the divine judgment that falls on the wicked land is to turn *ʾereṣ pərî* (a fruitful land) into *melēḥâ* (a salt waste). The psalm then reverses the image in the following verses (107:35–38): the desert becomes a pool, the parched ground springs, the hungry are fed. The contrast is structural. Salt is the image of judgment; living water is the image of restoration. The two cannot occupy the same ground.
@@ -112,8 +105,7 @@ The Psalmist gives the formula directly: the divine judgment that falls on the w
 
 A final passage, ambiguous but instructive, is the healing of the waters at Jericho by Elisha.
 
-> *"The men of the city said to Elisha: 'The situation of this city is pleasant, as my lord sees; but the water is bad, and the land is unfruitful.' And he said, 'Bring me a new bowl, and put salt in it.' So they brought it to him. Then he went to the spring of water and threw the salt in it and said, 'Thus says the LORD: I have healed this water; from now on neither death nor unfruitfulness shall come from it.'"*
->
+> "The men of the city said to Elisha: 'The situation of this city is pleasant, as my lord sees; but the water is bad, and the land is unfruitful.' And he said, 'Bring me a new bowl, and put salt in it.' So they brought it to him. Then he went to the spring of water and threw the salt in it and said, 'Thus says the LORD: I have healed this water; from now on neither death nor unfruitfulness shall come from it.'"\
 > — *2 Kings* 2:19–22
 
 The passage reads, at first, as a pro-salt miracle: Elisha *uses* salt to heal the bad water. But the prophetic framing is careful. The *salt* is a symbol, placed in a *new bowl*, thrown into the *spring*, working as sign rather than as cause. The Masoretic tradition has always read this passage as testimony to the word of the LORD, which works *through* the symbolic action and not from any inherent property of the salt itself. The water is healed "from now on neither death nor unfruitfulness shall come from it," precisely the death and unfruitfulness that salt ordinarily *produces*. The miracle is the reversal of the curse, performed with the very substance of the curse. Scripture knows which way salt normally works.

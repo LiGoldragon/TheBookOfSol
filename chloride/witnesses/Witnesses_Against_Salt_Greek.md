@@ -14,15 +14,14 @@ The *Odyssey* preserves the prophecy of Teiresias to Odysseus in the underworld.
 
 ### Odyssey XI.121–134 — the instruction
 
-> **εἰς ὅ κε τοὺς ἀφίκηαι οἳ οὐκ ἴσασι θάλασσαν**
+> **εἰς ὅ κε τοὺς ἀφίκηαι οἳ οὐκ ἴσασι θάλασσαν**\
 > **ἀνέρες, οὐδέ θ' ἅλεσσι μεμιγμένον εἶδαρ ἔδουσιν·**
 >
-> *eis hó ke toùs aphíkēai hoì ouk ísāsi thálassan*
+> *eis hó ke toùs aphíkēai hoì ouk ísāsi thálassan*\
 > *anéres, oudé th' hálessi memigménon eîdar édousin·*
 >
-> *Until you come to men who know not the sea,*
-> *men who eat no food mixed with salt.*
->
+> "Until you come to men who know not the sea,\
+> men who eat no food mixed with salt."\
 > — *Homer, Odyssey* XI.122–123 (repeated by Odysseus to Penelope at XXIII.269–270)
 
 ### The archaic Greek imagination
@@ -37,8 +36,7 @@ Plutarch's two works preserve the memory of the Egyptian priestly abstention fro
 
 ### From De Iside et Osiride (Moralia 352F)
 
-> *"The priests especially abstain from salt, and do not even eat bread that contains salt; there are many reasons for this, but one is that salt, by sharpening the appetite, makes men more intemperate in eating and drinking."*
->
+> "The priests especially abstain from salt, and do not even eat bread that contains salt; there are many reasons for this, but one is that salt, by sharpening the appetite, makes men more intemperate in eating and drinking."\
 > — *Plutarch, De Iside et Osiride* 5 (Moralia 352F), trans. F. C. Babbitt (Loeb Classical Library)
 
 The phrase is surgical. The priests do not merely moderate salt. They abstain from it so strictly that even bread baked with salt is excluded. Plutarch gives one of several reasons — *salt sharpens appetite, making men intemperate*. The underlying observation is physiological: the mouth on salt is the mouth that wants more of everything. The priestly discipline requires the mouth that is satisfied.
@@ -47,20 +45,17 @@ The phrase is surgical. The priests do not merely moderate salt. They abstain fr
 
 The *Quaestiones Convivales* V.10 is devoted entirely to the question: *Why do the Egyptian priests abstain completely from salt, even eating their bread unsalted?* The discussion is dialectical — Plutarch gives arguments *for* salt's divinity as well as reports of its priestly avoidance — but the decisive passages for our purpose are these.
 
-> *"The question was complicated by the fact that the Egyptian priests made it a point of religion to abstain completely from salt, even eating their bread unsalted: how, if it is god-favoured and divine, did they come to avoid its use on religious grounds?"*
->
+> "The question was complicated by the fact that the Egyptian priests made it a point of religion to abstain completely from salt, even eating their bread unsalted: how, if it is god-favoured and divine, did they come to avoid its use on religious grounds?"\
 > — *Plutarch, Quaestiones Convivales* V.10.1 (Moralia 684F), trans. P. H. De Lacy (Loeb)
 
 And Florus's hypothesis, preserved in the text:
 
-> *"So perhaps the Egyptians from motives of purity avoid salt on account of the aphrodisiac properties sometimes attributed to it because of its heat."*
->
+> "So perhaps the Egyptians from motives of purity avoid salt on account of the aphrodisiac properties sometimes attributed to it because of its heat."\
 > — *Plutarch, Quaestiones Convivales* V.10.1 (Moralia 685A), trans. De Lacy
 
 And the further reason — that salt is a delicacy, a seasoning that makes food *too* palatable, which is incompatible with the austerity of the priestly life:
 
-> *"It is just as probable that they protest against salt because it is delicious as a seasoning, for salt is very nearly a seasoning and condiment to other seasonings; some even call it* charites *(joys), because it makes needful food enjoyable."*
->
+> "It is just as probable that they protest against salt because it is delicious as a seasoning, for salt is very nearly a seasoning and condiment to other seasonings; some even call it *charites* (joys), because it makes needful food enjoyable."\
 > — *Plutarch, Quaestiones Convivales* V.10.2 (Moralia 685A–B), trans. De Lacy
 
 The priestly logic, as Plutarch preserves it, rests on three observations: (1) salt inflames appetite, (2) salt provokes sexual heat, (3) salt makes food enjoyable beyond what austerity permits. All three are incompatible with the priestly discipline. The priests are therefore abstaining for clear and physiological reasons — exactly the reasons the Indian dharmic tradition preserves for its own *aluṇa-vrata*.
@@ -73,14 +68,12 @@ Plutarch, a Greek observer writing under Roman rule about an Egyptian priestly t
 
 The third Greek witness is the Pythagorean tradition, preserved through Iamblichus, Porphyry, and Diogenes Laertius. The Pythagoreans are reported to have abstained from salt on grounds similar to those the priests of Isis observed. Diogenes Laertius, in his *Lives of Eminent Philosophers* (VIII.19, VIII.35), preserves the tradition:
 
-> *"[Pythagoras taught] that salt should be set upon the table as a reminder of justice; for salt preserves whatever it seasons, and it is produced from the purest sources, sun and sea."*
->
+> "[Pythagoras taught] that salt should be set upon the table as a reminder of justice; for salt preserves whatever it seasons, and it is produced from the purest sources, sun and sea."\
 > — *Diogenes Laertius*, *Lives of Eminent Philosophers* VIII.35
 
 The apothegm is ambiguous — read against Pythagorean dietary practice, it is understood as a symbolic placement of salt on the table (for sacrificial and commemorative purpose), *not* an instruction to eat it. Iamblichus, in his *Life of Pythagoras*, preserves the practice more directly:
 
-> *"The Pythagoreans abstained from salt, from fish, and from certain other foods, both for reasons of purity and because these foods excite the passions and disturb the concentration of the soul."*
->
+> "The Pythagoreans abstained from salt, from fish, and from certain other foods, both for reasons of purity and because these foods excite the passions and disturb the concentration of the soul."\
 > — paraphrase of Iamblichus, *Vita Pythagorae*, chapters on the Pythagorean diet
 
 The Pythagorean rule converges with the Egyptian priestly rule preserved by Plutarch. Iamblichus, writing late, was drawing on older traditions that placed the two dietary regimes in the same intellectual category: the disciplinary diet of one who aspires to contemplative life.
