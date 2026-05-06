@@ -24,7 +24,7 @@ Written and compiled by Olivier Francoeur, aka Li Goldragon.
 - [The Chloride Indictment](./chloride/The_Chloride_Indictment.md)
 - [Chloride the Narcotic](./chloride/Chloride_the_Narcotic.md)
 - [Chloride Extrapolation](./chloride/Chloride_Extrapolation.md)
-- [Sodium Chloride Toxicity](./chloride/Sodium_Chloride_Toxicity.md)
+- [NaCl Toxicity — The Trial Record](./chloride/NaCl_Toxicity.md)
 - [NaCl Not Vegan](./chloride/NaCl_Not_Vegan.md)
 - [Leaving the Chloridics](./chloride/Leaving_the_Chloridics.md)
 - [Inorganic Minerals](./chloride/Inorganic_Minerals.md)
