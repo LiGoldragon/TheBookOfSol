@@ -14,8 +14,8 @@ Every drop is living liquid gold and is preserved for aging, refinement, or redu
 
 Haṭha Yoga Pradīpikā links Amarolī and Sahajolī with Vajrolī, the conservation and refinement of vital essence.\
 Damar Tantra teaches fluid-based rejuvenation:\
-“Śivāmbu … is capable of abolishing old age and various types of diseases and ailments.”\
-“All diseases can be cured by the regular use of one’s own fluid.”
+"Śivāmbu … is capable of abolishing old age and various types of diseases and ailments."\
+"All diseases can be cured by the regular use of one's own fluid."
 
 ## Collection
 
@@ -59,7 +59,7 @@ This cycle speeds aging, but without it the plasma still ages naturally.
 **Shaking:** periodic and gentle.
 
 *Damar Tantra:*\
-“That which flows from oneself, matured by time, cuts through accumulations as fire through wood.”
+"That which flows from oneself, matured by time, cuts through accumulations as fire through wood."
 
 ### Siphoning phase
 
@@ -184,7 +184,7 @@ A warming environment accelerates extraction but boiling is unnecessary.
 - Remove all solids.
 - Seal the extracted plasma.
 
-This mirrors Damar Tantra’s rasāyana method of using one’s own fluid as a carrier of herbal potency.
+This mirrors Damar Tantra's rasāyana method of using one's own fluid as a carrier of herbal potency.
 
 ## Reduction (Soft Plasma)
 
@@ -224,7 +224,7 @@ Eyes receive only minute drops.\
 Warm reduced plasma may be used sparingly in ears.
 
 *Haṭha Yoga Pradīpikā:*\
-“He who drinks the mid-stream, snuffs it, and practices Vajrolī, practices Amarolī.”
+"He who drinks the mid-stream, snuffs it, and practices Vajrolī, practices Amarolī."
 
 ## Enemas
 
