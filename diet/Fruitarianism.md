@@ -14,7 +14,7 @@ Fruit accords with human physiology because it is light, hydrating, and low in f
 
 ## On Fruit and Poison
 
-A plain fact must be stated: the vast majority of fruits are poisonous. “Fruit” is a botanical category, not a dietary one. Most fruits contain irritants, toxins, narcotics, or compounds that disrupt digestion and nerves. What humans call *edible fruit* is a narrow subset—those that are *non-poisonous enough* to be consumed in limited quantities without immediate harm.
+A plain fact must be stated: the vast majority of fruits are poisonous. "Fruit" is a botanical category, not a dietary one. Most fruits contain irritants, toxins, narcotics, or compounds that disrupt digestion and nerves. What humans call *edible fruit* is a narrow subset—those that are *non-poisonous enough* to be consumed in limited quantities without immediate harm.
 
 This matters because fruitarian ideology treats fruit as inherently benign, even ideal. Nature does not operate on ideals. Fruit attracts, but it also restrains. Sweetness draws; chemistry limits excess. Even commonly eaten fruits provoke irritation, dryness, or instability when consumed in isolation or in large quantity.
 
@@ -30,7 +30,7 @@ The yogic texts state the hierarchy without ambiguity. They do not deny food; th
 
 The verse describes refined physiology. When internal circulation and retention are stabilized, dependence on external intake diminishes. Breath, heat, and conserved fluid assume command. Food becomes *support* rather than compensation.
 
-This explains the familiar arc of exclusive fruit diets. At first, clarity arises: lightness increases, perception sharpens, friction falls away. Yet as internal fluids thin and lubrication is lost, the same dispersion that clarified now destabilizes. The colon dries; downward coordination weakens. Constipation appears—not as “toxins leaving,” but as *continuity breaking*. The error is not fruit, but mistaking clearing for sustaining.
+This explains the familiar arc of exclusive fruit diets. At first, clarity arises: lightness increases, perception sharpens, friction falls away. Yet as internal fluids thin and lubrication is lost, the same dispersion that clarified now destabilizes. The colon dries; downward coordination weakens. Constipation appears—not as "toxins leaving," but as *continuity breaking*. The error is not fruit, but mistaking clearing for sustaining.
 
 ## How Nourishment Actually Happens
 
@@ -50,6 +50,6 @@ This explains the familiar arc of exclusive fruit diets. At first, clarity arise
 
 *Light, clarified water.* Water should support flow, not dull it; heavy, mineral-bound water suppresses digestion, while light, clarified water maintains circulation.
 
-A brief word on retention: practices such as *Śivāmbu* point to the body’s capacity to conserve and reuse its own refined fluids. Even without adopting such practices, the principle stands—*nourishment is preserved as much as it is consumed*.
+A brief word on retention: practices such as *Śivāmbu* point to the body's capacity to conserve and reuse its own refined fluids. Even without adopting such practices, the principle stands—*nourishment is preserved as much as it is consumed*.
 
 Fruit is not the enemy of nourishment. *Dispersion without continuity is.* Āyurveda never asked what humans should eat in theory; it asked what sustains life in fact. Where warmth, moisture, and assimilation are honored, lightness and nourishment coexist—*without contradiction*.

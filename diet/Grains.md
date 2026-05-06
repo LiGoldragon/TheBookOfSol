@@ -16,7 +16,7 @@ When preparation introduces friction—dryness, sharpness, reheating, incompatib
 >
 > — Caraka Saṃhitā, Sūtrasthāna 26 (Viruddhāhāra)
 
-> *Uṣṇaṃ snigdhaṃ mātrāvad ajīrṇe’nupasevitam; agniṃ dīpayati āhāraḥ samyak tu bala-vardhanaḥ.*
+> *Uṣṇaṃ snigdhaṃ mātrāvad ajīrṇe'nupasevitam; agniṃ dīpayati āhāraḥ samyak tu bala-vardhanaḥ.*
 >
 > **Food taken warm, unctuous, in proper measure, and at the proper time kindles agni and nourishes strength.**
 >

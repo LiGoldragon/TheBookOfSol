@@ -4,18 +4,18 @@
 
 A living organism cannot be nourished by dead matter. This understanding is embedded in the Vedic worldview, where nourishment is defined by its participation in life itself. One thematic expression appears in the **Bṛhadāraṇyaka Upaniṣad**:
 
-> **“yad bhūtam jāyate jīvenā.”**\
+> **"yad bhūtam jāyate jīvenā."**\
 > That which has passed through life becomes fit to sustain life.
 
 Matter that has not been touched by life cannot sustain life. Minerals in their inorganic state—whether solid or dissolved—have not undergone any living transformation. They possess mass, density, and chemical identity, but no prāṇa and no biological compatibility. Dissolving a stone in water, pulverizing it into powder, or converting it into ionic solution does not bring it into the domain of nourishment.
 
 ### The Incompatibility of Inorganic Matter with Living Tissue
 
-Biological assimilation requires transformation within living structures. Plants chelate and reorganize minerals; microbes convert them into organic complexes; living tissues bind them into biologically recognizable forms. Without this transformation, inorganic minerals remain entirely outside the organism’s pathways of assimilation.
+Biological assimilation requires transformation within living structures. Plants chelate and reorganize minerals; microbes convert them into organic complexes; living tissues bind them into biologically recognizable forms. Without this transformation, inorganic minerals remain entirely outside the organism's pathways of assimilation.
 
 The **Caraka Saṃhitā** warns:
 
-> **“mṛttikā-loha-bhakṣaṇaṃ tamaḥ-nimittam.”**\
+> **"mṛttikā-loha-bhakṣaṇaṃ tamaḥ-nimittam."**\
 > Eating earth or metal arises from tamas.
 
 Tamas signifies inertia, heaviness, obscuration, and downward pull. When dead matter enters a living organism, these qualities manifest physiologically. The body can only react through irritation, elimination, or deposition. Liquid minerals, ionic drops, concentrated brines, evaporated sea minerals, or stone-derived solutions remain jaḍa—lifeless—even when rendered into fluid form. Their liquidity does nothing to confer prāṇa.
@@ -32,7 +32,7 @@ The most revealing aspect of modern research is what has never been studied. The
 
 The **Muṇḍaka Upaniṣad** captures the broader error:
 
-> **“parīkṣya lokān karmacitān brāhmaṇo nirvedam āyāt.”**\
+> **"parīkṣya lokān karmacitān brāhmaṇo nirvedam āyāt."**\
 > After examining the constructed worlds of action, the wise one becomes disenchanted.
 
 Nutritional science has constructed a world of measurements and assumptions that dissolves when confronted by the principle of life-origin.
@@ -43,12 +43,12 @@ Matter becomes nourishing only when transformed by living processes. This is why
 
 The **Caraka Saṃhitā** describes this distinction explicitly:
 
-> **“ghr̥taṃ medhyaṃ ojovardhakaṃ vātaharaṃ.”**\
+> **"ghr̥taṃ medhyaṃ ojovardhakaṃ vātaharaṃ."**\
 > Ghee strengthens clarity, builds Ojas, and steadies vāta.
 
 And further in the same tradition:
 
-> **“rasāyanāni jīvitam.”**\
+> **"rasāyanāni jīvitam."**\
 > Rejuvenatives are the givers of life.
 
 Clay is not rasāyana.\

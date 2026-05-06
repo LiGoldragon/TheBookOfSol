@@ -31,7 +31,7 @@ Here the body learns obedience to awareness. What once moved downward without co
 Loss is neither condemned nor indulged. It is reversed.
 
 > nārī-bhage padad-bindum abhyāsenordhvam āharet / calitaṃ ca nijaṃ bindum ūrdhvam ākṛṣya rakṣayet\
-> *Through practice one draws upward the fallen essence from the partner’s field, and one also draws up and preserves one’s own essence once it has moved.*\
+> *Through practice one draws upward the fallen essence from the partner's field, and one also draws up and preserves one's own essence once it has moved.*\
 > (Haṭha Yoga Pradīpikā 3.87)
 
 ## Direction as Destiny
@@ -45,7 +45,7 @@ Life and death are described as directions, not judgments.
 Stability announces itself as clarity, as a body no longer leaking vitality into time.
 
 > sugandho yogino dehe jāyate bindu-dhāraṇāt / yāvad binduḥ sthiro dehe tāvat kāla-bhayaṃ kutaḥ\
-> *From the holding of essence, fragrance arises in the yogin’s body; while essence remains steady, from where would fear of time arise?*\
+> *From the holding of essence, fragrance arises in the yogin's body; while essence remains steady, from where would fear of time arise?*\
 > (Haṭha Yoga Pradīpikā 3.89)
 
 Physiology and awareness are bound into a single discipline.
@@ -58,7 +58,7 @@ Physiology and awareness are bound into a single discipline.
 
 At maturity, Vajrolī ceases to feel like a technique. Its movement becomes continuous, and the text gives that continuity a name.
 
-> sahajolir iyaṃ proktā śraddheyā yogibhiḥ sadā / ayaṃ śubha-karo yogo bhoga-yukto’pi muktidaḥ\
+> sahajolir iyaṃ proktā śraddheyā yogibhiḥ sadā / ayaṃ śubha-karo yogo bhoga-yukto'pi muktidaḥ\
 > *This is called Sahajolī, always to be trusted by yogins; this yoga brings auspiciousness and grants liberation even when joined with enjoyment.*\
 > (Haṭha Yoga Pradīpikā 3.94)
 
@@ -83,12 +83,12 @@ Vajrolī governs. Sahajolī eases that governance into nature. Amarolī complete
 What was first conserved is reintegrated. What was divided is made one.
 
 > sa bindus tad rajaś caiva ekībhūya svadehagau / vajroly-abhyāsa-yogena sarva-siddhiṃ prayacchataḥ\
-> *That essence and that generative force, unified within one’s own body through the yoga of Vajrolī practice, bestow all accomplishment.*\
+> *That essence and that generative force, unified within one's own body through the yoga of Vajrolī practice, bestow all accomplishment.*\
 > (Haṭha Yoga Pradīpikā 3.101)
 
 The culmination is not denial of life but its transfiguration.
 
-> deha-siddhiṃ ca labhate vajroly-abhyāsa-yogataḥ / ayaṃ puṇya-karo yogo bhoge bhukte’pi muktidaḥ\
+> deha-siddhiṃ ca labhate vajroly-abhyāsa-yogataḥ / ayaṃ puṇya-karo yogo bhoge bhukte'pi muktidaḥ\
 > *Through the yoga of Vajrolī practice one attains bodily perfection; this yoga brings merit and grants liberation even amid enjoyment.*\
 > (Haṭha Yoga Pradīpikā 3.103)
 

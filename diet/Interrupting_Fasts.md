@@ -6,7 +6,7 @@ When inorganic matter is swallowed (clay, soil, powdered rock, or any dead miner
 
 Āyurveda expresses this directly:
 
-> **“mṛttikā-bhakṣaṇaṃ doṣa-kārakam ojas-hāri.”**\
+> **"mṛttikā-bhakṣaṇaṃ doṣa-kārakam ojas-hāri."**\
 > Ingesting earth disturbs the system and diminishes Ojas.
 
 There is nothing gentle about this disturbance.\
@@ -16,7 +16,7 @@ This creates the impression of "strong detox." The mechanism is **emergency expu
 
 The phenomenon resembles what happens when heavy proteins enter the system: metabolism surges, heat rises, digestion becomes aggressive. The body is not nourished; it is rejecting. With inorganic minerals, the incompatibility is even greater. They cannot be transformed or integrated. They must be moved out with force.
 
-Āyurveda’s principle clarifies why:
+Āyurveda's principle clarifies why:
 
 > **"jīvena jīvam āpyate."**\
 > Life can only take in what is alive.\

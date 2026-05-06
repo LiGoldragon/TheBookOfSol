@@ -10,7 +10,7 @@ The historical anchor points do not repair this defect. **Willem-Karel Dicke** o
 
 The low-carbohydrate movement beginning in the 1970s repeated the same structure. **Robert Atkins** removed bread, pasta, and cereals and observed improvement. Again, the intervention was removal of a dense, dry, industrial food category. Again, grains themselves were not tested. Again, mineral irritants—especially chloride of sodium—were neither isolated nor controlled. Attribution followed theory, not experiment.
 
-Later popular works, including *Wheat Belly* by **William Davis**, completed the rhetorical shift from “carbohydrates” to “gluten,” without adding experimental rigor. The same foods were removed. The same improvements were reported. The causal agent was reassigned, not demonstrated.
+Later popular works, including *Wheat Belly* by **William Davis**, completed the rhetorical shift from "carbohydrates" to "gluten," without adding experimental rigor. The same foods were removed. The same improvements were reported. The causal agent was reassigned, not demonstrated.
 
 Crucially, **no controlled trial has ever tested grains prepared gently—slowly cooked in ample water, without chloride of sodium, without spices, without industrial processing—while holding other variables constant**. No trial has demonstrated that grains themselves, under such conditions, cause harm. No trial has ruled out chloride of sodium or dehydration as primary irritants. No trial has compared baked versus hydrated preparations as the independent variable. The evidentiary record is empty where the claim is strongest.
 

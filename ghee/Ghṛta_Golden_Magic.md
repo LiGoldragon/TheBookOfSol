@@ -6,7 +6,7 @@ This objection assumes a worldview in which actions are isolated physical transa
 
 When ghṛta is consumed **unconsciously**, without gratitude or acknowledgement, a heaviness is left in its wake. The cow is not seen, the exchange is incomplete, and the karmic field around the animal receives no uplift. A subtle dimming occurs.
 
-When ghṛta is consumed **consciously**, frugally, and with gratitude, a different event unfolds. The consumer becomes the final node in a chain through which a **golden thread of recognition** is sent back to the source. That subtle thread moves across space. It alters the animal’s field. It softens suffering by introducing what was missing: being seen, being thanked, being held in loving awareness.
+When ghṛta is consumed **consciously**, frugally, and with gratitude, a different event unfolds. The consumer becomes the final node in a chain through which a **golden thread of recognition** is sent back to the source. That subtle thread moves across space. It alters the animal's field. It softens suffering by introducing what was missing: being seen, being thanked, being held in loving awareness.
 
 This *golden magic* or *loving magic* is not sentimental. It follows the same metaphysical law that governs mantra, *prasāda*, and the teacher–disciple bond:\
 **what is held in the heart becomes a real force that traverses subtle space**.
@@ -31,7 +31,7 @@ Here, Kṛṣṇa instructs neither apathy nor complicity. He identifies hatred 
 > you withdraw from the reactive energy of blame and indignation.\
 > —*Bhagavadgītā* 2.52
 
-Condemnation belongs to the “tangle of delusion.” As long as one remains inside that field, one participates in the same vibration that sustains cruelty. When condemnation dissolves—not into apathy, but into **radiance**—a ripple begins. A heart that sends gratitude to the cow also softens the psychic field of the farmer, even without physical contact.
+Condemnation belongs to the "tangle of delusion." As long as one remains inside that field, one participates in the same vibration that sustains cruelty. When condemnation dissolves—not into apathy, but into **radiance**—a ripple begins. A heart that sends gratitude to the cow also softens the psychic field of the farmer, even without physical contact.
 
 Over time, such radiance can incline the keeper toward gentler treatment, or reduce neglect and harm. In karmic mechanics, what is softened in one node eventually softens the next.
 

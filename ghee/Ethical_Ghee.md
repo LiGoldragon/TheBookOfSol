@@ -1,8 +1,8 @@
 # **Ethical Ghee and the Sāttvic Principle of Compassionate Nourishment**
 
-## **Ayurveda’s Actual Requirement**
+## **Ayurveda's Actual Requirement**
 
-Classical Ayurveda does not endorse taking milk—or any dairy product—from an animal that is stressed, malnourished, mistreated, or kept in polluted conditions. The purity of nourishment depends entirely on the purity of the animal’s life. Milk becomes sāttvic only when the herbivore is:
+Classical Ayurveda does not endorse taking milk—or any dairy product—from an animal that is stressed, malnourished, mistreated, or kept in polluted conditions. The purity of nourishment depends entirely on the purity of the animal's life. Milk becomes sāttvic only when the herbivore is:
 
 - calm and emotionally stable
 - well-fed with clean, natural forage
@@ -14,7 +14,7 @@ Without these conditions, milk loses its ojas-building quality. A suffering anim
 
 ## **Applied to All Herbivores**
 
-Although cows are central in Indian culture, Ayurveda’s principle applies universally. Any herbivore—cow, goat, sheep, buffalo, yak—produces pure, wholesome milk only when living in a state of peace, cleanliness, and natural freedom.\
+Although cows are central in Indian culture, Ayurveda's principle applies universally. Any herbivore—cow, goat, sheep, buffalo, yak—produces pure, wholesome milk only when living in a state of peace, cleanliness, and natural freedom.\
 A mistreated cow produces non-sattvic milk; a well-treated goat may produce milk of excellent sāttvic quality. The criterion is **care**, not species.
 
 ## **Ghee Does Not Require Suffering**
@@ -52,14 +52,14 @@ These scientific findings reinforce Ayurvedic principles rather than contradict 
 Ethical dairy is not theoretical—it is simply **the original model**:
 
 - Herbivores live peacefully, protected, and respected.
-- Humans receive nourishment infused with the animal’s peace rather than its suffering.
+- Humans receive nourishment infused with the animal's peace rather than its suffering.
 
 In such a system, ghee becomes a symbol of **harmony**, not harm.
 
 ## **The Human Analogue**
 
 Ayurveda also acknowledges internal refinement. A clean human—pure in diet, conduct, and environment—produces subtle fluids that parallel the symbolism of ghee: clarified, concentrated, and life-supporting.\
-The concept of “clarified nourishment” exists beyond the animal realm.
+The concept of "clarified nourishment" exists beyond the animal realm.
 
 ## **Conclusion**
 

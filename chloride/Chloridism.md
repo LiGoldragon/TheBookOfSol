@@ -4,17 +4,17 @@
 
 ### *Chloride* of Sodium and the Question of Order
 
-The compound commonly abbreviated as NaCl is conventionally named in English as “sodium chloride.” This construction is chemically permissible but conceptually misleading. In all major Latin languages, the compound is named with greater precision: *chlorure de sodium* in French, *cloruro de sodio* in Spanish, *cloruro di sodio* in Italian. Each of these renders the compound as “chloride of sodium,” placing chloride first as the substantive and sodium as the carrier.
+The compound commonly abbreviated as NaCl is conventionally named in English as "sodium chloride." This construction is chemically permissible but conceptually misleading. In all major Latin languages, the compound is named with greater precision: *chlorure de sodium* in French, *cloruro de sodio* in Spanish, *cloruro di sodio* in Italian. Each of these renders the compound as "chloride of sodium," placing chloride first as the substantive and sodium as the carrier.
 
-This ordering reflects the true biological reality of the compound. Sodium, a relatively stable cation, serves primarily as a transport partner. Chloride, by contrast, is the reactive and destabilizing component once the compound is dissolved in blood plasma. To speak of “chloride of sodium” is therefore not merely linguistic fidelity to Romance grammar, but an accurate description of the agent that exerts physiological effect.
+This ordering reflects the true biological reality of the compound. Sodium, a relatively stable cation, serves primarily as a transport partner. Chloride, by contrast, is the reactive and destabilizing component once the compound is dissolved in blood plasma. To speak of "chloride of sodium" is therefore not merely linguistic fidelity to Romance grammar, but an accurate description of the agent that exerts physiological effect.
 
-English usage obscures this asymmetry. By foregrounding “sodium,” the phrase “sodium chloride” suggests a neutral pairing of equals and conceals the identity of the active disruptor. Re-centering the compound as chloride of sodium restores analytical clarity and aligns language with function.
+English usage obscures this asymmetry. By foregrounding "sodium," the phrase "sodium chloride" suggests a neutral pairing of equals and conceals the identity of the active disruptor. Re-centering the compound as chloride of sodium restores analytical clarity and aligns language with function.
 
 ### Chloride as the Active Toxic Principle
 
-Once dissolved in plasma, chloride of sodium dissociates. The sodium cation is tightly regulated and largely buffered within existing physiological systems. Chloride, however, drives the compound’s toxic behavior. It expands extracellular fluid, suppresses renin activity, stiffens vascular walls, agitates nervous signaling, and imposes osmotic stress on renal tissue. These effects appear rapidly and reproducibly in controlled experiments.
+Once dissolved in plasma, chloride of sodium dissociates. The sodium cation is tightly regulated and largely buffered within existing physiological systems. Chloride, however, drives the compound's toxic behavior. It expands extracellular fluid, suppresses renin activity, stiffens vascular walls, agitates nervous signaling, and imposes osmotic stress on renal tissue. These effects appear rapidly and reproducibly in controlled experiments.
 
-The resulting sensations—heightened appetite, momentary stimulation, a sense of “charge” or alertness—are frequently misinterpreted as nourishment or vitality. In reality, they are defensive reactions to irritation. The brief pressurization spike is followed by depletion: dryness, fatigue, and diminished baseline vitality. The organism, now destabilized, seeks repetition of the stimulus. This cycle is narcotic in form and function.
+The resulting sensations—heightened appetite, momentary stimulation, a sense of "charge" or alertness—are frequently misinterpreted as nourishment or vitality. In reality, they are defensive reactions to irritation. The brief pressurization spike is followed by depletion: dryness, fatigue, and diminished baseline vitality. The organism, now destabilized, seeks repetition of the stimulus. This cycle is narcotic in form and function.
 
 ### Chloride and the Narcotic Pattern
 
@@ -46,13 +46,13 @@ From this foundation, the terms chloridic and chloridism arise naturally and pre
 
 Chloridic describes a state or person whose physiology and behavior are dominated by chloride of sodium exposure. Such an individual experiences diminished baseline vitality, distorted appetite, and recurrent craving for the pressurization spike that chloride provides.
 
-Chloridism names the chronic condition itself: a pattern of dependence on chloride of sodium characterized by vascular stiffening, renal burden, fluid imbalance, numbed taste, and progressive depletion masked by transient stimulation. It is a dietary narcotic syndrome, diffused across entire populations because the agent is culturally normalized as “seasoning” and falsely framed as an “electrolyte.”
+Chloridism names the chronic condition itself: a pattern of dependence on chloride of sodium characterized by vascular stiffening, renal burden, fluid imbalance, numbed taste, and progressive depletion masked by transient stimulation. It is a dietary narcotic syndrome, diffused across entire populations because the agent is culturally normalized as "seasoning" and falsely framed as an "electrolyte."
 
-At the civilizational level, chloridism manifests as widespread hypertension, kidney disease, edema, obesity, and chronic confusion between thirst, hunger, and stimulation. The subsequent marketing of “electrolytes” to manage these symptoms completes the narcotic loop.
+At the civilizational level, chloridism manifests as widespread hypertension, kidney disease, edema, obesity, and chronic confusion between thirst, hunger, and stimulation. The subsequent marketing of "electrolytes" to manage these symptoms completes the narcotic loop.
 
-### Chloride Versus “Salt”
+### Chloride Versus "Salt"
 
-The term “salt” is analytically insufficient. Many salts exist, and some mineral compounds, when transformed through living matrices, can be compatible with life. What the experimental record and traditional testimony identify as harmful is specifically chloride of sodium as an inorganic ingestant.
+The term "salt" is analytically insufficient. Many salts exist, and some mineral compounds, when transformed through living matrices, can be compatible with life. What the experimental record and traditional testimony identify as harmful is specifically chloride of sodium as an inorganic ingestant.
 
 For this reason, precision demands a shift in vocabulary. Chloride of sodium names the compound. Chloride identifies the active toxic principle. Chlorinated diets describe dietary patterns saturated with this agent. Chloridic and chloridism describe the individual and collective states produced by it. The language itself becomes diagnostic.
 

@@ -18,35 +18,35 @@ The clinicians who spoke plainly about salt described exactly this degenerative 
 
 Dr. **Bouchon** observed:
 
-> “Salt is one of the worst of social poisons. Because of its use, surgeons are constantly operating for appendicitis, gastric ulcers, and liver and kidney calculus. It atrophies, dries up or hardens the tissues…”
+> "Salt is one of the worst of social poisons. Because of its use, surgeons are constantly operating for appendicitis, gastric ulcers, and liver and kidney calculus. It atrophies, dries up or hardens the tissues…"
 
 Dr. **J. E. Cummins** reported:
 
-> “I knew of a case of a little girl who had a craving for salt… She had hardening of the arteries, was wrinkled and appeared old at the age of four years.”
+> "I knew of a case of a little girl who had a craving for salt… She had hardening of the arteries, was wrinkled and appeared old at the age of four years."
 
 Professor **Justus von Liebig** described the mechanism directly:
 
-> “Fresh flesh, over which salt is strewn, is found swimming in brine after twenty-four hours… The water has been yielded by the flesh itself.”
+> "Fresh flesh, over which salt is strewn, is found swimming in brine after twenty-four hours… The water has been yielded by the flesh itself."
 
 This is chemical dehydration of living matter.
 
 Dr. **G. J. Drew** stated:
 
-> “Salt is so stable that it is not dissolved and utilized by the body. It is ingested as salt and excreted as salt.”
+> "Salt is so stable that it is not dissolved and utilized by the body. It is ingested as salt and excreted as salt."
 
 And further:
 
-> “As the salt is absorbed by the body cells, they contract from the irritation, and discharge their precious albumen… This causes hardened tissues… and produces the state called old age.”
+> "As the salt is absorbed by the body cells, they contract from the irritation, and discharge their precious albumen… This causes hardened tissues… and produces the state called old age."
 
 **Frederick Hoelzel** concluded after years of experimentation:
 
-> “The cause of mental and physical deficiency is due mainly to a retention of salt and water in the body.”
+> "The cause of mental and physical deficiency is due mainly to a retention of salt and water in the body."
 
 None of these observers describe nourishment. None report increased vitality. They describe contraction, dehydration, hardening, retention, degeneration. They describe a substance that suppresses sensation while accelerating decline.
 
 Modern medicine quietly concedes the same at higher doses. Excess chloride produces vascular stress, renal overload, edema, acid-base disturbance, and systemic failure. Increase the dose and harm increases. Increase it further and collapse follows. Lethality is undisputed.
 
-What remains unexamined is the narcotic illusion created by pacing. Spread across meals, chloride’s toxicity is hidden by forced compensation. If the average two-day intake were consumed at once, collapse would be expected. The only difference between “safe” and lethal exposure is distribution. A poison does not become nourishment because it is administered slowly.
+What remains unexamined is the narcotic illusion created by pacing. Spread across meals, chloride's toxicity is hidden by forced compensation. If the average two-day intake were consumed at once, collapse would be expected. The only difference between "safe" and lethal exposure is distribution. A poison does not become nourishment because it is administered slowly.
 
 Ancient cultures recognized this without biochemistry. The priests of Isis abstained from salt because it inflamed appetite and disturbed inner discipline. Scripture associates salt with desolation, rigidity, and lifelessness. These were observations encoded symbolically, not superstition.
 

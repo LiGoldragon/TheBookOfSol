@@ -38,7 +38,7 @@ From this principle follows a deeper implication:
 
 **If a human being lived with the purity of a sattvic herbivore, their milk could also yield a clarifying, nourishing ghee.**
 
-Human milk (*stanya*) is considered in Ayurveda the closest external manifestation of a person’s **Ojas**. When produced by a mother living on pure water, clean plant foods, non-chlorinated diets, peaceful breath, and emotional steadiness, it becomes one of nature’s most refined substances.
+Human milk (*stanya*) is considered in Ayurveda the closest external manifestation of a person's **Ojas**. When produced by a mother living on pure water, clean plant foods, non-chlorinated diets, peaceful breath, and emotional steadiness, it becomes one of nature's most refined substances.
 
 Clarifying such milk would follow the same logic:
 

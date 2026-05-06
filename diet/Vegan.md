@@ -4,13 +4,13 @@
 
 Language is not static. Words wander, bend, and are borrowed for fashions and causes, but they often drift back toward their natural, etymological meanings.
 
-- **Radical** ← Latin *radix* (“root”): once “extremist,” now again “root-level change.”
-- **Authentic** ← Greek *authentēs* (“self-authority”): from “official document” back to “true to one’s own self.”
-- **Passion** ← Latin *passio* (“suffering/enduring”): from fluffy romance to a consuming life-drive.
-- **Energy** ← Aristotle’s *energeia* (“being-in-act”): beyond physics back to vital actuality.
-- **Vibe** ← “vibration”: from lab term to lived resonance.
+- **Radical** ← Latin *radix* ("root"): once "extremist," now again "root-level change."
+- **Authentic** ← Greek *authentēs* ("self-authority"): from "official document" back to "true to one's own self."
+- **Passion** ← Latin *passio* ("suffering/enduring"): from fluffy romance to a consuming life-drive.
+- **Energy** ← Aristotle's *energeia* ("being-in-act"): beyond physics back to vital actuality.
+- **Vibe** ← "vibration": from lab term to lived resonance.
 
-**Vegan** belongs in this lineage. Coined in 1944 as “without animal products,” it need not be frozen there. Its natural destiny points to **vegetal**.
+**Vegan** belongs in this lineage. Coined in 1944 as "without animal products," it need not be frozen there. Its natural destiny points to **vegetal**.
 
 ## 2. The Natural Meaning of Vegan
 
@@ -31,12 +31,12 @@ Chloride of sodium (NaCl) fails on first principles:
 
 ### A. Vitalistic Warnings
 
-Hilton Hotema, *Man’s Higher Consciousness* (1961), wrote:
+Hilton Hotema, *Man's Higher Consciousness* (1961), wrote:
 
-- “**Earthy salts cause old age**.”
+- "**Earthy salts cause old age**."
 - **Table salt** is poison masquerading as food.
 - Salt **hardens tissues**, **accelerates degeneration**, **shortens life**, and **dulls the senses**.
-- Fruits, with little “earthy matter,” are marked as longevity foods.
+- Fruits, with little "earthy matter," are marked as longevity foods.
 
 ### B. Modern Toxicology
 
@@ -65,11 +65,11 @@ Hilton Hotema, *Man’s Higher Consciousness* (1961), wrote:
 
 Reclaiming *vegan* as **exclusively vegetal** makes the boundary self-enforcing:
 
-- If it doesn’t **grow, sprout, photosynthesize**, it isn’t vegan.
-- If it **desiccates, ossifies, embalms**, it isn’t food.
+- If it doesn't **grow, sprout, photosynthesize**, it isn't vegan.
+- If it **desiccates, ossifies, embalms**, it isn't food.
 - Salt, by any name, fails both tests.
 
-**Operational rule:** *“No salt should ever be used on anything.”*
+**Operational rule:** *"No salt should ever be used on anything."*
 
 ## 6. Vegan, Defined for the Present Age
 
@@ -88,21 +88,21 @@ Words evolve toward truth. As *icon*, *energy*, and *vibe* sank back into their 
 
 **Vitalistic / Historical**
 
-- Hotema, Hilton. *Man’s Higher Consciousness.* (1961; Pickle Partners ed. 2015).
+- Hotema, Hilton. *Man's Higher Consciousness.* (1961; Pickle Partners ed. 2015).
 
 **Human Trials**
 
-- Sacks, F.M., et al. “Effects on Blood Pressure of Reduced Dietary Sodium and the DASH Diet.” *New England Journal of Medicine* (2001).
-- Cook, N.R., et al. “Long-term effects of dietary sodium reduction on cardiovascular disease outcomes.” *BMJ* (2007).
-- Neal, B., et al. “Salt Substitute and Stroke Study (SSaSS).” *New England Journal of Medicine* (2021).
+- Sacks, F.M., et al. "Effects on Blood Pressure of Reduced Dietary Sodium and the DASH Diet." *New England Journal of Medicine* (2001).
+- Cook, N.R., et al. "Long-term effects of dietary sodium reduction on cardiovascular disease outcomes." *BMJ* (2007).
+- Neal, B., et al. "Salt Substitute and Stroke Study (SSaSS)." *New England Journal of Medicine* (2021).
 
 **Animal Models & Swap Studies**
 
-- Dahl, L.K. “Salt and Hypertension.” *Journal of Experimental Medicine* (1962).
-- Luft, F.C., et al. “Hypertension induced by sodium chloride in rats versus bicarbonate/citrate.” *Kidney International* (1982).
-- Kurtz, T.W., Morris, R.C. “Sodium chloride as the specific agent in salt-induced hypertension.” *Journal of Clinical Investigation* (1983).
-- Schmidlin, O., et al. “NaCl, but not sodium bicarbonate, induces hypertension and stroke.” *Hypertension* (2007).
+- Dahl, L.K. "Salt and Hypertension." *Journal of Experimental Medicine* (1962).
+- Luft, F.C., et al. "Hypertension induced by sodium chloride in rats versus bicarbonate/citrate." *Kidney International* (1982).
+- Kurtz, T.W., Morris, R.C. "Sodium chloride as the specific agent in salt-induced hypertension." *Journal of Clinical Investigation* (1983).
+- Schmidlin, O., et al. "NaCl, but not sodium bicarbonate, induces hypertension and stroke." *Hypertension* (2007).
 
 **Population Studies**
 
-- Oliver, W.J., et al. “Blood pressure, electrolytes, and urinary NaCl in the Yanomami Indians.” *Circulation* (1975).
+- Oliver, W.J., et al. "Blood pressure, electrolytes, and urinary NaCl in the Yanomami Indians." *Circulation* (1975).

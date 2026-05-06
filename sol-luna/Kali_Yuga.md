@@ -30,7 +30,7 @@ Without this spirit, plasma retention is mechanical. With it, the act is sacrame
 1. **Prepare the Mind**
 
  - Sit quiet at dawn. Intend to meet yourself, not discard yourself.
- - Offer prayer: “I receive the elixir of my own being.”
+ - Offer prayer: "I receive the elixir of my own being."
 
 1. **Collect the Elixir**
 

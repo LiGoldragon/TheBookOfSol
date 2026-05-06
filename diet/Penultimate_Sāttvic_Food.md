@@ -10,18 +10,18 @@ Sāttva signifies clarity, harmony, luminosity, and steadiness of mind. In the c
 
 Ṛg-Veda 1.142.3 declares:
 
-> **“ghṛtaṃ nabho amṛtasya nābhir.”**\
-> *“Ghee is the navel of immortality.”*
+> **"ghṛtaṃ nabho amṛtasya nābhir."**\
+> *"Ghee is the navel of immortality."*
 
-Here, immortality (amṛta) refers to undisturbed clarity and divine continuity. Its “navel” signifies the central point from which this clarity is distributed. By naming ghee this central node, the Veda positions it as the **material closest to immortal luminosity**.
+Here, immortality (amṛta) refers to undisturbed clarity and divine continuity. Its "navel" signifies the central point from which this clarity is distributed. By naming ghee this central node, the Veda positions it as the **material closest to immortal luminosity**.
 
 ### **The Heart-Ocean Hymn**
 
 Ṛg-Veda 4.58 expands the symbolism. Ghṛta is described as:
 
-- **“the tongue of the gods”** (*devānām jihvā*)
-- **“the navel of immortality”** (*amṛtasya nābhiḥ*)
-- **“brightness streaming from the ocean of the heart”**
+- **"the tongue of the gods"** (*devānām jihvā*)
+- **"the navel of immortality"** (*amṛtasya nābhiḥ*)
+- **"brightness streaming from the ocean of the heart"**
 
 This hymn portrays ghee as **condensed inner radiance**, the luminous bridge between heart-ocean and sacrificial fire. No other edible substance is given such metaphysical status.
 
@@ -31,8 +31,8 @@ This hymn portrays ghee as **condensed inner radiance**, the luminous bridge bet
 
 Caraka Saṃhitā states unequivocally:
 
-> **“sneheṣu ghṛtaṃ śreṣṭham.”**\
-> *“Among fats, ghee is the best.”*
+> **"sneheṣu ghṛtaṃ śreṣṭham."**\
+> *"Among fats, ghee is the best."*
 
 This is a ranking by **gunas** (qualities), not mere taste. Ghee is:
 
@@ -59,7 +59,7 @@ Ghee is central in medhya therapy—substances that enhance:
 - memory
 - composure
 
-Brahmī-ghṛita, Kalyāṇaka-ghṛita, Aśvagandhā-ghṛita and others rely on ghee’s unparalleled ability to **carry intelligence-supporting herbs into the mind**.
+Brahmī-ghṛita, Kalyāṇaka-ghṛita, Aśvagandhā-ghṛita and others rely on ghee's unparalleled ability to **carry intelligence-supporting herbs into the mind**.
 
 ## **Yogic and Subtle-Body Perspectives**
 
@@ -77,7 +77,7 @@ Ghee is often described as the **soft fuel of consciousness**, contrasting rajas
 
 ### **Inner Fire and Outer Fire**
 
-Just as ghee steadies the flame of a lamp, it is said to steady the internal flame of awareness. Pouring ghee into sacred fire symbolizes the refinement of the practitioner’s own energy into luminosity.
+Just as ghee steadies the flame of a lamp, it is said to steady the internal flame of awareness. Pouring ghee into sacred fire symbolizes the refinement of the practitioner's own energy into luminosity.
 
 ## **Tibetan and East-Asian Parallels**
 
@@ -87,7 +87,7 @@ Traditional Tibetan medical texts teach that clarified butter **nourishes bone m
 
 ### **East-Asian Tonification**
 
-In certain Chinese frameworks, clarified butter is considered sweet, warm, and deeply nourishing to qi and blood—aligning again with ghee’s **refined, stabilizing nourishment**.
+In certain Chinese frameworks, clarified butter is considered sweet, warm, and deeply nourishing to qi and blood—aligning again with ghee's **refined, stabilizing nourishment**.
 
 ## **Philosophical Counterpoint and Cultural Witness**
 
@@ -95,8 +95,8 @@ In certain Chinese frameworks, clarified butter is considered sweet, warm, and d
 
 Even the materialist Cārvāka school—rejecting ritual and metaphysics—selected ghee as the emblem of supreme earthly enjoyment:
 
-> **“ṛṇaṃ kṛtvā ghṛtaṃ pibet.”**\
-> *“Take debt and drink ghee.”*
+> **"ṛṇaṃ kṛtvā ghṛtaṃ pibet."**\
+> *"Take debt and drink ghee."*
 
 Its symbolic prestige transcended ideology.
 
@@ -108,10 +108,10 @@ Across Hindu and Buddhist traditions, the **ghee lamp** (dīpa) is a universal s
 
 Contemporary Ayurvedic and yogic teachers frequently describe ghee as:
 
-- “the most sāttvic edible substance”
-- “liquid clarity”
-- “ojas made visible”
-- “the food that steadies the mind”
+- "the most sāttvic edible substance"
+- "liquid clarity"
+- "ojas made visible"
+- "the food that steadies the mind"
 
 Contemporary biochemical descriptions of ghee — its short-chain fatty acids, its stability under heat, its action on the lining of the gut — restate in laboratory vocabulary what the classical texts already named in the language of *snigdha*, *medhya*, and *ojaskara*: nourishment that lubricates without burdening, steadies without dulling, and refines what it carries.
 
