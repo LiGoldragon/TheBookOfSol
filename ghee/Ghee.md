@@ -174,7 +174,7 @@ Ghee in nasya (nasal therapy) is used in certain Ayurvedic and yoga-therapy prot
 
 Ghee and the eyes: classical texts call ghṛta cakṣuṣya ("good for the eyes"), and treatments such as netra-tarpana bathe the eyes in medicated ghee. Modern ophthalmology-adjacent articles inspired by Ayurveda describe ghee as cooling, nourishing, and hydrating for dry eyes, citing its *snigdha* (unctuous) and *śīta-vīrya* (cooling-potency) action on the *ālocaka pitta* of the eye and its general lubricating quality.
 
-In these contexts, ghṛta is not only a nutrient but a subtle medium: it is imagined as clarified light entering sense organs and pathways of attention.
+In these contexts, ghṛta is a subtle medium: clarified light entering sense organs and pathways of attention.
 
 VIII. Ghee in Ritual Remedies and Astrology
 

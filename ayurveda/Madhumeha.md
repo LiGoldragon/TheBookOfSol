@@ -10,7 +10,7 @@ The restoration is a return to clarity through the two pillars of nourishment an
 
 ## **The Error That Creates Madhumeha**
 
-Protein, meaning extracted heaviness from dead tissue, behaves as tamasic residue rather than nourishment. It forms sticky kapha, clogs the channels, muddies the blood, collapses tissue-fire, and forces the kidneys to expel unmetabolized substances.\
+Concentrated tissue-foods — meat (*māṃsa*), eggs, dense fermented dairy curds, and the heavy legume preparations that mimic them — behave as tamasic residue. They form sticky *kapha*, clog the channels (*srotāṃsi*), muddy the blood (*rakta*), collapse tissue-fire (*agni*), and force the kidneys to expel what could not be metabolized.\
 Chlorinated diets further desiccate the subtle waters, weakening agni and accelerating vāta dominance.\
 When the upward solar current of plasma is not recycled, the system loses the purest form of subtle nourishment.\
 When the lunar binding force of ghee is absent, ojas cannot hold within the tissues, and sweetness escapes.\
@@ -46,8 +46,7 @@ Plant-based clarified oils may lubricate but do not build ojas and cannot substi
 
 ## **The Earth Pillar: Dissolving the Blockages**
 
-All protein sources must be stopped.\
-In the Ayurvedic model, protein behaves as tamasic mass. Removing it clears medas, reduces metabolic residue, unburdens the kidneys, and eliminates the very cause of "sugar spillover."
+All concentrated tissue-foods must be stopped: meat, eggs, dense dairy curds, and the heavy legume preparations that imitate them. In the Āyurvedic model these behave as tamasic mass. Removing them clears *medas*, reduces metabolic residue, unburdens the kidneys, and eliminates the very cause of "sugar spillover."
 
 All chloride-bound salt must also be removed.\
 Salt burns the subtle waters, destroys agni, and mimics the very dryness attributed to diabetes.
@@ -76,7 +75,7 @@ Ghee
 
 **Midday**\
 Single light meal or fruit\
-No protein\
+No concentrated tissue-foods (meat, eggs, dense curds)\
 No salt\
 No nuts or seeds in excess\
 Ghee as the sole dairy
