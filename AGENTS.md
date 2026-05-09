@@ -10,15 +10,15 @@ The Book of Sol is a collection of essays on solar nourishment, Āyurvedic princ
 
 The project relies on two distinct "bibliography" locations. Agents must understand the distinction and never confuse them.
 
-### `~/primary/repos/bibliography/` — the standalone library (where books live)
+### `~/primary/repos/library/` — the standalone library (where books live)
 
-A **separate git repository** on disk at `~/primary/repos/bibliography/`. This is the sema-ecosystem-wide scholarly library. It holds:
+A **separate git repository** on disk at `~/primary/repos/library/`. This is the sema-ecosystem-wide scholarly library. It holds:
 
 - Binary source texts (PDFs, EPUBs, DJVUs, MOBIs, ZIPs) organized into author folders under `en/`, `fr/`, `de/`, `sa/` etc. by language.
 - An authoritative index in `bibliography.md` at the repo root, keyed by author with Anna's Archive MD5 hashes for each text.
 - A `CLAUDE.md` file at the repo root documenting the structure; read it if you need full conventions.
 
-**All book binaries belong in this repo.** Not in The Book of Sol. When a book is downloaded or acquired, move it to the appropriate `~/primary/repos/bibliography/en/<author-slug>/` folder and register it in `~/primary/repos/bibliography/bibliography.md` with its MD5 hash.
+**All book binaries belong in this repo.** Not in The Book of Sol. When a book is downloaded or acquired, move it to the appropriate `~/primary/repos/library/en/<author-slug>/` folder and register it in `~/primary/repos/library/bibliography.md` with its MD5 hash.
 
 Binaries are gitignored in that repo (only the `bibliography.md` index is committed). This is deliberate: the index is canonical, the binaries are retrievable from Anna's Archive by MD5 hash.
 
@@ -40,8 +40,8 @@ Book binaries must never live here. The `.gitignore` at the repo root enforces t
 When an article or extraction requires a book:
 
 1. Search Anna's Archive via the `annas` CLI (on `PATH` through the mentci-tools bundle). Full usage lives at `~/git/lore/annas/basic-usage.md` ([github.com/LiGoldragon/lore](https://github.com/LiGoldragon/lore/blob/main/annas/basic-usage.md)) — the short form is `annas book-search "<query>"` to find MD5 hashes and `annas book-download <md5> <filename.ext>` to fetch. Downloads land in `$PWD`, so `cd` to the target folder first.
-2. Download it to `~/primary/repos/bibliography/en/<author-slug>/<slug-name>.<ext>` using the standard kebab-case naming.
-3. Register it in `~/primary/repos/bibliography/bibliography.md` with a short entry explaining why it matters for the project.
+2. Download it to `~/primary/repos/library/en/<author-slug>/<slug-name>.<ext>` using the standard kebab-case naming.
+3. Register it in `~/primary/repos/library/bibliography.md` with a short entry explaining why it matters for the project.
 4. Extract quotes into `TheBookOfSol/source-extracts/<Book_Name>/quotes.md` or similar, and cite the author / title / chapter in the article.
 5. Commit and push both repos independently.
 
@@ -176,7 +176,7 @@ Do not use `git commit` / `git push` directly. The repo is set up for `jj`, and 
 
 ### bibliography repo
 
-Also `jj`. Same flow. Remember that the standalone bibliography repo is a separate working copy; operate in it with `jj -R ~/primary/repos/bibliography <cmd>` or by changing directory.
+Also `jj`. Same flow. Remember that the standalone bibliography repo is a separate working copy; operate in it with `jj -R ~/primary/repos/library <cmd>` or by changing directory.
 
 ## Reading Existing Articles
 
