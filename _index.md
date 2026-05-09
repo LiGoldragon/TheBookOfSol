@@ -129,6 +129,7 @@ Written and compiled by Olivier Francoeur, aka Li Goldragon.
 
 - **Caraka Saṃhitā** — all Caraka extraction work (per-page OCR, per-*sthāna* digests, fruit & vegetable warnings, philological notes) now lives in the dedicated [caraka-samhita repository](https://github.com/LiGoldragon/caraka-samhita).
 - [*Apathya* and *Mitāhāra* — primary-source extracts](./source-extracts/Apathya.md) (cross-source compilation — Caraka quotes are inline)
+- [Fruit as Medicine — primary-source extracts](./source-extracts/Fruit_as_Medicine.md) (Ayurvedic, Yogic, and Vedic passages on *phala* as *auṣadha*, the rasa-atiyoga doctrine, and the daily-routine place of *anna* over fruit)
 - [*Haṭha Yoga Pradīpikā*](./source-extracts/Hatha_Yoga_Pradipika)
 - [*Ḍāmar Tantra*](./source-extracts/Damar_Tantra)
 - [*Water of Life*](./source-extracts/Water_of_Life)
