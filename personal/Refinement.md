@@ -2,7 +2,7 @@
 title: Refinement
 subtitle: The Refiner's Fire
 kind: article
-publish: true
+publish: false
 banner_image: generated-images/refinement-banner.png
 ---
 
