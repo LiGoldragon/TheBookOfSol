@@ -125,6 +125,7 @@ Written and compiled by Olivier Francoeur, aka Li Goldragon.
 - [The Pressure of Being](./personal/The_Pressure_of_Being.md)
 - [Age of Saturation](./personal/Age_of_Saturation.md)
 - [Psyche and Machine](./personal/Psyche_and_Machine.md)
+- [Refinement](./personal/Refinement.md)
 - [Dharma, by Annie Besant](./personal/Dharma_by_Annie_Besant.md)
 
 ## Primary-source extractions
