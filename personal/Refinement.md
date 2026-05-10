@@ -1,4 +1,14 @@
+---
+title: Refinement
+subtitle: On the Old Discipline of Friction, Fire, and Word
+kind: article
+publish: true
+banner_image: generated-images/refinement-banner.png
+---
+
 # Refinement
+
+![A hearth-workshop of refinement with fire, water, blank parchment, gold, cooked grain, and a resting blade held in measured balance.](../generated-images/refinement-banner.png)
 
 *On the Old Discipline of Friction, Fire, and Word*
 
