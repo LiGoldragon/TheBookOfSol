@@ -75,6 +75,7 @@ Written and compiled by Olivier Francoeur, aka Li Goldragon.
 - [Fruitarianism](./diet/Fruitarianism.md)
 - [Fruits From India Are Different](./diet/Fruits_From_India_Are_Different.md)
 - [Yogis Don't Eat Fruit](./diet/Yogis_Dont_Eat_Fruit.md)
+- [In Praise of Agni](./diet/In_Praise_of_Agni.md)
 - [Dehydrated Fruit, Coconut, Honey](./diet/Dehydrated_Fruit_Coconut_Honey.md)
 - [Grains](./diet/Grains.md)
 - [Fear of Grains](./diet/Fear_of_Grains.md)
