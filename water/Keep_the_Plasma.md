@@ -1,3 +1,10 @@
+---
+title: Keep the Plasma
+kind: article
+publish: true
+banner_image: generated-images/keep-the-plasma-banner.png
+---
+
 # Keep the Plasma
 
 ![A luminous seated figure preserving a golden plasma within, with cooked grain, ghee, and a true distillation apparatus under a solar-lunar sky.](../generated-images/keep-the-plasma-banner.png)

@@ -1,3 +1,11 @@
+---
+title: Apathya
+subtitle: 'What Ayurveda actually forbids on the plate, and why almost every modern recipe marketed as "Ayurvedic" gets it wrong'
+kind: article
+publish: true
+banner_image: generated-images/apathya-banner.png
+---
+
 # Apathya
 
 ![A brass thali with rice, ghee, and milk — the accepted foods of the classical plate — beside lime, chilies, greens, salt, and garlic, the tastes and substances the tradition names as *apathya*.](../generated-images/apathya-banner.png)

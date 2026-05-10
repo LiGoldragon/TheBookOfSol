@@ -1,3 +1,10 @@
+---
+title: Physical Mortality and Essential Immortality
+kind: article
+publish: true
+banner_image: generated-images/physical-mortality-and-essential-immortality-banner.png
+---
+
 # Physical Mortality and Essential Immortality
 
 ![A mortal earthen body dissolving toward a luminous immortal essence rising into a golden celestial field.](../generated-images/physical-mortality-and-essential-immortality-banner.png)

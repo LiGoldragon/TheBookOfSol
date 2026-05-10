@@ -1,3 +1,11 @@
+---
+title: The Chloride Indictment
+subtitle: On the Poison That Civilization Learned to Love
+kind: article
+publish: true
+banner_image: generated-images/the-chloride-indictment-banner.png
+---
+
 # The Chloride Indictment
 
 ![A white crystalline spill of chloride beside a clear blood-red vessel and a strained human silhouette under a severe clinical sky.](../generated-images/the-chloride-indictment-banner.png)

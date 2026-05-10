@@ -1,4 +1,14 @@
+---
+title: Cooking and Spices
+subtitle: Two popular aphorisms the classical corpus does not authorize
+kind: article
+publish: true
+banner_image: generated-images/cooking-and-spices-banner.png
+---
+
 # Cooking and Spices
+
+![A quiet Ayurvedic kitchen with cooked grain over fire, ghee, restrained spices, and an open Sanskrit manuscript.](../generated-images/cooking-and-spices-banner.png)
 
 ## Two popular aphorisms the classical corpus does not authorize
 

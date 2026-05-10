@@ -1,6 +1,18 @@
 {
   "posts": [
     {
+      "source_path": "ayurveda/Apathya.md",
+      "post_id": 195226616,
+      "slug": "apathya",
+      "banner_image": "generated-images/apathya-banner.png"
+    },
+    {
+      "source_path": "ayurveda/Cooking_and_Spices.md",
+      "post_id": 194951622,
+      "slug": "cooking-and-spices",
+      "banner_image": "generated-images/cooking-and-spices-banner.png"
+    },
+    {
       "source_path": "chloride/The_Chloride_Indictment.md",
       "post_id": 194783381,
       "slug": "the-chloride-indictment",
@@ -23,6 +35,12 @@
       "post_id": 197113361,
       "slug": "in-praise-of-agni",
       "banner_image": "generated-images/in-praise-of-agni-banner.png"
+    },
+    {
+      "source_path": "personal/Physical_Mortality_and_Essential_Immortality.md",
+      "post_id": 195393556,
+      "slug": "physical-mortality-and-essential",
+      "banner_image": "generated-images/physical-mortality-and-essential-immortality-banner.png"
     },
     {
       "source_path": "water/Keep_the_Plasma.md",

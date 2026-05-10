@@ -32,6 +32,10 @@ kind: article
 publish: true
 banner_image: generated-images/in-praise-of-agni-banner.png
 ---
+
+# In Praise of Agni
+
+![A Vedic hearth fire burning beside cooked grain, ghee, and a solar form of Agni.](../generated-images/in-praise-of-agni-banner.png)
 ```
 
 Use `true` and `false` for booleans. Do not use a question mark; YAML
@@ -48,6 +52,14 @@ The Substack CLI currently reads `title` and `subtitle` from front
 matter. Agent workflows read `kind`, `publish`, and `banner_image`.
 Keep the article's H1 matching `title`; the CLI strips the leading H1
 when it matches the chosen title.
+
+For published articles, keep the banner image in the article body as a
+standalone Markdown image block immediately below the H1 and before the
+subtitle/body. This is separate from the cover image metadata. The
+front matter and manifest use repo-relative paths
+(`generated-images/name-banner.png`); the Markdown image uses the path
+relative to the article file (`../generated-images/name-banner.png`
+for root category directories).
 
 ---
 
@@ -75,6 +87,11 @@ also attach `banner_image` to a source file. If an article has
 `banner_image` before publishing unless the publish command passes an
 explicit `--cover-image`.
 
+Do not use `--publish-linked-files` unless every local `.md` link in
+the article should itself become a published post. Otherwise ensure
+local links either resolve through `.substack-posts.json` or are
+written as plain prose references before publishing.
+
 ---
 
 ## Banner images
@@ -93,7 +110,10 @@ ship. The convention is:
 When an article has `publish: true`, check whether its
 `banner_image` path exists. If it does not, create the image before
 publishing. Add or update the `.substack-posts.json` manifest entry
-so the CLI can use the banner as the cover image.
+so the CLI can use the banner as the cover image. Also embed the same
+image in the article body as a standalone Markdown image block. The
+manifest cover makes the Substack cover; the in-body Markdown image is
+what appears inside the article after a reader opens it.
 
 Codex agents with image generation access use this workspace's
 `imagegen` skill for new raster banners. Generate first, then move

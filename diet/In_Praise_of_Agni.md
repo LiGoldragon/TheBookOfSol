@@ -8,6 +8,8 @@ banner_image: generated-images/in-praise-of-agni-banner.png
 
 # In Praise of Agni
 
+![A Vedic hearth flame rising beside cooked grain, ghee, and a solar form of Agni, showing the friendly fire of transformation.](../generated-images/in-praise-of-agni-banner.png)
+
 ## On Cooking, Tapas, and the Fear of Friction
 
 A bowl of mango. A green smoothie. A plate of raw kale. A cluster of dehydrated dates bound with coconut butter. The aesthetic is bright, photogenic, sweet, easy. It carries the visual signature of purity. It poses, for the eye, as the food of the spiritually advanced.

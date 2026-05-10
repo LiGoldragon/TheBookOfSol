@@ -1,3 +1,11 @@
+---
+title: Dehydrated Fruit Mixed with Coconut Butter and Honey
+subtitle: On the Modern Confection and Its Classical Incompatibilities
+kind: article
+publish: true
+banner_image: generated-images/dehydrated-fruit-coconut-honey-banner.png
+---
+
 # Dehydrated Fruit Mixed with Coconut Butter and Honey
 
 ![Dense sticky dried fruit bound with white coconut butter and amber honey into rich bars and clusters under a warm but oppressive glow.](../generated-images/dehydrated-fruit-coconut-honey-banner.png)

@@ -1,3 +1,11 @@
+---
+title: The Ambrosian Diet
+subtitle: The Diet of Amṛta
+kind: article
+publish: true
+banner_image: generated-images/ambrosian-diet-banner.png
+---
+
 # The Ambrosian Diet
 
 ![Warm bowls of cooked grain, ghee, milk, and a separate clear vessel of pale straw-gold amaroli arranged as an Ambrosian table under a luminous horizon.](../generated-images/ambrosian-diet-banner.png)

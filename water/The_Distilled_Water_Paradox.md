@@ -1,3 +1,11 @@
+---
+title: The Distilled Water Paradox
+subtitle: On the Split Mind That Purifies Its Water and Then Eats the Earth
+kind: article
+publish: true
+banner_image: generated-images/the-distilled-water-paradox-banner.png
+---
+
 # The Distilled Water Paradox
 
 ![A clear vessel of distilled water set against clay, mineral powder, and earth, showing the split mind that purifies water and then eats rock.](../generated-images/the-distilled-water-paradox-banner.png)
