@@ -1,3 +1,11 @@
+---
+title: In Praise of Agni
+subtitle: On Cooking, Tapas, and the Fear of Friction
+kind: article
+publish: true
+banner_image: generated-images/in-praise-of-agni-banner.png
+---
+
 # In Praise of Agni
 
 ## On Cooking, Tapas, and the Fear of Friction

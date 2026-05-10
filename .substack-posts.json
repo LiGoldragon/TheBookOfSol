@@ -19,6 +19,10 @@
       "banner_image": "generated-images/dehydrated-fruit-coconut-honey-banner.png"
     },
     {
+      "source_path": "diet/In_Praise_of_Agni.md",
+      "banner_image": "generated-images/in-praise-of-agni-banner.png"
+    },
+    {
       "source_path": "water/Keep_the_Plasma.md",
       "post_id": 195628661,
       "slug": "keep-the-plasma",
