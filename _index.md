@@ -148,6 +148,12 @@ Written and compiled by Olivier Francoeur, aka Li Goldragon.
 - [The Golden Fountain — urine as nectar and the amarolī tradition (van der Kroon 1994)](./source-extracts/Golden_Fountain/urine-as-nectar-and-the-amaroli-tradition.md)
 - [Giri Bālā — the yoginī who never eats (Yogānanda *Autobiography of a Yogi* ch. 46)](./source-extracts/Yogananda/giri-bala-the-yogini-who-never-eats.md)
 
+## Arthur Young
+
+Arthur M. Young (1905–1995) — Bell-helicopter engineer, founder of the Institute for the Study of Consciousness, developer of the *Geometry of Meaning*. His framework gives formal scientific status to the third derivative (control, volition) and to the angular division of the circle that the measure formulae of physics and the signs of the zodiac share as their common foundation.
+
+- [*Science and Astrology* (1987) — primary-source extract](./source-extracts/Arthur_Young/science-and-astrology.md) (the conflict as ideology not fact, the third derivative as the mark of life, the cardinal cross and the learning cycle, the dimensional angles T=90° M=120° L=30°, the twelvefold correspondence of measure formulae and zodiacal signs, mass as embodiment, mutables as relationship, the quantum of action as the whole, Eddington's hypersphere and the seven-fold arc, freedom as first cause)
+
 ## Research
 
 - [Yoga–Āyurveda shared lineage](./research_yoga_ayurveda_lineage/00_index.md)
