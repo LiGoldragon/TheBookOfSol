@@ -154,6 +154,17 @@ Arthur M. Young (1905–1995) — Bell-helicopter engineer, founder of the Insti
 
 - [*Science and Astrology* (1987) — primary-source extract](./source-extracts/Arthur_Young/science-and-astrology.md) (the conflict as ideology not fact, the third derivative as the mark of life, the cardinal cross and the learning cycle, the dimensional angles T=90° M=120° L=30°, the twelvefold correspondence of measure formulae and zodiacal signs, mass as embodiment, mutables as relationship, the quantum of action as the whole, Eddington's hypersphere and the seven-fold arc, freedom as first cause)
 
+## Dane Rudhyar
+
+Dane Rudhyar (1895–1985) — French-American composer, painter, poet, and the principal architect of the humanistic and transpersonal turn in twentieth-century astrology. Working from a foundation in Theosophy and depth psychology (corresponding with Alice Bailey and Carl Jung's circle), he reformulated astrology away from the predict-events register and toward the *language of the cycle* — astrology as a structural map of the individual's process of becoming. His major books move from doctrinal foundation (*Astrology of Personality*, 1936) through the technical apparatus (*Astrological Signs*, *Astrological Houses*, *Astrological Aspects*) to the late synthesis on transformation and the trans-Saturnian planets.
+
+- [*The Astrology of Personality* (1936) — primary-source extract](./source-extracts/Dane_Rudhyar/astrology-of-personality.md)
+- [*The Practice of Astrology* (1968) — primary-source extract](./source-extracts/Dane_Rudhyar/practice-of-astrology.md)
+- [*An Astrological Study of Psychological Complexes* (1948) — primary-source extract](./source-extracts/Dane_Rudhyar/astrological-study-of-psychological-complexes.md)
+- [*The Astrological Houses* (1972) — primary-source extract](./source-extracts/Dane_Rudhyar/astrological-houses.md)
+- [*The Pulse of Life* (1943) — primary-source extract](./source-extracts/Dane_Rudhyar/pulse-of-life.md)
+- [*The Astrology of Transformation* (1980) — primary-source extract](./source-extracts/Dane_Rudhyar/astrology-of-transformation.md)
+
 ## Research
 
 - [Yoga–Āyurveda shared lineage](./research_yoga_ayurveda_lineage/00_index.md)
