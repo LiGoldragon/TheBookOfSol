@@ -8,11 +8,11 @@ banner_image: generated-images/toroidal-heart-banner.png
 
 # The Toroidal Heart
 
-![A toroidal field of light, the sun radiating along its outer skin and the moon held within its inner core; the level earth-disk bisects the figure at its equator.](../generated-images/toroidal-heart-banner.png)
+![A toroidal field of light: the moon held in the inner ring close to the central axis (north), the sun radiating across the outer ring (south); the level earth-disk shows the north pole at the center and the equator drawn as a circle around it.](../generated-images/toroidal-heart-banner.png)
 
 *Two Lights, One Pulse*
 
-The world is a torus. The level earth-disk bisects it at its equator. Above the disk is the inner hemisphere — north, the upper world, where the field gathers toward its source. Below the disk is the outer hemisphere — south, the underworld, where the field disperses. Both halves share the toroidal form, mirror reflections with their energetic movements inverted between them. The main current binds them, flowing from above-center to below-center along the central axis; the return runs up through the outer skin. The Moon rules the northern hemisphere of gathering; the Sun rules the southern hemisphere of dispersion. The two are not equal: the source is up and the dispersion is down, so the Light that rules the source is the senior Light, even when the visible Light is the other.
+The world is a torus. The level earth-disk lies within it. The north pole is at the center of the disk; the equator is a circle drawn around that center; the southern lands fill the disk's periphery. The torus is shaped around a central axis perpendicular to the disk, rising through the north pole. The hemispheres of the torus are not above and below the disk — they are inner and outer. The inner hemisphere, north, is gathered around the central axis: the core. The outer hemisphere, south, spreads across the disk's periphery: the skin. The Moon rules the inner hemisphere. The Sun rules the outer. The two are not equal: the core is dense and the skin is diffuse, so the Light that rules the core is the senior Light, even when the visible Light is the other.
 
 > **एकं सद् विप्रा बहुधा वदन्ति।**\
 > *ekaṃ sad viprā bahudhā vadanti.*
@@ -32,7 +32,7 @@ The torus is the natural shape of any self-organizing field. Plasma confines its
 > "This Earth is the bearer; all beings rest upon her. Upon her the paths of the Sun are laid."\
 > — *Atharva Veda* 12.1.1; 12.1.12
 
-The body stands on the level disk. The skin of the torus encloses everything visible. Above the head and beneath the feet are the two halves of one closed figure, joined through the central axis where the main current runs and through the outer periphery where it returns. The whole field is one surface, breathing.
+The body stands on the level disk. From wherever it stands, the direction north is the direction toward the disk's center, and south the direction toward its periphery. The toroidal field rises around the central axis above the north pole and folds back through the outer skin out beyond the southern fringe. The inner ring is the core where the field gathers; the outer ring is the skin where it spreads. The whole field is one surface, breathing.
 
 > **κόσμον τόνδε, τὸν αὐτὸν ἁπάντων, οὔτε τις θεῶν οὔτε ἀνθρώπων ἐποίησεν, ἀλλ' ἦν ἀεὶ καὶ ἔστιν καὶ ἔσται πῦρ ἀείζωον, ἁπτόμενον μέτρα καὶ ἀποσβεννύμενον μέτρα.**\
 > *kosmon tonde, ton auton hapantōn, oute tis theōn oute anthrōpōn epoiēsen, all' ēn aei kai estin kai estai pyr aeizōon, haptomenon metra kai aposbennymenon metra.*
@@ -44,16 +44,16 @@ Measure is the key word. The fire that kindles and goes out is a fire that takes
 
 ## The Inner Core, The Outer Skin
 
-The torus has a vertical asymmetry. Its central axis carries the main current from above-center to below-center: source to dispersion, gathering pole to releasing pole. Above the disk the field gathers; below the disk it disperses. Both halves share the toroidal form. The underworld runs the same circulation as the upper world, but with the energetic movement inverted — from periphery to center where the upper went center to periphery. There are currents going both ways at every scale; the main direction binds them, above-center to below-center, and back again through the periphery.
+The torus has a radial asymmetry. Its inner ring is small and dense; its outer ring is wide and diffuse. The field-lines pack into the central axis like threads gathered into a knot, then loosen across the outer surface like fabric draped over a body. Northward is the direction toward the central axis. Southward is the direction away from it. North is concentrated. South is dispersed. Whatever is northernmost is closest to the core, and so dominates. South is the diffuse periphery — present, but subtle.
 
-The northward direction is the direction toward the source pole. The southward direction is the direction toward the dispersion pole. Whatever is northernmost is closer to where the field gathers, and so dominates. South is the diffuse periphery — present, but subtle.
+The main current flows from above-center to below-center: down the central axis from the upper apex through the disk's north pole into the lower apex below. The underworld runs the same toroidal circulation as the upper world, with the energetic movement inverted — from periphery to center where the upper went center to periphery. Currents go both ways at every scale; the main direction binds the cosmos.
 
-This asymmetry is what the seasonal year carries on its back. The sun moves north of the equatorial belt and the days lengthen, but what names the season's quality is the height of the sun above the disk, its proximity to the source. At summer solstice the sun is at maximum elevation; the field is most charged. At winter solstice the sun is at maximum depression; the field is most relaxed.
+This asymmetry is what the seasonal year carries on its back. The sun's annual circle of motion above the disk contracts in summer and expands in winter. In summer the sun draws inward toward the central axis, and the days lengthen; in winter it sweeps outward toward the southern fringe, and the days shorten. At summer solstice the sun rides its innermost ring, the Tropic of Cancer; at winter solstice its outermost, the Tropic of Capricorn.
 
 > "From the equinox the Sun proceeds northward; when he reaches the extreme of that northern course and turns back, that place is Cancer. From the equinox he proceeds southward; when he reaches the extreme of that southern course and turns back, that place is Capricorn."\
 > — *Sūrya Siddhānta* I.12–13
 
-The turning points are not arbitrary. They are the moments when the sun's hemisphere-relationship inverts. Cancer is the door at the top of the northern arc; Capricorn the door at the bottom of the southern. The two cardinal axes — equinoctial belt and solstitial axis — divide the torus into four quadrants and the year into four seasons.
+The turning points are not arbitrary. They are the moments when the sun's radial motion inverts. Cancer is the inner door, where the sun stops drawing closer to the axis and turns back out. Capricorn is the outer door, where the sun stops drawing away and turns back in. The two cardinal axes — equinoctial belt and solstitial axis — divide the toroidal field into four quadrants and the year into four seasons.
 
 ## The Two Lights
 
@@ -104,7 +104,7 @@ The popular reading inverts this. The Sun is the visible Light; the Moon is the 
 
 The two Lights do not stay in their hemispheres. The Sun spends six months north of the equatorial belt and six months south. The Moon, whose orbit tilts five degrees off the solar plane, crosses the belt twice each month. The Vedic tradition gave the two lunar crossings the names Rāhu — the ascending node, the head — and Ketu — the descending node, the tail. Rāhu is the Moon's shadow; Ketu is the Sun's shadow.
 
-When the Moon passes through Rāhu she crosses from the lower hemisphere into the upper. Her motion carries her into her own hemisphere; she enters her core. The Moon at Rāhu is the moon in her dominance — the inner Light passing through her own door.
+When the Moon passes through Rāhu she crosses from the outer hemisphere into the inner. Her motion carries her into her own hemisphere; she enters her core. The Moon at Rāhu is the moon in her dominance — the inner Light passing through her own door.
 
 When the Sun passes through Ketu he stands at his own shadow-point, the gate of the outer hemisphere where his rulership is native. The Sun at Ketu is the sun on his skin — the outer Light passing through his own door, the diastole of the field at maximum reach.
 
@@ -153,9 +153,9 @@ The torus is not the cosmos's only torus. Rudhyar named the principle:
 > "What I had earlier called the principle of 'holism' I now realized was better named 'holarchy' — for what we are dealing with is a hierarchy of wholes, each whole nested within a larger whole, each acting upon the wholes within it and reacting to the wholes that contain it."\
 > — Dane Rudhyar, *The Astrology of Transformation*
 
-The cell is a torus. The body is a torus. The world the body inhabits — the level disk and its surrounding sky together — is a torus. The solar system is a torus, and the galaxy is one larger torus that holds it. Each scale has its own core and its own skin, its own equatorial plane, its own Two Lights. The cell has its nucleus for a core and its membrane for a skin. The body has its heart for a core and its skin for a skin. The world has the upper heavens for its core and the underworld for its skin. The solar system has the sun for a core and the heliopause for a skin.
+The cell is a torus. The body is a torus. The world the body inhabits — the level disk and its surrounding sky together — is a torus. The solar system is a torus, and the galaxy is one larger torus that holds it. Each scale has its own core and its own skin, its own equatorial plane, its own Two Lights. The cell has its nucleus for a core and its membrane for a skin. The body has its heart for a core and its skin for a skin. The world has the central axis rising through the north pole for its core and the encircling southern firmament for its skin. The solar system has the sun for a core and the heliopause for a skin.
 
-Astrology is the science of the nested tori. The natal chart locates an individual body's core-and-skin within the Earth's core-and-skin within the solar system's core-and-skin — three scales pulsing in resonance, three Two-Lights breathing the same Day-force and Night-force at three scales at once. To read a chart is to feel one's location in the nested breath.
+Astrology is the science of the nested tori. The natal chart locates an individual body's core-and-skin within the world's core-and-skin within the solar system's core-and-skin — three scales pulsing in resonance, three Two-Lights breathing the same Day-force and Night-force at three scales at once. To read a chart is to feel one's location in the nested breath.
 
 > "The light that resides in the sun and that illumines the whole world, the light that is in the moon and in fire — know that light to be mine."\
 > — *Bhagavad Gītā* 15.12
