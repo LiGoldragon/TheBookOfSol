@@ -8,6 +8,7 @@ Written and compiled by Olivier Francoeur, aka Li Goldragon.
 
 - [Chapter One — Sol](./sol-luna/1-Sol.md)
 - [Chapter Two — Luna](./sol-luna/2-Luna.md)
+- [The Toroidal Heart](./sol-luna/The_Toroidal_Heart.md)
 - [The Solar Matrix of Creation](./sol-luna/The_Solar_Matrix_of_Creation.md)
 - [Solar Excess](./sol-luna/Solar_Excess.md)
 - [The 108 Solar Divisions](./sol-luna/The_108_Solar_Divisions.md)
