@@ -12,7 +12,7 @@ banner_image: generated-images/toroidal-heart-banner.png
 
 *Two Lights, One Pulse*
 
-The world is a torus. The level earth-disk bisects it at its equatorial plane. Above the disk, field-lines converge toward the inner core; below the disk, they diverge across the outer skin. The Sun rules the wider hemisphere of the skin. The Moon rules the narrower hemisphere of the core. The two are not equal: the core is dense and the skin is diffuse, so the Light that rules the core is the senior Light, even when the visible Light is the other.
+The world is a torus. The level earth-disk bisects it at its equator. Above the disk is the inner hemisphere — north, the upper world, where the field gathers toward its source. Below the disk is the outer hemisphere — south, the underworld, where the field disperses. Both halves share the toroidal form, mirror reflections with their energetic movements inverted between them. The main current binds them, flowing from above-center to below-center along the central axis; the return runs up through the outer skin. The Moon rules the northern hemisphere of gathering; the Sun rules the southern hemisphere of dispersion. The two are not equal: the source is up and the dispersion is down, so the Light that rules the source is the senior Light, even when the visible Light is the other.
 
 > **एकं सद् विप्रा बहुधा वदन्ति।**\
 > *ekaṃ sad viprā bahudhā vadanti.*
@@ -32,7 +32,7 @@ The torus is the natural shape of any self-organizing field. Plasma confines its
 > "This Earth is the bearer; all beings rest upon her. Upon her the paths of the Sun are laid."\
 > — *Atharva Veda* 12.1.1; 12.1.12
 
-The body stands on the level disk. The skin of the torus encloses everything visible. The sky above the head is the inside of the figure, vaulted toward the core; the sky beneath the feet is the outside of the figure, fanned across the periphery. The whole field is one closed surface, breathing.
+The body stands on the level disk. The skin of the torus encloses everything visible. Above the head and beneath the feet are the two halves of one closed figure, joined through the central axis where the main current runs and through the outer periphery where it returns. The whole field is one surface, breathing.
 
 > **κόσμον τόνδε, τὸν αὐτὸν ἁπάντων, οὔτε τις θεῶν οὔτε ἀνθρώπων ἐποίησεν, ἀλλ' ἦν ἀεὶ καὶ ἔστιν καὶ ἔσται πῦρ ἀείζωον, ἁπτόμενον μέτρα καὶ ἀποσβεννύμενον μέτρα.**\
 > *kosmon tonde, ton auton hapantōn, oute tis theōn oute anthrōpōn epoiēsen, all' ēn aei kai estin kai estai pyr aeizōon, haptomenon metra kai aposbennymenon metra.*
@@ -44,9 +44,11 @@ Measure is the key word. The fire that kindles and goes out is a fire that takes
 
 ## The Inner Core, The Outer Skin
 
-The torus has a vertical asymmetry. Its core is small and dense; its skin is wide and diffuse. The field-lines pack into the central axis like threads gathered into a knot, then loosen across the outer surface like fabric draped over a body. The northward direction is the direction *toward* the core. The southward direction is the direction *toward* the skin. North is concentrated. South is dispersed. Whatever is northernmost is closest to the source, and so dominates.
+The torus has a vertical asymmetry. Its central axis carries the main current from above-center to below-center: source to dispersion, gathering pole to releasing pole. Above the disk the field gathers; below the disk it disperses. Both halves share the toroidal form. The underworld runs the same circulation as the upper world, but with the energetic movement inverted — from periphery to center where the upper went center to periphery. There are currents going both ways at every scale; the main direction binds them, above-center to below-center, and back again through the periphery.
 
-This asymmetry is what the seasonal year carries on its back. The sun moves north of the equatorial belt and the days lengthen, but what names the season's quality is the height of the sun above the disk, its proximity to the core. At summer solstice the sun is at maximum elevation; the field is most charged. At winter solstice the sun is at maximum depression; the field is most relaxed.
+The northward direction is the direction toward the source pole. The southward direction is the direction toward the dispersion pole. Whatever is northernmost is closer to where the field gathers, and so dominates. South is the diffuse periphery — present, but subtle.
+
+This asymmetry is what the seasonal year carries on its back. The sun moves north of the equatorial belt and the days lengthen, but what names the season's quality is the height of the sun above the disk, its proximity to the source. At summer solstice the sun is at maximum elevation; the field is most charged. At winter solstice the sun is at maximum depression; the field is most relaxed.
 
 > "From the equinox the Sun proceeds northward; when he reaches the extreme of that northern course and turns back, that place is Cancer. From the equinox he proceeds southward; when he reaches the extreme of that southern course and turns back, that place is Capricorn."\
 > — *Sūrya Siddhānta* I.12–13
@@ -151,7 +153,7 @@ The torus is not the cosmos's only torus. Rudhyar named the principle:
 > "What I had earlier called the principle of 'holism' I now realized was better named 'holarchy' — for what we are dealing with is a hierarchy of wholes, each whole nested within a larger whole, each acting upon the wholes within it and reacting to the wholes that contain it."\
 > — Dane Rudhyar, *The Astrology of Transformation*
 
-The cell is a torus. The body is a torus. The Earth is a torus. The solar system is a torus, and the galaxy is one larger torus that holds it. Each scale has its own core and its own skin, its own equatorial plane, its own Two Lights. The human body has its heart for a core and its skin for a skin. The Earth has its iron heart for a core and its atmosphere for a skin. The solar system has the sun for a core and the heliopause for a skin.
+The cell is a torus. The body is a torus. The world the body inhabits — the level disk and its surrounding sky together — is a torus. The solar system is a torus, and the galaxy is one larger torus that holds it. Each scale has its own core and its own skin, its own equatorial plane, its own Two Lights. The cell has its nucleus for a core and its membrane for a skin. The body has its heart for a core and its skin for a skin. The world has the upper heavens for its core and the underworld for its skin. The solar system has the sun for a core and the heliopause for a skin.
 
 Astrology is the science of the nested tori. The natal chart locates an individual body's core-and-skin within the Earth's core-and-skin within the solar system's core-and-skin — three scales pulsing in resonance, three Two-Lights breathing the same Day-force and Night-force at three scales at once. To read a chart is to feel one's location in the nested breath.
 
