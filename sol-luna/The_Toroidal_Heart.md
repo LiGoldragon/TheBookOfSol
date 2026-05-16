@@ -12,7 +12,7 @@ banner_image: generated-images/toroidal-heart-banner.png
 
 *Two Lights, One Pulse*
 
-The world is a torus. The level earth-disk lies within it. The north pole is at the center of the disk; the equator is a circle drawn around that center; the southern lands fill the disk's periphery. The torus is shaped around a central axis perpendicular to the disk, rising through the north pole. The hemispheres of the torus are not above and below the disk — they are inner and outer. The inner hemisphere, north, is gathered around the central axis: the core. The outer hemisphere, south, spreads across the disk's periphery: the skin. The Moon rules the inner hemisphere. The Sun rules the outer. The two are not equal: the core is dense and the skin is diffuse, so the Light that rules the core is the senior Light, even when the visible Light is the other.
+The world is a torus. The level earth-disk lies within it. The north pole is at the center of the disk; the equator is a circle drawn around that center; the southern lands fill the disk's periphery. The torus is shaped around a central axis perpendicular to the disk, rising through the north pole. The hemispheres of the torus are not above and below the disk — they are inner and outer. The inner hemisphere, north, is gathered around the central axis: the core. The outer hemisphere, south, spreads across the disk's periphery: the skin. The Sun and the Moon are the two driving Lights. Both move through the toroidal field, in and out of the core and across the skin. The Sun keeps to the ecliptic; the Moon weaves above and below it. At any moment, the Light that stands more north — closer to the core — is the dominant Light. The lunar nodes mark where the dominance changes hands.
 
 > **एकं सद् विप्रा बहुधा वदन्ति।**\
 > *ekaṃ sad viprā bahudhā vadanti.*
@@ -57,7 +57,7 @@ The turning points are not arbitrary. They are the moments when the sun's radial
 
 ## The Two Lights
 
-The Sun and the Moon are the field's two driving Lights. Their division of labor is given in the oldest statement of cosmogenesis:
+The Sun and the Moon are the field's two driving Lights. Their natures are given in the oldest statement of cosmogenesis:
 
 > **चन्द्रमा मनसो जातश्चक्षोः सूर्यो अजायत।**\
 > *candramā manaso jātaś cakṣoḥ sūryo ajāyata.*
@@ -65,14 +65,14 @@ The Sun and the Moon are the field's two driving Lights. Their division of labor
 > "From his mind the Moon was born; from his eye, the Sun."\
 > — *Ṛgveda* 10.90.13
 
-The eye looks outward. The mind turns inward. The Sun is the Light by which we see what is outside; the Moon is the Light by which we know what is inside. The Sun therefore rules the *skin* of the torus — the outer hemisphere, the manifest, the radiant. The Moon rules the *core* — the inner hemisphere, the gathered, the reflective.
+The eye looks outward. The mind turns inward. The Sun is the Light by which we see what is outside — radiant, public, manifest. The Moon is the Light by which we know what is inside — reflective, hidden, gathered. The two natures incline in opposite directions, but neither Light is fixed to one hemisphere. Both move through the toroidal field. The dominance between them is decided not by what each Light is, but by where each Light stands.
 
 Plutarch, writing on the face in the moon, gave the geometry its earliest doctrinal name:
 
 > "The half of the moon that faces heaven is the Elysian plain; the half that faces earth is the house of counter-earth Persephone."\
 > — Plutarch, *De facie quae in orbe lunae apparet* 944C
 
-The Moon, in her two-facedness, witnesses the asymmetry directly. Her core-side faces the upper field; her skin-side faces the lower. The Bhagavad Gītā names the two Lights together as one luminosity:
+The Moon, in her two-facedness, witnesses the duality of the field directly — one face turned toward the heavens, the other toward the disk. The Bhagavad Gītā names the two Lights together as one luminosity:
 
 > **यदादित्यगतं तेजो जगद्भासयतेऽखिलम्।**\
 > **यच्चन्द्रमसि यच्चाग्नौ तत्तेजो विद्धि मामकम्॥**\
@@ -82,7 +82,7 @@ The Moon, in her two-facedness, witnesses the asymmetry directly. Her core-side 
 > "That light which, residing in the sun, illumines the whole world, that which is in the moon and that which is in fire — that light know to be mine."\
 > — *Bhagavad Gītā* 15.12
 
-One light, two Lights. Form differentiates; substance unifies. The Sun and the Moon are two phases of one luminosity, pulsing the field from its two centers.
+One light, two Lights. Form differentiates; substance unifies. The Sun and the Moon are two phases of one luminosity, weaving through the field.
 
 ## Day-force, Night-force
 
@@ -91,24 +91,26 @@ Rudhyar named the pulse:
 > "The Day-force is a personalizing energy. It forces ideas, spiritual entities, abstractions into concrete and particular actuality... The Night-force is an in-gathering energy. It brings personalities together."\
 > — Dane Rudhyar, *The Pulse of Life*
 
-The Day-force is the radiation through the skin: spirit becoming form, the unmanifest becoming manifest, the seed becoming plant. It is the diastole of the cosmic heart. The Night-force is the gathering toward the core: form becoming spirit, the manifest returning to source, the plant becoming seed again. It is the systole.
+The Day-force is the personalizing impulse: spirit becoming form, the diffuse becoming particular, the abstract becoming individual. It grows in strength as the sun makes its inward turn — from winter solstice through spring to summer, from the outer ring of Capricorn through the equator to the inner ring of Cancer. The Night-force is the collectivizing impulse: form becoming community, the individual becoming public, the particular becoming general. It grows in strength as the sun makes its outward turn — from summer through autumn back to winter.
 
 > "Reality has a rhythmic heart. The systole and diastole of that heart create these beats of becoming which are birth and death, winter and summer, increase of light and crescendos of darkness."\
 > — Dane Rudhyar, *The Pulse of Life*
 
-The two phases are not equal. The systole — the gathering, the in-drawing, the contraction toward the core — is the dominant phase, because the core is what the skin radiates *from*. The Night-force is the senior force. The Day-force is its expression. The Moon's hemisphere is the source-side; the Sun's is the visible side.
+The two phases are halves of one breath, twelve months long. The Day-force is the year's diastole: the inward gathering of spirit into individual form. The Night-force is the year's systole: the outward extension of the individual into wider wholes. Both forces operate at every moment of every day, but one is louder at a time.
 
-The popular reading inverts this. The Sun is the visible Light; the Moon is the inner Light. Visibility is the surface; depth is the source. The Vedic order keeps the distinction exactly: Soma is mind, Sūrya is eye, and the mind is interior to the eye.
+Within this annual breath runs a finer rhythm: the monthly alternation of the Two Lights themselves.
 
 ## The Nodes as Doors
 
-The two Lights do not stay in their hemispheres. The Sun spends six months north of the equatorial belt and six months south. The Moon, whose orbit tilts five degrees off the solar plane, crosses the belt twice each month. The Vedic tradition gave the two lunar crossings the names Rāhu — the ascending node, the head — and Ketu — the descending node, the tail. Rāhu is the Moon's shadow; Ketu is the Sun's shadow.
+The Sun keeps to the ecliptic — his own annual path. The Moon's orbit tilts five degrees off the ecliptic, so twice each month her path crosses the Sun's. The two crossings have names. Rāhu, the ascending node, is the head: the door where the Moon's orbit crosses from south of the ecliptic to north. Ketu, the descending node, is the tail: the door where her orbit crosses from north of the ecliptic to south. From these two doors the alternation of solar and lunar dominance is read.
 
-When the Moon passes through Rāhu she crosses from the outer hemisphere into the inner. Her motion carries her into her own hemisphere; she enters her core. The Moon at Rāhu is the moon in her dominance — the inner Light passing through her own door.
+Between Rāhu and Ketu — the half-orbit when the Moon stands north of the ecliptic — the Moon is more north than the Sun. The Moon is closer to the core. The Moon dominates the field.
 
-When the Sun passes through Ketu he stands at his own shadow-point, the gate of the outer hemisphere where his rulership is native. The Sun at Ketu is the sun on his skin — the outer Light passing through his own door, the diastole of the field at maximum reach.
+Between Ketu and Rāhu — the half-orbit when the Moon stands south of the ecliptic — the Sun, keeping to the ecliptic, is more north than the Moon. The Sun is closer to the core. The Sun dominates.
 
-Eclipse season is the moment when both Lights converge at the same axis. New moon at Rāhu: Moon at her door, Sun aligned with hers — a solar eclipse, the field's whole hinge swung at once. Full moon at Rāhu: Moon at her door, Sun at the opposite door of Ketu — a lunar eclipse, the field maximally polarized. What classical astrology has named malefics — Rāhu and Ketu — are in this geometry the gates through which the Lights enter their hemispheres.
+Rāhu is the door through which the Moon enters her dominance. Ketu is the door through which the Sun enters his. The two doors are crossed every 27.2 days — the draconic month — as the Moon completes one circuit of her own nodal cycle.
+
+Eclipse season is the moment when both Lights converge on the same nodal axis. New moon at Rāhu or Ketu: Sun and Moon at the same longitude, both at the ecliptic — a solar eclipse, the field's whole hinge swung at once. Full moon with Sun at one node and Moon at the other: a lunar eclipse, the field maximally polarized. What classical astrology has named malefics — Rāhu and Ketu — are in this geometry the gates through which dominance changes hands.
 
 > "The motions once finished are again begun in the same order."\
 > — *Sūrya Siddhānta* I.13
@@ -164,7 +166,7 @@ The light is one. The scales are many. The breath at every scale is the same bre
 
 ## The Practical Attitude
 
-To live the field is to know which way it is pulsing. In the morning, with the sun rising on the eastern horizon and the moon somewhere on her own orbit, the body is at a particular place in the nested breath. Some hours the field is in-gathering, some hours it is radiating. Some weeks the lunar core is dominant, some weeks the solar skin. Some years the nodal axis has placed Rāhu in one sign and Ketu in another, charging certain doors and quieting others.
+To live the field is to know which way it is pulsing. In the morning, with the sun rising on the eastern horizon and the moon somewhere on her own orbit, the body is at a particular place in the nested breath. Some hours the field is in-gathering, some hours it is radiating. Half the lunar month the Moon stands north of the Sun and her dominance fills the field; the other half the Sun stands more north and his dominance prevails. Some years the nodal axis has placed Rāhu in one sign and Ketu in another, charging certain doors and quieting others.
 
 The sage does not consult an ephemeris for permission. The sage feels the pulse and acts with it.
 
@@ -180,7 +182,7 @@ The chart is a symbol; the body is the witness; the field is the source.
 
 ## Closing
 
-The world is a torus. The Sun rules its skin. The Moon rules its core. The core dominates the skin because the core is dense and the skin is diffuse. The two Lights meet at the nodes, and the nodes are doors. The wheel turns with twelve spokes around the sky of *ṛta*. The field breathes systole and diastole. The body, standing on the level earth, breathes with it.
+The world is a torus. The core dominates the skin because the core is dense and the skin is diffuse. The two Lights move through both hemispheres; whichever is more north dominates. Between Rāhu and Ketu the Moon stands more north and rules; between Ketu and Rāhu the Sun stands more north and rules. The wheel turns with twelve spokes around the sky of *ṛta*. The field breathes systole and diastole. The body, standing on the level earth, breathes with it.
 
 > "The Sun is the soul of all that moves and all that rests."\
 > — *Ṛgveda* 1.115.1
