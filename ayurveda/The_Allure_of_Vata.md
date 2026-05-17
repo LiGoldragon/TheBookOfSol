@@ -8,7 +8,7 @@ banner_image: generated-images/allure-of-vata-banner.png
 
 # The Allure of Vata
 
-![A gaunt ascetic on a riverbank receives a bowl of milk-rice from a young woman, with the morning forest behind them.](../generated-images/allure-of-vata-banner.png)
+![A skeletal ascetic in deep tapas on a riverbank, ribs visible and belly hollow, body wasted from six years of fasting and breath-suppression — the very picture of vāta derangement.](../generated-images/allure-of-vata-banner.png)
 
 *Doshas, Gunas, and the Ascetic's Mistake*
 
