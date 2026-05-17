@@ -52,6 +52,7 @@ Written and compiled by Olivier Francoeur, aka Li Goldragon.
 - [Nourishment in Kali Yuga](./ayurveda/Nourishment_in_Kali_Yuga.md)
 - [Cooking and Spices](./ayurveda/Cooking_and_Spices.md)
 - [Apathya](./ayurveda/Apathya.md)
+- [The Allure of Vata](./ayurveda/The_Allure_of_Vata.md)
 - [Agni](./ayurveda/Agni.md)
 - [Triphala](./ayurveda/Triphala.md)
 - [Madhumeha](./ayurveda/Madhumeha.md)
