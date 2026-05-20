@@ -6,6 +6,16 @@ This compilation supports [*Cooking and Spices*](../ayurveda/Cooking_and_Spices.
 
 Format follows the project's canonical quote-block: bold IAST Sanskrit on top, blank `>` line, English translation in straight quotes, em-dash attribution on the final line. Where the working corpus lacks clean IAST, the passage appears as an English-only blockquote with the attribution underneath.
 
+## Preliminary — the *pakva* / *āma* pair in the Sanskrit grammar
+
+The Sanskrit medical vocabulary collapses two distinctions into one word, and the doubling is itself the argument. *Pakva* (पक्व) — past passive participle of *pac-*, "to cook" — means both *cooked* and *ripe*. *Āma* (आम) — its antonym — means both *uncooked* and *unripe*; and in the medical register, also *undigested*, *immature*, *the material basis of disease*. The same word that names raw food at the kitchen end names disease-causing residue at the clinical end. The same word that names cooked food at the kitchen end names ripeness, maturity, and successful assimilation at the clinical end.
+
+The implication is built into the language. The classical Sanskrit physician cannot conceive of *raw food* without also thinking *undigested*. The classical Sanskrit physician cannot conceive of *cooked food* without also thinking *brought to its proper form*. The pair encodes the doctrine the rest of this file documents — *cooking is the operator that converts the raw input into the ripe assimilable substance* — at the level of grammar, before any verse is read.
+
+This is also why *āma* in clinical usage (the residue from incomplete digestion) and *āma* in the kitchen sense (the unripe fruit, the uncooked grain) are not two homonyms but one word: they name the same condition at two stages. What enters the eater raw, if the *agni* cannot finish its work, remains *āma* inside the body. The cooking either happens externally (in the kitchen) or it must happen internally (in the *āmāśaya*). What never gets cooked at all generates disease.
+
+The Persian-Arabic medical tradition makes the same equation explicitly. Avicenna's *Canon* I names the "raw, uncooked portion" of the body's cooking-of-food as *phlegm* — the first humoral pathology. Cross-tradition documentation lives in [`Raw_and_Cooked_Cross_Tradition.md`](./Raw_and_Cooked_Cross_Tradition.md).
+
 ## I. Prāṇa is what the eater builds from anna
 
 The modern raw-food claim imagines *prāṇa* as a thermal substance hovering inside the raw vegetable, driven out by heat. The Upaniṣads describe *prāṇa* in the opposite direction: not a property the plant carries, but the ordering capacity the eater applies to what he has digested.
@@ -305,6 +315,22 @@ The Yogic prohibition lists are precise about *harita-śāka* — fresh / raw gr
 
 *Śuṣka-anna* — dry food — is named as a principal vitiator of the water-channels of the body. Dehydrated, raw, fibrous input is *śuṣka* by definition. The classical cure for the dry-food pathology is *snigdha* food — unctuous, warm, cooked. The *Cooking_and_Spices.md* essay's remark holds: *"Cooking is the first stage by which prāṇa is made available."*
 
+### Suśruta Sū. 19 — undigested food generates the disease
+
+> "The food, partaken of by a weakened and emaciated ulcer-patient, is not fully digested owing to the above mentioned, and other multifarious causes.\
+> The undigested food violently disturbs and aggravates the bodily humours, which move about in the body and give rise to swelling, secretion, burning pain and suppuration in the ulcer."\
+> — *Suśruta Saṃhitā*, Sūtrasthāna 19, trans. Kaviraj Kunjalal Bhishagratna
+
+Suśruta's clinical statement of the *āma* mechanism, made in the specific context of an ulcer that will not heal. The cause-chain is precise: weakness → incomplete digestion → undigested food → humoral derangement → local disease symptoms. The verse documents the same physiology Caraka names in Vimānasthāna 2 (*amaḥ apakvaḥ*) — when the *agni* cannot complete its cooking work, the food remains *āma* in the body and the disease arises from there.
+
+### Suśruta Sū. 46 — the *Annapāna-vidhi* opens with the question
+
+> "I am eager to learn of the substances and their specific inherent properties, virtues, potencies and transformations (chemical reactions) which constitute the daily food of human beings, inasmuch as a physician, who is ignorant of them, is quite helpless in checking or curing any distemper and maintaining health in individuals.\
+> And since food (diet) determines the origin of all created beings, instruct us, O Lord, on the proper regimen of food and drink."\
+> — *Suśruta Saṃhitā*, Sūtrasthāna 46, trans. Kaviraj Kunjalal Bhishagratna
+
+Suśruta's *Annapānavidhi* — the sister chapter to Caraka's Sūtrasthāna 27 — opens with the precise framing the entire compilation needs: the physician who does not understand food cannot maintain health. The chapter that follows is itself a documentation of food-by-preparation, with cooked rice (*śāli, ṣaṣṭika, vrīhi*) at the head of every group, followed by pulses, vegetables, fruits, and meat — each classified by its post-cooking properties. Suśruta and Caraka converge on the same plate.
+
 ### Aṣṭāṅga Hṛdaya Sū. 8 — what kindles agni
 
 > **uṣṇaṃ snigdhaṃ mātrāvad ajīrṇe'nupasēvitam |\
@@ -371,3 +397,4 @@ Cooking is what makes food into body. Raw input gives rise to *āma*, not *rasa*
 - General *apathya* / *mitāhāra* compilation across all corpora: [`Apathya.md`](./Apathya.md).
 - AH water / *udakavaha-srotas* compilation: [`Astanga_Hrdaya/water-and-srotas.md`](./Astanga_Hrdaya/water-and-srotas.md).
 - Companion fruit-as-medicine compilation: [`Fruit_as_Medicine.md`](./Fruit_as_Medicine.md).
+- Cross-tradition witnesses — Greek (Hippocrates, Galen), Persian (Avicenna), Chinese (Huang Di Nei Jing, Li Dong-yuan), structuralist (Lévi-Strauss), modern-biological (Wrangham): [`Raw_and_Cooked_Cross_Tradition.md`](./Raw_and_Cooked_Cross_Tradition.md).
