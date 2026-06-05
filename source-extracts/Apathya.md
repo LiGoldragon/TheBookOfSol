@@ -86,6 +86,21 @@ The two-word positive register of the yogic meal: *snigdha-madhura*. Everything 
 
 The doctrinal companion verse is the famous Caraka Vimānasthāna 1.24–25 list — *uṣṇa, snigdha, mātrāvat, jīrṇe, vīrya-aviruddha, iṣṭa-deśe, iṣṭa-sarvasvaṃ, na ati-drutaṃ, na ati-vilambitam, a-jalpan, a-hasan, tan-manā* — eat warm, unctuous, in measure, after the previous meal has digested, without dietary antagonism, in a favourable place, with all the proper accessories, not too fast, not too slow, not while talking or laughing, with full attention. The two passages, taken together, are the complete classical *āhāra-vidhi*. Caraka's eight-fold rule is the elaboration; Vāgbhaṭa's *mātrāśī sarva-kālaṃ syāt* is the compressed core.
 
+### Bhagavad Gītā 6.16–17 — yoga requires the measured eater
+
+> **nātyaśnatas tu yogo'sti na caikāntam anaśnataḥ |\
+> na cātisvapnaśīlasya jāgrato naiva cārjuna ||\
+> yuktāhāra-vihārasya yukta-ceṣṭasya karmasu |\
+> yukta-svapnāvabodhasya yogo bhavati duḥkha-hā ||**
+>
+> "Yoga is not for one who eats too much, nor for one who eats too little;\
+> nor for one given to too much sleep, nor for one always awake, Arjuna.\
+> For one measured in food and recreation, measured in his effort at work,\
+> measured in sleep and waking — for him yoga becomes the destroyer of sorrow."\
+> — *Bhagavad Gītā* 6.16–17
+
+Where HYP 1.15 makes the *absence* of *mitāhāra* the disqualifier of practice, the Gītā states the rule in the positive: yoga belongs to the *yuktāhāra* — the one whose eating is measured. The *atyaśnat* (the one who eats too much) and the *anaśnat* (the one who does not eat at all) are both shut out. The fruitarian and the raw-juice faster occupy the two excluded poles — gorging on the watery and the sweet, or fasting toward depletion — and the verse closes both doors with one line.
+
 ## III. The prohibition list — apathya
 
 ### Haṭha Yoga Pradīpikā 1.59 — the canonical apathya list
@@ -194,6 +209,36 @@ The full doctrinal elaboration of the same passage:
 > particularly with symptoms like movements, burning pain, tremors,\
 > piercing and tearing pains."\
 > — *Caraka Saṃhitā*, Sūtrasthāna 26.43(4), trans. Priya Vrat Sharma
+
+### Caraka Sū. 26.43(5) — tikta (bitter) rasa in excess — the drying of the tissues
+
+> **sa evaṃguṇo'py eka evātyartham upayujyamāno raukṣyāt khara-viṣada-svabhāvāc ca**\
+> **rasa-rudhira-māṃsa-medo-'sthi-majjā-śukrāṇy ucchoṣayati srotasāṃ kharatvam upapādayati**\
+> **balam ādatte karśayati glapayati mohayati bhramayati vadanam upaśoṣayati aparāṃś ca vāta-vikārān janayati**
+>
+> "This rasa too, of such qualities, used singly and in excess —\
+> by its dryness and its rough, scouring nature —\
+> dries up the plasma, blood, flesh, fat, bone, marrow, and semen;\
+> produces roughness of the channels (*srotasāṃ kharatvam*); takes away strength;\
+> emaciates, exhausts, deludes, makes giddy, dries the mouth;\
+> and gives rise to the other disorders of *vāta*."\
+> — *Caraka Saṃhitā*, Sūtrasthāna 26.43 (Sanskrit per GRETIL / Trikamji ed.; translation adapted)
+
+This is the verse that grounds the verdict on the raw, dry plate. The salad, the green juice, the dehydrated-fruit-and-nut mix are *rūkṣa* (dry), *khara* (rough), and *viśada* (scouring) by classification. Taken as a staple, they dry the seven *dhātus* in the order the verse names — plasma first, semen last — and roughen the very *srotāṃsi* (channels) through which nourishment must flow. The clinical signature is *vāta* derangement.
+
+### Caraka Sū. 26.43(6) — kaṣāya (astringent) rasa in excess — the blocking of the channels
+
+> **sa evaṃguṇo'py eka evātyartham upayujyamāna āsyaṃ śoṣayati hṛdayaṃ pīḍayati**\
+> **udaram ādhmāpayati vācaṃ nigṛhṇāti srotāṃsy avabadhnāti śyāvatvam āpādayati**\
+> **puṃstvam upahanti viṣṭabhya jarāṃ gacchati vāta-mūtra-purīṣa-retāṃsy avagṛhṇāti**
+>
+> "This rasa too, of such qualities, used singly and in excess,\
+> dries the mouth, oppresses the heart, distends the abdomen, holds back the voice,\
+> blocks the channels (*srotāṃsy avabadhnāti*), produces discoloration, damages virility;\
+> digests with obstruction, and withholds the downward flow of *vāta*, urine, faeces, and semen."\
+> — *Caraka Saṃhitā*, Sūtrasthāna 26.43 (Sanskrit per GRETIL / Trikamji ed.; translation adapted)
+
+Astringency in excess does what dryness in excess begins, then adds obstruction: *srotāṃsy avabadhnāti* — it blocks the channels — and *viṣṭabhya* — it digests with blockage, holding back the body's downward currents. Raw leaves and unripe fruit are *kaṣāya*; eaten in volume, they produce the constipation, distension, and *vāta*-obstruction that the fruitarian and the salad-eater report alike.
 
 ### Caraka Sū. 26.44 — proper use yields benefit; excess becomes harm
 

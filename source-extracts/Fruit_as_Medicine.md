@@ -399,7 +399,36 @@ The metaphysical equation rests on *anna*, not *phala*. The Upaniṣad's most-ci
 
 *Prāṇa* — the ambrosia within the body — is what the eater makes of *anna* when the classical discipline is respected. Fruit feeds neither the rasa-dhātu (AH Śā. 3.54: "from uncooked food, *rasa* and the rest do not arise") nor *prāṇa* directly. It clears, refines, sweeps. *Anna* builds. *Ghṛta* binds.
 
-## IX. The synthesis — phala is auṣadha; phala is not anna
+## IX. Fruit in season — the *kāla* doctrine
+
+Fruit is the seasonal food par excellence: each kind ripens in its month and is gone. The classical corpus treats this not as a casual fact but as a rule of intake. The seasonal-regimen chapter — Caraka's *Tasyāśitīya* (Sūtrasthāna 6) — prescribes the entire diet season by season under the doctrine of *ṛtu-sātmya* (seasonal suitability): what is wholesome in one season is unwholesome in another. Even there, where the year is mapped food by food, the centre is grain, milk, ghee, and meat-soup; specific fruits appear only as seasonal accessories, never as the staple. And eating against the season is, in Caraka's own taxonomy of incompatible food, a named category of harm.
+
+### Caraka Sū. 26.86–87 — *kāla-viruddha*, antagonism of time
+
+> **yac cāpi deśa-kālāgni-mātrā-sātmyānilādibhiḥ |\
+> saṁskārato vīryataśca koṣṭhāvasthā-kramair api ||\
+> ... viruddhaṁ tac ca na hitam ||**
+>
+> "That which is incompatible by place, **time**, digestive capacity, quantity,\
+> habituation, doṣa, processing, potency, bowel, condition, sequence,\
+> treatment, cooking, combination, palatability, quality, or method —\
+> all such food is unwholesome."\
+> — *Caraka Saṃhitā*, Sūtrasthāna 26.86–87, trans. Priya Vrat Sharma
+
+*Kāla-viruddha* — antagonism of time — stands at the head of the list, beside *deśa-viruddha* (antagonism of place). Food eaten out of its season is *viruddha*: classed not as neutral but as a cause of disease, in the same category as the antagonism of fish with milk (Sū. 26.84). The modern supply chain, which delivers every fruit in every month from across the world, is a standing violation of *kāla* — a permanent out-of-season plate. The doctrine that fruit is to be eaten *in season* is thus not a preference but a clause of the *viruddha-āhāra* law.
+
+## X. The Suśruta concord — the second physician agrees
+
+The *Suśruta Saṃhitā*'s food chapter — *Annapāna-vidhi*, Sūtrasthāna 46 — is the sister of Caraka's Sūtrasthāna 27. It opens with the same framing: the physician who does not understand food cannot maintain health.
+
+> "I am eager to learn of the substances and their specific inherent properties, virtues, potencies and transformations which constitute the daily food of human beings, inasmuch as a physician, who is ignorant of them, is quite helpless in checking or curing any distemper and maintaining health... And since food determines the origin of all created beings, instruct us, O Lord, on the proper regimen of food and drink."\
+> — *Suśruta Saṃhitā*, Sūtrasthāna 46.3–4, trans. Kaviraj Kunjalal Bhishagratna
+
+Suśruta's *phala-varga* (fruit group) then places the same fruits in the same registers Caraka uses, and reaches the same verdict: sour fruits are *guru* (heavy) and heating in potency and slow to digest; *āmalaka* (Indian gooseberry) is the foremost fruit — good for the eyes, alleviating all three doṣas, restorative — the same medicinal credential by which Caraka admits it to the daily routine; *drākṣā* (grapes) is the praised fruit, sweet, unctuous, and cooling, indicated for *raktapitta*, fever, thirst, and wasting; *dāḍima* (pomegranate) divides by variety, the sweet alleviating and the sour aggravating; *āmra* (mango) is dosed by ripeness, the unripe aggravating *pitta* and *vāta*, the ripe building tissue and *śukra*; jackfruit and plantain are heavy, bulk-promoting, and *kapha*-increasing. The concord with Caraka Sū. 27 is point for point. (Per-fruit verbatim block extraction from the Bhishagratna text is a pending page-level pass; the summary above states Suśruta's *phala-varga* verdict, not a quotation.)
+
+The two physicians of the *bṛhat-trayī*, working different schools of the same tradition, classify fruit identically: a *materia medica* before it is a food, with *āmalaka* the *rasāyana* exception and *drākṣā* the best-of-class.
+
+## XI. The synthesis — phala is auṣadha; phala is not anna
 
 Two doctrines hold across the Ayurvedic, Yogic, and Vedic corpora. The substance is not inherently food or medicine; the user's discrimination decides into which category it falls (Caraka 1.124–126, 26.12). And the staple of the human body is *anna* — cooked grain — to which fruit is admitted by specific indication, in measure, in season (Caraka 5.12; HYP 1.57; Taittirīya Up. 2.2).
 
