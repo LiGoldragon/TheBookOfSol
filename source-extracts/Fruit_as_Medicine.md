@@ -422,11 +422,34 @@ Fruit is the seasonal food par excellence: each kind ripens in its month and is 
 The *Suśruta Saṃhitā*'s food chapter — *Annapāna-vidhi*, Sūtrasthāna 46 — is the sister of Caraka's Sūtrasthāna 27. It opens with the same framing: the physician who does not understand food cannot maintain health.
 
 > "I am eager to learn of the substances and their specific inherent properties, virtues, potencies and transformations which constitute the daily food of human beings, inasmuch as a physician, who is ignorant of them, is quite helpless in checking or curing any distemper and maintaining health... And since food determines the origin of all created beings, instruct us, O Lord, on the proper regimen of food and drink."\
-> — *Suśruta Saṃhitā*, Sūtrasthāna 46.3–4, trans. Kaviraj Kunjalal Bhishagratna
+> — *Suśruta Saṃhitā*, Sūtrasthāna 46 (the chapter's opening), trans. Kaviraj Kunjalal Bhishagratna
 
-Suśruta's *phala-varga* (fruit group) then places the same fruits in the same registers Caraka uses, and reaches the same verdict: sour fruits are *guru* (heavy) and heating in potency and slow to digest; *āmalaka* (Indian gooseberry) is the foremost fruit — good for the eyes, alleviating all three doṣas, restorative — the same medicinal credential by which Caraka admits it to the daily routine; *drākṣā* (grapes) is the praised fruit, sweet, unctuous, and cooling, indicated for *raktapitta*, fever, thirst, and wasting; *dāḍima* (pomegranate) divides by variety, the sweet alleviating and the sour aggravating; *āmra* (mango) is dosed by ripeness, the unripe aggravating *pitta* and *vāta*, the ripe building tissue and *śukra*; jackfruit and plantain are heavy, bulk-promoting, and *kapha*-increasing. The concord with Caraka Sū. 27 is point for point. (Per-fruit verbatim block extraction from the Bhishagratna text is a pending page-level pass; the summary above states Suśruta's *phala-varga* verdict, not a quotation.)
+Suśruta's *phala-varga* (fruit group) then places the same fruits in the same registers Caraka uses. The general rule for the sour fruits:
 
-The two physicians of the *bṛhat-trayī*, working different schools of the same tradition, classify fruit identically: a *materia medica* before it is a food, with *āmalaka* the *rasāyana* exception and *drākṣā* the best-of-class.
+> "...they are acid in taste and heavy of digestion, heat-making in their potencies, expectorant of Kapha, generate Pitta and subdue the Vayu."\
+> — *Suśruta Saṃhitā*, Sūtrasthāna 46, trans. Kaviraj Kunjalal Bhishagratna
+
+*Āmalaka* is the *tridoṣaghna* exception, exactly as in Caraka:
+
+> "The fruit known as the Amalaka has a taste blended of the sweet, pungent and astringent ones with a shade of the bitter... capable of subduing all the three deranged humours."\
+> — *Suśruta Saṃhitā*, Sūtrasthāna 46, trans. Bhishagratna
+
+*Drākṣā* (grapes) is the praised fruit, its indication-list a near-copy of Caraka's:
+
+> "Grapes are laxative, beneficial to the voice, sweet, demulcent, and cooling in their potency. They prove beneficial in cases of hemoptysis, fever, asthma, thirst, burning sensation of the skin, and consumption."\
+> — *Suśruta Saṃhitā*, Sūtrasthāna 46, trans. Bhishagratna
+
+*Āmra* (mango) is dosed by ripeness, matching Caraka's three-stage verse:
+
+> "An unripe Amra, in its first stage of development, tends to generate the Vayu and Pitta... Ripe amra is pleasant, cosmetic, relishing and tonic, helps the formation of fresh blood, and leaves an astringent after-taste."\
+> — *Suśruta Saṃhitā*, Sūtrasthāna 46, trans. Bhishagratna
+
+*Dāḍima* (pomegranate) divides into two species, the sweet alleviating and the sour aggravating:
+
+> "The Dadima leaves an astringent after-taste and does not generate the Pitta to an inordinate degree. It acts as an appetiser, brings on flesh and a relish for food, is palatable to the taste, and tends to constipate the bowels. Dadimas may be classified into two distinct species according as they are sweet or acid to the taste."\
+> — *Suśruta Saṃhitā*, Sūtrasthāna 46, trans. Bhishagratna
+
+The two physicians of the *bṛhat-trayī*, working different schools of one tradition, classify fruit identically: a *materia medica* before it is a food, with *āmalaka* the *rasāyana* exception and *drākṣā* the best-of-class. The concord is attested even inside the commentary — Cakrapāṇidatta, glossing Caraka's pomegranate verse, quotes Suśruta by name (the sweet *dāḍima* removes all three doṣas, the sour subdues *vāta* and *kapha*).
 
 ## XI. The synthesis — phala is auṣadha; phala is not anna
 
