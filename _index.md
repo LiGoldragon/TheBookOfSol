@@ -19,6 +19,10 @@ Written and compiled by Olivier Francoeur, aka Li Goldragon.
 - [Line of Sight](./sol-luna/Line_of_Sight.md)
 - [Kali Yuga](./sol-luna/Kali_Yuga.md)
 
+## Cosmology & the shape of the world
+
+- [All Instruments Measure a Level Earth](./cosmology/All_Instruments_Measure_a_Level_Earth.md)
+
 ## Chloride & the war on salt
 
 - [Chloridism](./chloride/Chloridism.md)
