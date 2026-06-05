@@ -38,7 +38,7 @@ The image is descent — *ghṛta* flowing downward in rivers from an inmost res
 
 ## II. The Vedic plate is grain, milk, ghee, Soma — not fruit
 
-The Veda's nourishing vocabulary is consistent. *Anna* and *yava* (grain, barley); *kṣīra*, *dadhi*, *ghṛta* (milk, curds, ghee); *soma* (the pressed lunar draught). These are the substances praised, offered, and named as the food of gods and men. *Phala* (fruit) does not appear among them as a staple. The argument from the Vedic corpus is not that the Veda forbids fruit — it is that fruit is simply not in the Vedic food-vocabulary at the level grain and ghee occupy. The plate the Veda assembles is the plate the Yogic and Ayurvedic corpora inherit.
+The Veda's nourishing vocabulary is consistent. *Anna* and *yava* (grain, barley); *kṣīra*, *dadhi*, *ghṛta* (milk, curds, ghee); *soma* (the pressed lunar draught). These are the substances praised, offered, and named as the food of gods and men. *Phala* (fruit) does not appear among them as a staple. The argument from the Vedic corpus is one of absence: fruit is simply not in the Vedic food-vocabulary at the level grain and ghee occupy. The *Atharvaveda* even hands barley the vocabulary of the imperishable — *rise up… be unexhausted, like the ocean* (AV 6.142; see [`../Atharva_Veda/barley-and-grain.md`](../Atharva_Veda/barley-and-grain.md)) — and gives no fruit the like. The plate the Veda assembles is the plate the Yogic and Ayurvedic corpora inherit.
 
 ### Taittirīya Upaniṣad 2.2.1 — anna at the origin (cross-reference)
 

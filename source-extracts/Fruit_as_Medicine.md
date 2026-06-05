@@ -75,35 +75,35 @@ The fruits that escape the default doṣic-aggravation rule are exactly the frui
 
 *Rasa, vīrya, vipāka, prabhāva* — the same four parameters under which Caraka classifies every drug in his pharmacology. *Phala* is admitted to the food groups but is described under the drug parameters. The grammar is the diagnosis.
 
-### Caraka Sū. 27.143 — *drākṣā* (grapes), the indication list reads as a prescription
+### Caraka Sū. 27.125–126 — *drākṣā* (grapes), the indication list reads as a prescription
 
 > "Grapes alleviate thirst, burning sensation, fever, dyspnoea, internal haemorrhage,\
 > wound, wasting, *vāta-pitta*, *udāvarta*, hoarseness of voice, alcoholism,\
 > bitterness in mouth, dryness of mouth and cough\
 > because of being sweet, aphrodisiac, sweet, unctuous and cold."\
-> — *Caraka Saṃhitā*, Sūtrasthāna 27.143, trans. Priya Vrat Sharma
+> — *Caraka Saṃhitā*, Sūtrasthāna 27.125–126, trans. Priya Vrat Sharma
 
 A clinical-indication list. The passage could be lifted into a *cikitsā* chapter without altering its grammar. *Drākṣā* is a drug with an indication panel.
 
-### Caraka Sū. 27.146 — *āmra* (mango), three pharmacological forms
+### Caraka Sū. 27.139 — *āmra* (mango), three pharmacological forms
 
 > "The young fruits of *āmra* (mango) cause internal haemorrhage,\
 > the mature ones aggravate *pitta*\
 > while the ripe ones alleviate *vāyu* and promote muscles, semen and strength."\
-> — *Caraka Saṃhitā*, Sūtrasthāna 27.146, trans. Priya Vrat Sharma
+> — *Caraka Saṃhitā*, Sūtrasthāna 27.139, trans. Priya Vrat Sharma
 
 A single fruit is staged across three developmental forms, each with its own indication and contraindication. Young: *raktapitta*-causing. Mature: *pitta*-aggravating. Ripe: *vāta*-alleviating, tissue-building. Mango is dosed by ripeness as a tincture is dosed by dilution.
 
-### Caraka Sū. 27.156 — *āmalaka*, all rasas except saline
+### Caraka Sū. 27.147 — *āmalaka*, all rasas except saline
 
 > "In *āmalaka*, there are all the *rasas* except *lavaṇa* (saline).\
 > It is rough, sweet, astringent, sour\
 > and excellent alleviator of *kapha* and *pitta*."\
-> — *Caraka Saṃhitā*, Sūtrasthāna 27.156, trans. Priya Vrat Sharma
+> — *Caraka Saṃhitā*, Sūtrasthāna 27.147, trans. Priya Vrat Sharma
 
 The fruit which carries five of six tastes simultaneously is the *rasāyana* fruit — the one Caraka admits to the daily routine (Sū. 5.12) and names elsewhere as best among age-stabilisers (Sū. 25.40). Its admission to the daily plate is its medicinal credential, not its nutritional one.
 
-### Caraka Sū. 27.157 — *dāḍima* (pomegranate), three varieties, three clinical profiles
+### Caraka Sū. 27.149–150 — *dāḍima* (pomegranate), three varieties, three clinical profiles
 
 > "*Dāḍima* (pomegranate), which is sour and astringent-sweet,\
 > alleviates *vāta*, is anti-diarrhoeal, appetiser,\
@@ -111,24 +111,24 @@ The fruit which carries five of six tastes simultaneously is the *rasāyana* fru
 > That which is only sour and rough aggravates *pitta* and *vāta*;\
 > while only sweet alleviates *pitta*.\
 > Out of these (three varieties) the first one (sour-sweet) is the best one."\
-> — *Caraka Saṃhitā*, Sūtrasthāna 27.157, trans. Priya Vrat Sharma
+> — *Caraka Saṃhitā*, Sūtrasthāna 27.149–150, trans. Priya Vrat Sharma
 
 Three cultivars, three pharmacological signatures. The same logic that governs the dispensing of a multi-form drug governs the eating of a pomegranate.
 
-### Caraka Sū. 27.158 — six fruits that "alleviate three doṣas and poison"
+### Caraka Sū. 27.145–146 — six fruits that "alleviate three doṣas and poison"
 
 > "*Nīpa, śatāhvaka, pīlu, ketakī, vikaṅkata* and *prācīnāmalaka* —\
 > these alleviate (three) *doṣas* and poison."\
-> — *Caraka Saṃhitā*, Sūtrasthāna 27.158, trans. Priya Vrat Sharma
+> — *Caraka Saṃhitā*, Sūtrasthāna 27.145–146, trans. Priya Vrat Sharma
 
 The fruits named here are described in exactly the language Caraka uses for *tridoṣaghna* and *viṣaghna* drugs. The verbs are interchangeable with those used in the materia medica chapters (Sū. 1, Sū. 4) — *alleviate doṣas, neutralise poison*. These fruits are pharmacology, named at the moment of description.
 
-### Caraka Sū. 27.158b — *bibhītaka*, by tissue and disease
+### Caraka Sū. 27.148 — *bibhītaka*, by tissue and disease
 
 > "*Bibhītaka* removes the disorders produced in *rasa, rakta, māṃsa* and *medas*,\
 > and alleviates hoarseness of voice, excessive secretion of sputum,\
 > and *paittika* disorders."\
-> — *Caraka Saṃhitā*, Sūtrasthāna 27.158b, trans. Priya Vrat Sharma
+> — *Caraka Saṃhitā*, Sūtrasthāna 27.148, trans. Priya Vrat Sharma
 
 A fruit indexed by *dhātu* (tissue) and by named disease. The structure is the structure of a clinical entry.
 
@@ -163,7 +163,7 @@ The aphoristic anchor for the entire fruit-as-medicine doctrine. Eat all six *ra
 > are explained according to importance."\
 > — *Caraka Saṃhitā*, Sūtrasthāna 25.38, trans. Priya Vrat Sharma
 
-The structure of the verse pairs each food category with its best-of-class. Most categories produce *anna*-class staples — rice, legumes, ginger, sugar. The fruit category produces *drākṣā* — and *drākṣā*'s indication list (Sū. 27.143 above) is a clinical-prescription list. The "best fruit" is the most reliably medicinal one.
+The structure of the verse pairs each food category with its best-of-class. Most categories produce *anna*-class staples — rice, legumes, ginger, sugar. The fruit category produces *drākṣā* — and *drākṣā*'s indication list (Sū. 27.125–126 above) is a clinical-prescription list. The "best fruit" is the most reliably medicinal one.
 
 ### Caraka Sū. 25.39 — *lakuca* as the worst unwholesome among fruits
 
@@ -282,7 +282,7 @@ The classical daily-routine verse names the substances admitted to the everyday 
 > barley, rain water, milk, ghee and honey."\
 > — *Caraka Saṃhitā*, Sūtrasthāna 5.12, trans. Priya Vrat Sharma
 
-The list is the entire Caraka theory of daily eating in one verse. *Ṣaṣṭika, śāli, mudga, yava, dhānya* — five grains. *Kṣīra, sarpis, madhu* — milk, ghee, honey. *Saindhava* — the one salt. *Āmalaka* — the one fruit. Each item earns its place by indication: *saindhava* because it is the only salt that does not damage the eye (AH); *āmalaka* because it is the *rasāyana* (Sū. 25.40, 27.156). The daily plate is grain plus rasāyana plus medicinal salt. Fruit appears once, as the medicinal exception.
+The list is the entire Caraka theory of daily eating in one verse. *Ṣaṣṭika, śāli, mudga, yava, dhānya* — five grains. *Kṣīra, sarpis, madhu* — milk, ghee, honey. *Saindhava* — the one salt. *Āmalaka* — the one fruit. Each item earns its place by indication: *saindhava* because it is the only salt that does not damage the eye (AH); *āmalaka* because it is the *rasāyana* (Sū. 25.40, 27.147). The daily plate is grain plus rasāyana plus medicinal salt. Fruit appears once, as the medicinal exception.
 
 ### Haṭha Yoga Pradīpikā 1.57 — the yogin's food
 
