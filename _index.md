@@ -68,6 +68,7 @@ Written and compiled by Olivier Francoeur, aka Li Goldragon.
 ## Ghee
 
 - [Ghee](./ghee/Ghee.md)
+- [The Guṇas of Ghṛta](./ghee/The_Guṇas_of_Ghṛta.md)
 - [Ghṛta — Golden Magic](./ghee/Ghṛta_Golden_Magic.md)
 - [Universality of Ghee](./ghee/Universality_of_Ghee.md)
 - [Ethical Ghee](./ghee/Ethical_Ghee.md)
