@@ -6,11 +6,11 @@ Fruit accords with human physiology because it is light, hydrating, and low in f
 
 Āyurveda never confused compatibility with exclusivity. It spoke in functions, not dogmas. *What rises must also settle; what clears must also bind.*
 
-> *āhāraḥ prāṇānāṁ mūlam*\
-> *Āhāra is the sustaining support of the vital currents.*\
-> — *Caraka Saṃhitā*
+> "Food is the vital breath of living beings, and so the people rush toward food.\
+> Complexion, voice, life, intelligence, contentment, growth, and strength — all are founded on food."\
+> — *Caraka Saṃhitā*, Sūtrasthāna 27.349–350, trans. after P. V. Sharma
 
-*Āhāra* here means more than "food" in the modern, mechanical sense. It signifies that which upholds *prāṇa* (the vital breath, the principle of animation): breath, warmth, fluid, rhythm, substance. Food is one expression of *āhāra*. Breath remains primary; intake is secondary. Nourishment is achieved by what can be transformed, retained, and circulated. Where assimilation fails, abundance is meaningless.
+*Āhāra* — the word the verse renders as "food" — means more than "food" in the modern, mechanical sense. It signifies that which upholds *prāṇa* (the vital breath, the principle of animation): breath, warmth, fluid, rhythm, substance. Food is one expression of *āhāra*. Breath remains primary; intake is secondary. Nourishment is achieved by what can be transformed, retained, and circulated. Where assimilation fails, abundance is meaningless.
 
 ## On Fruit and Poison
 
@@ -24,9 +24,10 @@ This matters because fruitarian ideology treats fruit as inherently benign, even
 
 The yogic texts state the hierarchy without ambiguity. They do not deny food; they subordinate it.
 
-> *kṣutpipāsā kṣayaṁ yāti*\
-> *Hunger and thirst come to cessation.*\
-> — *Haṭha Yoga Pradīpikā*
+> **kaṇṭhakūpe kṣutpipāsānivṛttiḥ**
+>
+> "By focused stillness on the pit of the throat, hunger and thirst come to cessation."\
+> — *Yoga Sūtra* 3.31
 
 The verse describes refined physiology. When internal circulation and retention are stabilized, dependence on external intake diminishes. Breath, heat, and conserved fluid assume command. Food becomes *support* rather than compensation.
 

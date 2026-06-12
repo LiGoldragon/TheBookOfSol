@@ -1,166 +1,144 @@
 # Yogis Don't Eat Fruit
 
-## On the Modern Confusion Between Clearing and Sustaining
+## The modern confusion between clearing and sustaining
 
-Somewhere in the last half-century, a story took hold in the Western understanding of yoga: that the yogi lives on fruit, that higher practice means lighter food, that lightness means raw and sweet and cold and uncooked, that the endpoint of spiritual refinement is a bowl of mango.
+Somewhere in the last half-century a story took hold in the Western picture of yoga: that the yogi lives on fruit, that higher practice means lighter food, that lightness means raw and sweet and cold and uncooked, and that the end of spiritual refinement is a bowl of mango. Every classical text describes a different plate. The yogin's food is *anna* (grain cooked soft in water), finished with *ghṛta* (clarified butter).
 
-Every classical text describes a different plate. The yogin's food is *anna* — grain cooked soft in water, finished with ghee.
+The categories matter, because the tradition keeps them apart. *Anna* is grain. *Phala* is fruit. *Śāka* is vegetable. The texts assign each a different role and a different measure: *anna* at the centre of the daily plate, fruit at its medicinal edge, vegetables under careful management. The fruitarian collapses the three into one and eats the medicine as though it were the meal.
 
-### What the Texts Actually Say
+## What the texts actually say
 
-The Haṭha Yoga Pradīpikā, the most widely cited manual of haṭha yoga practice, states its dietary instruction without ambiguity:
+The *Haṭha Yoga Pradīpikā*, the most widely used manual of haṭha practice, gives the yogin's food by name. Its list of wholesome food is grain and the foods that bind to grain: wheat, rice, barley, milk, ghee, raw sugar, butter, honey, dry ginger, and mung *dāl* (split mung beans). Its list of food to avoid opens with the rough tastes — bitter, sour, pungent, salty — and runs on to raw greens, sour gruel, alcohol, fish, flesh, curds, and reheated or stale food. Jujube is prohibited outright. Fruit appears nowhere on the recommended list.
 
-> **hitaṁ mitaṁ ca bhoktavyaṁ annaṁ yogārthinā sadā**
+When the same text fixes the right measure of eating, it names two qualities, and neither is the quality of fruit:
+
+> **susnigdha-madhurāhāraś caturthāṃśa-vivarjitaḥ**\
+> **bhujyate śiva-samprītyai mitāhāraḥ sa ucyate**
 >
-> "The yogin should always eat wholesome anna in measured quantity."\
-> — *Haṭha Yoga Pradīpikā* 1.57
+> "Food that is unctuous and sweet, leaving a fourth of the stomach empty,\
+> eaten as an offering to please Śiva — this is measured eating."\
+> — *Haṭha Yoga Pradīpikā* 1.58
 
-The word is *anna* — a technical term with a fixed referent across the entire Sanskrit corpus: grain, specifically grain cooked in water. The category is precise: *anna* (grain), distinct from *phala* (fruit) and *śāka* (vegetable).
+The two words are *snigdha* (unctuous, oily, lubricating) and *madhura* (sweet). Ghee is *snigdha*; grain cooked with ghee is *snigdha* and *madhura* together. Fruit is *madhura* but watery, carrying sweetness without unction. It meets one of the two marks, and the yogic meal is built on both.
 
-The Taittirīya Upaniṣad traces the origin of the human being through anna:
+The *Gheraṇḍa Saṃhitā* opens its own food list with rice, barley bread, wheat bread, and legumes, and gives ghee, butter, and milk a prominent place. Named fruits — plantain, pomegranate, grapes, *āmalaka*, dates — arrive later, seasonal and secondary, taken in measure. Across both of its great manuals the Yogic corpus prescribes the same plate: the body of the meal is grain and ghee, and fruit is an accessory admitted by name and by season.
 
-> **oṣadhībhyo'nnam. annāt puruṣaḥ.**
+## Anna at the origin
+
+Behind the Yogic food rule stands the older Vedic doctrine, which traces the human being itself to *anna*.
+
+> **oṣadhībhyo'nnam | annāt puruṣaḥ**
 >
-> "From plants arises anna. From anna arises the human being."\
+> "From plants arises anna; from anna, the human being."\
 > — *Taittirīya Upaniṣad* 2.2.1
 
-The body itself is described as *anna-rasa-mayaḥ* — made of the essence of anna. The same section concludes: *"annaṁ brahma iti vyajānāt"* — he realized anna as Brahman. This is metaphysics anchored in agriculture. The text does not gesture toward orchards; it grounds embodiment in cultivated grain and its transformation through fire and water.
+The *Taittirīya Upaniṣad* makes the body a product of grain. The self closest to the surface is the *annarasamaya ātman*, the self formed from the essence of food, and the rule that follows it is reverence:
 
-The *Haṭha Yoga Pradīpikā* lists the foods suitable for the yogin: wheat, rice, barley, milk, ghee, sugar, honey, dry ginger, mung dāl. It lists the foods to be avoided: bitter, sour, pungent, and salty foods; certain green vegetables; sour gruel; alcohol; fish; flesh; curds; reheated food; food that is dry, excessively salty, or stale. Jujube is explicitly prohibited. Fruit is absent from the recommended list.
-
-The *Gheraṇḍa Saṃhitā* opens its food list with rice, barley bread, wheat bread, and legumes. Ghee, butter, and milk appear prominently. Specific fruits appear later, seasonal and secondary — plantain, pomegranate, grapes, *āmalaka*, dates — accessory items, taken occasionally, in measured quantity.
-
-That fruit belongs to its season is a rule with teeth. The *Caraka Saṃhitā* counts eating against the season — *kāla-viruddha*, antagonism of time — among its named categories of incompatible food (*viruddha-āhāra*), set beside the antagonism of fish taken with milk: food eaten outside its proper time is classed not as neutral but as a cause of disease (*Caraka Saṃhitā*, Sūtrasthāna 26). A fruit in its month is medicine. The same fruit shipped across the world and eaten in the wrong season is, in the text's own term, *viruddha*.
-
-The Caraka Saṃhitā defines the baseline with clinical directness:
-
-> **yavāgūḥ sarva-rogeṣu pathyā**
+> **annaṃ na nindyāt | tad vratam | ... anna-rasa-mayo 'yam ātmā**
 >
-> "Grain gruel is wholesome in all conditions."\
-> — *Caraka Saṃhitā*, Cikitsāsthāna 1
+> "One should not despise food; that is the rule. ... This self is made of the essence of anna."\
+> — *Taittirīya Upaniṣad* 2.1, trans. after Olivelle
 
-Yavāgū, peya, vilēpī — grain dissolved into water by prolonged cooking. This is the food to which the system always returns when clarity, digestion, and stability are required: soft grain in warm water, finished with ghee.
+The chain is anatomical. From cooked grain the body distils *rasa* (the first nutritive fluid, the plasma into which digested food becomes tissue); from *rasa* the further tissues; from those, at the last, *ojas* (the refined essence of vitality) and *prāṇa* (the vital breath). The Upaniṣad closes the ascent at its summit:
 
-The Buddha himself, after abandoning starvation asceticism, restored his strength through rice gruel — and from that restoration, attained enlightenment. The Vinaya names boiled rice and rice gruel as the default sustenance of monks. These are anna, not symbol.
-
-### What the Gītā Requires
-
-The Bhagavad Gītā describes sāttvic food in terms that structurally exclude a fruit-based diet:
-
-> **āyuḥ-sattva-balārogya-sukha-prīti-vivardhanāḥ rasyāḥ snigdhāḥ sthirā hṛdyā āhārāḥ sāttvika-priyāḥ**
+> **annaṃ brahmeti vyajānāt**
 >
-> "Foods that increase life, clarity, strength, health, happiness, and satisfaction — that are juicy, unctuous, substantial, and agreeable — are dear to those in sattva."\
+> "He knew anna as Brahman."\
+> — *Taittirīya Upaniṣad* 2.2.4
+
+The metaphysical equation rests on *anna*. The most-cited Upaniṣadic line on the food-foundation of being names that foundation as the same substance the *Haṭha Yoga Pradīpikā* sets at the centre of the yogin's plate.
+
+The *Caraka Saṃhitā*, the foundational text of Āyurveda, says the same from the physician's side. Food is the vital breath, and everything the body becomes is founded on it:
+
+> "Food is the vital breath of living beings, and so the people rush toward food.\
+> Complexion, voice, life, intelligence, contentment, growth, and strength — all are founded on food."\
+> — *Caraka Saṃhitā*, Sūtrasthāna 27.349–350, trans. after P. V. Sharma
+
+When Caraka names the substances admitted to the daily routine, the list is grain, milk, ghee, honey, one salt, and one fruit: *āmalaka*, admitted as the *rasāyana* (rejuvenative), the medicinal exception (Sūtrasthāna 5.12). Grain at the centre, fruit at the medicinal edge. The two corpora converge on the same staple at the same word.
+
+## Fruit belongs to its season
+
+That fruit ripens in its month and is gone is, in the classical view, a rule of intake rather than a casual fact. The *Caraka Saṃhitā* counts eating against the season — *kāla-viruddha*, the antagonism of time — among its named categories of incompatible food (*viruddha-āhāra*), set beside the antagonism of fish taken with milk. Food eaten outside its proper time is itself classed as a cause of disease (Sūtrasthāna 26). A fruit in its month is medicine. The same fruit shipped across the world and eaten in the wrong season is, in the text's own term, *viruddha*. The modern supply chain, delivering every fruit in every month, is a standing violation of *kāla* (time).
+
+## What the Gītā requires
+
+The *Bhagavad Gītā* describes the food of *sattva* (the quality of clarity, light, and steadiness) in terms that exclude a fruit-based diet by their plain sense.
+
+> **āyuḥ-sattva-balārogya-sukha-prīti-vivardhanāḥ**\
+> **rasyāḥ snigdhāḥ sthirā hṛdyā āhārāḥ sāttvika-priyāḥ**
+>
+> "Foods that increase life, clarity, strength, health, happiness, and satisfaction —\
+> juicy, unctuous, substantial, and agreeable — are dear to those in sattva."\
 > — *Bhagavad Gītā* 17.8
 
-Two words decide the matter: **snigdha** and **sthira**.
+Two words decide the matter. *Snigdha* (unctuous) is the quality of ghee, milk, and grain cooked with ghee. *Sthira* (stable, substantial, enduring) is the quality of food that settles, stays, and becomes tissue. Fruit is *rasya* (juicy) and light, and it answers neither *snigdha* nor *sthira*. It clears and disperses, satisfies for an hour, and leaves the organism reaching for more — the signature of *rajas* (the quality of restless motion), which the same chapter assigns to the sour, sharp, dry, and burning foods.
 
-Snigdha means unctuous, oily, lubricating — the quality of ghee, milk, and grains cooked with ghee. Fruit is light, watery, and dispersing. It does not meet the mark.
-
-Sthira means stable, substantial, enduring. Grain cooked soft in water settles, stays, becomes tissue. Fruit moves upward and outward, clears and disperses, then is gone.
-
-A diet of fruit fails the *Gītā*'s definition of sāttvic food. It clears without binding. It rises without settling. It satisfies momentarily and leaves the organism reaching for more — the signature of *rajas*.
-
-The Gītā does not stop at the quality of the food. It conditions the practice itself on the measure of the eating.
+The Gītā then conditions the practice itself on the measure of the eating.
 
 > **nātyaśnatas tu yogo'sti na caikāntam anaśnataḥ**\
-> **na cātisvapnaśīlasya jāgrato naiva cārjuna**
+> **na cātisvapnaśīlasya jāgrato naiva cārjuna**\
+> **yuktāhāra-vihārasya yukta-ceṣṭasya karmasu**\
+> **yukta-svapnāvabodhasya yogo bhavati duḥkha-hā**
 >
 > "Yoga is not for one who eats too much, nor for one who eats too little;\
 > nor for one given to too much sleep, nor for one always awake, Arjuna.\
-> For one measured in food and in rest, measured in his effort at work,\
-> measured in sleep and waking — for him yoga becomes the destroyer of sorrow."\
+> For one measured in food and recreation, measured in effort at work,\
+> measured in sleep and waking, yoga becomes the destroyer of sorrow."\
 > — *Bhagavad Gītā* 6.16–17
 
-The yogin is the *yuktāhāra* — the measured eater. Fruit is the food of the *atyaśnat*, the one who eats too much: it digests in an hour and returns the body to hunger, and the hunger is answered with another mango, and the cycle is the opposite of measure. The Gītā's verdict on that cycle is flat. For the one who eats too much, there is no yoga.
+The yogin is the *yuktāhāra*, the measured eater. Fruit digests in an hour and returns the body to hunger, and the hunger is answered with another mango, and the cycle is the opposite of measure. For the one given to that cycle, the verse is flat: there is no yoga.
 
-### The Solar Excess
+## The solar excess
 
-The fruitarian has plenty of solar force. Fruit *is* solar — clearing, rising, dispersing, refining. So is *śivāmbu* (one's own water, taken as practice). So is fasting. These are solar acts. They purify, burn upward, strip away what does not belong. The fruitarian is drenched in solar force, and the lunar pillar is empty.
+Fruit is solar. It clears, rises, disperses, and refines. So is *śivāmbu* (one's own water, taken as practice); so is fasting. These are solar acts — they purify, burn upward, and strip away what does not belong. The fruitarian is drenched in solar force, and the lunar pillar stands empty.
 
-Ghee is lunar. It descends. It binds. It coats. It builds. It gathers what the solar dispersed and holds it in place. It produces *ojas* — the quiet, stable, unctuous reserve the organism draws on between meals, between breaths, between thoughts. Without the lunar pillar, the solar force has nothing to refine *into*. It clears and clears and clears, and when nothing remains to clear, it begins to consume the structure itself.
-
-The naming is old. The Ṛgveda's hymn to *ghṛta* watches the clarified butter rise from the cosmic ocean as the wave of sweetness that turns to the deathless:
+Ghee is lunar. It descends, binds, coats, and builds. It gathers what the solar disperses and holds it in place, and it produces *ojas*, the quiet, stable reserve the organism draws on between meals, between breaths, between thoughts. Without the lunar pillar the solar force has nothing to refine into; it clears and clears, and when nothing remains to clear it begins to consume the structure itself. The naming is old. The *Ṛgveda*'s hymn to *ghṛta* watches the clarified butter rise from the cosmic ocean as the wave of sweetness that turns to the deathless:
 
 > **ghṛtasya nāma guhyaṁ yad asti jihvā devānām amṛtasya nābhiḥ**
 >
-> "That which is the secret name of *ghṛta* is the tongue of the gods, the navel of *amṛta* — the immortal."\
+> "That which is the secret name of ghṛta is the tongue of the gods, the navel of amṛta — the immortal."\
 > — *Ṛgveda* 4.58.1, trans. after Griffith
 
-*Ghṛta* is *amṛta* the body can eat, the one terrestrial form of the nectar the Veda names. The fruitarian, refusing the lunar fat, keeps only the solar half of a practice the tradition built from two.
+*Ghṛta* is *amṛta* (the nectar of immortality) in the one form the body can eat. The fruitarian, refusing the lunar fat, keeps only the solar half of a practice the tradition built from two. *Śivāmbu* and fruit occupy the same pillar, and adding more *śivāmbu* to a fruit diet deepens the imbalance rather than correcting it. Two solar forces do not produce a lunar effect. What the fruitarian needs is the moon, and the moon in its most concentrated terrestrial form is ghee.
 
-This is why the fruitarian arc always ends the same way. The fruit did exactly what fruit does — it cleared. The problem is that nothing followed the clearing. No ghee descended to rebuild what was stripped. No sneha arrived to coat the dried channels. No lunar warmth settled into the tissues to restore what the solar fire had burned through. The organism was purified into emptiness.
+## And neither do they eat salad
 
-Śivāmbu and fruit occupy the same pillar. Adding more śivāmbu to a fruitarian diet does not correct the imbalance — it deepens it. Two solar forces do not produce a lunar effect. What the fruitarian needs is the moon. And the moon, in its most concentrated terrestrial form, is ghee.
+The same confusion that raised fruit to a yogic food has done the same for vegetables, and the modern image of the spiritual eater is now a person surrounded by greenery — enormous salads, green juices, raw kale. The tradition gives no warrant for it. The *Haṭha Yoga Pradīpikā* lists certain green vegetables among the foods to avoid. The *Caraka Saṃhitā* classifies vegetables with relentless specificity: this one aggravates *vāta* (the principle of movement, dry and cold), that one blocks the channels, this one is heavy and distending, that one provokes *kapha* (the principle of cohesion). Heavy vegetables, the text says, are to be boiled, their juice pressed out, and ghee added to what remains — boil the vegetable, discard most of its substance, bind the rest with fat.
 
-The two pillars — solar and lunar, plasma and ghee, clearing and binding — must stand together. A practice built on one pillar alone is a roof with no wall. It will hold for a time, and then it will fall.
-
-### And Neither Do They Eat Salad
-
-The same confusion that elevated fruit to a yogic food has done the same to vegetables. The modern image of the spiritual eater is a person surrounded by greenery — enormous salads, green juices, steamed vegetable plates, bowls of raw kale. The tradition gives no warrant for it.
-
-The *Haṭha Yoga Pradīpikā* lists certain green vegetables among foods to be avoided. The *Caraka Saṃhitā* classifies vegetables with relentless specificity: this one aggravates *vāta*, that one blocks the channels, this one is heavy and distending, that one provokes *kapha*. Mustard greens "aggravate three doṣas." Lotus stalks are "heavy, distending and cold." *Keluta*, *kadamba*, and *ainduka* are "heavy, cold and channel-blocking." Water lily stalks "aggravate kapha and vāta." Heavy vegetables must be "boiled, the juice expressed out, and added with fat before intake" — the text instructing the cook to boil the vegetable, discard most of its substance, and add ghee to what remains.
-
-This is a food group being managed.
-
-When the classical texts mention vegetables in the context of the yogin's diet, the pattern is consistent: a single vegetable, chosen for a specific corrective purpose, taken sparingly. *Paṭola* for its bitter quality when *pitta* needs clearing. *Guḍūcī* leaf for its cooling action. *Śigru* for its sharpness when *kapha* is heavy. One vegetable, one purpose, one occasion.
-
-The yogin takes a vegetable the way he takes a medicine: specific, sparse, selected for what his constitution requires at that moment. The rest of the time, the plate holds *anna*, ghee, and warm water.
-
-The *Caraka Saṃhitā*'s highest praise is reserved for grains, ghee, and milk. *Śāka* receives qualified, conditional, often cautionary description. It is tolerated, sometimes corrective, frequently heavy, kept apart from the category of daily sustenance.
-
-The modern raw plate compounds the error. The salad, the green juice, the raw-vegan bowl take the vegetable the texts said to boil, press, and butter, and serve it cold, dry, and uncooked — the inverse of the instruction on every count. The first law of the pharmacology is that like increases like; a substance builds in the body whatever quality it carries (*Caraka Saṃhitā*, Sūtrasthāna 1, the *sāmānya-viśeṣa* principle). Raw, cold, dry, and rough, the salad and the juice carry the signature qualities of *vāta* — *rūkṣa* (dry), *śīta* (cold), *laghu* (light) — and a diet built on them raises *vāta* by the same law that a diet of grain and ghee settles it. Caraka states the consequence directly. The dry, rough quality, taken alone and in excess —
+The first law of the pharmacology is that like increases like: a substance builds in the body whatever quality it carries (*Caraka Saṃhitā*, Sūtrasthāna 1, the *sāmānya-viśeṣa* principle). Raw, cold, dry, and rough, the salad and the juice carry the signature qualities of *vāta* — *rūkṣa* (dry), *śīta* (cold), *laghu* (light) — and a diet built on them raises *vāta* by the same law that a diet of grain and ghee settles it. Caraka states the consequence directly:
 
 > **raukṣyāt khara-viṣada-svabhāvāc ca rasa-rudhira-māṃsa-medo-'sthi-majjā-śukrāṇy ucchoṣayati srotasāṃ kharatvam upapādayati**
 >
-> "by its dryness and its rough, scouring nature, dries up the body's tissues — plasma, blood, flesh, fat, bone, marrow, and semen; roughens the channels; takes away strength; emaciates; and gives rise to the disorders of *vāta*."\
+> "By its dryness and its rough, scouring nature it dries up the tissues — plasma, blood, flesh, fat, bone, marrow, and seed — roughens the channels, takes away strength, emaciates, and gives rise to the disorders of vāta."\
 > — *Caraka Saṃhitā*, Sūtrasthāna 26.43
 
-The green juice removes even what the salad keeps. It strips the chewing, the warmth, and the fibre, and delivers the cold, dispersing essence undiluted. The fire that should have met cooked food meets it raw, so the cooking that skipped the kitchen is demanded of the belly — and what the belly cannot finish becomes *āma*, the undigested residue the classical texts name as the seed of disease.
+The green juice removes even what the salad keeps. It strips the chewing, the warmth, and the fibre and delivers the cold, dispersing essence undiluted. The fire that should have met cooked food meets it raw, so the cooking that skipped the kitchen is demanded of the belly, and what the belly cannot finish becomes *āma* (the undigested residue the texts name as the seed of disease). The raw regimen is the fruitarian error in a second key: the dispersing principle again, the gathering one again absent.
 
-This is the diet yoga excludes by name. The *Haṭha Yoga Pradīpikā*'s list of foods unfit for the yogin opens with raw greens — *harita-śāka* — and the plate it prescribes instead is *snigdha* and *madhura*: unctuous and sweet, cooked grain finished with ghee. A practice that depends on a kindled *agni* and a settled *vāta* cannot be built on the food that scatters both. The raw-food regimen is the fruitarian error in a second key — the dispersing principle again, the gathering one again absent.
+## The fruitarian arc
 
-### What Happens to People Who Try
+The course of an exclusive fruit diet runs the same way each time, and the texts described it before there was a name for it.
 
-The arc is consistent and well-documented.
+The first weeks bring exhilaration. Lightness increases, perception sharpens, digestion seems effortless, the skin clears, a chronic heaviness lifts. This is the experience of clearing — the removal of accumulated burden and *kapha* congestion — and it is real. The room swept clean still needs a floor.
 
-The first weeks of a fruit-only diet produce exhilaration. Lightness increases, perception sharpens, digestion seems effortless, skin clears, chronic heaviness lifts. This is the experience of clearing — the removal of accumulated burden, chloride residue, sulphur sludge, and *kapha* congestion. The body, relieved of what oppressed it, responds with gratitude.
+Within months the dispersion that clarified begins to destabilize. Internal fluids thin, lubrication is lost, the colon dries. *Vāta* rises: anxiety, insomnia, restlessness, racing thought, cold extremities, constipation that arrives as the breakdown of peristaltic coordination. *Ojas* depletes. The organism, having expelled its burdens, begins to expel its reserves.
 
-The error is in mistaking this relief for the permanent state. Clearing is one phase. The room swept clean still needs a floor.
+The texts foresaw the mechanism. Caraka's doctrine of taste holds that even the most prized *rasa*, eaten alone and in excess, breeds disease: *madhura*, the sweet taste of fruit, eaten singly and chronically brings heaviness, loss of appetite, and the weakening of *agni* (the digestive fire), and a diet of one taste debilitates by the same rule that a diet of all six tastes strengthens (Sūtrasthāna 26). The per-fruit catalogue carries the same caution — most fruits are *guru* (heavy), distending, or *doṣa*-aggravating, and the text assumes them cooked, pressed, and bound with ghee, never eaten raw and alone in volume. The fruit did exactly what fruit does: it cleared. Nothing followed the clearing. No ghee descended to rebuild what was stripped, no *sneha* (unctuous substance) arrived to coat the dried channels, no lunar warmth settled into the tissues. The fruitarian diet is a path to depletion that passes through clarity on the way down.
 
-Within months, the dispersion that clarified now destabilizes. Internal fluids thin. Lubrication is lost. The colon dries. *Vāta* rises — anxiety, insomnia, restlessness, racing thoughts, cold extremities, constipation that arrives as the breakdown of peristaltic coordination. *Ojas* depletes. The organism, having expelled its burdens, begins to expel its reserves.
+## Why the myth persists
 
-The Caraka Saṃhitā classifies most fruits as guru (heavy), ādhmāna (distending), or doṣa-aggravating. Sweet fruits aggravate kapha. Sour fruits aggravate pitta. Astringent fruits aggravate vāta. Mango, when young, causes internal haemorrhage. Bilwa, when ripe, "is digested with difficulty, causes doṣas and flatus with foul smell." Jackfruit, plantain, and rājadana are "heavy." Ankola "aggravates kapha, is heavy, distending and diminishes agni." Fig-family fruits "aggravate vāta and are heavy." The text assumes cooking, pressing, and the addition of ghee — never raw consumption.
+The myth persists because the clearing phase feels divine, and because a Western yoga culture that lost contact with the textual tradition filled the gap with a Californian aesthetic — raw, bright, tropical, photogenic. The smoothie bowl replaced the *vilepī* (thin grain gruel), the açaí replaced the *yavāgū*, the photograph replaced the *Pradīpikā*. No teacher of a major lineage has ever advocated fruitarianism. The traditional yogic diet across the lineages centres on grain, ghee, milk, and *dāl*, with a specific leaf or herb taken occasionally as a corrective and a seasonal fruit in its month. That diet sustains clarity, *ojas*, and *agni* at once, the three conditions practice requires. Fruitarianism sustains none of them. It clears *kapha* at the cost of *ojas*, sharpens perception at the cost of stability, and lightens the body at the cost of the substance the body is made of.
 
-This is clinical observation accumulated over millennia.
+## The yogic food
 
-Modern observation corroborates what the texts already knew. A strict fruitarian was admitted to a psychiatric unit with agitation, delusions, apathy, and memory collapse — his mind dissolved by the very diet he believed was purifying it. He recovered when he ate real food again. An actor who adopted Steve Jobs' fruitarian diet for a film role was hospitalized with pancreatitis before shooting began — his pancreas rebelled against the flood of sugar within weeks. Jobs himself, the most famous fruitarian of the modern era, died of pancreatic cancer — disease in the organ most burdened by the diet he championed for decades. A nine-month-old girl died wasted and starving after being fed only fruit by her parents.
+The yogic food is *anna*: grain cooked soft in ample water and finished with ghee. *Vilepī*, *peyā*, *yavāgū* — grain dissolved into water by long cooking, the food to which the system returns whenever clarity, digestion, and stability are needed. It is warm, unctuous, stable, assimilable, and quiet; it sits in the belly like a warm hand and lets the practitioner forget about food, which is the whole point. The measure is fixed, and the *Gheraṇḍa Saṃhitā* makes its absence the disqualifier of practice:
 
-Teeth dissolve. Agni collapses. Ojas drains. Tissue wastes. The mind dims. The fruitarian diet is a path to depletion that passes through clarity on the way down.
-
-### Why the Myth Persists
-
-The myth persists because the clearing phase feels divine. And because Western yoga culture, having lost contact with the textual tradition, filled the gap with a Californian aesthetic: raw, bright, tropical, photogenic. The smoothie bowl replaced the vilēpī. The açaí replaced the yavāgū. Instagram replaced the Pradīpikā.
-
-No major yoga teacher — not Sivananda, not Vivekananda, not Vishnudevananda — has ever advocated fruitarianism. The traditional yogic diet across all lineages centers on grains, ghee, milk, and dal — with a specific herb or leaf taken occasionally as corrective, and a seasonal fruit when appropriate. This is the diet that sustains clarity, ojas, and agni simultaneously — the three conditions required for practice.
-
-Fruitarianism sustains none of these. It clears *kapha* at the cost of *ojas*, sharpens perception at the cost of stability, lightens the body at the cost of the substance the body is made of. It trades *sthira* for *vega* — stillness for momentum — which inverts what yoga requires.
-
-### The Yogic Food
-
-The yogic food is *anna*. Grain cooked soft in ample water, finished with ghee. *Vilēpī*. *Peya*. *Yavāgū*. Warm, unctuous, stable, assimilable, quiet. It sits in the belly like a warm hand and lets the practitioner forget about food entirely, which is the whole point.
-
-> **mitāhāraṁ vinā yastu yogārambhaṁ tu kārayet nānā-rogo bhaved tasya kiñcid yogo na sidhyati**
+> **mitāhāraṃ vinā yas tu yogārambhaṃ tu kārayet**\
+> **nānā-rogo bhaved tasya kiñcid yogo na sidhyati**
 >
-> "Without moderate diet, whoever begins yoga practice will acquire various diseases and will not succeed in yoga."\
-> — *Haṭha Yoga Pradīpikā* 1.15
+> "Without measured diet, whoever takes up the practice of yoga\
+> falls into various diseases, and no yoga succeeds for him."\
+> — *Gheraṇḍa Saṃhitā* 5.16
 
-Moderate diet. *Mitāhāra*. Half the stomach with food, one quarter with water, one quarter with air. The food is *anna* — grain, ghee, milk, *dāl*. The quantity is moderate. The temperature is warm. The texture is soft. The taste is mild. The effect is stability.
-
-> **annaṁ brahma iti vyajānāt**
->
-> "He realized anna as Brahman."\
-> — *Taittirīya Upaniṣad* 2.2.4
-
-The yogi eats grain. The yogi drinks warm water. The yogi takes ghee. The yogi sits in stillness, and the stillness is possible because the body is not chasing sugar, not compensating for dispersion, not seeking the next mango to replace the one that already left.
+*Mitāhāra* (measured eating) fills half the stomach with food, a quarter with water, and leaves a quarter for air. The food is *anna* — grain, ghee, milk, *dāl*; the quantity is moderate, the temperature warm, the texture soft, the effect stability. The yogi eats grain, drinks warm water, takes ghee, and sits in stillness, and the stillness is possible because the body is not chasing sugar, not compensating for dispersion, not reaching for the next mango to replace the one that already left.
 
 The floor is built before the room is swept. *Anna* is the floor. Fruit is the broom. A broom is useful. No one lives on a broom.
