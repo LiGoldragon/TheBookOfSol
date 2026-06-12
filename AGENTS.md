@@ -101,6 +101,10 @@ Exceptions where "sodium" may remain:
 
 Do not write in terms of "vitamins," "minerals," "protein," "micronutrients," or similar reductionist nutritional categories. Use Āyurvedic terms: *rasa, vīrya, vipāka, prabhāva, ojas, prāṇa, tejas, agni, doṣa* (*vāta, pitta, kapha*), *guṇa* (*sattva, rajas, tamas*). Explain in those terms what the modern language flattens.
 
+### Word choice must honour the doṣa and guṇa symbology
+
+When praising a substance for what it corrects, never describe its action with a word that names the quality it opposes. Ghṛta calms *vāta* because it is *snigdha* (unctuous) and *guru* (settling): it moistens and grounds vāta's dry, mobile nature, so it *settles* agitation — it does not "dry" it. A remedy for *pitta* cools and sweetens; it does not "heat" or "sharpen." A remedy for *kapha* lightens and kindles; it does not "thicken" or "damp." Match the verb and the adjective to the *guṇa* the substance adds, not the one it removes. Naming an aggravating quality (*dryness, heat, depletion*) as the *condition being remedied* is correct; naming it as the *substance's action* inverts the doctrine. The same holds for Vedic symbology: ghee is lunar — descending, gathering, binding — and its action-words should run with that current, not against it (scattering, parching, lightening). When unsure, name the guṇa the substance carries (*snigdha, śīta, madhura, guru*) and let the verb follow from it.
+
 ### Earth is not a planet
 
 Do not refer to Earth as a "planet" in astronomical or astrological contexts. Use "universal," "worldwide," "terrestrial," or simply "Earth." Earth has a different structural role in the solar framework this project works within than the five visible planets do.
