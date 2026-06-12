@@ -3,12 +3,12 @@ title: Ghee
 subtitle: The Navel of Immortality
 kind: article
 publish: true
-banner_image: generated-images/ghee-banner.png
+banner_image: generated-images/ghee-banner-v2.png
 ---
 
 # Ghee
 
-![A bronze bowl of radiant ghee flowing as golden light between a ghee lamp, palm-leaf manuscript, moon, and sunrise.](../generated-images/ghee-banner.png)
+![A dark alchemical plate with a golden ghṛta vortex branching toward lunar, flame, eye, and mind symbols.](../generated-images/ghee-banner-v2.png)
 
 ## *The Navel of Immortality*
 
