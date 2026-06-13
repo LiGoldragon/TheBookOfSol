@@ -106,6 +106,8 @@ The yogic register converges:
 
 The two adjectives that describe the yogic plate are *snigdha* (unctuous) and *madhura* (sweet). Raw vegetables are rarely *snigdha*; they carry water, not unctuosity. Cooked grain finished with *ghṛta* is the canonical *snigdha-madhura* preparation. The yogic body is fed by what the stove has prepared.
 
+This is an argument for cooking the staple, not a rule that nothing may be eaten raw. The tradition keeps a short list of things taken uncooked by design, and it guards them. Honey is the strict case: Caraka forbids heating it — "honey, if heated, becomes fatal due to its association with poisons" (Sū. 27.243–246) — so the sweet the corpus most prizes is the one it insists stay raw. Ripe fruit in season is eaten raw by indication; fresh buttermilk, curd, and butter are taken uncooked. The fire belongs to the *staple* — the grain, the heavy, the unripe. What the texts refuse is the inversion that makes the raw plate the staple and the cooked grain the exception.
+
 ## The Hidden Fear — Fear of Tapas
 
 The fruitarian and raw-food movements present themselves as paths of purity. They invert the classical position on cooking, but they keep the classical vocabulary — purity, lightness, vitality, sattva, prāṇa. The vocabulary does the rhetorical work the substance no longer can.

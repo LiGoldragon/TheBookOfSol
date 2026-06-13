@@ -91,7 +91,7 @@ Raw plant tissue does not become *rasa* — the first nutritive juice from which
 
 The consequence is measured, not merely predicted. In the largest cohort of long-term raw-food eaters, the harm tracked the rawness of the diet: body weight fell by an average of ten to twelve kilograms, and about a third of the women under forty-five lost menstruation, most severely among those eating the highest proportion of raw food (Koebnick et al., 1999; full record in [The Harm in the Clinical Record](../source-extracts/Raw_Vegan_Fruitarian_Harm.md)).
 
-*Vegan* as *vegetal* is a sound reclamation; *vegan* as *raw* is where the vegetal stops giving life. The plant enlivens — once it has passed through fire.
+The one vegetal thing the corpus does eat raw is ripe fruit in season, taken by indication and in measure — medicine, not staple. *Vegan* as *vegetal* is a sound reclamation; *vegan* as *raw staple* is where the vegetal stops giving life. The plant enlivens once it is cooked, or eaten ripe and in season as the texts allow — not raw, cold, and relied upon as the daily floor.
 
 ## 8. Conclusion
 

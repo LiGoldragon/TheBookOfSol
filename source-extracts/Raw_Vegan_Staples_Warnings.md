@@ -54,6 +54,8 @@ Beneath every item sits one rule that condemns the mode itself, not the food. Th
 
 The full account — *agni* as transformer, the body as a cooking vessel, raw input as the producer of *āma* (the undigested residue that is the material basis of disease) — is gathered in [*Cooking and Agni*](./Cooking_and_Agni.md). The raw-vegan plate is, by this single verse, a plate that cannot complete the chain from food to tissue: it delivers raw nuts, raw seeds, raw sprouts, and raw greens to a fire asked to do in the belly the cooking that the kitchen refused, and what the fire cannot finish becomes *āma*.
 
+The verse condemns the raw *staple*, not every raw mouthful. The corpus keeps its own raw exceptions and guards them: honey, which Caraka forbids heating on pain of poisoning it (Sū. 27.243–246); ripe fruit in season, eaten raw by indication; fresh buttermilk, curd, and butter. None of these is a daily staple, and none is what the raw-vegan plate is built from.
+
 ## V. Fruit and vegetables — the verdict, in brief
 
 The other two staples are documented in full elsewhere; the verdict, in one line each:

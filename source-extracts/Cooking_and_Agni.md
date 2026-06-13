@@ -383,6 +383,8 @@ The classical position is consistent across all three corpora and stated explici
 
 Cooking is what makes food into body. Raw input gives rise to *āma*, not *rasa*. The life force the raw foodist seeks is what the eater *becomes* when *anna* has been properly cooked, properly digested, and properly assimilated. Fire is the elevator of substance into life. To cook is to begin the offering.
 
+This is a doctrine about the staple, not a blanket ban on raw food. The same corpus keeps a few things raw on purpose. Honey it guards most strictly: heated honey, Caraka says, "becomes fatal due to its association with poisons" (Sū. 27.243–246), so the sweet it prizes most is the one it forbids to cook. Ripe fruit in season is eaten raw by indication, and fresh buttermilk, curd, and butter are taken uncooked. Cooking is the rule for *anna* and the heavy; the raw exceptions are named, few, and deliberate. The raw-foodist error is not that something is eaten raw — it is making the raw plate the staple and demoting the cooked grain to the exception.
+
 ## Sources
 
 - *Caraka Saṃhitā*, trans. Priya Vrat Sharma (Chaukhambha Orientalia, 2014). Sanskrit base: the Jādavji Trikamji Āchārya critical edition. Per-chapter markdown digests at [`caraka-samhita/sharma-2014/`](https://github.com/LiGoldragon/caraka-samhita/tree/main/sharma-2014).

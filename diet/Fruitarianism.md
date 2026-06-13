@@ -45,7 +45,7 @@ When raw and fruit-dominant diets are actually studied, the measurements trace t
 
 Āyurveda nourishes by *qualities*, not quantities. The tissues are built by what is warm, moist, assimilable, and coherent, and they are built without strain when those are present.
 
-*Cooked before raw.* Gentle cooking turns dispersion into assimilation; stewed fruit, soft vegetables, and warm reductions restore moisture and direction while keeping lightness. From uncooked food, the *Aṣṭāṅga Hṛdaya* states, *rasa* and the tissues do not arise (*na hy apakvād rasādayaḥ*, Śā. 3.54).
+*Cooked before raw.* Gentle cooking turns dispersion into assimilation; stewed fruit, soft vegetables, and warm reductions restore moisture and direction while keeping lightness. From uncooked food, the *Aṣṭāṅga Hṛdaya* states, *rasa* and the tissues do not arise (*na hy apakvād rasādayaḥ*, Śā. 3.54). The rule binds the staple; the corpus still eats ripe fruit raw in season and keeps honey raw on principle, since heating it is forbidden.
 
 *Sweet as grounding.* The sweet that sustains is the binding kind: squash, pumpkin, carrot, beet, well-cooked grain, ripe fruit in season, feeding *rasa* (the first nutritive juice) and steadying continuity.
 
