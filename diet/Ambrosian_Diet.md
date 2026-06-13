@@ -38,13 +38,13 @@ The Caraka Saṃhitā confirms:
 > Grain gruel is wholesome in all conditions.\
 > — *Caraka Saṃhitā*, Cikitsāsthāna 1
 
-The Haṭha Yoga Pradīpikā inherits this understanding without rearguing it:
+The Haṭha Yoga tradition inherits this understanding without rearguing it. A proverbial yogic maxim states it directly:
 
 > **"hitaṁ mitaṁ ca bhoktavyaṁ annaṁ yogārthinā sadā."**\
 > The yogin should always eat wholesome anna in measured quantity.\
-> — *Haṭha Yoga Pradīpikā* 1.57
+> — proverbial yogic formulation on measured diet
 
-It then names the specific foods: "good grains, wheat, rice, barley, milk, ghee, brown sugar, sugar candy, honey, dry ginger, paṭola fruit, five leafy greens, mung and such pulses, and pure water." Grains and ghee open the list. Fruit appears nowhere in the recommended foods. Jujube is explicitly prohibited.
+The *Haṭha Yoga Pradīpikā* then names the specific foods: "good grains, wheat, rice, barley, milk, ghee, brown sugar, sugar candy, honey, dry ginger, paṭola fruit, five leafy greens, mung and such pulses, and pure water." Grains and ghee open the list. Fruit appears nowhere in the recommended foods. Jujube is explicitly prohibited.
 
 Anna is the floor on which the two pillars stand.
 
@@ -152,11 +152,11 @@ The Ambrosian Diet excludes what the classical texts exclude — not by moralism
 
 ## Mitāhāra
 
-The Pradīpikā defines the quantity:
+The Gheraṇḍa Saṃhitā makes mitāhāra the precondition of practice:
 
 > **"mitāhāraṁ vinā yastu yogārambhaṁ tu kārayet; nānā-rogo bhaved tasya kiñcid yogo na sidhyati."**\
 > Without moderate diet, whoever begins yoga practice will acquire various diseases and will not succeed in yoga.\
-> — *Haṭha Yoga Pradīpikā* 1.15
+> — *Gheraṇḍa Saṃhitā* 5.16
 
 Mitāhāra: half the stomach with food, one quarter with water, one quarter with air. The food is anna — grain, ghee, milk, dal. The quantity is moderate. The temperature is warm. The texture is soft. The taste is mild. The effect is stability.
 

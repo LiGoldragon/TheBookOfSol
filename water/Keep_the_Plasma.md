@@ -110,7 +110,7 @@ And the staple it is built on:
 > **hitaṁ mitaṁ ca bhoktavyaṁ annaṁ yogārthinā sadā.**
 >
 > "The yogin should always eat wholesome anna in measured quantity."\
-> — *Haṭha Yoga Pradīpikā* 1.57
+> — proverbial yogic formulation on measured diet
 
 > "The yogi should take nourishing and sweet food mixed with **ghee and milk**; it should nourish the *dhātus* and be pleasing and suitable."\
 > — *Haṭha Yoga Pradīpikā* 1.63

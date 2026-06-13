@@ -212,12 +212,12 @@ Of the items: *ṣaṣṭika*, *śāli*, *mudga*, *yava*, *dhānya* — five gra
 
 *Vilēpī* — grain cooked even longer than *yavāgū*, into a paste — is light. The cooking does not weigh it down; the cooking *lightens* it.
 
-### Haṭha Yoga Pradīpikā 1.57 — the yogin's anna
+### The yogic maxim on measured anna
 
 > **hitaṃ mitaṃ ca bhoktavyaṃ annaṃ yogārthinā sadā |**
 >
 > "The yogin should always eat wholesome *anna* in measured quantity."\
-> — *Haṭha Yoga Pradīpikā* 1.57
+> — proverbial yogic formulation on measured diet
 
 *Anna* — cooked grain, the *bhakta* of the daily plate. The Yogic register and the Ayurvedic register converge on the same staple at the same word.
 
@@ -377,7 +377,7 @@ The classical position is consistent across all three corpora and stated explici
 - *Agni* — the digestive fire — is the cause of strength, health, life-span, and *prāṇa* (Caraka Sū. 27.342).
 - Eating is an offering to the internal *agni* (Caraka Sū. 27.343). The yajña frame is internalized.
 - Cooking is a *saṃskāra* that transforms *guṇa* — heavy becomes light (Caraka Sū. 27.339: *vrīhi* → *lājā*); hard substances become strength-promoting only when overcooked (Sū. 27.275); the same rice is light when well-cooked and heavy when not (Sū. 27.257–259).
-- The classical staple is cooked grain finished with ghee — *yavāgū*, *peya*, *vilēpī*, *odana*, *anna* with *ghṛta* (Caraka Cik. 1; HYP 1.57–58; BhG 17.8).
+- The classical staple is cooked grain finished with ghee — *yavāgū*, *peya*, *vilēpī*, *odana*, *anna* with *ghṛta* (Caraka Cik. 1; HYP 1.58; BhG 17.8).
 - The classical apathya lists exclude raw greens by name (HYP 1.59 *harita-śāka*; GhS 5.21 *excess of leafy greens*).
 - The dry / *rūkṣa* / *śuṣka-anna* register is named as a principal cause of *āma* and as a vitiator of the body's water-carrying channels (AS Śā. 6.16).
 

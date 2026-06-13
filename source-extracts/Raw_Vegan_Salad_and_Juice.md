@@ -46,8 +46,8 @@ The clinical arc the texts predict — *ojas*-depletion, *śukra*-loss, *vāta* 
 
 The yogic plate is positively specified, and the specification excludes the raw modes on every axis:
 
-- **Yoga requires *mitāhāra* — measured eating — or it fails.** *"Without moderate diet, whoever begins yoga practice will acquire various diseases and will not succeed in yoga"* (HYP 1.15). The Gītā states the same in the positive: yoga belongs to the *yuktāhāra* and is barred to the one who eats too much or fasts to depletion (BhG 6.16–17). The juice-faster and the raw-gorger occupy the two excluded poles. (Both blocks: [`Apathya.md`](./Apathya.md) §II.)
-- **The yogic food is cooked, unctuous, sweet.** *Annaṁ yogārthinā sadā* — the yogin always eats *anna*, cooked grain (HYP 1.57); the meal is *snigdha-madhura*, unctuous and sweet (HYP 1.58), *"mixed with ghee and milk"* (HYP 1.63); the Gītā's sāttvic food is *snigdha* and *sthira*, unctuous and stable (BhG 17.8). Raw salad is *rūkṣa* (dry) and *cala* (mobile) — the inverse of *snigdha-sthira*.
+- **Yoga requires *mitāhāra* — measured eating — or it fails.** *"Without moderate diet, whoever begins yoga practice will acquire various diseases and will not succeed in yoga"* (Gheraṇḍa Saṃhitā 5.16). The Gītā states the same in the positive: yoga belongs to the *yuktāhāra* and is barred to the one who eats too much or fasts to depletion (BhG 6.16–17). The juice-faster and the raw-gorger occupy the two excluded poles. (Both blocks: [`Apathya.md`](./Apathya.md) §II.)
+- **The yogic food is cooked, unctuous, sweet.** *Annaṁ yogārthinā sadā* — the yogin always eats *anna*, cooked grain (proverbial yogic maxim); the meal is *snigdha-madhura*, unctuous and sweet (HYP 1.58), *"mixed with ghee and milk"* (HYP 1.63); the Gītā's sāttvic food is *snigdha* and *sthira*, unctuous and stable (BhG 17.8). Raw salad is *rūkṣa* (dry) and *cala* (mobile) — the inverse of *snigdha-sthira*.
 - **Yoga names raw greens in the prohibition list.** The *apathya* verse opens with *harita-śāka* — fresh/raw greens (HYP 1.59); the *Gheraṇḍa Saṃhitā* forbids *"an excess of leafy greens"* (GhS 5.21). (Blocks: [`Apathya.md`](./Apathya.md) §III, [`Cooking_and_Agni.md`](./Cooking_and_Agni.md) §VI.)
 
 The logic closes: yoga depends on a kindled *agni* and a settled *vāta*. The raw salad, the raw-vegan plate, and the juice cleanse each weaken *agni* and raise *vāta*. A practice cannot be built on the food that dismantles its own preconditions. The raw regimen is the fruitarian error in a second key — the solar, dispersing principle without the lunar, gathering one.
@@ -58,7 +58,7 @@ The logic closes: yoga depends on a kindled *agni* and a settled *vāta*. The ra
 2. **The salad:** raw greens are *tikta-kaṣāya*, *rūkṣa*, *śīta*; in volume they dry the *dhātus*, roughen and block the channels, and derange *vāta* (Caraka Sū. 26.43; 27.88–124). The text's instruction for greens is boil-press-butter, not raw.
 3. **The juice:** single-rasa excess (Sū. 25.40), cold dousing *agni* (AH Sū. 12), chewing and fibre stripped — the dispersing essence distilled.
 4. **The raw-vegan plate:** *na hy apakvād rasādayaḥ* — uncooked food yields *āma*, not *rasa* (AH Śā. 3.54); the arc ends in *ojas*- and *śukra*-depletion, documented clinically (Giessen study).
-5. **Yoga's verdict:** *mitāhāra* of cooked *snigdha-sthira anna* is required (HYP 1.15, 1.57–58, 1.63; BhG 6.16–17, 17.8); raw greens are named *apathya* (HYP 1.59; GhS 5.21). Yoga does not condone the raw modes; it forbids them and prescribes their opposite.
+5. **Yoga's verdict:** *mitāhāra* of cooked *snigdha-sthira anna* is required (Gheraṇḍa Saṃhitā 5.16; HYP 1.58, 1.63; BhG 6.16–17, 17.8); raw greens are named *apathya* (HYP 1.59; GhS 5.21). Yoga does not condone the raw modes; it forbids them and prescribes their opposite.
 
 ## Sources
 

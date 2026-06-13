@@ -194,7 +194,7 @@ The position is the position of every documented medical and anthropological cor
 
 2. **Raw food is the upstream of disease.** Hippocrates names the condition as "violent pains and diseases quickly followed by death." Avicenna names the residue as the *raw, uncooked portion* — phlegm, the first humoral pathology. Caraka and Vāgbhaṭa name it *āma* — undigested residue, the material basis of disease. Wrangham documents the modern clinical version: amenorrhea, chronic energy deficiency, body wasting.
 
-3. **The staple of the human plate is cooked grain.** The HDNJ names five grains as primary nourishment. Caraka Sū. 5.12 names five grains. HYP 1.57 names *anna*. Hippocrates names bread. Galen calls it *the food we use continually*. The same staple, in five idioms.
+3. **The staple of the human plate is cooked grain.** The HDNJ names five grains as primary nourishment. Caraka Sū. 5.12 names five grains. The yogic *mitāhāra* maxim names *anna*. Hippocrates names bread. Galen calls it *the food we use continually*. The same staple, in five idioms.
 
 4. **Vegetables and fruits enter by indication and preparation.** Hippocrates limits raw vegetables to spring and summer, by exception. Galen recommends boiling. Caraka classifies fruits as *auṣadha* before *āhāra*. Li Dong-yuan warns against cold foods damaging the spleen. The dispersal of these substances into category-level prescriptions is itself the structure of the materia medica.
 

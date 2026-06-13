@@ -452,7 +452,7 @@ The Caraka Saṃhitā classifies fruit pharmacologically. Each fruit carries a *
 
 The same chapter that names these fruits as medicines names the criterion for daily eating: *all six rasas*, in measure, are strength-promoting; *one rasa*, taken alone and chronically, is debilitating. A fruit-only diet is the consumption of one *rasa* — *madhura* — in chronic excess. Caraka has classified that mode of eating as a debilitator before any specific fruit is named.
 
-The position is the position of the entire classical corpus. Fruit is *auṣadha*. Eaten by indication, in measure, in season, it heals — *āmalakī* steadies age, *dāḍima* alleviates *vāta*, *drākṣā* abates fever and *raktapitta*. Eaten as food — daily, in volume, without indication — it depletes *ojas*, dries the channels, and disqualifies the practitioner from yoga (HYP 1.15). The classical corpus does not call fruit *anna*. The classical corpus calls *anna* *anna*.
+The position is the position of the entire classical corpus. Fruit is *auṣadha*. Eaten by indication, in measure, in season, it heals — *āmalakī* steadies age, *dāḍima* alleviates *vāta*, *drākṣā* abates fever and *raktapitta*. Eaten as food — daily, in volume, without indication — it depletes *ojas*, dries the channels, and disqualifies the practitioner from yoga (Gheraṇḍa Saṃhitā 5.16). The classical corpus does not call fruit *anna*. The classical corpus calls *anna* *anna*.
 
 ## Sources
 

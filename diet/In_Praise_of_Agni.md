@@ -91,7 +91,7 @@ The yogic register converges:
 > **hitaṃ mitaṃ ca bhoktavyaṃ annaṃ yogārthinā sadā |**
 >
 > "The yogin should always eat wholesome *anna* in measured quantity."\
-> — *Haṭha Yoga Pradīpikā* 1.57
+> — proverbial yogic formulation on measured diet
 
 > **susnigdha-madhurāhāraś caturthāṃśa-vivarjitaḥ |\
 > bhujyate śiva-samprītyai mitāhāraḥ sa ucyate ||**
@@ -212,7 +212,7 @@ If the body is a *yajña*, then eating is *havya-arpaṇa*. The eater is the pri
 
 The same logic governs the internal *yajña*. The eater offers food to the *jaṭharāgni*. The food must be prepared. The preparation is itself a discipline — a brief daily *tapas* that the eater performs on the substance before offering it to the fire that completes the work. The kitchen is the *yajña-vedi*. The cook is the *ṛtvij*. The flame that softens the grain is the visible counterpart of the flame that will receive it.
 
-To skip the preparation is to attempt the rite without the offering. To call the skipping *purity* is to misname avoidance as discipline. The *Pradīpikā* states the corollary plainly:
+To skip the preparation is to attempt the rite without the offering. To call the skipping *purity* is to misname avoidance as discipline. The *Gheraṇḍa Saṃhitā* states the corollary plainly:
 
 > **mitāhāraṃ vinā yas tu yogārambhaṃ tu kārayet |\
 > nānā-rogo bhaved tasya kiñcid yogo na sidhyati ||**
@@ -220,7 +220,7 @@ To skip the preparation is to attempt the rite without the offering. To call the
 > "Without moderate diet, whoever begins yoga practice\
 > will acquire various diseases\
 > and will not succeed in yoga."\
-> — *Haṭha Yoga Pradīpikā* 1.15
+> — *Gheraṇḍa Saṃhitā* 5.16
 
 *Kiñcid yogo na sidhyati* — "no yoga succeeds." The verse is severe. The discipline of *mitāhāra* — measured, *snigdha-madhura*, cooked — is named as the precondition of practice. Without it, no advance. Disqualifying the practitioner before any *āsana*, before any *prāṇāyāma*, before any *dhāraṇā*, is a meal that exceeds *mātrā* or fails the cooking rule.
 

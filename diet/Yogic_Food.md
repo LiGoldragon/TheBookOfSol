@@ -48,13 +48,13 @@ The **Suśruta Saṃhitā** independently affirms the same baseline:
 >
 > — Suśruta Saṃhitā, Sūtrasthāna 46
 
-Haṭha Yoga literature inherits this understanding without rearguing it. The **Haṭha Yoga Pradīpikā** states:
+Haṭha Yoga literature inherits this understanding without rearguing it. A proverbial yogic maxim states it directly:
 
 > **Hitaṃ mitaṃ ca bhoktavyaṃ annaṃ yogārthinā sadā.**
 >
 > "The yogin should always eat wholesome anna in measured quantity."
 >
-> — Haṭha Yoga Pradīpikā 1.57
+> — proverbial yogic formulation on measured diet
 
 The text does not say "foods." It says **anna**, relying on the already-set definition: soft-cooked grain, taken in moderation, neither stimulating nor depleting. No explanatory gloss is required because the term is stable across the tradition.
 
