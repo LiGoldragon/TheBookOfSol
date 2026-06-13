@@ -78,7 +78,22 @@ Reclaiming *vegan* as **exclusively vegetal** makes the boundary self-enforcing:
 
 This return to natural meaning protects both **language** and **life**.
 
-## 7. Conclusion
+## 7. Vegetal, but Cooked
+
+Reclaiming the word settles what *vegan* should mean. It does not settle how the vegetal is to be eaten, and here the popular movement takes a wrong turn: the raw-vegan diet treats *raw* as the proof of *vegetal*, as though the more uncooked a thing is, the more alive. The classical physiology reverses it. The vegetal gives life only once fire has done its first work on it.
+
+> **na hy apakvād rasādayaḥ**
+>
+> "From uncooked food, *rasa* and the rest do not arise."\
+> — *Aṣṭāṅga Hṛdaya*, Śārīrasthāna 3.54
+
+Raw plant tissue does not become *rasa* — the first nutritive juice from which the body is built — but *āma*, the undigested residue the classical texts name as the seed of disease. The raw plate's own staples are each heavy or aggravating uncooked: raw nuts are *guru* (heavy) and *kapha-pitta*-aggravating, meant to be soaked or roasted; sprouted grains the texts file among the heavy preparations; sweet fruit eaten as a staple is one taste in chronic excess, debilitating by rule. The classical warnings are gathered in [The Raw-Vegan Staples](../source-extracts/Raw_Vegan_Staples_Warnings.md).
+
+The consequence is measured, not merely predicted. In the largest cohort of long-term raw-food eaters, the harm tracked the rawness of the diet: body weight fell by an average of ten to twelve kilograms, and about a third of the women under forty-five lost menstruation, most severely among those eating the highest proportion of raw food (Koebnick et al., 1999; full record in [The Harm in the Clinical Record](../source-extracts/Raw_Vegan_Fruitarian_Harm.md)).
+
+*Vegan* as *vegetal* is a sound reclamation; *vegan* as *raw* is where the vegetal stops giving life. The plant enlivens — once it has passed through fire.
+
+## 8. Conclusion
 
 Words evolve toward truth. As *icon*, *energy*, and *vibe* sank back into their roots, *vegan* ripens into its natural sense: **exclusively vegetal** — which, by definition and by physiology, excludes chloride of sodium, an **inorganic protoplasmic poison** masquerading as food.
 
@@ -106,3 +121,8 @@ Words evolve toward truth. As *icon*, *energy*, and *vibe* sank back into their 
 **Population Studies**
 
 - Oliver, W.J., et al. "Blood pressure, electrolytes, and urinary NaCl in the Yanomami Indians." *Circulation* (1975).
+
+**Raw-Food Diet**
+
+- Koebnick, C., et al. "Consequences of a Long-Term Raw Food Diet on Body Weight and Menstruation." *Annals of Nutrition and Metabolism* (1999).
+- Koebnick, C., et al. "Long-Term Consumption of a Raw Food Diet… Elevated Plasma Homocysteine and Low Serum HDL Cholesterol in Humans." *Journal of Nutrition* (2005).

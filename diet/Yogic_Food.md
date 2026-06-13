@@ -20,7 +20,7 @@ Anna is not introduced here as a vague category of nourishment. It is defined by
 >
 > — Taittirīya Upaniṣad 2.2.4
 
-This is not poetic excess. It is metaphysics anchored in agriculture. The text does not gesture toward hunting, flesh, or variety; it grounds embodiment in cultivated grain and its transformation through cooking.
+It is metaphysics anchored in agriculture, grounding embodiment in cultivated grain and its transformation through cooking.
 
 Āyurveda makes this metaphysics practical. In the **Caraka Saṃhitā**, anna is a technical category with a fixed referent:
 
@@ -58,8 +58,16 @@ Haṭha Yoga literature inherits this understanding without rearguing it. A prov
 
 The text does not say "foods." It says **anna**, relying on the already-set definition: soft-cooked grain, taken in moderation, neither stimulating nor depleting. No explanatory gloss is required because the term is stable across the tradition.
 
+The **Yoga Yājñavalkya** gives the measure a number, scaled to the eater's station:
+
+> "Eight mouthfuls are the food of the ascetic, sixteen of the forest-dweller, thirty-two of the householder, and as much as the student wishes. This is measured eating for them; for all others, it is simply eating less."
+>
+> — *Yoga Yājñavalkya* 1.66–67, trans. after A. G. Mohan
+
+The measure shrinks as the life simplifies, but the food does not change. The ascetic at eight mouthfuls and the householder at thirty-two eat the same **anna**, cooked soft in water — only more or less of it. What the yogi does not do is exchange the grain for the raw nut, the sprouted seed, or the bowl of fruit; the measure is reduced, the staple is kept.
+
 Buddhist monastic practice preserves the same inheritance in lived form. In the **Mahāsaccaka Sutta**, the Buddha recounts abandoning starvation and restoring strength through **rice gruel**, after which clarity and steadiness return. The Vinaya consistently names **odana** (boiled rice) and **yāgu** (rice gruel) as the default sustenance of monks. These are not symbolic foods; they are grain cooked in water.
 
 Taken together, the picture is internally consistent without needing synthesis or modern justification. Yoga assumes anna as its nutritional ground, and anna is grain. The proper form of that grain is not dry, baked, or concentrated, but **fully cooked in ample water**, rendered digestible, assimilable, and quiet in its effects. Āyurveda names this form **vilēpī**. Yoga presupposes it.
 
-This is not dietary minimalism or ascetic display. It is the stable food of clarity, named, defined, and used as such for millennia.
+It is the stable food of clarity, named, defined, and used as such for millennia.

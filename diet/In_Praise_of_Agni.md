@@ -86,6 +86,8 @@ The same principle holds for the *guṇas* (qualities) of substances. Cooking is
 
 The same rice — light when well-cooked, heavy when poorly cooked. The verse refutes any claim that cooked food is intrinsically heavier than its uncooked form. Cooking *lightens* the rice. Cooking it warm and serving it warm keeps it light.
 
+The rule reaches the raw-food plate's own staples. The heavy, unctuous nut — almond, walnut, pistachio — the *Caraka Saṃhitā* names *guru* (heavy) and *uṣṇa* (hot), aggravating to *kapha* and *pitta*, the kind of food the classical kitchen soaks or roasts before it is eaten; the raw plate takes it raw, by the handful. The sprouted grain, eaten raw as the substitute for cooked rice, the same chapter files among the *guru* preparations, for germination does not perform the *saṃskāra* that fire performs (*Caraka Saṃhitā*, Sūtrasthāna 27). What the stove would lighten, the raw plate leaves heavy, and hands the unfinished work to the belly's fire.
+
 The yogic register converges:
 
 > **hitaṃ mitaṃ ca bhoktavyaṃ annaṃ yogārthinā sadā |**

@@ -158,6 +158,12 @@ The Gheraṇḍa Saṃhitā makes mitāhāra the precondition of practice:
 > Without moderate diet, whoever begins yoga practice will acquire various diseases and will not succeed in yoga.\
 > — *Gheraṇḍa Saṃhitā* 5.16
 
+The Yoga Yājñavalkya gives the measure a number, scaled to the eater's station:
+
+> Eight mouthfuls are the food of the ascetic, sixteen of the forest-dweller, thirty-two of the householder, and as much as the student wishes.\
+> This is measured eating for them; for all others, it is simply eating less.\
+> — *Yoga Yājñavalkya* 1.66–67, trans. after A. G. Mohan
+
 Mitāhāra: half the stomach with food, one quarter with water, one quarter with air. The food is anna — grain, ghee, milk, dal. The quantity is moderate. The temperature is warm. The texture is soft. The taste is mild. The effect is stability.
 
 The Ambrosian Diet is mitāhāra. It is not a feast. It is not a fast. It is the measured, quiet, warm substance of sustained clarity — anna on the floor, ghee as the lunar wall, śivāmbu as the solar wall, prāṇa as the open sky above.
