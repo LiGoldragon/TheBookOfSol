@@ -125,4 +125,3 @@ Words evolve toward truth. As *icon*, *energy*, and *vibe* sank back into their 
 **Raw-Food Diet**
 
 - Koebnick, C., et al. "Consequences of a Long-Term Raw Food Diet on Body Weight and Menstruation." *Annals of Nutrition and Metabolism* (1999).
-- Koebnick, C., et al. "Long-Term Consumption of a Raw Food Diet… Elevated Plasma Homocysteine and Low Serum HDL Cholesterol in Humans." *Journal of Nutrition* (2005).
