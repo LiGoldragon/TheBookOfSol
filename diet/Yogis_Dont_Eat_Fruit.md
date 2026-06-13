@@ -139,6 +139,13 @@ The yogic food is *anna*: grain cooked soft in ample water and finished with ghe
 > falls into various diseases, and no yoga succeeds for him."\
 > — *Gheraṇḍa Saṃhitā* 5.16
 
+The measure has a number. The *Yoga Yājñavalkya* scales it to the eater's station:
+
+> "Eight mouthfuls are the food of the ascetic, sixteen of the forest-dweller,\
+> thirty-two of the householder, and as much as he wishes for the student.\
+> This is measured eating for them; for all others, it is simply eating less."\
+> — *Yoga Yājñavalkya* 1.66–67, trans. after A. G. Mohan
+
 *Mitāhāra* (measured eating) fills half the stomach with food, a quarter with water, and leaves a quarter for air. The food is *anna* — grain, ghee, milk, *dāl*; the quantity is moderate, the temperature warm, the texture soft, the effect stability. The yogi eats grain, drinks warm water, takes ghee, and sits in stillness, and the stillness is possible because the body is not chasing sugar, not compensating for dispersion, not reaching for the next mango to replace the one that already left.
 
 The floor is built before the room is swept. *Anna* is the floor. Fruit is the broom. A broom is useful. No one lives on a broom.

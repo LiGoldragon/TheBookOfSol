@@ -39,7 +39,7 @@ The plate that produces *svastha* is the plate that does not provoke, does not s
 
 ## II. The discipline — mitāhāra
 
-### Haṭha Yoga Pradīpikā 1.15 — no yoga without mitāhāra
+### Gheraṇḍa Saṃhitā 5.16 — no yoga without mitāhāra
 
 > **mitāhāraṁ vinā yastu yogārambhaṁ tu kārayet |**\
 > **nānā-rogo bhaved tasya kiñcid yogo na sidhyati ||**
@@ -47,16 +47,16 @@ The plate that produces *svastha* is the plate that does not provoke, does not s
 > "Without moderate diet, whoever begins yoga practice\
 > will acquire various diseases\
 > and will not succeed in yoga."\
-> — *Haṭha Yoga Pradīpikā* 1.15
+> — *Gheraṇḍa Saṃhitā* 5.16
 
-### Haṭha Yoga Pradīpikā 1.57 — what the yogī must eat
+### Yoga Yājñavalkya 1.66–67 — mitāhāra fixed by measure
 
-> **hitaṁ mitaṁ ca bhoktavyaṁ annaṁ yogārthinā sadā |**
->
-> "The yogin should always eat wholesome anna in measured quantity."\
-> — *Haṭha Yoga Pradīpikā* 1.57
+> "Eight mouthfuls are the food of the ascetic, sixteen of the forest-dweller,\
+> thirty-two of the householder, and as much as he wishes for the student.\
+> This is measured eating (*mitāhāra*) for them; for all others, it is simply eating less."\
+> — *Yoga Yājñavalkya* 1.66–67, trans. after A. G. Mohan
 
-The word is *anna* — cooked grain, the staple of the śāstraic diet — not *phala* (fruit), not *śāka* (vegetable).
+Where the Haṭha-yoga texts fix *mitāhāra* by quality — *snigdha* and *madhura* (1.58 below) — the *Yoga Yājñavalkya* fixes it by quantity, scaling the measure to the eater's station. The staple being measured is *anna* (cooked grain), the food the daily-routine verse (Caraka Sū. 5.12) and the Upaniṣadic chain (§XI) both set at the centre; *phala* (fruit) and *śāka* (vegetable) are the medicinal and the managed margins, never the measured staple.
 
 ### Haṭha Yoga Pradīpikā 1.58 — the positive definition
 
@@ -99,7 +99,7 @@ The doctrinal companion verse is the famous Caraka Vimānasthāna 1.24–25 list
 > measured in sleep and waking — for him yoga becomes the destroyer of sorrow."\
 > — *Bhagavad Gītā* 6.16–17
 
-Where HYP 1.15 makes the *absence* of *mitāhāra* the disqualifier of practice, the Gītā states the rule in the positive: yoga belongs to the *yuktāhāra* — the one whose eating is measured. The *atyaśnat* (the one who eats too much) and the *anaśnat* (the one who does not eat at all) are both shut out. The fruitarian and the raw-juice faster occupy the two excluded poles — gorging on the watery and the sweet, or fasting toward depletion — and the verse closes both doors with one line.
+Where the *Gheraṇḍa Saṃhitā* (5.16) makes the *absence* of *mitāhāra* the disqualifier of practice, the Gītā states the rule in the positive: yoga belongs to the *yuktāhāra* — the one whose eating is measured. The *atyaśnat* (the one who eats too much) and the *anaśnat* (the one who does not eat at all) are both shut out. The fruitarian and the raw-juice faster occupy the two excluded poles — gorging on the watery and the sweet, or fasting toward depletion — and the verse closes both doors with one line.
 
 ## III. The prohibition list — apathya
 
