@@ -1,56 +1,54 @@
-# Fruit, Ahara, and What Upholds Life
+# Fruit, Āhāra, and What Upholds Life
 
-Humans live first by breath. Breath precedes ingestion; circulation precedes substance. What enters the mouth enters a system already governed by air, heat, and movement. When this order is ignored, nourishment is mistaken for accumulation.
+Humans live first by breath. Breath precedes ingestion, and circulation precedes substance; what enters the mouth enters a system already governed by air, heat, and movement. When that order is forgotten, nourishment is mistaken for accumulation.
 
-Fruit accords with human physiology because it is light, hydrating, and low in friction. It clears perception and reduces burden. Yet fruit disperses. It moves upward and outward. No living system endures on dispersion alone. Continuity is required: warmth, moisture, cohesion, and descent. Where these are not restored, depletion follows—not as failure, but as consequence.
+Fruit accords with human physiology in one register. It is light, hydrating, and low in friction; it clears perception and lifts burden. But fruit disperses. It moves upward and outward, and no living system endures on dispersion alone. Continuity is the other half: warmth, moisture, cohesion, descent. Where these are not restored, depletion follows as a consequence.
 
-Āyurveda never confused compatibility with exclusivity. It spoke in functions, not dogmas. *What rises must also settle; what clears must also bind.*
+Āyurveda never confused compatibility with exclusivity. It spoke in functions — *what rises must also settle; what clears must also bind* — and it set food at the root of the vital currents:
 
 > "Food is the vital breath of living beings, and so the people rush toward food.\
 > Complexion, voice, life, intelligence, contentment, growth, and strength — all are founded on food."\
 > — *Caraka Saṃhitā*, Sūtrasthāna 27.349–350, trans. after P. V. Sharma
 
-*Āhāra* — the word the verse renders as "food" — means more than "food" in the modern, mechanical sense. It signifies that which upholds *prāṇa* (the vital breath, the principle of animation): breath, warmth, fluid, rhythm, substance. Food is one expression of *āhāra*. Breath remains primary; intake is secondary. Nourishment is achieved by what can be transformed, retained, and circulated. Where assimilation fails, abundance is meaningless.
+*Āhāra*, the word the verse renders as "food," means more than the modern mechanical sense. It is what upholds *prāṇa* (the vital breath, the principle of animation): warmth, fluid, rhythm, substance. Food is one expression of *āhāra*; breath remains primary, intake secondary. Nourishment is what can be transformed, retained, and circulated, and where assimilation fails, abundance means nothing.
 
-## On Fruit and Poison
+## Fruit is medicine before it is food
 
-A plain fact must be stated: the vast majority of fruits are poisonous. "Fruit" is a botanical category, not a dietary one. Most fruits contain irritants, toxins, narcotics, or compounds that disrupt digestion and nerves. What humans call *edible fruit* is a narrow subset—those that are *non-poisonous enough* to be consumed in limited quantities without immediate harm.
+The classical corpus has a precise place for fruit, and it is not the centre of the plate. The *Caraka Saṃhitā* classifies every fruit by the same parameters it uses for drugs — *rasa* (taste), *vīrya* (potency), *vipāka* (post-digestive effect), *prabhāva* (specific action) — and gives each an indication and a contraindication. Grapes abate thirst and fever; sweet pomegranate alleviates *vāta* (the movement-principle); *āmalakī* steadies age. Mango is dosed by ripeness, the unripe fruit causing internal bleeding and the ripe one building tissue. This is the grammar of a *materia medica*, not of a staple. Fruit is *auṣadha* (medicine) before it is *āhāra*, admitted by indication, in measure, in season. The full textual case is gathered in [Fruit as Medicine](../source-extracts/Fruit_as_Medicine.md).
 
-This matters because fruitarian ideology treats fruit as inherently benign, even ideal. Nature does not operate on ideals. Fruit attracts, but it also restrains. Sweetness draws; chemistry limits excess. Even commonly eaten fruits provoke irritation, dryness, or instability when consumed in isolation or in large quantity.
+The criterion that decides daily eating is stated in a single rule: all six tastes, taken in measure, are strength-promoting; one taste, taken alone and chronically, is debilitating. A fruit diet is the consumption of one *rasa*, *madhura* (the sweet), in chronic excess. By Caraka's own measure the diet depletes before any particular fruit is named.
 
-Āyurveda recognized this implicitly. Fruit was never prescribed as a sole sustainer. It was seasonal, moderated, contextual, and often cooked. The belief that humans are meant to subsist indefinitely on fruit alone ignores both botanical reality and physiological consequence.
+## The familiar arc
 
-## Where Hunger Ends
+Exclusive fruit diets run the same course every time. At first, clarity: lightness increases, perception sharpens, friction falls away, the burden of old congestion lifts. This is the experience of clearing, and it is real. The room swept clean still needs a floor.
 
-The yogic texts state the hierarchy without ambiguity. They do not deny food; they subordinate it.
+Then the dispersion that clarified begins to dismantle. Internal fluids thin, lubrication is lost, the colon dries. *Vāta* rises — restlessness, insomnia, cold extremities, racing thought, and the constipation that arrives as the breaking of peristaltic continuity. *Ojas* (the refined essence of vitality) drains. The organism, having expelled its burdens, begins to expel its reserves. The yogic texts do describe a horizon where intake itself recedes:
 
 > **kaṇṭhakūpe kṣutpipāsānivṛttiḥ**
 >
 > "By focused stillness on the pit of the throat, hunger and thirst come to cessation."\
 > — *Yoga Sūtra* 3.31
 
-The verse describes refined physiology. When internal circulation and retention are stabilized, dependence on external intake diminishes. Breath, heat, and conserved fluid assume command. Food becomes *support* rather than compensation.
+That cessation is the fruit of a stabilized inner fluid and breath, not of a thinning body stripped by sweetness. The fruitarian takes the early clearing for the high state, and meets the depletion instead.
 
-This explains the familiar arc of exclusive fruit diets. At first, clarity arises: lightness increases, perception sharpens, friction falls away. Yet as internal fluids thin and lubrication is lost, the same dispersion that clarified now destabilizes. The colon dries; downward coordination weakens. Constipation appears—not as "toxins leaving," but as *continuity breaking*. The error is not fruit, but mistaking clearing for sustaining.
+## What the clinical record measures
 
-## How Nourishment Actually Happens
+When raw and fruit-dominant diets are actually studied, the measurements trace the classical arc line for line. In the largest cohort ever assembled, several hundred long-term raw-food eaters in Germany, body weight fell by an average of 9.9 kg in men and 12 kg in women, a quarter of the women were underweight, and about a third of the women under forty-five had lost menstruation — in proportion to how raw and how strict the diet was (Koebnick et al., *Annals of Nutrition and Metabolism*, 1999). In the same cohort, 38% were deficient in vitamin B-12, with elevated homocysteine, the blood-mark of a transformation the body could not finish (Koebnick et al., *Journal of Nutrition*, 2005). The lost cycle is *ārtava-kṣaya*; the lost weight is *dhātu-kṣaya*, the wasting of the tissues; the unfinished methylation is *āma*, the residue of a digestion that could not complete. The studies did not discover the pattern. They measured what the older science had already named. The citations are gathered in [The Harm in the Clinical Record](../source-extracts/Raw_Vegan_Fruitarian_Harm.md).
 
-Āyurveda nourishes by *qualities*, not nutrients. Nerves, blood, and tissues are sustained by what is *warm, moist, assimilable, and coherent*. When these are present, nourishment occurs without strain.
+## How nourishment actually happens
 
-*Cooked before raw.* Gentle cooking converts dispersion into assimilation. Stewed fruits, soft vegetables, and warm reductions restore moisture and direction while preserving lightness.
+Āyurveda nourishes by *qualities*, not quantities. The tissues are built by what is warm, moist, assimilable, and coherent, and they are built without strain when those are present.
 
-*Sweet as stabilizing.* Sweet here means grounding and binding: squash, pumpkin, carrot, beet, ripe fruits, and well-cooked grains nourish *rasa* (the first nutritive juice — the plasma-like fluid into which digested food first becomes tissue) and steady continuity.
+*Cooked before raw.* Gentle cooking turns dispersion into assimilation; stewed fruit, soft vegetables, and warm reductions restore moisture and direction while keeping lightness. From uncooked food, the *Aṣṭāṅga Hṛdaya* states, *rasa* and the tissues do not arise (*na hy apakvād rasādayaḥ*, Śā. 3.54).
 
-*Unctuous carriers.* *Ghṛta* (clarified butter) is the classical medium for nerves, blood, and the colon—warming, lubricating, binding—without the instability of seed oils or nuts.
+*Sweet as grounding.* The sweet that sustains is the binding kind: squash, pumpkin, carrot, beet, well-cooked grain, ripe fruit in season, feeding *rasa* (the first nutritive juice) and steadying continuity.
 
-*Warmth as condition.* Warm meals and drinks are not comforts but requirements; warmth allows intake to become tissue rather than residue.
+*Unctuous carriers.* *Ghṛta* (clarified butter) is the classical medium for nerves, blood, and colon — warming, lubricating, binding — without the heaviness of raw nuts or the instability of pressed seed oils.
 
-*Simple grounding, when needed.* Soft rice, millet, oats, or buckwheat cooked very moist can temporarily restore mass and peristaltic coordination—*corrective, not contradictory*.
+*Warmth as a condition.* Warm food and drink are requirements, not comforts; warmth is what lets intake become tissue rather than residue.
 
-*Spices for passage, not provocation.* Small amounts of ginger, cardamom, cinnamon, or fennel aid assimilation so nourishment reaches its destination.
+*Grounding when needed.* Soft rice, millet, or oats cooked very moist restore mass and peristaltic coordination, a correction rather than a contradiction.
 
-*Light, clarified water.* Water should support flow, not dull it; heavy, mineral-bound water suppresses digestion, while light, clarified water maintains circulation.
+*Spice for passage.* Small amounts of ginger, cardamom, cinnamon, or fennel carry the nourishment to its destination.
 
-A brief word on retention: practices such as *Śivāmbu* point to the body's capacity to conserve and reuse its own refined fluids. Even without adopting such practices, the principle stands—*nourishment is preserved as much as it is consumed*.
-
-Fruit is not the enemy of nourishment. *Dispersion without continuity is.* Āyurveda never asked what humans should eat in theory; it asked what sustains life in fact. Where warmth, moisture, and assimilation are honored, lightness and nourishment coexist—*without contradiction*.
+Fruit is not the enemy of nourishment; dispersion without continuity is. Āyurveda never asked what humans should eat in theory. It asked what sustains life in fact, and the answer it gives is warmth, moisture, and assimilation — with fruit kept where the texts always kept it: on the medicine shelf, not the floor.

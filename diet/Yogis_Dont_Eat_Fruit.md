@@ -114,6 +114,8 @@ The first law of the pharmacology is that like increases like: a substance build
 
 The green juice removes even what the salad keeps. It strips the chewing, the warmth, and the fibre and delivers the cold, dispersing essence undiluted. The fire that should have met cooked food meets it raw, so the cooking that skipped the kitchen is demanded of the belly, and what the belly cannot finish becomes *āma* (the undigested residue the texts name as the seed of disease). The raw regimen is the fruitarian error in a second key: the dispersing principle again, the gathering one again absent.
 
+The raw-vegan plate adds two staples beyond the salad, and the corpus has weighed both. Raw nuts — almond, walnut, pistachio — the *Caraka Saṃhitā* classes as *guru* (heavy), hot, and aggravating to *kapha* and *pitta*: nourishing, but to be soaked or roasted, not eaten raw by the handful. The sprouted grain, the raw eater's substitute for cooked rice, the same text files among the heavy preparations, for germination does not lighten the seed; and the raw legume it calls strength-reducing, fit to be taken only with fat and only by the strong (*Caraka Saṃhitā*, Sūtrasthāna 27). Nut, seed, and sprout fall under the verdict that governs the salad and the fruit alike: each is a medicine, an accessory, or a heavy thing that requires fire, and none of them is the floor.
+
 ## The fruitarian arc
 
 The course of an exclusive fruit diet runs the same way each time, and the texts described it before there was a name for it.
