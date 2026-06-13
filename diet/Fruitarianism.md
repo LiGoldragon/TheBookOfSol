@@ -14,7 +14,7 @@ Fruit accords with human physiology in one register. It is light, hydrating, and
 
 ## Most fruit is poison
 
-A plain fact comes first: "fruit" is a botanical category, the seed-bearing body of a flowering plant, not a dietary one, and the vast majority of fruits are poisonous. Across the hundreds of thousands of fruiting species, most carry irritants, toxins, narcotics, or compounds that disturb the gut and the nerves. What we call *edible fruit* is a narrow subset, bred and selected over millennia down to the few that are non-poisonous enough to eat in quantity without immediate harm.
+A plain fact comes first: "fruit" is a botanical category, the seed-bearing body of a flowering plant, not a dietary one, and the vast majority of fruits are poisonous. Across the hundreds of thousands of fruiting species, most carry irritants, toxins, narcotics, or compounds that disturb the gut and the nerves. What we call *edible fruit* is a narrow subset: the few that are non-poisonous enough to eat in quantity without immediate harm.
 
 Fruitarian ideology must look past this, because it treats fruit as inherently benign, even ideal. Nature wrote no such rule. The fruit draws the eater with sweetness and restrains him with chemistry; the same drupe whose flesh is food hides a cyanogenic stone, and the plant that offers one ripe fruit offers ten that would sicken. Even the edible minority provokes irritation, dryness, or instability when it is eaten in isolation or in volume. Āyurveda took this for granted: fruit was seasonal, moderated, contextual, and often cooked, never set down as a sole sustainer.
 
