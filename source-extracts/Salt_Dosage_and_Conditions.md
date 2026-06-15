@@ -12,6 +12,8 @@ What the guidelines actually specify for salt — quantity, frequency, and the c
 
 **Book of Sol — none added.** The project's operational rule, *"no salt should ever be used on anything"* ([`Vegan.md`](../diet/Vegan.md)), is the position the population evidence actually supports: the healthy intake is the food baseline, and every increment above it tracks the diseases of salt. Where classical Āyurveda allows a small daily *saindhava* and contemporary practice puts a gram figure on it, the project holds to the benchmark the Amazon supplies — effectively zero added.
 
+**What the texts' "very little" must mean.** The classical sources never name a quantity; they say only *sparing*, *in measure*. The only way to scale that is against the one population that stayed free of the disease — and there it resolves to almost nothing. The Yanomami's entire daily sodium, ~1 mmol, is about **58 mg expressed as salt**, while the apothecary grain is 64.8 mg: their whole day's intake is **literally less than a single grain**, and they added none of it, taking it from food. Read against that benchmark, the classical "little salt" is not a pinch and not a quarter-teaspoon but a trace under a grain a day — and since food already carries that trace, *very little* resolves to *very nearly none*. The population evidence does not soften the classical guidance; it sets its true scale.
+
 ## II. Frequency and season
 
 **Daily, small, admitted classically.** Saindhava is named in Caraka's daily-routine verse (Sū. 5.12) and is counted among the *nitya-sevanīya* substances (those fit for daily use) — a small daily quantity, not a free condiment.
