@@ -122,7 +122,7 @@ The Ambrosian Diet does not promise this state. It creates the conditions from w
 
 The Ambrosian Diet excludes what the classical texts exclude — not by moralism but by function.
 
-**Chloride of sodium** is excluded because it is an inorganic narcotic that desiccates tissue, stiffens channels, suppresses agni, and drains ojas. The Pradīpikā prohibits excessively salty food. The Caraka Saṃhitā warns against excess lavana rasa. The physiological evidence is unambiguous: every increment of chloride burden increases vascular stiffening, renal strain, and fluid imbalance.
+**Chloride of sodium** is excluded because it is an inorganic narcotic that desiccates tissue, stiffens channels, suppresses agni, and drains ojas. The Pradīpikā prohibits excessively salty food. The Caraka Saṃhitā warns against excess lavana rasa. The physiological evidence is unambiguous: every increment of chloride burden increases vascular stiffening, renal strain, and fluid imbalance. Its one exception is medicinal and minuscule — a trace of saindhava (rock salt) by indication, far below any culinary amount; measured against the salt-free populations, the quantity added to a healthy plate is essentially none.
 
 **Flesh** is excluded because it is heavy, obstructive, and tamasic. The Caraka tradition classifies it as *guru* and *picchila* — heavy and clogging. It suppresses prāṇa, dulls tejas, and burdens agni with slow, sulphurous residue.
 

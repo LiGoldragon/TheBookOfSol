@@ -98,6 +98,8 @@ No controlled experiment has compared a cohort ingesting zero added chloride aga
 
 Meanwhile, the evidence of harm scales monotonically. Every increment of intake — measured in ward, in village, in strain of rat — produces a measurable increment of damage. No rebound emerges. No hormetic bend rescues the curve. From the data that exist, the least-harm endpoint is zero. This is not proof of zero's superiority. It is the extrapolation of an uninterrupted monotonic trend. The burden of proof is on whoever claims the curve reverses at doses they have never tested.
 
+One qualification, and it is small. Classical medicine did keep a use for salt — a minuscule *medicinal* trace of *saindhava* (rock salt), by specific indication, for digestion or applied to the tissues. That trace is the whole of its legitimate role, and it is a medicine, not a food. Ordinary dietary intake runs orders of magnitude beyond it: the Western plate sits roughly two orders of magnitude above the Yanomami, whose entire daily sodium is under a single grain of salt. A medicine taken by the spoonful at every meal is no longer a medicine; it is the poison the dose-line predicts. The medicinal exception does not rescue the food — it measures how far the food has overshot.
+
 A civilization that declares a substance essential without ever demonstrating its benefit, while accumulating thousands of demonstrations of its harm, is not practicing science. It is practicing habit under the vocabulary of science. The task of this essay is to notice that difference.
 
 ### VIII. The Ethical Consequence

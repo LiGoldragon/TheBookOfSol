@@ -371,7 +371,7 @@ Astringency in excess does what dryness in excess begins, then adds obstruction:
 > barley, rain water, milk, ghee and honey."\
 > — *Caraka Saṃhitā*, Sūtrasthāna 5.12, trans. Priya Vrat Sharma
 
-The single salt Caraka admits by name into the daily routine is *saindhava* — not *sāmudra* (sea salt, the table salt of modern kitchens).
+The single salt Caraka names in the daily routine is *saindhava* — not *sāmudra* (sea salt, the table salt of modern kitchens). Two cautions hold even there. First, *saindhava* is itself ~95–99% chloride of sodium, the same compound as sea salt, so it carries no exemption from the chloride toxicology; the classical preference for it is a *guṇa* judgment (the least burning, *tri-doṣa*-balancing salt), not a lower chloride load. Second, what is admitted "daily" is a *minuscule medicinal trace*, not a food — read against the one population free of the salt diseases (the Yanomami: ~1 mmol of sodium a day, under a single grain of salt, and added none), the classical "little salt" resolves to almost nothing. The full account is in [Salt — Dosage, Frequency, and Conditions](./Salt_Dosage_and_Conditions.md).
 
 ## VII. On the gourd family (trapusa, ervāruka, alābu, nārikela)
 

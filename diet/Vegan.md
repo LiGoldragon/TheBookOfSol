@@ -69,7 +69,7 @@ Reclaiming *vegan* as **exclusively vegetal** makes the boundary self-enforcing:
 - If it **desiccates, ossifies, embalms**, it isn't food.
 - Salt, by any name, fails both tests.
 
-**Operational rule:** *"No salt should ever be used on anything."*
+**Operational rule:** *"No salt should ever be used on anything."* The sole exception is medicinal — a minuscule trace of saindhava (rock salt) by specific indication — so small it leaves the rule intact: no salt as food, no salt "to taste," no salt on the plate.
 
 ## 6. Vegan, Defined for the Present Age
 

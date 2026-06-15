@@ -58,6 +58,8 @@ Salt is not rasāyana.\
 Liquid mineral concentrates are not rasāyana.\
 They remain lifeless, inert, and incompatible with the biological field.
 
+Salt holds one narrow use the others lack — a near-vanishing *medicinal* trace of *saindhava* (rock salt), by indication, for digestion or applied to the tissues. Even this is not nourishment: a medicine is not a *rasāyana*, and a trace far below any culinary amount is not a food. The exception is medicinal and minuscule; as nourishment, salt remains what the line says — not rasāyana.
+
 ### The Final Principle
 
 The living cannot eat the dead. Only life-transformed matter enters the pathways of tissue formation, Ojas building, and prāṇic coherence. Inorganic minerals—whether chewed as stones or swallowed as liquids—cannot nourish a living organism. Their effects manifest as irritation, burden, or accumulation because they lack the single quality essential for assimilation: life-origin.
