@@ -24,11 +24,12 @@ The foundation is anna — grain cooked in water. The Taittirīya Upaniṣad tra
 > From plants arises anna. From anna arises the human being.\
 > — *Taittirīya Upaniṣad* 2.2.1
 
-The body itself is described as *anna-rasa-mayaḥ* — made of the essence of anna. And the same section concludes with an equation that leaves no room for ambiguity:
+The body itself is described as *anna-rasa-mayaḥ* — made of the essence of anna. And in the Bhṛgu Vallī, where the seeker tests each sheath against the name of Brahman, the corpus reaches an equation that leaves no room for ambiguity:
 
-> **"annaṁ brahma iti vyajānāt."**\
-> He realized anna as Brahman.\
-> — *Taittirīya Upaniṣad* 2.2.4
+> **annaṁ brahmeti vyajānāt**
+>
+> "He realized anna as Brahman."\
+> — *Taittirīya Upaniṣad* 3.2 (Bhṛgu Vallī)
 
 Anna is not "food in general." It is a technical term with a fixed referent across the Sanskrit corpus: grain. Rice, barley, wheat. Cooked soft in ample water — the preparation Āyurveda names vilēpī, with thinner forms called peya and yavāgū.
 

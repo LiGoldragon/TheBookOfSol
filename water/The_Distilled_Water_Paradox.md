@@ -40,8 +40,10 @@ The ropes are the psyllium-bentonite mixture itself, molded by the colon into th
 
 The *Caraka Saṃhitā* identifies the pattern without euphemism:
 
-> **"mṛttikā-loha-bhakṣaṇaṃ tamaḥ-nimittam."**\
-> Eating earth or metal arises from tamas.
+> **mṛttikā-loha-bhakṣaṇaṃ tamaḥ-nimittam**
+>
+> "Eating earth or metal arises from tamas."\
+> — proverbial formulation, after the *Caraka Saṃhitā* (geophagy as tamasic)
 
 Tamas is not ignorance in the passive sense. It is the active dimming of discrimination, the collapse of the faculty that distinguishes between what nourishes and what burdens. A tamasic craving seeks density, heaviness, grounding through inertia. It mistakes the sensation of weight for the experience of stability.
 
@@ -49,13 +51,17 @@ The person who distills water has engaged *sattva* in one domain: clarity applie
 
 The *Caraka Saṃhitā* describes the physiology with clinical precision:
 
-> **"mṛttikā-bhakṣaṇam apāthyaṃ … rasānāṃ mārgān pidhāyati, vāyum uparuddhaṃ karoti."**\
-> Clay-eating is unwholesome. It obstructs the pathways of the vital fluids and causes the obstruction of vāyu.
+> **mṛttikā-bhakṣaṇam apāthyaṃ … rasānāṃ mārgān pidhāyati, vāyum uparuddhaṃ karoti**
+>
+> "Clay-eating is unwholesome. It obstructs the pathways of the vital fluids and causes the obstruction of vāyu."\
+> — proverbial formulation, after the *Caraka Saṃhitā* (on earth-eating)
 
 What the cleanser interprets as detoxification is obstruction. What is felt as release is the body forcing inert matter through and out. The organism is not being cleansed. It is being burdened and then recovering from the burden, and the recovery is mistaken for therapy.
 
-> **"mṛttikā-adhi-bhakṣaṇena śleṣmāṇaṃ codayet … tasya pāṇḍutā gauravaṃ śvāsaḥ."**\
-> By eating earth, kapha is provoked … resulting in pallor, heaviness, and difficulty breathing.
+> **mṛttikā-adhi-bhakṣaṇena śleṣmāṇaṃ codayet … tasya pāṇḍutā gauravaṃ śvāsaḥ**
+>
+> "By eating earth, kapha is provoked … resulting in pallor, heaviness, and difficulty breathing."\
+> — proverbial formulation, after the *Caraka Saṃhitā* (pāṇḍu-roga, on earth-eating)
 
 The "grounding" sensation that clay eaters report is this provocation. It is heaviness misread as stability, obstruction misread as calm, pallor misread as purification. The body has not been grounded. It has been buried.
 
@@ -89,17 +95,21 @@ Calling a rock a tool does not change what it is.\
 Calling earth a medicine does not change what it does.\
 Calling a cleanse a protocol does not change what enters the body.
 
-Only matter that has passed through *living* transformation — plant chelation within a living plant, metabolic refinement within a living organism — enters the pathways of genuine assimilation. This is the standard articulated by the *Bṛhadāraṇyaka Upaniṣad*:
+Only matter that has passed through *living* transformation — plant chelation within a living plant, metabolic refinement within a living organism — enters the pathways of genuine assimilation. This is the standard the Upaniṣadic tradition expresses:
 
-> **"yad bhūtam jāyate jīvenā."**\
-> That which has passed through life becomes fit to sustain life.
+> **yad bhūtaṃ jāyate jīvena**
+>
+> "That which has passed through life becomes fit to sustain life."\
+> — proverbial formulation, after the *Bṛhadāraṇyaka Upaniṣad*
 
 Ghee passes this test. Amarolī passes this test. Coconut water passes this test. Living fruits pass this test.
 
 Bentonite does not. Diatomaceous earth does not. Zeolite does not. Activated charcoal does not. Psyllium-clay shakes do not. Himalayan sole does not. No mineral of the earth passes this test, regardless of the deposit it was mined from, the brand it was sold under, or the story it was wrapped in.
 
-> **"mṛttikā-bhakṣaṇaṃ apāthyaṃ aśuci doṣa-kārakam ojas-hāri ca."**\
-> Clay-eating is unwholesome, impure, doṣa-aggravating, and depleting to ojas.
+> **mṛttikā-bhakṣaṇaṃ apāthyaṃ aśuci doṣa-kārakam ojas-hāri ca**
+>
+> "Clay-eating is unwholesome, impure, doṣa-aggravating, and depleting to ojas."\
+> — proverbial formulation, after the *Caraka Saṃhitā* (on earth-eating)
 
 ### Closing
 

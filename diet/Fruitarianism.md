@@ -33,7 +33,7 @@ Then the dispersion that clarified begins to dismantle. Internal fluids thin, lu
 > **kaṇṭhakūpe kṣutpipāsānivṛttiḥ**
 >
 > "By focused stillness on the pit of the throat, hunger and thirst come to cessation."\
-> — *Yoga Sūtra* 3.31
+> — *Yoga Sūtra* 3.30
 
 That cessation is the fruit of a stabilized inner fluid and breath, not of a thinning body stripped by sweetness. The fruitarian takes the early clearing for the high state, and meets the depletion instead.
 
