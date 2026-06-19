@@ -18,11 +18,11 @@ Open almost any book, blog, or Instagram feed marketed today under the heading *
 
 The primary texts of Ayurveda — the medical and yogic treatises written down roughly two thousand years ago — say something very different. They give an explicit list of what should not be eaten daily, and they call that list **apathya**: food "not suited to the path" of health. Read against their list, the modern recipe is the assembled negative image of what the tradition recommends, clause by clause.
 
-The essay translates and glosses what Ayurveda actually teaches about food, in the words of its own physicians and yogis, then sets the modern recipe against those teachings. Two errors in the recipe matter most. The first is that it contains too many ingredients. The second is that it is built around **chloride of sodium** — which, whether sold as table salt, sea salt, rock salt, pink Himalayan salt, Celtic salt, kosher salt, or *fleur de sel*, is the same chemical compound, a compound the classical texts classify as an inorganic poison alongside lead. These two errors alone are enough to disqualify the plate as Ayurvedic food, whatever the cookbook calls it. The remaining problems in the recipe — and there are several — only accelerate the damage.
+Two errors in the recipe matter most. The first is that it contains too many ingredients. The second is that it is built around **chloride of sodium** — which, whether sold as table salt, sea salt, rock salt, pink Himalayan salt, Celtic salt, kosher salt, or *fleur de sel*, is the same chemical compound, a compound the classical texts classify as an inorganic poison alongside lead. These two errors alone are enough to disqualify the plate as Ayurvedic food, whatever the cookbook calls it. The remaining problems in the recipe — and there are several — only accelerate the damage.
 
 ## Who is speaking: a short tour of the texts
 
-Before any argument, the voices in it are worth naming. The essay quotes six classical texts. Each appears several times; the reader benefits from knowing briefly who wrote it and when.
+Six classical texts carry the argument. Each appears several times; each rewards knowing briefly who wrote it and when.
 
 **Āyurveda** — literally *āyur-veda*, "the knowledge of life" — is the Indian medical tradition. Its canon is three treatises, known collectively as the *bṛhat-trayī*, the "Great Three":
 
@@ -211,7 +211,7 @@ Caraka states the principle in a single verse on the eating of earth and metal:
 >
 > "The eating of earth and metal arises from *tamas* —\
 > from inertia and the obscuration of intelligence."\
-> — *Caraka Saṃhitā* (doctrinal formulation, Sūtrasthāna tradition)
+> — proverbial formulation, after *Caraka Saṃhitā*
 
 *Tamas* is the third of the three qualities (*triguṇa*) in classical Indian thought — the quality of inertia, darkness, the failure of discrimination. Caraka's verse places the ingestion of inorganic mineral squarely in *tamas*: an act rooted in obscuration, a breakdown of the intelligence that would otherwise distinguish food from non-food.
 

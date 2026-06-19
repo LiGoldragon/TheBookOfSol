@@ -74,7 +74,7 @@ Set the plate down and read it against the corpus, item by item:
 - sprouted grains and legumes — *guru*, strength-reducing, fit only with fat and only for the strong (Sū. 27.265–267);
 - and the whole plate raw — *āma*-producing, because *na hy apakvād rasādayaḥ* (AH Śā. 3.54).
 
-There is no staple on the raw-vegan plate that the classical corpus admits as a raw daily food. Every one is a medicine, a seasonal accessory, or a heavy substance requiring *saṃskāra* and fat. The sanctioned staple the corpus does name is the one the raw plate excludes: *anna* — grain cooked soft in water and finished with *ghṛta* (Caraka Sū. 5.12; the yogic plate in [*Apathya*](./Apathya.md) §II). The raw-vegan plate is not a plate the tradition forgot to praise; it is a plate the tradition examined, food by food, and conditioned out of the daily diet.
+There is no staple on the raw-vegan plate that the classical corpus admits as a raw daily food. Every one is a medicine, a seasonal accessory, or a heavy substance requiring *saṃskāra* and fat. The sanctioned staple the corpus does name is the one the raw plate excludes: *anna* — grain cooked soft in water and finished with *ghṛta* (Caraka Sū. 5.12; the yogic plate in [*Apathya*](./Apathya.md) §II). The tradition examined this plate food by food and conditioned every item out of the daily diet.
 
 ## Sources
 

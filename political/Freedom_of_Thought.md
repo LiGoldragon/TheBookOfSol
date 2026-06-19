@@ -16,7 +16,7 @@ The distinction is definitional. Confusion enters only when terms are corrupted 
 
 > "The beginning of wisdom is the definition of terms."
 >
-> — *Socrates*, as reported by Plato, *Phaedrus*
+> — proverbial maxim, after Socrates (not located in Plato's dialogues)
 
 Theft requires loss. Property requires scarcity. Law requires justice. Once these terms are restored to their proper meanings, the edifice of "intellectual property" collapses without resistance. No one loses an idea when another learns it. No one is deprived of use when another copies. No injury occurs, and therefore no injustice arises.
 
@@ -42,7 +42,7 @@ The ancient tradition is unambiguous on this point. Law severed from justice is 
 
 > "An unjust law is no law at all."
 >
-> — *Plutarch*, *Moralia*
+> — *Augustine*, *De Libero Arbitrio*, Book I
 
 Modern economic reasoning reaches the same conclusion by another path. Property rules exist to manage scarcity and prevent conflict. Extending ownership to non-scarce ideas manufactures artificial scarcity and creates conflict where none existed, rewarding control over expression rather than productive labor.
 

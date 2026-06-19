@@ -347,19 +347,19 @@ Astringency in excess does what dryness in excess begins, then adds obstruction:
 
 ## VI. On salt — the eight varieties and the *saindhava* exception
 
-### Caraka Sū. (on the five salts)
+### Caraka Sū. 1.88–91 — on the five salts
 
 > "*Sauvarcala* (obtained from plants like suvarcalā etc.),\
 > *saindhava* (rock salt), *viḍa* (obtained from excreta),\
 > *audbhida* (obtained from earth) along with *sāmudra* (obtained from sea water)\
 > are the five salts. They are unctuous, hot, sharp,\
 > best promoters of digestion..."\
-> — *Caraka Saṃhitā*, Sūtrasthāna, on the *lavaṇa-varga*, trans. Priya Vrat Sharma
+> — *Caraka Saṃhitā*, Sūtrasthāna 1.88–91, trans. Priya Vrat Sharma
 
-### Aṣṭāṅga Hṛdaya — the saindhava exception
+### Aṣṭāṅga Hṛdaya Sū. 10.34cd — the saindhava exception
 
 > "Generally, salts are bad for the eyes (vision), except *saindhava*."\
-> — *Aṣṭāṅga Hṛdaya*, Sūtrasthāna, on the *rasa-dravya-guṇa* classification, trans. Srikantha Murthy
+> — *Aṣṭāṅga Hṛdaya*, Sūtrasthāna 10.34cd, trans. Srikantha Murthy
 
 ### Caraka Sū. 5.12 — salt admitted to the daily diet is saindhava
 
@@ -454,7 +454,7 @@ The fat is *ghṛta*. Not *taila* (oil). The Yogic and the Ayurvedic corpora con
 > and with a definite objective."\
 > — *Caraka Saṃhitā*, Sūtrasthāna 26.12, trans. Priya Vrat Sharma
 
-The distinction between *auṣadha* (medicine) and *āhāra* (food) is not that different substances inhabit the two categories; it is that the same substance, given with indication and dose, is *auṣadha*, and given without them is *āhāra* — or, when wrongly used, is harm. Daily "blooming" of kaṭu-tīkṣṇa spices at every meal is the administration of *auṣadha* without indication — which this verse already classifies as poisoning by misuse.
+The same substance divides into *auṣadha* (medicine) and *āhāra* (food) by use, not by kind: given with indication and dose, it is *auṣadha*; given without them, *āhāra*; given wrongly, harm. Daily "blooming" of kaṭu-tīkṣṇa spices at every meal is the administration of *auṣadha* without indication — which this verse already classifies as poisoning by misuse.
 
 ### Caraka Sū. 4.8(6) — the ten appetisers (*dīpanīya*)
 
@@ -488,12 +488,12 @@ The appetisers are classified — and therefore circumscribed. They are drugs, w
 > "From plants arises *anna*. From *anna* arises the human being."\
 > — *Taittirīya Upaniṣad* 2.2.1
 
-### Taittirīya Upaniṣad 2.2.4 — food as Brahman
+### Taittirīya Upaniṣad 3.2 — food as Brahman
 
 > **annaṁ brahmeti vyajānāt.**
 >
 > "He knew *anna* as Brahman."\
-> — *Taittirīya Upaniṣad* 2.2.4
+> — *Taittirīya Upaniṣad* 3.2 (Bhṛgu Vallī)
 
 ### Bṛhadāraṇyaka Upaniṣad — prāṇa as amṛta
 

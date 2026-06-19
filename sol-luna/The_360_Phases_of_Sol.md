@@ -1,4 +1,6 @@
-A comprehensive summary of the 360 symbolic phases of Sol, or of the Zodiac, which the Babylonians called *Shars*, also known as the Sabian Symbols, as reinterpreted by Dane Rudhyar. These symbols are presented as a cycle of transformation, divided into acts and scenes, detailing a process of individual and collective evolution.
+# The 360 Phases of Sol
+
+The Sun crosses three hundred and sixty degrees of the zodiac, and each degree carries its own image. The Babylonians counted these degrees in *Shars*; the modern reading descends from the Sabian Symbols received by Elsie Wheeler for Marc Edmund Jones in 1925 and reinterpreted by Dane Rudhyar as a single cycle of transformation moving from the first impulse of being toward collective fulfilment.
 
 ### **First Hemicycle: The Process of Individualization**
 
@@ -447,3 +449,8 @@ This half of the cycle focuses on the individual's integration into the group an
 - **Pisces 28°:** A fertile garden under the full moon reveals a variety of full-grown vegetables; symbolizes the full satisfaction of the individual's basic needs.
 - **Pisces 29°:** Light breaking into many colors as it passes through a prism; represents the analytical power of the mind necessary for the formulation of life processes in their many aspects.
 - **Pisces 30°:** A majestic rock formation resembling a face is idealized by a boy who takes it as his ideal of greatness, and as he grows up, begins to look like it; signifies the power of clearly visualized ideals to mold the life of the visualizer.
+
+### References
+
+- The Sabian Symbols were received in 1925 by the clairvoyant Elsie Wheeler for the astrologer Marc Edmund Jones.
+- Dane Rudhyar, *An Astrological Mandala: The Cycle of Transformations and Its 360 Symbolic Phases* (Vintage Books, 1973). The interpretations above follow Rudhyar's reading.

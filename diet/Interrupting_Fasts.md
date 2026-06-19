@@ -1,6 +1,6 @@
 # Interrupting Fasts
 
-## *The Shock of Eating Earth: How Inorganic Matter Triggers Emergency and Derails a Fast*
+## *Inorganic Matter and the Broken Fast*
 
 Fasting shifts the entire organism inward. Metabolic force turns toward repair, unused debris begins to loosen, and the channels open for real cleansing. This inward momentum depends on one thing: nothing enters that forces the body to reverse direction.
 
@@ -8,25 +8,28 @@ When inorganic matter is swallowed (clay, soil, powdered rock, or any dead miner
 
 Āyurveda expresses this directly:
 
-> **"mṛttikā-bhakṣaṇaṃ doṣa-kārakam ojas-hāri."**\
-> Ingesting earth disturbs the system and diminishes Ojas.
+> **mṛttikā-bhakṣaṇaṃ doṣa-kārakam ojas-hāri**\
+>
+> "Ingesting earth disturbs the doṣas and diminishes ojas (the refined essence of digestion that underlies vitality)."\
+> — proverbial formulation, after *Caraka Saṃhitā*
 
 There is nothing gentle about this disturbance.\
 Clay does not pass through unnoticed. It triggers a cascade: dilution, agitation, forced movement, and sudden downward evacuation. The organism shifts from inward purification to outward defense. Energy is pulled away from subtle detox and pushed toward eliminating what has entered.
 
 This creates the impression of "strong detox." The mechanism is **emergency expulsion**.
 
-The phenomenon resembles what happens when heavy proteins enter the system: metabolism surges, heat rises, digestion becomes aggressive. The body is not nourished; it is rejecting. With inorganic minerals, the incompatibility is even greater. They cannot be transformed or integrated. They must be moved out with force.
+The phenomenon resembles what happens when heavy, dense residues enter the system: metabolism surges, heat rises, digestion becomes aggressive. The body is rejecting the intrusion, not assimilating it. With inorganic matter, the incompatibility is even greater. They cannot be transformed or integrated. They must be moved out with force.
 
 Āyurveda's principle clarifies why:
 
-> **"jīvena jīvam āpyate."**\
-> Life can only take in what is alive.\
-> — *jīvena*: by means of the living principle; the dative of *jīva*, "life," names the active agent in assimilation
+> **jīvena jīvam āpyate**\
+>
+> "Life takes in only what is alive."\
+> — proverbial formulation, after *Bṛhadāraṇyaka Upaniṣad*
 
-What has no life cannot join the tissues. It can only be expelled, and expulsion requires energy. The detox wave that follows clay is crisis-driven clearing.
+The instrumental *jīvena*, "by means of the living principle," names the active agent in assimilation: only the living draws in the living. What has no life cannot join the tissues. It can only be expelled, and expulsion requires energy. The detox wave that follows clay is crisis-driven clearing.
 
-A fast is not just interrupted by clay; it is **overridden**.\
+Clay **overrides** the fast entirely.\
 The inward movement collapses, and the organism treats the intrusion as its new priority. The rapid purge that follows is evidence of alarm.
 
 To soften a detox wave without derailing the fast, take a small amount of simple, living food: rice, buckwheat, or another gentle staple. These slow the process without sending the body into defensive overdrive. They moderate without obstructing.

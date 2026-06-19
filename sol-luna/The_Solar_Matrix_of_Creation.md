@@ -7,7 +7,7 @@
 
 ## 1. From Geometry to Genesis
 
-The earlier essay traced the zodiac to the Sun's motion along the ecliptic, a living cycle of ascent and descent above a stationary Earth. Ptolemy and the *Sūrya Siddhānta* both described this motion as the primary rhythm of the universe: the Sun breathing north and south through the year, dividing time into twelve equal arcs of light.
+The zodiac traces to the Sun's motion along the ecliptic, a living cycle of ascent and descent above a stationary Earth. Ptolemy and the *Sūrya Siddhānta* (the classical Indian astronomical treatise) both described this motion as the primary rhythm of the universe: the Sun breathing north and south through the year, dividing time into twelve equal arcs of light.
 
 Yet this solar geometry, precise as it is, tells only part of the story. Where the ancients defined the structure, Rudhyar articulated its meaning. The zodiac is the *field* through which all motion becomes form. It is the **matrix of life itself**.
 
@@ -15,9 +15,10 @@ Yet this solar geometry, precise as it is, tells only part of the story. Where t
 
 Rudhyar called the zodiac "the electrical field of the Earth." In his view, every planet and luminary moves within this field, *exciting* it like tuning forks within a resonant chamber. The "influence" of astrology **emanates from the zodiac itself**, continuously permeating the Earth as an electromagnetic ocean of formative power; the planets serve only as focal points that release that emanation.
 
-> "The planets merely activate and focus or emphasize such emanations. The planets and the lights produce focal points for the release of the zodiacal emanations completely surrounding us."
+> "The planets merely activate and focus or emphasize such emanations. The planets and the lights produce focal points for the release of the zodiacal emanations completely surrounding us."\
+> — Dane Rudhyar, *The Zodiac as the Universal Matrix*
 
-This turns the ancient solar path into an active, self-sustaining atmosphere of meaning, an invisible architecture of order. The twelve divisions of the Sun's circle become not just seasonal markers but twelve **currents of creative electricity**, forever shaping the biosphere.
+This turns the ancient solar path into an active, self-sustaining atmosphere of meaning, an invisible architecture of order. The twelve divisions of the Sun's circle become twelve **currents of creative electricity**, forever shaping the biosphere — seasonal markers raised into living forces.
 
 ## 3. The Stationary Earth Re-envisioned
 
@@ -35,7 +36,8 @@ Thus, when the Sun enters Aries, it does not impose heat or impulse from outside
 
 Rudhyar's "Universal Matrix" bridges physics and metaphysics. It is at once electromagnetic and archetypal, a field of structured energy that is also a field of meaning. The zodiac's twelve signs are twelve *functions* of creative intelligence, the ways in which the universe perpetually generates, organizes, and transforms itself.
 
-> "These 'architects' represent Formative Power, or Creative Power, or Spirit. Thus we move very easily from the concept of electromagnetic field to that of the zodiac being the expression of the 'Twelve Creative Hierarchies' of universal Life."
+> "These 'architects' represent Formative Power, or Creative Power, or Spirit. Thus we move very easily from the concept of electromagnetic field to that of the zodiac being the expression of the 'Twelve Creative Hierarchies' of universal Life."\
+> — Dane Rudhyar, *The Zodiac as the Universal Matrix*
 
 The zodiac, then, is the very skeleton of consciousness, the pattern by which unity articulates itself into diversity and returns again to unity through time.
 
@@ -76,7 +78,7 @@ Together they form the **full circuit of manifestation**, the pulse by which Spi
 
 ## 10. The Living Zodiac
 
-The zodiac is not above us but within us. It is the field of the Earth, the pulse of the Sun, and the rhythm of consciousness. It is both physical and metaphysical, electromagnetic and archetypal, the *body of Spirit* itself. Every plant, animal, and mind moves through its harmonies as expressions of one living order.
+The zodiac is within us, not above us. It is the field of the Earth, the pulse of the Sun, and the rhythm of consciousness. It is both physical and metaphysical, electromagnetic and archetypal, the *body of Spirit* itself. Every plant, animal, and mind moves through its harmonies as expressions of one living order.
 
 To know the zodiac is to hear the voice of the cosmos in the language of geometry, light, and form, the language by which the universe continually says: *become what you already are.*
 

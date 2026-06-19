@@ -6,8 +6,6 @@
 
 Greek culture is the one classical civilization that most openly loved salt. The word *hals* (ἅλς) meant both "salt" and "sea." Salt was traded, prized, taxed, and in specific contexts sanctified. The Table Talk of Plutarch preserves the argument *for* salt's divinity more vigorously than the argument against. And yet — the same Greek culture preserved, with unbroken continuity from Homer to Plutarch, three distinct witnesses against salt's place at the honest table: the blessed inland people of the *Odyssey*, the priests of Isis transcribed into Plutarch's *Isis and Osiris*, and the Pythagorean tradition of abstention. The Greek paradox is that the culture that most loved salt also preserved, more carefully than any other, the testimony of those who refused it.
 
-The present file collects those three witnesses in their actual language.
-
 ## Homer — The Prophecy of the Saltless People
 
 The *Odyssey* preserves the prophecy of Teiresias to Odysseus in the underworld. After the hero has returned home and set his house in order, he must travel once more — inland, beyond the reach of the sea — until he finds a people who neither know the sea nor eat food mixed with salt. There he shall plant his oar, offer sacrifice, and at last receive a gentle death.
@@ -39,7 +37,7 @@ Plutarch's two works preserve the memory of the Egyptian priestly abstention fro
 > "The priests especially abstain from salt, and do not even eat bread that contains salt; there are many reasons for this, but one is that salt, by sharpening the appetite, makes men more intemperate in eating and drinking."\
 > — *Plutarch, De Iside et Osiride* 5 (Moralia 352F), trans. F. C. Babbitt (Loeb Classical Library)
 
-The phrase is surgical. The priests do not merely moderate salt. They abstain from it so strictly that even bread baked with salt is excluded. Plutarch gives one of several reasons — *salt sharpens appetite, making men intemperate*. The underlying observation is physiological: the mouth on salt is the mouth that wants more of everything. The priestly discipline requires the mouth that is satisfied.
+The priests abstain so strictly that even bread baked with salt is excluded. Plutarch gives one of several reasons — *salt sharpens appetite, making men intemperate*. The underlying observation is physiological: the mouth on salt is the mouth that wants more of everything. The priestly discipline requires the mouth that is satisfied.
 
 ### From the Table Talk (Moralia 684F–685A)
 
@@ -58,7 +56,7 @@ And the further reason — that salt is a delicacy, a seasoning that makes food 
 > "It is just as probable that they protest against salt because it is delicious as a seasoning, for salt is very nearly a seasoning and condiment to other seasonings; some even call it *charites* (joys), because it makes needful food enjoyable."\
 > — *Plutarch, Quaestiones Convivales* V.10.2 (Moralia 685A–B), trans. De Lacy
 
-The priestly logic, as Plutarch preserves it, rests on three observations: (1) salt inflames appetite, (2) salt provokes sexual heat, (3) salt makes food enjoyable beyond what austerity permits. All three are incompatible with the priestly discipline. The priests are therefore abstaining for clear and physiological reasons — exactly the reasons the Indian dharmic tradition preserves for its own *aluṇa-vrata*.
+The priestly logic, as Plutarch preserves it, rests on three observations: (1) salt inflames appetite, (2) salt provokes sexual heat, (3) salt makes food enjoyable beyond what austerity permits. All three are incompatible with the priestly discipline. The priests are therefore abstaining for clear and physiological reasons — exactly the reasons the Indian dharmic tradition preserves for its own *aluṇa-vrata* (the saltless vow).
 
 ### The cross-cultural convergence
 

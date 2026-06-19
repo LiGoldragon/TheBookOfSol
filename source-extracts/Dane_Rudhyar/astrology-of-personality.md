@@ -34,7 +34,7 @@ And, finally, the definition of *personality* that the book has carried since 19
 
 ## II. The Prelude — astrology as the history of man's response to nature
 
-Rudhyar opens the body of the book with a major reorientation: astrology is not a fixed body of doctrine handed down from Egypt and Chaldea through Ptolemy and the Middle Ages. It is the *index of the prevailing relationship between human consciousness and nature*, and that relationship has gone through several historical stages.
+Rudhyar opens the body of the book with a major reorientation: astrology is the *index of the prevailing relationship between human consciousness and nature*, not a fixed body of doctrine handed down from Egypt and Chaldea through Ptolemy and the Middle Ages. That relationship has gone through several historical stages.
 
 > "The history of astrology is the history of the successive transformations of man's attitude to Nature — external nature, perceived through sense-impressions; and as well, internal or 'human' nature, the sum total of those physiological and psychological phenomena which somehow man calls his own."\
 > — Dane Rudhyar, *The Astrology of Personality*, "Prelude to a History of Astrology"
@@ -49,7 +49,10 @@ The Ptolemaic astrology Europe inherited is, in Rudhyar's view, *the late-Greek 
 
 He identifies three successive stages, all of which still operate at different levels in today's astrologies:
 
-**The Animistic Stage** — astrology as personification of stars and planets; the *star-quality* is read from the quality of the light. Comparable to a pre-spectrum-analysis intuition of the same data: *"Curiously enough, we are not so far from a classification of stars on the basis of spectrum analysis! Only instead of using a prism to determine the quality of the light, objectively and analytically, primitive man experienced subjectively this light, and projected back into the star the result of this psychic identification."*
+**The Animistic Stage** — astrology as personification of stars and planets; the *star-quality* is read from the quality of the light, a pre-spectrum-analysis intuition of the same data:
+
+> "Curiously enough, we are not so far from a classification of stars on the basis of spectrum analysis! Only instead of using a prism to determine the quality of the light, objectively and analytically, primitive man experienced subjectively this light, and projected back into the star the result of this psychic identification."\
+> — Dane Rudhyar, *The Astrology of Personality*, "The Animistic Stage"
 
 **The Vitalistic Stage** — astrology as the study of life-cycles. Sun, Moon, planets become not entities to be worshipped but pointers to the cyclic rhythms of life on earth. The seasonal calendar, the agricultural rite, the Yi Jing of 64 hexagrams, the dualism of Yang and Yin, the four cardinal points of the year — all belong here.
 
@@ -115,7 +118,7 @@ The bulk of the book's second half is a systematic re-reading of the standard as
 
 **The houses as space-fields, not time-divisions.** Each house is a 30° section of the individual's space, named by what kind of experience that field carries. The first house is the field of *self-presentation*; the seventh, of *relationship*; the tenth, of *social fulfillment*. (Rudhyar's later books — *The Astrological Houses*, 1972 — develop this in full.)
 
-**The signs as twelve phases of one cycle.** Each sign is named by its place in the seasonal-cyclic year and read as a *moment of process*: Aries the spring-impulse, Cancer the inward-turning, Libra the outward relating, Capricorn the structural maturation. The signs are not stations of fixed character but *qualities of becoming*.
+**The signs as twelve phases of one cycle.** Each sign is named by its place in the seasonal-cyclic year and read as a *moment of process*: Aries the spring-impulse, Cancer the inward-turning, Libra the outward relating, Capricorn the structural maturation. Each sign is a *quality of becoming*, a moment of process rather than a station of fixed character.
 
 **The planets as functions of the integral psyche.** Sun is selfhood, Moon the response of the personal to the impersonal, Mercury the mediating mind, Venus the magnetism of valuation, Mars the projecting outgoing energy. The trans-Saturnian planets (Uranus, Neptune, Pluto) are the *drives toward transformation* — what Rudhyar will, in 1948, call the *Promethean* function.
 

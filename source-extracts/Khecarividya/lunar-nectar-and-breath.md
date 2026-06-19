@@ -58,5 +58,5 @@ The 128 sequence — *sour, pungent, bitter, milky, sweet, syrupy* — is the si
 
 ## Sources
 
-- Mallinson, James (ed. and trans.). 2007. *The Khecarīvidyā of Ādinātha: A Critical Edition and Annotated Translation of an Early Text of Haṭhayoga*. Routledge Studies in Tantric Traditions. London: Routledge. Bibliography path: [`en/adinatha/`](https://github.com/LiGoldragon/bibliography/tree/main/en/adinatha).
-- Mallinson, James, and Mark Singleton. 2017. *Roots of Yoga*. Penguin Classics. Bibliography path: [`en/mallinson-singleton/`](https://github.com/LiGoldragon/bibliography/tree/main/en/mallinson-singleton).
+- Mallinson, James (ed. and trans.). 2007. *The Khecarīvidyā of Ādinātha: A Critical Edition and Annotated Translation of an Early Text of Haṭhayoga*. Routledge Studies in Tantric Traditions. London: Routledge. Library entry: `~/primary/repos/library/en/adinatha/`.
+- Mallinson, James, and Mark Singleton. 2017. *Roots of Yoga*. Penguin Classics. Library entry: `~/primary/repos/library/en/mallinson-singleton/`.

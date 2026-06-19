@@ -162,10 +162,10 @@ The essence is what the body wants when the body is thirsty. It has already pass
 
 This makes the essence the appropriate fluid for any use water has. Drinking. Cooking porridge and grain. Hydrating the skin. Lubricating the channels — nose, ear, eye. Enemas. Yoni infusion. Mixing with ghee for *anupāna*. Anywhere the kitchen or the body asks for a fluid, the essence does the work more readily than water, because it is closer to what the body is going to make of it. Rain water and distilled water still need to become plasma; the essence already is.
 
-The *Damar Tantra* names the practice (*amarolī*, from *amara* — undying) and gives its dietary precondition:
+The *Ḍāmara Tantra* names the practice (*amarolī*, from *amara* — undying) and gives its dietary precondition:
 
 > "The follower of the therapy should avoid pungent, salty ingredients in his meals. He should not over-exert himself. He should follow a balanced and light diet."\
-> — *Damar Tantra* Verse 5
+> — *Ḍāmara Tantra* Verse 5
 
 The Ambrosian diet again, this time as the precondition for the practice that closes the external loop. Both plasmas remain usable; the diet shifts the proportion. A salt-sour-bitter plasma is harder to return: more of what the body released was disbalance it had to clear, and aging and distillation have to do more of the work the diet did not. A *madhura-snigdha* plasma comes back more readily, because less of what was released was disbalance to begin with, and the refinement that aging and the still perform is closer to a polish than a rescue. The scaffolding for the practice (collection, aging, distillation, fraction storage, applications) lives in [Plasma Recycling Manual](./Plasma_Recycling_Manual.md).
 

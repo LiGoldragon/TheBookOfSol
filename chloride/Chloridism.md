@@ -6,7 +6,7 @@
 
 The compound commonly abbreviated as NaCl is conventionally named in English as "sodium chloride." This construction is chemically permissible but conceptually misleading. In all major Latin languages, the compound is named with greater precision: *chlorure de sodium* in French, *cloruro de sodio* in Spanish, *cloruro di sodio* in Italian. Each of these renders the compound as "chloride of sodium," placing chloride first as the substantive and sodium as the carrier.
 
-This ordering reflects the true biological reality of the compound. Sodium, a relatively stable cation, serves primarily as a transport partner. Chloride, by contrast, is the reactive and destabilizing component once the compound is dissolved in blood plasma. To speak of "chloride of sodium" is therefore not merely linguistic fidelity to Romance grammar, but an accurate description of the agent that exerts physiological effect.
+This ordering reflects the true biological reality of the compound. Sodium, a relatively stable cation, serves primarily as a transport partner. Chloride, by contrast, is the reactive and destabilizing component once the compound is dissolved in blood plasma. To speak of "chloride of sodium" follows Romance grammar and, more to the point, describes the agent that exerts the physiological effect.
 
 English usage obscures this asymmetry. By foregrounding "sodium," the phrase "sodium chloride" suggests a neutral pairing of equals and conceals the identity of the active disruptor. Re-centering the compound as chloride of sodium restores analytical clarity and aligns language with function.
 
@@ -18,11 +18,11 @@ The resulting sensations—heightened appetite, momentary stimulation, a sense o
 
 ### Chloride and the Narcotic Pattern
 
-A narcotic is defined not by immediate sedation, but by the pattern it induces: stimulation followed by depletion, craving driven by the aftermath of prior exposure, and progressive harm masked by transient relief. Chloride of sodium fits this definition with precision.
+A narcotic is defined by the pattern it induces: stimulation followed by depletion, craving driven by the aftermath of prior exposure, and progressive harm masked by transient relief. Chloride of sodium fits this definition with precision.
 
-Ancient observers recognized this pattern without recourse to modern instrumentation. Plutarch records that the priests of Isis excluded salt entirely from their meals, regarding it as impure and as an agent that inflamed appetite and disturbed continence. Salt was not merely avoided in excess; it was refused altogether, even from the table, as a contaminant of clarity and restraint.
+Ancient observers recognized this pattern without recourse to modern instrumentation. Plutarch records that the priests of Isis excluded salt entirely from their meals, regarding it as impure and as an agent that inflamed appetite and disturbed continence. The priests refused salt altogether, even from the table, treating it as a contaminant of clarity and restraint.
 
-Scriptural language reinforces the same understanding. Salt appears as a symbol of desolation and curse: the pillar of salt, the salted fields of conquered cities, the land of wormwood and salt where nothing grows. In each case, salt signifies rigidity, lifelessness, and separation from fertility. These are not metaphors chosen at random; they mirror the physiological consequences of chronic chloride burden.
+Scriptural language reinforces the same understanding. Salt appears as a symbol of desolation and curse: the pillar of salt, the salted fields of conquered cities, the land of wormwood and salt where nothing grows. In each case, salt signifies rigidity, lifelessness, and separation from fertility. These metaphors mirror the physiological consequences of chronic chloride burden.
 
 ### Inorganic Chloride and Biological Incompatibility
 
@@ -30,7 +30,7 @@ Vedic and Āyurvedic frameworks articulate a foundational principle: only matter
 
 The Caraka Saṃhitā associates the ingestion of earths and metals with *tamas*: inertia, heaviness, and obscuration. When such matter enters a living organism, no pathway of true assimilation exists. The body can only react through irritation, forced elimination, or pathological deposition. Chloride of sodium exemplifies this incompatibility. It is an inorganic mineral introduced directly into plasma in concentrated form, bypassing any life-mediated transformation.
 
-The sensations it provokes are therefore misread. Tingling, sharp taste, transient stimulation, or a sense of grounding are not signs of nourishment but markers of disturbance. The organism is responding to insult, not receiving sustenance.
+The sensations it provokes are therefore misread. Tingling, sharp taste, transient stimulation, or a sense of grounding are markers of disturbance, mistaken for signs of nourishment. The organism is responding to insult, not receiving sustenance.
 
 ### Experimental Confirmation of Chloride Toxicity
 

@@ -70,7 +70,7 @@ The single most direct statement on the necessity of external cooking sits two v
 > *agni* is the cause of it. **From uncooked food, *rasa* and the rest do not arise.**"\
 > — *Aṣṭāṅga Hṛdaya* Śārīrasthāna 3.54
 
-*Na hy apakvād rasādayaḥ* — "from uncooked food, *rasa* and the rest do not arise." Six words that close the case. *Rasa-dhātu* — the first nutritive juice from which all subsequent tissues are built — does not form from raw input. The chain *anna* → *rasa* → *rakta* → *māṃsa* → *medas* → *asthi* → *majjā* → *śukra* → *ojas* → *prāṇa* begins at *pāka* (cooking). Skip the cooking, and the chain does not start.
+*Na hy apakvād rasādayaḥ* — "from uncooked food, *rasa* and the rest do not arise." Six words that close the case. *Rasa-dhātu* — the first nutritive juice from which all subsequent tissues are built — does not form from raw input. The chain *anna* → *rasa* → *rakta* → *māṃsa* → *medas* → *asthi* → *majjā* → *śukra* → *ojas* (the refined essence of vitality) → *prāṇa* begins at *pāka* (cooking). Skip the cooking, and the chain does not start.
 
 The same principle holds for the *guṇas* (qualities) of substances. Cooking is a *saṃskāra* — a processing operation that *transforms* the substance. The transformation is named, classified, used:
 
@@ -86,7 +86,7 @@ The same principle holds for the *guṇas* (qualities) of substances. Cooking is
 
 The same rice — light when well-cooked, heavy when poorly cooked. The verse refutes any claim that cooked food is intrinsically heavier than its uncooked form. Cooking *lightens* the rice. Cooking it warm and serving it warm keeps it light.
 
-The rule reaches the raw-food plate's own staples. The heavy, unctuous nut — almond, walnut, pistachio — the *Caraka Saṃhitā* names *guru* (heavy) and *uṣṇa* (hot), aggravating to *kapha* and *pitta*, the kind of food the classical kitchen soaks or roasts before it is eaten; the raw plate takes it raw, by the handful. The sprouted grain, eaten raw as the substitute for cooked rice, the same chapter files among the *guru* preparations, for germination does not perform the *saṃskāra* that fire performs (*Caraka Saṃhitā*, Sūtrasthāna 27). What the stove would lighten, the raw plate leaves heavy, and hands the unfinished work to the belly's fire.
+The rule reaches the raw-food plate's own staples. The heavy, unctuous nut (almond, walnut, pistachio) the *Caraka Saṃhitā* names *guru* (heavy) and *uṣṇa* (hot), aggravating to *kapha* and *pitta*, the kind of food the classical kitchen soaks or roasts before it is eaten; the raw plate takes it raw, by the handful. The sprouted grain, eaten raw as the substitute for cooked rice, the same chapter files among the *guru* preparations, for germination does not perform the *saṃskāra* that fire performs (*Caraka Saṃhitā*, Sūtrasthāna 27). What the stove would lighten, the raw plate leaves heavy, and hands the unfinished work to the belly's fire.
 
 The yogic register converges:
 
@@ -106,11 +106,11 @@ The yogic register converges:
 
 The two adjectives that describe the yogic plate are *snigdha* (unctuous) and *madhura* (sweet). Raw vegetables are rarely *snigdha*; they carry water, not unctuosity. Cooked grain finished with *ghṛta* is the canonical *snigdha-madhura* preparation. The yogic body is fed by what the stove has prepared.
 
-This is an argument for cooking the staple, not a rule that nothing may be eaten raw. The tradition keeps a short list of things taken uncooked by design, and it guards them. Honey is the strict case: Caraka forbids heating it — "honey, if heated, becomes fatal due to its association with poisons" (Sū. 27.243–246) — so the sweet the corpus most prizes is the one it insists stay raw. Ripe fruit in season is eaten raw by indication; fresh buttermilk, curd, and butter are taken uncooked. The fire belongs to the *staple* — the grain, the heavy, the unripe. What the texts refuse is the inversion that makes the raw plate the staple and the cooked grain the exception.
+This is an argument for cooking the staple, not a rule that nothing may be eaten raw. The tradition keeps a short list of things taken uncooked by design, and it guards them. Honey is the strict case: Caraka forbids heating it ("honey, if heated, becomes fatal due to its association with poisons," Sū. 27.243–246), so the sweet the corpus most prizes is the one it insists stay raw. Ripe fruit in season is eaten raw by indication; in the medical register fresh buttermilk, curd, and butter are taken uncooked, though the yogic *apathya* bars *dadhi* and *takra* for the practitioner under discipline. The fire belongs to the *staple*: the grain, the heavy, the unripe. What the texts refuse is the inversion that makes the raw plate the staple and the cooked grain the exception.
 
 ## The Hidden Fear — Fear of Tapas
 
-The fruitarian and raw-food movements present themselves as paths of purity. They invert the classical position on cooking, but they keep the classical vocabulary — purity, lightness, vitality, sattva, prāṇa. The vocabulary does the rhetorical work the substance no longer can.
+The fruitarian and raw-food movements present themselves as paths of purity. They invert the classical position on cooking, but they keep the classical vocabulary — purity, lightness, vitality, sattva (clarity, the balancing guṇa), prāṇa. The vocabulary does the rhetorical work the substance no longer can.
 
 Underneath the inversion is a more interesting fact. The classical traditions place Agni and *tapas* together as two manifestations of one principle. *Tapas*, from the Sanskrit verbal root √*tap*, "to heat, burn, glow," names the heat of discipline — friction applied inward, generating from within what no external practice can supply. The Ṛgveda names *tapas* at the cosmogonic origin:
 
@@ -138,7 +138,7 @@ Patañjali names *tapas* first among the components of the yoga of action:
 
 The yogic path begins with internal heat. The Hatha Yoga Pradīpikā teaches *bhastrikā*, *kapālabhāti*, and *sūrya-bhedana* — pranayamas whose entire purpose is to *increase* internal fire. Yoga, in its classical register, is the cultivation of internal *agni* until it consumes accumulated impurity.
 
-The fear of cooking is one face of the fear of *tapas*. Cooking is friction applied to substance — the heat of the flame breaking down cell walls, releasing rasa, transforming the grain from one state into another. The eater who refuses to cook is refusing to apply friction to his food, and behind that refusal sits a deeper refusal: to apply friction to *himself*. The smoothie hides what the cooking pot reveals — that to eat is to participate in transformation, and to participate in transformation is to be transformed in turn.
+The fear of cooking is one face of the fear of *tapas*. Cooking is friction applied to substance: the heat of the flame breaking down cell walls, releasing rasa, transforming the grain from one state into another. The eater who refuses to cook is refusing to apply friction to his food, and behind that refusal sits a deeper refusal: to apply friction to *himself*. The smoothie hides what the cooking pot reveals, that to eat is to participate in transformation, and to participate in transformation is to be transformed in turn.
 
 The Bhagavad Gītā names the threefold tapas:
 
@@ -177,7 +177,7 @@ The Bhagavad Gītā names the diagnostic with precision. There is a kind of renu
 > and obtains no fruit of renunciation."\
 > — *Bhagavad Gītā* 18.8
 
-Two diagnoses, both fitting. The fruitarian who refuses to cook *because cooking is troublesome* fits 18.8 — *rājasa* avoidance. The fruitarian who refuses to cook *because he believes raw is purer* fits 18.7 — *tāmasa* avoidance, abandonment-from-delusion. Either way, the *tyāga-phala* — the fruit of renunciation — is not obtained. The eater believes he has performed a discipline; the *Gītā* names the move as the failure of discipline.
+Two diagnoses, both fitting. The fruitarian who refuses to cook *because cooking is troublesome* fits 18.8, *rājasa* avoidance. The fruitarian who refuses to cook *because he believes raw is purer* fits 18.7, *tāmasa* avoidance, abandonment-from-delusion. Either way, the *tyāga-phala* (the fruit of renunciation) is not obtained. The eater believes he has performed a discipline; the *Gītā* names the move as the failure of discipline.
 
 The smoothie bowl is photogenic. The cooking pot is not. The bright watermelon at the centre of the plate signals lightness; the dissolved barley gruel does not. The contemporary aesthetic register favours the colours of fruit because they read as purity to the camera. The grain that has cooked for two hours into a soft mash favours the body, but the body is not what is being photographed.
 
@@ -188,17 +188,17 @@ There is a tradition in Indian thought of *tāmasa* masquerading as *sāttvika* 
 > obscuring discrimination."\
 > — *Bhagavad Gītā* 14.8 (paraphrased)
 
-The fruitarian's claim of "lightness" can name two states. One state is the *laghu* of *Caraka Sū. 27.339* — substance properly cooked, properly digested, the *agni* having done its work. The other state is the *laghu* of depletion — internal fluids thinned, *ojas* drained, *vāta* rising, the body running on its own reserves because input has not produced *rasa*. The two feel similar at first. Within months they are easy to tell apart.
+The fruitarian's claim of "lightness" can name two states. One state is the *laghu* of *Caraka Sū. 27.339*: substance properly cooked, properly digested, the *agni* having done its work. The other state is the *laghu* of depletion: internal fluids thinned, *ojas* drained, *vāta* rising, the body running on its own reserves because input has not produced *rasa*. The two feel similar at first. Within months they are easy to tell apart.
 
 ## What the Fruit's Plasma Does
 
-Fruit is mostly water. Its primary action on the body is solvent — it dissolves, dilutes, disperses, clears. The *Caraka Saṃhitā* classifies fruits accordingly: most fruits are *guru* (heavy), *śīta* (cold), *madhura* (sweet), or *ādhmāna* (distending) — qualities of the kapha pole, qualities that *cool* the system. The exceptions Caraka praises — *āmalaka*, *dāḍima*, *drākṣā*, *harītakī* — are praised in their *medicinal* register, indicated for specific clinical conditions, named in 25.40 alongside other drugs by their tridoṣaghna or rasāyana action. Fruit is *auṣadha*. The source compilation *Fruit as Medicine* carries the full primary-source record.
+Fruit is mostly water. Its primary action on the body is solvent: it dissolves, dilutes, disperses, clears. The *Caraka Saṃhitā* classifies fruits accordingly: most fruits are *guru* (heavy), *śīta* (cold), *madhura* (sweet), or *ādhmāna* (distending), qualities of the kapha pole, qualities that *cool* the system. The exceptions Caraka praises (*āmalaka*, *dāḍima*, *drākṣā*, *harītakī*) are praised in their *medicinal* register, indicated for specific clinical conditions, named in 25.40 alongside other drugs by their tridoṣaghna or rasāyana action. Fruit is *auṣadha*. The source compilation *Fruit as Medicine* carries the full primary-source record.
 
 Applied chronically and in volume, fruit's plasma cools the body, can deplete *ojas*, dilutes the *snigdha-madhura* register that the yogic plate requires. The arc is well-documented in *Yogis Don't Eat Fruit* and *Fruitarianism*: initial clearing, sharpened perception, lightness; then dispersion, drying of channels, *vāta* rising, *ojas* failing, *agni* sluggish or erratic, the mind racing, the body cold.
 
-The same dilution that the fruit's plasma performs on the body it can perform on the spirit. *Agni* is the principle of transformation — heat applied to substance, friction generating change, the discipline by which the practitioner becomes other than he was. *Tapas* is the same principle internalized. To cool the body chronically is to cool, alongside it, the will to transform. The bright bowl of fruit at every meal does not only thin the body's plasma. It thins, through the same mechanism, the spiritual ambition that wanted to apply itself to harder problems and that now finds itself reaching for the next sweet thing.
+The same dilution that the fruit's plasma performs on the body it can perform on the spirit. *Agni* is the principle of transformation: heat applied to substance, friction generating change, the discipline by which the practitioner becomes other than he was. *Tapas* is the same principle internalized. To cool the body chronically is to cool, alongside it, the will to transform. The bright bowl of fruit at every meal does not only thin the body's plasma. It thins, through the same mechanism, the spiritual ambition that wanted to apply itself to harder problems and that now finds itself reaching for the next sweet thing.
 
-The fruit is not, by itself, the cause. The pattern of eating it as the staple — to the exclusion of *anna*, *ghṛta*, the cooked plate — is. The pattern produces a body easy to tip into restlessness, a *vāta*-aggravated nervous system, a mind that experiences "lightness" but cannot sustain the steady pressure that *tapas* requires. The classical word for this is *cala* — moving, restless, inconstant. *Cala* is the opposite of *sthira*, and *sthira* is one of the four marks of *sāttvika āhāra*:
+The fruit is not, by itself, the cause. The cause is the pattern of eating it as the staple, to the exclusion of *anna*, *ghṛta*, the cooked plate. The pattern produces a body easy to tip into restlessness, a *vāta*-aggravated nervous system, a mind that experiences "lightness" but cannot sustain the steady pressure that *tapas* requires. The classical word for this is *cala*: moving, restless, inconstant. *Cala* is the opposite of *sthira*, and *sthira* is one of the four marks of *sāttvika āhāra*:
 
 > **āyuḥ-sattva-balārogya-sukha-prīti-vivardhanāḥ |\
 > rasyāḥ snigdhāḥ sthirā hṛdyā āhārāḥ sāttvika-priyāḥ ||**
@@ -226,13 +226,13 @@ To skip the preparation is to attempt the rite without the offering. To call the
 > and will not succeed in yoga."\
 > — *Gheraṇḍa Saṃhitā* 5.16
 
-*Kiñcid yogo na sidhyati* — "no yoga succeeds." The verse is severe. The discipline of *mitāhāra* — measured, *snigdha-madhura*, cooked — is named as the precondition of practice. Without it, no advance. Disqualifying the practitioner before any *āsana*, before any *prāṇāyāma*, before any *dhāraṇā*, is a meal that exceeds *mātrā* or fails the cooking rule.
+*Kiñcid yogo na sidhyati* — "no yoga succeeds." The verse is severe. The discipline of *mitāhāra*, measured, *snigdha-madhura*, cooked, is named as the precondition of practice. Without it, no advance. A meal that exceeds *mātrā* or fails the cooking rule disqualifies the practitioner before any *āsana*, before any *prāṇāyāma*, before any *dhāraṇā*.
 
 ## The Responsibility of Being Human
 
-The Vedic understanding places fire at the threshold between beast and man. Hesiod's Greek myth of Prometheus reaches the same recognition independently: the gift that begins civilization is the gift of fire. The capacity to use fire — to cook, to forge, to warm, to illuminate — is what distinguishes human life from animal life. The animal eats raw. The human, by use of *agni*, transforms what he eats and is transformed by what he has transformed.
+The Vedic understanding places fire at the threshold between beast and man. Hesiod's Greek myth of Prometheus reaches the same recognition independently: the gift that begins civilization is the gift of fire. The capacity to use fire, to cook, to forge, to warm, to illuminate, is what distinguishes human life from animal life. The animal eats raw. The human, by use of *agni*, transforms what he eats and is transformed by what he has transformed.
 
-The capacity to transform — to apply heat, friction, discipline to substance and to self — is the ground of moral action. The eater who refuses to cook is refusing not just nourishment but the daily apprenticeship in self-transformation that human life is for. *Tapas* is the inner correlate of cooking; cooking is the outer correlate of *tapas*. To be habituated to one is to be habituated to the other. To flee one is to flee both.
+The capacity to transform, to apply heat, friction, discipline to substance and to self, is the ground of moral action. The eater who refuses to cook is refusing the daily apprenticeship in self-transformation that human life is for. *Tapas* is the inner correlate of cooking; cooking is the outer correlate of *tapas*. To be habituated to one is to be habituated to the other. To flee one is to flee both.
 
 The *Gītā* on the necessity of action:
 
@@ -251,9 +251,9 @@ The *Gītā* on the necessity of action:
 > even the maintenance of your body would not be possible by inaction."\
 > — *Bhagavad Gītā* 3.8
 
-*Śarīra-yātrā* — the journey of the body. The maintenance of the body itself, Krishna says, is impossible by inaction. The body is sustained by what is done to substance — cooked, prepared, offered, digested, assimilated. The eater who attempts to maintain his body without performing the cooking-rite is attempting *akarma* in the most basic register. The *Gītā* declares the attempt impossible.
+*Śarīra-yātrā* — the journey of the body. The maintenance of the body itself, Krishna says, is impossible by inaction. The body is sustained by what is done to substance: cooked, prepared, offered, digested, assimilated. The eater who attempts to maintain his body without performing the cooking-rite is attempting *akarma* in the most basic register. The *Gītā* declares the attempt impossible.
 
-The human station is the station of the fire-keeper. To take it up is to cook the grain, pour the ghee, eat in measure, kindle the inner fire by external offering, and — through the daily repetition of this discipline — become the kind of being who can take up larger fires when they arise: the *tapas* of self-mastery, the *tapas* of action under pressure, the *tapas* of meeting the world as it is and giving it what it requires. The flight from cooking is the flight from this station. It is the choice to remain animal at the very point in life where becoming-human is at stake.
+The human station is the station of the fire-keeper. To take it up is to cook the grain, pour the ghee, eat in measure, kindle the inner fire by external offering, and, through the daily repetition of this discipline, become the kind of being who can take up larger fires when they arise: the *tapas* of self-mastery, the *tapas* of action under pressure, the *tapas* of meeting the world as it is and giving it what it requires. The flight from cooking is the flight from this station. It is the choice to remain animal at the very point in life where becoming-human is at stake.
 
 ## Agni Is a Friend
 

@@ -67,7 +67,8 @@ Yogic and tantric traditions state openly what social custom hides: proximity mu
 
 > **saṅgaḥ saṁsāra-hetuḥ**
 >
-> "Association itself is the cause of cyclical bondage."
+> "Association itself is the cause of cyclical bondage."\
+> — proverbial formulation, after the *Vairāgya* teaching of the *Upaniṣads*
 
 Kṛṣṇa names the sentinels guarding that bond.
 

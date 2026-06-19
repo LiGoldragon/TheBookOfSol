@@ -2,11 +2,11 @@
 
 ## Collapse of the Concept
 
-The modern concept of protein arose not from the observation of life, but from the examination of what remains after life has been chemically dismantled. Early investigators elevated the most resistant residue of food — the portion that refused to dissolve, burn cleanly, or disappear — into a supposed principle of vitality. What endured destruction was mistaken for what generates life. This inversion transformed curds, coagula, fibers, and glue-like remnants into an object of reverence, not because they nourished, but because they resisted.
+The modern concept of protein arose from the examination of what remains after life has been chemically dismantled. Early investigators elevated the most resistant residue of food — the portion that refused to dissolve, burn cleanly, or disappear — into a supposed principle of vitality. What endured destruction was mistaken for what generates life. This inversion transformed curds, coagula, fibers, and glue-like remnants into an object of reverence for their resistance, mistaking that resistance for nourishment.
 
 Examined without inherited awe, what goes under the name of protein reveals no correspondence with vitality. The substance is slow to digest, quick to decay, and inclined toward putrefaction. It demands force to be dismantled and leaves behind toxic byproducts that the body must urgently expel. The strain has been misread as strength, the heat of detoxification praised as energy, the heaviness of burden confused with grounding.
 
-The elevation of this alleged nourishment persists by repetition, not by evidence. Once named essential, it became culturally untouchable. Its failures were reinterpreted as excess, its harms reframed as adaptation, its absence pathologized as deficiency. A residue became a doctrine, and a misunderstanding hardened into nutritional law.
+The elevation of this alleged nourishment persists by repetition, sustained by habit where evidence is absent. Once named essential, it became culturally untouchable. Its failures were reinterpreted as excess, its harms reframed as adaptation, its absence pathologized as deficiency. A residue became a doctrine, and a misunderstanding hardened into nutritional law.
 
 ## Residue, Toxicity, and the Burden on the Body
 

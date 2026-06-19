@@ -117,7 +117,7 @@ Patañjali names *tapas* first among the three components of *kriyā-yoga* — t
 > these are called the *tapas* of the mind."\
 > — *Bhagavad Gītā* 17.14–16, trans. adapted
 
-The *Gītā* internalizes *tapas* across three registers. The discipline of the body is heat applied to the body. The discipline of speech is heat applied to speech. The discipline of the mind is heat applied to thought. *Tapas* is not external austerity for its own sake; it is heat directed inward, kindling the fire that purifies.
+The *Gītā* internalizes *tapas* across three registers. The discipline of the body is heat applied to the body. The discipline of speech is heat applied to speech. The discipline of the mind is heat applied to thought. *Tapas* is heat directed inward, kindling the fire that purifies — discipline turned on the self, not austerity for display.
 
 ## III. The Ayurvedic pitta dialectic — aggravated and undercapable both pathological
 
@@ -265,7 +265,7 @@ In the Hebrew Bible, the divine presence appears as fire — the burning bush, t
 
 Five distinct civilizations — Vedic Indian, Greek, Roman, Iranian, Hebrew — independently place fire at the centre of their religious life. The Vedic priest invokes Agni as *purohita*. The Greek family hearth is Hestia's altar. The Roman state maintains Vesta's eternal flame. The Zoroastrian places Atar at the centre of the *yasna*. The Hebrew encounters Yahweh in the fire of the bush, the pillar, the consuming flame at Sinai.
 
-The convergence is not borrowing. The Vedic and Iranian traditions share an Indo-Iranian root (*agni* / *ātar*), but the Greek, Roman, Hebrew, and others reach the same recognition independently. The principle being recognized is universal: **fire is the visible operation of life on substance.** It cooks the offering, it warms the home, it illuminates the dark, it transforms metal into tool, it carries oblation from earth to heaven. Without fire, no civilization. Without fire, no life.
+The convergence is recognition, not borrowing. The Vedic and Iranian traditions share an Indo-Iranian root (*agni* / *ātar*), but the Greek, Roman, Hebrew, and others reach the same recognition independently. The principle being recognized is universal: **fire is the visible operation of life on substance.** It cooks the offering, it warms the home, it illuminates the dark, it transforms metal into tool, it carries oblation from earth to heaven. Without fire, no civilization. Without fire, no life.
 
 The modern raw-food ideology refuses this recognition. It treats fire as the destroyer of vitality, as something to be avoided in the kitchen, as a force that diminishes what it touches. The classical traditions — without exception — disagree. Fire is the principle of vitality made visible. Cooking is the simplest daily participation in that principle.
 

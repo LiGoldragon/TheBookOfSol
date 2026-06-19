@@ -14,9 +14,9 @@ Caraka's answer (Sū 30.21, the crucial lineage-claim):
 
 > "The physician, thus interrogated, should mention his devotion to Atharvaveda out of the four Vedas — Ṛk, Sāma, Yajus and Atharva, because the Veda of Atharvan has dealt with the medicine by way of prescribing donation, propitiatory rites, offerings, auspicious rites, oblations, observance rules, expiations, fasting, incantations etc. and medicine is for promotion of life."
 
-The Sanskrit of the key declarative sentence is: *caturṇām-api vedānām ṛg-yajuḥ-sāmātharvāṇām ātharvaṇe vede bhaktim ādiśet* — "he should declare his bhakti [attachment, devotion, belonging] to the Atharva of the four Vedas." The physician's answer is not "Āyurveda is independent of the Vedas" and not "Āyurveda is outside the Vedas." It is *bhakti* to the Atharvaveda: affiliation, filial attachment, belonging.
+The Sanskrit of the key declarative sentence is: *caturṇām-api vedānām ṛg-yajuḥ-sāmātharvāṇām ātharvaṇe vede bhaktim ādiśet* — "he should declare his bhakti [attachment, devotion, belonging] to the Atharva of the four Vedas." The physician's answer is *bhakti* to the Atharvaveda: affiliation, filial attachment, belonging — neither independence from the Vedas nor standing outside them.
 
-The reasoning Caraka gives — that the Atharvan alone treats *dāna, maṅgala, bali, homa, niyama, prāyaścitta, upavāsa, mantra* — is not peripheral to medicine. It is Caraka's taxonomy of the therapeutic field. "Medicine" for Caraka includes what a modern reader might call magical procedure, moral conduct, gift-giving, vow-keeping, fasting, and recitation, because these are the *acts* that the Atharvaveda already prescribes, and Āyurveda inherits them. The lineage claim is not a concession to Vedic authority; it is a description of what Āyurveda already is.
+The reasoning Caraka gives — that the Atharvan alone treats *dāna, maṅgala, bali, homa, niyama, prāyaścitta, upavāsa, mantra* — is Caraka's taxonomy of the therapeutic field. "Medicine" for Caraka includes what a modern reader might call magical procedure, moral conduct, gift-giving, vow-keeping, fasting, and recitation, because these are the *acts* that the Atharvaveda already prescribes, and Āyurveda inherits them. The lineage claim describes what Āyurveda already is.
 
 ### The elaborated lineage-story — Caraka Sū 1.3–31
 
@@ -64,7 +64,7 @@ And p. xxv on the *oṣadhī-sūkta*, establishing the botanical-medical line fr
 
 > "Plants were studied analytically during the Vedic period as evident from the 'oṣadhi-sūkta' of Ṛgveda (10.97.1-23) and relevant portions of Atharvaveda (8.7.1-8, 11.6.16-17) etc. The scientific study of morphology and pharmacological activity of the medicinal plants and other drugs was started during the post-Vedic period the document of which is found in the Caraka-saṃhitā."
 
-Relevance: The self-identification of Āyurveda as Vedic is not an external imposition; it is the opening move of Caraka, the opening move of Vāgbhaṭa, and the founding myth of Suśruta.
+Relevance: The self-identification of Āyurveda as Vedic is the opening move of Caraka, the opening move of Vāgbhaṭa, and the founding myth of Suśruta.
 
 ## Atharva Veda — the proto-medical register
 
@@ -324,7 +324,7 @@ The prior verse (1.5.2) gives the yoking:
 
 The yoga-lineage's self-naming — yoga as *yuñjāna*, the yoking of the mind — quotes word-for-word the RV Savitṛ-hymn. Svet 2.1–5 recapitulate the RV hymn. This is the cleanest example of the Yoga tradition's Vedic filiation.
 
-Relevance: Yoga is not a new coinage. It is the Vedic *yoking* metaphor, drawn from the technology of the horse-chariot (which both Āyurveda's Aśvins and Yoga's Savitṛ ride), extended to the inner faculties.
+Relevance: Yoga is the Vedic *yoking* metaphor, drawn from the technology of the horse-chariot (which both Āyurveda's Aśvins and Yoga's Savitṛ ride), extended to the inner faculties.
 
 ### RV 10.90 — the Puruṣa-sūkta
 
@@ -533,11 +533,11 @@ The 72,000 nāḍīs of PU 3.6 are the 72,000 nāḍīs of the haṭha tradition
 
 ### Kaṭha Upaniṣad 2.3.10–11 — the first classical definition of yoga
 
-Olivelle (KaU 6.10–11, p. 2147f):
+Olivelle (KaU 2.3.10–11, p. 401):
 
-> "**KaU 6.10** When the five perceptions are stilled, together with the mind, and not even reason bestirs itself; they call it the highest state."
+> "**KaU 2.3.10** When the five perceptions are stilled, together with the mind, and not even reason bestirs itself; they call it the highest state."
 
-> "**KaU 6.11** When senses are firmly reined in, that is Yoga, so people think. From distractions a man is then free, for Yoga is the coming-into-being, as well as the ceasing-to-be."
+> "**KaU 2.3.11** When senses are firmly reined in, that is Yoga, so people think. From distractions a man is then free, for Yoga is the coming-into-being, as well as the ceasing-to-be."
 
 Sanskrit: *yadā pañcāvatiṣṭhante jñānāni manasā saha; buddhiś ca na viceṣṭate tām āhuḥ paramāṁ gatim*. And: *tāṁ yogam iti manyante sthirām indriya-dhāraṇām*. *apramattas tadā bhavati yogo hi prabhavāpyayau*.
 
@@ -600,7 +600,7 @@ This passage is the single most important Āyurvedic declaration that the tradit
 
 > **C.Śā 1.142**: "Mokṣa (emancipation) is possible by absence of rajas and tamas, destruction of the potent past deeds and detachment from all the (sources of) conjunction. It is also said as absence of rebirth."
 
-Relevance: Caraka, within the medical treatise, defines *yoga* in terms that mirror Kaṭha 6.10–11 exactly. He lists the eight *siddhi*s that Patañjali enumerates in YS 3. He makes mokṣa the horizon of the medical science. *The Āyurvedic text is a yoga-text*.
+Relevance: Caraka, within the medical treatise, defines *yoga* in terms that mirror Kaṭha 2.3.10–11 exactly. He lists the eight *siddhi*s that Patañjali enumerates in YS 3. He makes mokṣa the horizon of the medical science. *The Āyurvedic text is a yoga-text*.
 
 ### The Kapani evidence — saṁskāra as the shared Vedic-Yoga concept
 
@@ -654,7 +654,7 @@ Wujastyk is the sceptical counter-voice. He does *not* deny the Vedic filiation,
 
 > "Zysk [1991] sees āyurveda as a medical tradition emerging from the ascetic milieu which existed in North India in the fifth century BC. Zysk has found evidence in the earliest literature preserved by Buddhist monks, who were part of this milieu, which meshes almost perfectly with early āyurveda as represented by the Compendia of Suśruta and Caraka."
 
-Relevance for our argument: Wujastyk correctly notes that the *tridoṣa* system is not in the Veda. But the argument of this file is not that every Āyurvedic doctrine is already Vedic — it is that the shared *vocabulary* (prāṇa, āyus, oṣadhī, amṛta, rasa, sattva-rajas-tamas, manas, ātman) and the shared *therapeutic logic* (addition of like, removal of disease-demon, restoration of breath) are Vedic. Wujastyk's scepticism reinforces that the filiation is partly constructed (i.e., it is a claim made by the medical authors themselves); but the claim itself is dense, pervasive, and repeated. Caraka, Vāgbhaṭa, and Suśruta all make the same Vedic filiation. That their claim is a claim does not make the vocabulary less shared.
+Relevance for our argument: Wujastyk correctly notes that the *tridoṣa* system is not in the Veda. The argument of this file is that the shared *vocabulary* (prāṇa, āyus, oṣadhī, amṛta, rasa, sattva-rajas-tamas, manas, ātman) and the shared *therapeutic logic* (addition of like, removal of disease-demon, restoration of breath) are Vedic — not that every Āyurvedic doctrine is already Vedic. Wujastyk's scepticism reinforces that the filiation is partly constructed (i.e., it is a claim made by the medical authors themselves); but the claim itself is dense, pervasive, and repeated. Caraka, Vāgbhaṭa, and Suśruta all make the same Vedic filiation. That their claim is a claim does not make the vocabulary less shared.
 
 ### Priya Vrat Sharma, Caraka Saṃhitā introduction (Chaukhambha 1981)
 
@@ -698,25 +698,25 @@ This is the shared horizon. Āyurveda calls it *rasāyana-phala*. Yoga calls it 
 
 All quotations above drawn from local holdings:
 
-- **Caraka Saṃhitā**, Priya Vrat Sharma English/Sanskrit ed. (Chaukhambha 1981) — `~/git/bibliography/en/caraka/caraka-samhita-priya-vrat-sharma.pdf`. Referenced: Intro pp. v–xxvi; Sū 1.3–31 (pp. 3–5); Sū 11 (pp. 69–75); Sū 12.8 (pp. 82–84); Sū 26 (on rasa); Sū 30.15–33 (pp. 237–247); Śārīra 1.137–151 (pp. 409–411).
+- **Caraka Saṃhitā**, Priya Vrat Sharma English/Sanskrit ed. (Chaukhambha 1981) — via the dedicated caraka-samhita repo (`/git/github.com/LiGoldragon/caraka-samhita`, notes/philology and per-*sthāna* digests). Referenced: Intro pp. v–xxvi; Sū 1.3–31 (pp. 3–5); Sū 11 (pp. 69–75); Sū 12.8 (pp. 82–84); Sū 26 (on rasa); Sū 30.15–33 (pp. 237–247); Śārīra 1.137–151 (pp. 409–411).
 
-- **Suśruta Saṃhitā**, Kaviraj Kunjalal Bhishagratna English translation (Cosmo 2006) — `~/git/bibliography/en/susruta/susruta-bhishagratna-complete.pdf` (Uttara-Tantra volume on disk; Vol. I/Sūtra citations drawn from standard critical literature).
+- **Suśruta Saṃhitā**, Kaviraj Kunjalal Bhishagratna English translation (Cosmo 2006) — `~/primary/repos/library/en/susruta/susruta-bhishagratna-complete.pdf` (Uttara-Tantra volume on disk; Vol. I/Sūtra citations drawn from standard critical literature).
 
-- **Aṣṭāṅga Hṛdaya**, K. R. Srikantha Murthy trans. (Chaukhambha) — `~/git/bibliography/en/vagbhata/vagbhata-astanga-hrdaya-srikantha-murthy.pdf`. Referenced: Sū 1.1–8 (pp. 3–7); Sū 12.4–7.
+- **Aṣṭāṅga Hṛdaya**, K. R. Srikantha Murthy trans. (Chaukhambha) — `~/primary/repos/library/en/vagbhata/vagbhata-astanga-hrdaya-srikantha-murthy.pdf`. Referenced: Sū 1.1–8 (pp. 3–7); Sū 12.4–7.
 
-- **Atharva-Veda Saṃhitā**, William Dwight Whitney & Charles Rockwell Lanman, Harvard Oriental Series (1905; Motilal reprint) — `~/git/bibliography/en/atharva-veda/atharva-veda-whitney-vol1-books-i-vii.pdf` and `...vol2-books-viii-xix.pdf`. Referenced: AV 5.30 (vol. I pp. 277–278); AV 6.44–46 (vol. I pp. 312–314); AV 6.105; AV 8.1–2 (vol. II); AV 8.7; AV 11.4 (vol. II); AV 19.53 (vol. II).
+- **Atharva-Veda Saṃhitā**, William Dwight Whitney & Charles Rockwell Lanman, Harvard Oriental Series (1905; Motilal reprint) — `~/primary/repos/library/en/atharva-veda/atharva-veda-whitney-vol1-books-i-vii.pdf` and `...vol2-books-viii-xix.pdf`. Referenced: AV 5.30 (vol. I pp. 277–278); AV 6.44–46 (vol. I pp. 312–314); AV 6.105; AV 8.1–2 (vol. II); AV 8.7; AV 11.4 (vol. II); AV 19.53 (vol. II).
 
-- **Ṛg Veda**, Ralph T. H. Griffith (complete, Motilal 1973 ed.; Shastri-edited) — `~/git/bibliography/en/rg-veda/rgveda-griffith-complete-shastri-ed.pdf`; and Chowkhamba ed. `~/git/bibliography/en/rg-veda/rgveda-griffith-complete.pdf`. Referenced: RV 1.5.3; RV 1.116–120 (pp. 78–82); RV 5.81.1; RV 8.48 (p. 435); RV 9 entire; RV 10.90 (pp. 602–603); RV 10.97 (pp. 610–611).
+- **Ṛg Veda**, Ralph T. H. Griffith (complete, Motilal 1973 ed.; Shastri-edited) — `~/primary/repos/library/en/rg-veda/rgveda-griffith-complete-shastri-ed.pdf`; and Chowkhamba ed. `~/primary/repos/library/en/rg-veda/rgveda-griffith-complete.pdf`. Referenced: RV 1.5.3; RV 1.116–120 (pp. 78–82); RV 5.81.1; RV 8.48 (p. 435); RV 9 entire; RV 10.90 (pp. 602–603); RV 10.97 (pp. 610–611).
 
-- **Yajur Veda (Taittirīya Saṃhitā)**, A. B. Keith trans. — `~/git/bibliography/en/yajur-veda/keith-taittiriya-samhita-black-yajur.pdf`. Referenced throughout for pañca-prāṇa and Aśvin-as-physician formulas.
+- **Yajur Veda (Taittirīya Saṃhitā)**, A. B. Keith trans. — `~/primary/repos/library/en/yajur-veda/keith-taittiriya-samhita-black-yajur.pdf`. Referenced throughout for pañca-prāṇa and Aśvin-as-physician formulas.
 
-- **Early Upaniṣads**, Patrick Olivelle trans. (Oxford 1998) — `~/git/bibliography/en/upanisads/olivelle-early-upanisads.pdf`. Referenced: BU 1.3, 2.1, 4.3; ChU 6.5–6; TU 2; KaU 6.10–11 (pp. 2147f); Praśna 3 (pp. 3771–3815); Śvetāśvatara 2 (pp. 2477–2542); Kauśītaki 4.20 (pp. 1001–1021); Muṇḍaka 1.2.13–2.2 (pp. 3164–3228).
+- **Early Upaniṣads**, Patrick Olivelle trans. (Oxford 1998) — `~/primary/repos/library/en/upanisads/olivelle-early-upanisads.pdf`. Referenced: BU 1.3, 2.1, 4.3; ChU 6.5–6; TU 2; KaU 2.3.10–11 (p. 401); Praśna 3; Śvetāśvatara 2; Kauśītaki 4.20; Muṇḍaka 1.2.13–2.2.
 
-- **Kenneth Zysk**, *Asceticism and Healing in Ancient India* (OUP 1991) — `~/git/bibliography/en/kenneth-zysk/zysk-asceticism-healing-buddhist-monastery.pdf`. Referenced: pp. 3–8 (intro), 159–205 (beginnings of Indian medicine), 505–670 (Vedic-Atharvan medicine, Aśvins, homologization of plant-knowledge).
+- **Kenneth Zysk**, *Asceticism and Healing in Ancient India* (OUP 1991) — `~/primary/repos/library/en/kenneth-zysk/zysk-asceticism-healing-buddhist-monastery.pdf`. Referenced: pp. 3–8 (intro), 159–205 (beginnings of Indian medicine), 505–670 (Vedic-Atharvan medicine, Aśvins, homologization of plant-knowledge).
 
-- **Dominik Wujastyk**, *The Roots of Ayurveda* (Penguin 1998) — `~/git/bibliography/en/dominik-wujastyk/wujastyk-roots-of-ayurveda.pdf`. Referenced: pp. 14–23 (Veda and roots of Āyurveda).
+- **Dominik Wujastyk**, *The Roots of Ayurveda* (Penguin 1998) — `~/primary/repos/library/en/dominik-wujastyk/wujastyk-roots-of-ayurveda.pdf`. Referenced: pp. 14–23 (Veda and roots of Āyurveda).
 
-- **Lakshmi Kapani**, *The Philosophical Concept of Saṁskāra* (Motilal 2013) — `~/git/bibliography/en/lakshmi-kapani/kapani-samskara.pdf`. Referenced: pp. 1154, 1203, 1213, 1563, 6813.
+- **Lakshmi Kapani**, *The Philosophical Concept of Saṁskāra* (Motilal 2013) — `~/primary/repos/library/en/lakshmi-kapani/kapani-samskara.pdf`. Referenced: pp. 1154, 1203, 1213, 1563, 6813.
 
 All Sanskrit transliterations above follow IAST conventions; diacritics have been preserved where available in the source extractions and normalized in paraphrase. Where Whitney and Griffith use older orthographies (*Agvins* for *Aśvins*, *Soma* without diacritics), the IAST form is given in the commentary.
 
@@ -725,7 +725,6 @@ All Sanskrit transliterations above follow IAST conventions; diacritics have bee
 The remaining files in this research set take up the threads begun here:
 - `02_samkhya_shared_metaphysics.md` — how the 25 tattvas of Sāṅkhya, which Caraka Sū 1.48–54 presumes and which YS 1.3 presumes, are the shared metaphysics.
 - `03_sastric_crossreferences.md` — Caraka on yoga/mokṣa (Śā 1.137–151 above); Patañjali on doṣa (YS 1.30–31's antarāyas include vyādhi, ālasya, avirati); Aṣṭāṅga Hṛdayam on yoga (Uttara 40).
-- `05_shared_anthropology.md` — the tridoṣa as systematic extension of the prāṇa-pitta-kapha triad hinted at in Caraka Sū 1.57 and the three-guṇa triad of Śvet 4.5.
 - `07_upanisadic_common_ground.md` — a deeper treatment of the Upaniṣadic passages sketched here.
 
 The thesis of the chapter as a whole — that Yoga and Āyurveda are two faces of a single lineage with common Vedic roots — is established by the density of shared citations documented above. The substrate is Vedic. The vocabulary is Vedic. The therapeutic logic is Vedic. The disciplines diverged as disciplines; the root remained one.

@@ -22,7 +22,7 @@ The mind that refused rocks dissolved in water now eats the rocks directly.
 
 ### The Cleanse as Ritual
 
-The clay-cleanse industry is not a fringe curiosity. It is the structuring ritual of an entire subculture — one that overlaps almost completely with the distilled-water community, the raw food community, the terrain-theory movement, the parasite-cleanse world, and the alkaline-diet crowd. Within this convergence, eating earth is not regarded as geophagy. It is regarded as medicine.
+The clay-cleanse industry is the structuring ritual of an entire subculture, one that overlaps almost completely with the distilled-water community, the raw food community, the terrain-theory movement, the parasite-cleanse world, and the alkaline-diet crowd. Within this convergence, eating earth is regarded as medicine, not geophagy.
 
 The narrative follows a specific architecture. The body is imagined as a vessel encrusted with deposits — calcium in the joints, heavy metals in the brain, "mucoid plaque" lining the intestines, parasites nesting in the colon. Years of civilized eating have left the inner terrain coated, congested, toxic. The cleanse is the act of scraping it clean, and earth is the tool.
 
@@ -34,7 +34,7 @@ The psyllium-bentonite shake deserves particular attention because it generates 
 
 The protocol, popularized by naturopath Richard Anderson and his Arise & Shine cleanse program, combines psyllium husk — a bulk-forming fiber that gels in water — with liquid bentonite clay. The mixture is consumed multiple times daily, often during a fast. After several days, the practitioner begins to expel long, dark, rubbery ropes from the colon. These are photographed with reverence, shared across forums, and presented as proof that decades of accumulated "mucoid plaque" are finally being stripped from the intestinal wall.
 
-The ropes are the psyllium-bentonite mixture itself, molded by the colon into the shape of the colon. The "evidence" of cleansing is the cleanse product passing through. The body is not expelling old deposits. It is expelling the new ones that were just swallowed. The entire dramatic arc — ingestion, waiting, expulsion, photograph, testimony — is a closed loop of self-generated proof. The cure produces the disease it claims to treat, and the patient thanks it for the removal.
+The ropes are the psyllium-bentonite mixture itself, molded by the colon into the shape of the colon. The "evidence" of cleansing is the cleanse product passing through. The body is expelling the new deposits that were just swallowed, not old ones. The entire dramatic arc, from ingestion through waiting, expulsion, photograph, and testimony, is a closed loop of self-generated proof. The cure produces the disease it claims to treat, and the patient thanks it for the removal.
 
 ### What the Ancients Called This
 
@@ -45,7 +45,7 @@ The *Caraka Saṃhitā* identifies the pattern without euphemism:
 > "Eating earth or metal arises from tamas."\
 > — proverbial formulation, after the *Caraka Saṃhitā* (geophagy as tamasic)
 
-Tamas is not ignorance in the passive sense. It is the active dimming of discrimination, the collapse of the faculty that distinguishes between what nourishes and what burdens. A tamasic craving seeks density, heaviness, grounding through inertia. It mistakes the sensation of weight for the experience of stability.
+Tamas is the active dimming of discrimination, the collapse of the faculty that distinguishes between what nourishes and what burdens, not ignorance in the passive sense. A tamasic craving seeks density, heaviness, grounding through inertia. It mistakes the sensation of weight for the experience of stability.
 
 The person who distills water has engaged *sattva* in one domain: clarity applied to the question of what water should carry. But the person who then swallows volcanic ash repackaged as "calcium bentonite" has engaged *tamas* in an adjacent domain: obscuration applied to the question of what the body needs. Two opposing qualities coexist in a single dietary practice, producing a split that ancient medicine would recognize instantly as *prajñāparādha* — a crime against one's own intelligence.
 
@@ -56,14 +56,14 @@ The *Caraka Saṃhitā* describes the physiology with clinical precision:
 > "Clay-eating is unwholesome. It obstructs the pathways of the vital fluids and causes the obstruction of vāyu."\
 > — proverbial formulation, after the *Caraka Saṃhitā* (on earth-eating)
 
-What the cleanser interprets as detoxification is obstruction. What is felt as release is the body forcing inert matter through and out. The organism is not being cleansed. It is being burdened and then recovering from the burden, and the recovery is mistaken for therapy.
+What the cleanser interprets as detoxification is obstruction. What is felt as release is the body forcing inert matter through and out. The organism is being burdened and then recovering from the burden, and the recovery is mistaken for therapy.
 
 > **mṛttikā-adhi-bhakṣaṇena śleṣmāṇaṃ codayet … tasya pāṇḍutā gauravaṃ śvāsaḥ**
 >
 > "By eating earth, kapha is provoked … resulting in pallor, heaviness, and difficulty breathing."\
 > — proverbial formulation, after the *Caraka Saṃhitā* (pāṇḍu-roga, on earth-eating)
 
-The "grounding" sensation that clay eaters report is this provocation. It is heaviness misread as stability, obstruction misread as calm, pallor misread as purification. The body has not been grounded. It has been buried.
+The "grounding" sensation that clay eaters report is this provocation: heaviness misread as stability, obstruction misread as calm, pallor misread as purification. The body has been buried, not grounded.
 
 ### The Linguistic Engine
 
@@ -73,7 +73,7 @@ In this framework, minerals dissolved in water from geological contact — calci
 
 But the clay, the diatomaceous earth, the zeolite, the charcoal — these are reclassified. They are not called "inorganic minerals being eaten." They are called "binders," "chelators," "adsorbents," "detoxifiers." The language performs a categorical reassignment. The substance is no longer a mineral entering the body; it is a tool passing through the body on a mission. It goes in, grabs toxins, and comes out. It is imagined as a worker, not a resident.
 
-This reassignment is the entire trick. Without it, the distilled-water drinker would have to confront the fact that they are eating the earth their water was distilled to avoid. The bentonite is montmorillonite. The montmorillonite is calcium, aluminum, silicon, iron, magnesium — the same elemental residues that settle in pipes, coat kettles, and cloud tap water. The distiller removes them. The cleanse spoon reintroduces them. The language is the only thing preventing the two hands from recognizing each other.
+This reassignment is the entire trick. Without it, the distilled-water drinker would have to confront that they are eating the earth their water was distilled to avoid. The bentonite is montmorillonite. The montmorillonite is calcium, aluminum, silicon, iron, magnesium — the same elemental residues that settle in pipes, coat kettles, and cloud tap water. The distiller removes them. The cleanse spoon reintroduces them. The language is the only thing preventing the two hands from recognizing each other.
 
 Some go further. Fulvic acid drops and ConcenTrace mineral concentrates are added back into the distilled water itself — evaporated brine and decomposed humus poured into the very water that was just purified. But this is a minor absurdity compared to the central one. Remineralizing water is at least transparent enough to be recognized as a contradiction. Eating clay while drinking distilled water is the same contradiction hidden behind a costume change. The minerals are not called minerals. They are called medicine.
 
@@ -81,7 +81,7 @@ Some go further. Fulvic acid drops and ConcenTrace mineral concentrates are adde
 
 The most complete expression of the split mind is the Himalayan salt sole: a saturated solution of chloride of sodium — dissolved rock salt, mined from geological deposits — consumed every morning as a ritual health practice. The "84 trace minerals" narrative dresses the act in complexity, but the dominant compound is chloride of sodium: the same rock that every person on earth already dumps on every meal, the very substance this community claims to have seen through.
 
-The sole drinker has reintroduced the most ubiquitous inorganic mineral on the planet — chloride of sodium — and called it sacred because it is pink, because it is Himalayan, because it is ancient. The geological age of the deposit does not alter the chemistry. The color does not alter the physiology. A saturated brine of chloride of sodium is a saturated brine of chloride of sodium whether it comes from a mine in Punjab or a shaker on a diner table.
+The sole drinker has reintroduced the most ubiquitous inorganic mineral on earth — chloride of sodium — and called it sacred because it is pink, because it is Himalayan, because it is ancient. The geological age of the deposit does not alter the chemistry. The color does not alter the physiology. A saturated brine of chloride of sodium is a saturated brine of chloride of sodium whether it comes from a mine in Punjab or a shaker on a diner table.
 
 This is chloridism wearing a prayer shawl.
 
@@ -102,7 +102,7 @@ Only matter that has passed through *living* transformation — plant chelation 
 > "That which has passed through life becomes fit to sustain life."\
 > — proverbial formulation, after the *Bṛhadāraṇyaka Upaniṣad*
 
-Ghee passes this test. Amarolī passes this test. Coconut water passes this test. Living fruits pass this test.
+Ghee passes this test. Amarolī (the recycling of the body's own released fluid) passes this test. Coconut water passes this test. Living fruits pass this test.
 
 Bentonite does not. Diatomaceous earth does not. Zeolite does not. Activated charcoal does not. Psyllium-clay shakes do not. Himalayan sole does not. No mineral of the earth passes this test, regardless of the deposit it was mined from, the brand it was sold under, or the story it was wrapped in.
 

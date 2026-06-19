@@ -11,7 +11,7 @@ Van der Kroon retells the oral version that complements the *Damar Tantra* openi
 > "Shiva and Pārvatī are happily married, but over the years friction has begun to develop between the two. […] Pārvatī is jealous of Shiva because he always looks so handsome and healthy, is extremely vital and has such a zest for life. Furthermore, he maintains that he is immortal. However, whenever Pārvatī asks Shiva how this is possible, he always answers that it is a secret. […] Shiva was faced with a difficult dilemma. He either divulged his secret or the world would come to an end. Ultimately, he decided to tell his secret: **the source of his immortality and unbridled vitality was nothing other than drinking his own urine.**"\
 > — van der Kroon, *The Golden Fountain*, ch. 3, "The History of Urine Therapy in the East"
 
-This is the doctrinal core: amṛta is not given from outside; it is what the body produces and recycles. The same name attaches to ghee (*ghṛtam amṛtasya nābhiḥ*, Ṛgveda 1.142.3) and to the lunar nectar dripping from the cranial moon-cakra (*Khecharīvidyā* 1.65–72). All three are amṛta. The body does not want water; it wants what the practice produces.
+This is the doctrinal core: amṛta (the deathless nectar) is not given from outside; it is what the body produces and recycles. The same name attaches to ghee (*ghṛtam amṛtasya nābhiḥ*, Ṛgveda 4.58.1, the *Ghṛta-sūkta*) and to the lunar nectar dripping from the cranial moon-cakra (*Khecarīvidyā* 1.65–72). All three are amṛta. The body does not want water; it wants what the practice produces.
 
 ## II. The Bihar-lineage reading of amarolī
 
@@ -23,7 +23,7 @@ Van der Kroon then reproduces the foreword that Swami Satyananda Saraswati wrote
 > "I am fully acquainted with the topic of amarolī and have had personal experience with its use. Of course, I did not use it for therapy but **in order to perfect *vajrolī* kriyā**, and I am convinced that those who want to perfect *vajrolī* will have to go through the process of amarolī. Since 1943, right up to 1978, I have never seen bad results from the use of amarolī, either in therapy or for *vajrolī*."\
 > — Swami Satyananda Saraswati, preface to *Amaroli* (Bihar School of Yoga, 1978), reproduced in van der Kroon
 
-The Bihar position is precise: amarolī is not a *therapy* but a *prerequisite* for *vajrolī* — the bindu-conservation practice that the *Haṭhapradīpikā* names as the gate to *bodily perfection* (HYP 3.103, see [Vajrolī](../../yoga-tantra/Vajrolī.md)). The therapy framing common in Western circulation is downstream of this older yogic placement.
+The Bihar position is precise: amarolī is a *prerequisite* for *vajrolī*, not a *therapy* — *vajrolī* being the bindu-conservation practice (bindu being the vital seed-drop) that the *Haṭhapradīpikā* names as the gate to *bodily perfection* (HYP 3.103, see [Vajrolī](../../yoga-tantra/Vajrolī.md)). The therapy framing common in Western circulation is downstream of this older yogic placement.
 
 ## III. The compilation of classical Indian sources
 
@@ -80,13 +80,13 @@ Van der Kroon reproduces the *Damar Tantra* dietary instruction directly:
 > "**The follower of the therapy should avoid pungent, salty ingredients in his meals.** He should not over-exert himself. He should follow a balanced and light diet…"\
 > — *Damar Tantra* Verse 5, in van der Kroon ch. 3
 
-And the longer prohibition list in Verses 104–106 (already extracted in [Damar_Tantra/quotes.md](../Damar_Tantra/quotes.md)). The convergence: the diet that makes the body produce the *amṛta* form of plasma is the same diet HYP 1.58–59 names as *mitāhāra* and the same diet *Bhagavad Gītā* 17.9 names as *sāttvic*. Three corpora, one regime: anna + ghṛta + milk, no sour-salty-bitter excess. (See [Apathya source-extract](../Apathya.md) for the full classical apparatus.)
+And the longer prohibition list in Verses 104–106 (already extracted in [Damar_Tantra/quotes.md](../Damar_Tantra/quotes.md)). The convergence: the diet that makes the body produce the *amṛta* form of plasma is the same diet HYP 1.58–59 names as *mitāhāra* (measured eating) and the same diet *Bhagavad Gītā* 17.9 names as *sāttvic*. Three corpora, one regime: anna + ghṛta + milk, no sour-salty-bitter excess. (See [Apathya source-extract](../Apathya.md) for the full classical apparatus.)
 
 ## VIII. What van der Kroon does *not* state explicitly
 
-Van der Kroon's text — read carefully — does not contain the explicit assertion *"urine therapy is the on-ramp to inedia."* It contains all the components of that argument distributed across the chapters: the etymology (amarolī ← amara), the Jain hermit period of urine-only sustenance, the Bihar-lineage placement of amarolī as a *prerequisite* for vajrolī (which leads to *kāla-bhayaṃ kutaḥ*, "from where would fear of time arise?", HYP 3.89), Armstrong's 45-day demonstration, and the observation that the plasma refines itself. The *synthesis* — that distilled plasma, taken alongside the Ambrosian diet, is the missing bridge to breath-only sustenance — is the article's contribution. Van der Kroon supplies the most thoroughly documented Western platform from which the synthesis can be made.
+Read carefully, van der Kroon's text does not contain the explicit assertion *"urine therapy is the on-ramp to inedia."* It contains all the components of that argument distributed across the chapters: the etymology (amarolī ← amara), the Jain hermit period of urine-only sustenance, the Bihar-lineage placement of amarolī as a *prerequisite* for vajrolī (which leads to *kāla-bhayaṃ kutaḥ*, "from where would fear of time arise?", HYP 3.89), Armstrong's 45-day demonstration, and the observation that the plasma refines itself. The *synthesis* — that distilled plasma, taken alongside the Ambrosian diet, is the missing bridge to breath-only sustenance — is the article's contribution. Van der Kroon supplies the most thoroughly documented Western platform from which the synthesis can be made.
 
 ## Sources
 
-- van der Kroon, Coen. 1994. *The Golden Fountain: The Complete Guide to Urine Therapy*. Translated from the Dutch *De Gouden Fontein* (1993). Foreword by Swami Pragyamurti Saraswati. New Delhi: B. Jain Publishers. Bibliography path: [`en/coen-van-der-kroon/`](https://github.com/LiGoldragon/bibliography/tree/main/en/coen-van-der-kroon).
+- van der Kroon, Coen. 1994. *The Golden Fountain: The Complete Guide to Urine Therapy*. Translated from the Dutch *De Gouden Fontein* (1993). Foreword by Swami Pragyamurti Saraswati. New Delhi: B. Jain Publishers. Library entry: `~/primary/repos/library/en/coen-van-der-kroon/`.
 - Saraswati, Swami Satyananda. 1978. *Amaroli — The Way of the Yogi*. Munger: Bihar School of Yoga.

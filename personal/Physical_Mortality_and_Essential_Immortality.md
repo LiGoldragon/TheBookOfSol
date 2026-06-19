@@ -30,7 +30,7 @@ The traditions make their own case in their own words.
 
 ## The body was given to be dissolved
 
-Ṛgveda 10.90 sets the proportion. The incarnate world is one-fourth of the Puruṣa. The three remaining fourths are always already above. The body is the quarter-part. It was made to end.
+Ṛgveda 10.90 sets the proportion. The incarnate world is one-fourth of the Puruṣa (the cosmic Person from whom the worlds are made). The three remaining fourths are always already above. The body is the quarter-part. It was made to end.
 
 > "So mighty is his greatness; yea, greater than this is Puruṣa.\
 > All creatures are one-fourth of him, three-fourths eternal life in heaven."\
@@ -83,7 +83,7 @@ Armando Torres transmits Castaneda's workshop formulation:
 > "Nobody needs you out there. None of us is so important that it justifies inventing something as fantastic as immortality. A humble sorcerer knows that his destiny is the same as that of any other living being on Earth."\
 > — Carlos Castaneda, in Torres, *Encounters with the Nagual*
 
-Three traditions. One statement. The body dissolves because it was composed. Composition carries dissolution the way grain carries the harvest.
+Across the three traditions the statement is one. The body dissolves because it was composed. Composition carries dissolution the way grain carries the harvest.
 
 ## The search for a physical immortality is a confusion
 
@@ -125,13 +125,13 @@ The Hermetic warning is briefer and more final. In the closing dialogue of *C.H.
 > "Hold your tongue; do not give voice to the impossible! Else you will do wrong, and your mind's eye will be profaned. The sensible body of nature is far removed from essential generation. One can be dissolved, but the other is indissoluble; one is mortal, the other immortal."\
 > — *Corpus Hermeticum* XIII.14, trans. Copenhaver
 
-Two bodies. Two trajectories. The composite body dissolves. The body of powers does not.
+There are two bodies on two trajectories. The composite body dissolves. The body of powers does not.
 
 ## The essence is forged in life
 
 What is composed is mortal. What was never composed is immortal. The whole discipline of the three traditions is to identify, while alive, with what was never composed.
 
-The Vedic name for it is *ātman*. The *Kaṭha Upaniṣad* gives Yama's final teaching to Naciketas in seven verses. It is the oldest surviving statement of the doctrine in Indo-Aryan.
+The Vedic name for it is *ātman* (the innermost self, distinct from body and mind). The *Kaṭha Upaniṣad* gives Yama's final teaching to Naciketas in seven verses. It is the oldest surviving statement of the doctrine in Indo-Aryan.
 
 > "The wise one—\
 > he is not born, he does not die;\
@@ -165,7 +165,7 @@ The Hermetic name for it is *nous* — mind, the gift of the father that was dis
 > "Those who participate in the gift that comes from god, O Tat, are immortal rather than mortal if one compares their deeds, for in a mind of their own they have comprehended all things on earth, things in heaven and even what lies beyond heaven."\
 > — *Corpus Hermeticum* IV.5, trans. Copenhaver
 
-The ritual-discourse of *C.H.* XIII names the composition of the immortal body directly. Twelve punishments — ignorance, grief, incontinence, lust, injustice, greed, deceit, envy, treachery, anger, recklessness, malice — constitute the zodiacal body of the mortal. Ten powers — the gifts of knowledge, joy, continence, perseverance, justice, liberality, truth, the good, life, and light — constitute the body of the immortal. The arrival of the ten expels the twelve. What remains is a body of powers, forged within the incarnate life and conditioned by the life lived there.
+The ritual-discourse of *C.H.* XIII names the composition of the immortal body directly. Twelve punishments constitute the zodiacal body of the mortal: ignorance, grief, incontinence, lust, injustice, greed, deceit, envy, treachery, anger, recklessness, malice. Ten powers constitute the body of the immortal: the gifts of knowledge, joy, continence, perseverance, justice, liberality, truth, the good, life, and light. The arrival of the ten expels the twelve. What remains is a body of powers, forged within the incarnate life and conditioned by the life lived there.
 
 > "My child, you have come to know the means of rebirth. The arrival of the decad sets in order a birth of mind that expels the twelve; we have been divinized by this birth. Therefore, whoever through mercy has attained this godly birth and has forsaken bodily sensation recognizes himself as constituted of the intelligibles and rejoices."\
 > — *Corpus Hermeticum* XIII.10, trans. Copenhaver
@@ -185,7 +185,7 @@ Torres records the same teaching in the plainer voice of the workshop:
 > "Warriors of total freedom merge with the emanations at large and disappear forever, consumed by fire from within. … Theirs is truly a journey of no return."\
 > — Torres, *The Secret of the Plumed Serpent*
 
-Three names for one essence. The Vedic tradition calls it *ātman*. The Hermetic tradition calls it the body of powers. The Toltec tradition calls it the unified awareness that exercises death's hidden option. In each case the essence was never composed. In each case the essence is identified with, cleaned, and strengthened during the life. In each case the strengthened essence is what survives the dissolution.
+One essence carries three names. The Vedic tradition calls it *ātman*. The Hermetic tradition calls it the body of powers. The Toltec tradition calls it the unified awareness that exercises death's hidden option. In each case the essence was never composed. In each case the essence is identified with, cleaned, and strengthened during the life. In each case the strengthened essence is what survives the dissolution.
 
 ## Life is the window
 

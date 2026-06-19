@@ -12,15 +12,13 @@ banner_image: generated-images/toroidal-heart-banner.png
 
 *Two Lights, One Pulse*
 
-The world is a torus. The level earth-disk lies within it. The north pole is at the center of the disk; the equator is a circle drawn around that center; the southern lands fill the disk's periphery. The torus is shaped around a central axis perpendicular to the disk, rising through the north pole. The hemispheres of the torus are not above and below the disk — they are inner and outer. The inner hemisphere, north, is gathered around the central axis: the core. The outer hemisphere, south, spreads across the disk's periphery: the skin. The Sun and the Moon are the two driving Lights. Both move through the toroidal field, in and out of the core and across the skin. The Sun keeps to the ecliptic; the Moon weaves above and below it. At any moment, the Light that stands more north — closer to the core — is the dominant Light. The lunar nodes mark where the dominance changes hands.
+The world is a torus. The level earth-disk lies within it. The north pole is at the center of the disk; the equator is a circle drawn around that center; the southern lands fill the disk's periphery. The torus is shaped around a central axis perpendicular to the disk, rising through the north pole. The hemispheres of the torus are inner and outer, not above and below the disk. The inner hemisphere, north, is gathered around the central axis: the core. The outer hemisphere, south, spreads across the disk's periphery: the skin. The Sun and the Moon are the two driving Lights. Both move through the toroidal field, in and out of the core and across the skin. The Sun keeps to the ecliptic; the Moon weaves above and below it. At any moment, the Light that stands more north — closer to the core — is the dominant Light. The lunar nodes mark where the dominance changes hands.
 
 > **एकं सद् विप्रा बहुधा वदन्ति।**\
 > *ekaṃ sad viprā bahudhā vadanti.*
 >
 > "Truth is one; the sages call it by many names."\
 > — *Ṛgveda* 1.164.46
-
-This is the picture this article holds steady in for the length of its reading.
 
 ## The Field
 
@@ -65,7 +63,7 @@ The Sun and the Moon are the field's two driving Lights. Their natures are given
 > "From his mind the Moon was born; from his eye, the Sun."\
 > — *Ṛgveda* 10.90.13
 
-The eye looks outward. The mind turns inward. The Sun is the Light by which we see what is outside — radiant, public, manifest. The Moon is the Light by which we know what is inside — reflective, hidden, gathered. The two natures incline in opposite directions, but neither Light is fixed to one hemisphere. Both move through the toroidal field. The dominance between them is decided not by what each Light is, but by where each Light stands.
+The eye looks outward. The mind turns inward. The Sun is the Light by which we see what is outside — radiant, public, manifest. The Moon is the Light by which we know what is inside — reflective, hidden, gathered. The two natures incline in opposite directions, but neither Light is fixed to one hemisphere. Both move through the toroidal field. Their dominance is decided by where each Light stands, not by what it is.
 
 Plutarch, writing on the face in the moon, gave the geometry its earliest doctrinal name:
 
@@ -110,12 +108,12 @@ Between Ketu and Rāhu — the half-orbit when the Moon stands south of the ecli
 
 Rāhu is the door through which the Moon enters her dominance. Ketu is the door through which the Sun enters his. The two doors are crossed every 27.2 days — the draconic month — as the Moon completes one circuit of her own nodal cycle.
 
-Eclipse season is the moment when both Lights converge on the same nodal axis. New moon at Rāhu or Ketu: Sun and Moon at the same longitude, both at the ecliptic — a solar eclipse, the field's whole hinge swung at once. Full moon with Sun at one node and Moon at the other: a lunar eclipse, the field maximally polarized. What classical astrology has named malefics — Rāhu and Ketu — are in this geometry the gates through which dominance changes hands.
+Eclipse season is the moment when both Lights converge on the same nodal axis. New moon at Rāhu or Ketu sets Sun and Moon at the same longitude, both at the ecliptic: a solar eclipse, the field's whole hinge swung at once. Full moon with Sun at one node and Moon at the other gives a lunar eclipse, the field maximally polarized. What classical astrology has named malefics, Rāhu and Ketu, are in this geometry the gates through which dominance changes hands.
 
 > "The motions once finished are again begun in the same order."\
 > — *Sūrya Siddhānta* I.13
 
-The nodal axis precesses backward through the zodiac at roughly nineteen degrees a year, completing a full circuit in eighteen and a half years. The body's eighteen-year cycles — the wisdom-tooth eruption, the early-twenties consolidation, the late-thirties pivot, the mid-fifties harvest — are nodal cycles felt from inside the body.
+The nodal axis precesses backward through the zodiac at roughly nineteen degrees a year, completing a full circuit in eighteen and a half years. The body keeps cycles near this length — the wisdom-tooth eruption, the early-twenties consolidation, the late-thirties pivot, the mid-fifties harvest — which the tradition reads as the same nodal rhythm felt from inside the body.
 
 ## The Arc Through the Torus
 
@@ -182,7 +180,7 @@ The chart is a symbol; the body is the witness; the field is the source.
 
 ## Closing
 
-The world is a torus. The core dominates the skin because the core is dense and the skin is diffuse. The two Lights move through both hemispheres; whichever is more north dominates. Between Rāhu and Ketu the Moon stands more north and rules; between Ketu and Rāhu the Sun stands more north and rules. The wheel turns with twelve spokes around the sky of *ṛta*. The field breathes systole and diastole. The body, standing on the level earth, breathes with it.
+The world is a torus. The core dominates the skin because the core is dense and the skin is diffuse. The two Lights move through both hemispheres; whichever is more north dominates. Between Rāhu and Ketu the Moon stands more north and rules; between Ketu and Rāhu the Sun stands more north and rules. The wheel turns with twelve spokes around the sky of *ṛta* (the cosmic order). The field breathes systole and diastole. The body, standing on the level earth, breathes with it.
 
 > "The Sun is the soul of all that moves and all that rests."\
 > — *Ṛgveda* 1.115.1

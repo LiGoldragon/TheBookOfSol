@@ -77,7 +77,7 @@ Rules of thumb:
 - If the Sanskrit text is a paraphrase or a proverbial formulation rather than an exact verse, say so in the attribution: `— proverbial formulation, after *Aṣṭāṅga Hṛdaya* Sūtrasthāna 12`.
 - If you have no Sanskrit, you may use a plain block-quote of the English with the attribution underneath on its own `\\`-broken line.
 
-Worked example — see [Cooking and Spices](./ayurveda/Cooking_and_Spices.md) for the current reference implementation. Do **not** imitate the older pattern used in `ayurveda/Āyurveda.md`, `ayurveda/True_Ayurveda.md`, and the `chloride/witnesses/Witnesses_Against_Salt_*.md` files, which places the citation between the Sanskrit and the English — that pattern is wrong and is being retired as those files are edited.
+Worked example — see [Cooking and Spices](./ayurveda/Cooking_and_Spices.md) for the current reference implementation. Never place the citation between the Sanskrit and the English. An older pattern that sandwiched the citation between the two has been retired across the corpus; if you encounter a surviving instance, convert it to attribution-last.
 
 ### "Chloride of sodium," not "sodium chloride"
 

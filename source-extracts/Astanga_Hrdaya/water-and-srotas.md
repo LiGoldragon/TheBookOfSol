@@ -106,7 +106,7 @@ The *prāṇavaha* channels share the same pivot. Srikantha Murthy's commentary 
 
 ### AH Śā. 3.53–54 — agni and the formation of dhātus
 
-The verse on *agni-grahaṇī* in the *Śārīrasthāna* makes the chain explicit: no agni → no rasa → no dhātus → no ojas.
+The verse on *agni-grahaṇī* in the *Śārīrasthāna* makes the chain explicit: no agni (the digestive fire) → no rasa → no dhātus (bodily tissues) → no ojas (the vital essence that is the body's final refinement of food).
 
 > **grahaṇyā balam agnir hi sa cāpi grahaṇī-balaḥ |\
 > dūṣite 'gnāv ato duṣṭā grahaṇī roga-kāriṇī ||\
@@ -151,4 +151,4 @@ The body that does not want water is the body whose channels are clean and whose
 
 - **Sanskrit (AH)**: GRETIL plain-text edition of the *Aṣṭāṅga Hṛdaya Sūtrasthāna* and *Śārīrasthāna* (Das & Emmerick, collated from the Pārādakara and Kunte/Navre printed editions). [GRETIL plaintext](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_vAgbhaTa-aSTAGgahRdayasUtra.txt) · [GRETIL HTML](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_vAgbhaTa-aSTAGgahRdayasUtra.htm)
 - **Sanskrit (AS)**: Atrideva Gupta's Caukhambha edition, transcribed at [Sanskrit Wikisource — *Aṣṭāṅga Saṅgraha Śārīrasthāna* 1–6](https://sa.wikisource.org/wiki/अष्टाङ्गसंग्रहः_शरीरस्थानम्_अध्याय_१-६). PDF facsimile at [Internet Archive](https://archive.org/details/in.ernet.dli.2015.383455).
-- **English cross-check**: K. R. Srikantha Murthy, *Vāgbhaṭa's Aṣṭāṅga Hṛdayam (Text, English Translation, Notes, Appendix and Indices)*, 3 vols (Krishnadas Academy, Varanasi, 5th edition 2001). Verse-locations and reading variants cross-checked, but the English in the extract is fresh, drafted to match this project's voice. Bibliography path: [`en/vagbhata/`](https://github.com/LiGoldragon/bibliography/tree/main/en/vagbhata).
+- **English cross-check**: K. R. Srikantha Murthy, *Vāgbhaṭa's Aṣṭāṅga Hṛdayam (Text, English Translation, Notes, Appendix and Indices)*, 3 vols (Krishnadas Academy, Varanasi, 5th edition 2001). Verse-locations and reading variants cross-checked, but the English in the extract is fresh, drafted to match this project's voice. Library entry: `~/primary/repos/library/en/vagbhata/`.

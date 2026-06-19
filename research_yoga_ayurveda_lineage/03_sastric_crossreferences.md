@@ -426,7 +426,7 @@ Vāgbhaṭa's exposition of the tridoṣa (vāta-pitta-kapha) in AH 1.6–8
 is carried forward without essential change into the later Haṭha-yoga
 corpus. HYP 2.21 (see below) adopts the tridoṣa verbatim. The
 *prāṇa*–*vāta* identity is firm: the *prāṇa* of Yoga is the *vāta* of
-Āyurveda, as we show in the file on shared anthropology.
+Āyurveda.
 
 ### Vāgbhaṭa — Aṣṭāṅga Hṛdaya Sūtra 2 — dinacaryā as lay-yoga
 
@@ -752,14 +752,14 @@ The key source for the Sanskrit of Vyāsa on 2.15 is the *Arya* edition:
 - Pandit Usharbudh Arya (Swami Veda Bharati), *Yoga-sūtras of Patañjali
   with the Exposition of Vyāsa: A Translation and Commentary*, vol. II
   (Sādhana-pāda). Himalayan Institute, Honesdale, PA, 1986/2001.
-  Bibliography path: `~/git/bibliography/en/patanjali/patanjali-arya-vyasa-bhasya.pdf`
+  Bibliography path: `~/primary/repos/library/en/patanjali/patanjali-arya-vyasa-bhasya.pdf`
   (MD5 `3581d2f570c07c5d1ba0e6c0c4f81e54`).
 
 For the English and the Vācaspati:
 
 - James Haughton Woods, *The Yoga-System of Patañjali*. Harvard Oriental
   Series 17. Harvard University Press, Cambridge MA, 1914.
-  Bibliography path: `~/git/bibliography/en/james-haughton-woods/woods-yoga-system-patanjali.pdf`
+  Bibliography path: `~/primary/repos/library/en/james-haughton-woods/woods-yoga-system-patanjali.pdf`
   (MD5 `536f2f25aa8e2343d8f02d4f7942d8cc`). The cikitsā-śāstra passage
   is at pp. 134–135.
 
@@ -805,7 +805,7 @@ in the medical sense.
 
 The Haṭha-yoga-pradīpikā *prescribes specific āsanas for specific
 Āyurvedic diagnostic conditions*. It is a hybrid text: half yoga-manual,
-half materia medica. This is not metaphorical — Svātmārāma names the
+half materia medica. The diagnosis is literal: Svātmārāma names the
 doṣas and names the diseases they produce and names the āsana that
 counteracts each.
 
@@ -1002,13 +1002,11 @@ doctrine, pre-dating even Īśvarakṛṣṇa's *Kārikā*.
 
 ### Dasgupta on the Sāṃkhya-in-Caraka identity
 
-> "The main features of the Sāṃkhya doctrine as given by Caraka…
-> Pañcaśikha speaks of the system as elaborately as Caraka does.
-> But even from what he sketches is the same as that of Caraka…
-> the fact that Caraka's Sāṃkhya did not attract their notice…
-> of Caraka and Pañcaśikha is very important; for it shows a…"
->
-> — Dasgupta, *HIP* vol. I, pp. 473–475
+In the chapter on Sāṃkhya (vol. I, pp. 213 ff.), Dasgupta sets the main
+features of the Sāṃkhya doctrine as given by Caraka beside the system
+sketched by Pañcaśikha and finds them the same, treating the agreement
+of Caraka and Pañcaśikha as evidence of an archaic stratum of the
+doctrine that Caraka preserves.
 
 Dasgupta's point: the shared metaphysics of Yoga and Āyurveda is
 traceable to the archaic Sāṃkhya of Pañcaśikha, which Caraka
@@ -1040,9 +1038,9 @@ And:
 
 Woods is cautious about the historicity of the identification but
 transmits the evidence intact. The point for our purpose is not
-historical: the point is that the tradition *insists* on the unity of
+historical but doctrinal: the tradition *insists* on the unity of
 the three disciplines. We do not need a single Patañjali to write all
-three books; we need only note that the tradition cannot let the
+three books; we need only see that the tradition cannot let the
 three stand apart.
 
 ### T. S. Rukmani — on Yogasūtrabhāṣyavivaraṇa
@@ -1211,61 +1209,62 @@ The evidence is as thick as any in the Indian darśanic literature.
     on the same reading: the two corpora grew together, cite each
     other, and form one intellectual fabric.
 
-Yoga and Āyurveda are not two disciplines in dialogue. They are
-one discipline with two registers — the inner register (Yoga-sūtra,
-Haṭha-yoga) and the outer register (Caraka, Suśruta, Vāgbhaṭa) — of
-a single therapeutic metaphysics that begins with *duḥkha-darśana*
-and ends in *kaivalya*. The physician hands the patient off to the
+Yoga and Āyurveda are one discipline with two registers: the inner
+(Yoga-sūtra, Haṭha-yoga) and the outer (Caraka, Suśruta, Vāgbhaṭa),
+two registers of a single therapeutic metaphysics that begins with
+*duḥkha-darśana* and ends in *kaivalya*. The physician hands the patient off to the
 yogin; the yogin hands the sādhaka back to the physician; and both
 know it is the same hand.
 
 ## Source paths (for citation)
 
-- `~/git/bibliography/en/caraka/caraka-samhita-priya-vrat-sharma.pdf`
-  — Priya Vrat Sharma, *Caraka Saṃhitā*, text with English translation
-  and critical notes, 4 vols. Chaukhambha Orientalia, Varanasi.
+- *Caraka Saṃhitā* — via the dedicated caraka-samhita repo
+  (`/git/github.com/LiGoldragon/caraka-samhita`, notes/philology and
+  per-*sthāna* digests). Priya Vrat Sharma, *Caraka Saṃhitā*, text with
+  English translation and critical notes, 4 vols. Chaukhambha Orientalia,
+  Varanasi.
 
-- `~/git/bibliography/en/susruta/susruta-bhishagratna-complete.pdf`
+- `~/primary/repos/library/en/susruta/susruta-bhishagratna-complete.pdf`
   — Kaviraj Kunjalal Bhishagratna (trans.), *Suśruta Saṃhitā*, 3 vols.
   Chowkhamba Sanskrit Series.
 
-- `~/git/bibliography/en/vagbhata/vagbhata-astanga-hrdaya-srikantha-murthy.pdf`
+- `~/primary/repos/library/en/vagbhata/vagbhata-astanga-hrdaya-srikantha-murthy.pdf`
   — K. R. Srikantha Murthy, *Aṣṭāṅga Hṛdayam of Vāgbhaṭa*, text,
   translation, notes. Chowkhamba Krishnadas Academy, Varanasi.
 
-- `~/git/bibliography/en/patanjali/patanjali-arya-vyasa-bhasya.pdf`
+- `~/primary/repos/library/en/patanjali/patanjali-arya-vyasa-bhasya.pdf`
   — Pandit Usharbudh Arya (Swami Veda Bharati), *Yoga-sūtras of
   Patañjali with the Exposition of Vyāsa*. Himalayan Institute,
   Honesdale PA, 1986.
 
-- `~/git/bibliography/en/james-haughton-woods/woods-yoga-system-patanjali.pdf`
+- `~/primary/repos/library/en/james-haughton-woods/woods-yoga-system-patanjali.pdf`
   — James Haughton Woods, *The Yoga-System of Patañjali*. Harvard
   Oriental Series 17. Harvard University Press, 1914.
 
-- `~/git/bibliography/en/edwin-bryant/bryant-yoga-sutras-patanjali.epub`
+- `~/primary/repos/library/en/edwin-bryant/bryant-yoga-sutras-patanjali.epub`
   — Edwin F. Bryant, *The Yoga Sūtras of Patañjali*. Farrar, Straus
   and Giroux, 2014.
 
-- `~/git/bibliography/en/svatmarama/hatha-yoga-pradipika-muktibodhananda.pdf`
+- `~/primary/repos/library/en/svatmarama/hatha-yoga-pradipika-muktibodhananda.pdf`
   — Swami Muktibodhananda (trans. & comm.), *Haṭha Yoga Pradīpikā of
   Svātmārāma*. Bihar School of Yoga, Munger.
 
-- `~/git/bibliography/en/gheranda/gheranda-samhita-mallinson.pdf`
+- `~/primary/repos/library/en/gheranda/gheranda-samhita-mallinson.pdf`
   — James Mallinson (trans.), *The Gheraṇḍa Saṃhitā*. YogaVidya.com,
   Woodstock NY, 2004.
 
-- `~/git/bibliography/en/siva-samhita/siva-samhita-mallinson.pdf`
+- `~/primary/repos/library/en/siva-samhita/siva-samhita-mallinson.pdf`
   — James Mallinson (trans.), *The Śiva Saṃhitā*. YogaVidya.com,
   Woodstock NY, 2007.
 
-- `~/git/bibliography/en/surendranath-dasgupta/dasgupta-history-indian-philosophy-vol1.pdf`
+- `~/primary/repos/library/en/surendranath-dasgupta/dasgupta-history-indian-philosophy-vol1.pdf`
   — Surendranath Dasgupta, *A History of Indian Philosophy*, vol. I.
   Cambridge University Press, 1922.
 
 - T. S. Rukmani, *Yogasūtrabhāṣyavivaraṇa of Śaṅkara*, 2 vols.
   Munshiram Manoharlal, 2001. (TO ACQUIRE — target path:
-  `~/git/bibliography/en/t-s-rukmani/`)
+  `~/primary/repos/library/en/t-s-rukmani/`)
 
 - Jan Meulenbeld, *A History of Indian Medical Literature*, 5 vols.
   Egbert Forsten, Groningen, 1999–2002. (TO ACQUIRE — target path:
-  `~/git/bibliography/en/jan-meulenbeld/`)
+  `~/primary/repos/library/en/jan-meulenbeld/`)

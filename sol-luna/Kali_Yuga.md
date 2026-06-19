@@ -1,8 +1,8 @@
-# **Kali Yuga**
+# Kali Yuga
 
 ### The Age of Strife
 
-This is the age where truth falters, rituals thin, and the mind forgets its center. Disorder rises, and pressure within diminishes. The sages foresaw this age and left a practice that closes the circuit of life itself: **plasma retention** (*Amarolī*).
+This is the age where truth falters, rituals thin, and the mind forgets its center. Disorder rises, and pressure within diminishes. The sages foresaw this age and left a practice that closes the circuit of life itself: **plasma retention** (*Amarolī*, the yogic reingestion of one's own water).
 
 ## The Principle
 
@@ -10,9 +10,9 @@ This is the age where truth falters, rituals thin, and the mind forgets its cent
  weaken the inner current. Just as a vessel leaks air and loses force, so too
  the body leaks strength and the spirit sinks.
 - **Retention as restoration**: To rejoin what is refined is to restore
- pressure—*prāṇa* once lost returns, and with it comes clarity and resilience.
-- **Integration over depletion**: The act is not about survival alone, but about
- wholeness: body, mind, and spirit in circulation.
+ pressure — *prāṇa* (the vital breath) once lost returns, and with it comes clarity and resilience.
+- **Integration over depletion**: The act is about wholeness — body, mind, and
+ spirit in circulation.
 
 ## The Attitude
 
@@ -32,17 +32,17 @@ Without this spirit, plasma retention is mechanical. With it, the act is sacrame
  - Sit quiet at dawn. Intend to meet yourself, not discard yourself.
  - Offer prayer: "I receive the elixir of my own being."
 
-1. **Collect the Elixir**
+2. **Collect the Elixir**
 
  - First flow at dawn carries the finest distillation.
  - View it as plasma of life, not waste.
 
-1. **Consecrate**
+3. **Consecrate**
 
  - Speak mantra, blessing, or silence of reverence.
- - Feel gratitude: this is not foreign—it is you.
+ - Feel gratitude: this is you.
 
-1. **Rejoin**
+4. **Rejoin**
 
  - Drink willingly, cheerfully.
  - Merge mind, body, and spirit in that act.
@@ -58,7 +58,7 @@ Without this spirit, plasma retention is mechanical. With it, the act is sacrame
 ## Closing Counsel
 
 O Spirited Ones:\
-Plasma retention is not about ritual, nor about defiance. It is about remembering yourself in an age designed to make you forget.
+Plasma retention is the practice of remembering yourself in an age designed to make you forget.
 
 To drink unwillingly is nothing. To drink with cheerfulness and prayer is everything.\
 Retain what is most refined, and it will retain you. In this way, even in Kali Yuga, the pressure of spirit remains unbroken.

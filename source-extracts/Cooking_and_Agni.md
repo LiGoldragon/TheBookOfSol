@@ -38,12 +38,12 @@ The body is *anna-rasa-maya* — composed of the *rasa* (the first nutritive jui
 > "From plants arises *anna*. From *anna* arises the human being."\
 > — *Taittirīya Upaniṣad* 2.2.1
 
-### Taittirīya Upaniṣad 2.2.4 — anna as Brahman
+### Taittirīya Upaniṣad 3.2 — anna as Brahman
 
 > **annaṃ brahmeti vyajānāt ||**
 >
 > "He knew *anna* as Brahman."\
-> — *Taittirīya Upaniṣad* 2.2.4
+> — *Taittirīya Upaniṣad* 3.2 (Bhṛgu Vallī)
 
 ### Bṛhadāraṇyaka Upaniṣad — prāṇa as amṛta
 
@@ -94,7 +94,7 @@ External cooking is the *first stage* of internal cooking. It softens the food, 
 
 ## III. Agni is the cause of strength, health, and vital breath
 
-*Agni* in Caraka is not a metaphor. It is the operative principle of life — the digestive fire, present in thirteen forms in the body (*jaṭharāgni* in the belly; *bhūtāgnis* in the elemental processings; *dhātvāgnis* in each tissue's metabolism). The classical corpus places *agni* at the centre of every clinical question.
+*Agni* in Caraka is the operative principle of life — the digestive fire, present in thirteen forms in the body (*jaṭharāgni* in the belly; *bhūtāgnis* in the elemental processings; *dhātvāgnis* in each tissue's metabolism). The classical corpus places *agni* at the centre of every clinical question.
 
 ### Caraka Sū. 27.342 — agni and life
 
@@ -217,7 +217,7 @@ Of the items: *ṣaṣṭika*, *śāli*, *mudga*, *yava*, *dhānya* — five gra
 > **hitaṃ mitaṃ ca bhoktavyaṃ annaṃ yogārthinā sadā |**
 >
 > "The yogin should always eat wholesome *anna* in measured quantity."\
-> — proverbial yogic formulation on measured diet
+> — proverbial yogic formulation on measured diet (Sanskrit unlocated; not a verse of the *Haṭha Yoga Pradīpikā*)
 
 *Anna* — cooked grain, the *bhakta* of the daily plate. The Yogic register and the Ayurvedic register converge on the same staple at the same word.
 
@@ -383,7 +383,7 @@ The classical position is consistent across all three corpora and stated explici
 
 Cooking is what makes food into body. Raw input gives rise to *āma*, not *rasa*. The life force the raw foodist seeks is what the eater *becomes* when *anna* has been properly cooked, properly digested, and properly assimilated. Fire is the elevator of substance into life. To cook is to begin the offering.
 
-This is a doctrine about the staple, not a blanket ban on raw food. The same corpus keeps a few things raw on purpose. Honey it guards most strictly: heated honey, Caraka says, "becomes fatal due to its association with poisons" (Sū. 27.243–246), so the sweet it prizes most is the one it forbids to cook. Ripe fruit in season is eaten raw by indication, and fresh buttermilk, curd, and butter are taken uncooked. Cooking is the rule for *anna* and the heavy; the raw exceptions are named, few, and deliberate. The raw-foodist error is not that something is eaten raw — it is making the raw plate the staple and demoting the cooked grain to the exception.
+This is a doctrine about the staple, not a blanket ban on raw food. The same corpus keeps a few things raw on purpose. Honey it guards most strictly: heated honey, Caraka says, "becomes fatal due to its association with poisons" (Sū. 27.243–246), so the sweet it prizes most is the one it forbids to cook. Ripe fruit in season is eaten raw by indication, and fresh buttermilk, curd, and butter are taken uncooked. Cooking is the rule for *anna* and the heavy; the raw exceptions are named, few, and deliberate. The raw-foodist error is making the raw plate the staple and demoting the cooked grain to the exception.
 
 ## Sources
 

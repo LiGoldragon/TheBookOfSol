@@ -22,14 +22,10 @@ Across registers, the same reality is named by depth and refinement. Śivāmbu n
 
 The Vedas speak of this center as Amṛta — an inherent essence of the living being, never an imported elixir.
 
-> **amṛtasya nāma yad brahma**
->
-> "That which is called Amṛta is Brahman."
-
 > **amṛtaṁ vai prāṇāḥ**
 >
 > "Prāṇa itself is Amṛta."\
-> — *Bṛhadāraṇyaka Upaniṣad*
+> — *Bṛhadāraṇyaka Upaniṣad* 2.1.20
 
 Prāṇa does not exist apart from substance. Where prāṇa is sustained, Amṛta is present.
 
@@ -60,14 +56,14 @@ The *Caraka Saṃhitā* leaves the clues intact. It warns repeatedly against exc
 >
 > "Through excess in function, depletion of the doṣas occurs,\
 > and great loss of strength follows."\
-> — proverbial formulation, after *Caraka Saṃhitā* Sūtrasthāna tradition
+> — proverbial formulation, after *Caraka Saṃhitā*
 
 > **mūtrasya atipravṛttau\
 > balakṣayaḥ**
 >
 > "With excessive flow of mūtra,\
 > strength is diminished."\
-> — proverbial formulation, after *Caraka Saṃhitā* Sūtrasthāna tradition
+> — proverbial formulation, after *Caraka Saṃhitā*
 
 These are mechanics, not moral cautions. Life weakens when its refined substances are discarded without discernment.
 
@@ -78,7 +74,7 @@ Where the medical voice grew constrained, yoga remained direct. The *Haṭha Yog
 >
 > "The yogī should drink Amarolī\
 > and practice Vajrolī."\
-> — *Haṭha Yoga Pradīpikā* 3
+> — proverbial formulation, after *Haṭha Yoga Pradīpikā* 3.96–97
 
 Amarolī is the act of reintroduction. Vajrolī governs regulation. Together they complete the circuit that medicine could only imply.
 
@@ -87,7 +83,7 @@ Amarolī is the act of reintroduction. Vajrolī governs regulation. Together the
 >
 > "Through Vajrolī, perfection is attained,\
 > free from all disease."\
-> — *Haṭha Yoga Pradīpikā* 3
+> — proverbial formulation, after *Haṭha Yoga Pradīpikā* 3
 
 The *Ḍamar Tantra* — brief, memorizable, and therefore survivable — states the law with uncompromising clarity.
 
@@ -96,25 +92,25 @@ The *Ḍamar Tantra* — brief, memorizable, and therefore survivable — states
 >
 > "That which is born of the body\
 > preserves the body again."\
-> — *Ḍamar Tantra*
+> — proverbial formulation, after *Ḍamar Tantra*
 
 > **svadehaṁ nāvalambeta\
 > sa mṛtyuṁ samavāpnuyāt**
 >
 > "One who does not rely on the body itself\
 > moves toward death."\
-> — *Ḍamar Tantra*
+> — proverbial formulation, after *Ḍamar Tantra*
 
 Even where human practice became constrained, the principle was left visible through the cow.
 
 > **gomūtraṁ pavitraṁ balyaṁ rasāyanam**
 >
 > "Cow mūtra is purifying, strengthening, and rejuvenative."\
-> — classical Ayurvedic formulation
+> — proverbial formulation, after *Caraka Saṃhitā*
 
 The verse survived as a permitted witness to an internal law.
 
-Two currents were always known. The lunar current nourishes and stabilizes, expressed most clearly through ghṛta. The solar current restores and renews, expressed through the refined plasma of the living being, elevated as Amṛta and deliberately reintroduced through yogic discipline. The axis of life is solar.
+Two currents were always known. The lunar current nourishes and stabilizes, expressed most clearly through ghṛta (clarified butter, ghee). The solar current restores and renews, expressed through the refined plasma of the living being, elevated as Amṛta and deliberately reintroduced through yogic discipline. The axis of life is solar.
 
 What distinguishes the present moment is convergence. Texts align. Lineages recognize one another. Experience confirms what philosophy implied and yoga preserved. The same center appears again and again, without persuasion.
 

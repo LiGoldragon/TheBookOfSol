@@ -111,7 +111,7 @@ The transpersonal level is technically inseparable from the **trans-Saturnian pl
 
 In the multilevel interpretation, the same trans-Saturnian planet means *different things at different levels*. Uranus at the biological level is mutation; at the sociocultural level, social-revolutionary upheaval; at the individual level, the lightning of original insight; at the transpersonal level, the lightning of *initiation* itself. The astrologer's craft includes knowing which face Uranus is showing in a given chart at a given moment of a given life.
 
-The galactic frame extends this: the Sun is not the centre of the universe but one star in the galaxy; the individual is not the centre of his world but one node in the planetary humanity; the transpersonal level is the conscious recognition of that node-status.
+The galactic frame extends this: the Sun is one star among many in the galaxy, and the individual one node within the worldwide humanity. The transpersonal level is the conscious recognition of that node-status.
 
 ## VIII. Progressions and transits at the transpersonal level
 

@@ -7,7 +7,7 @@ The thesis. Science and astrology share a common foundation in the division of t
 > "Science & Astrology is not an attempt to define or explain the zodiac or the measure formulae but is an examination of the common foundation shared by both, an examination that holds regardless of the use or abuse of either. Of course, in our day and age, astrology wears the disguise of the bawdy courtesan, but behind this masquerade lies the flesh and bones of first principles. While founded on intuitive insight, these principles can be shown to correlate to those on which the measure formulae — the time-tested vocabulary of physical science — is based."\
 > — Arthur M. Young, *Science and Astrology*, jacket copy
 
-The extract follows Young's own section order. The aim is to bring forward the load-bearing claims in his own words.
+The extract follows Young's own section order.
 
 ## I. The conflict is ideological, not factual
 
@@ -48,7 +48,7 @@ Young then notices what the textbooks omit:
 > "Notice that there is only one third derivative, power, in the bottom row. But are there other third derivatives to fill in this row? This is the case: there are two more, L/T³ and ML/T³. The first, L/T³, is change of acceleration, or **control**. It is by pushing the accelerator pedal, applying the brakes, or steering (which is also a change of acceleration) that we control the car. The second is control times mass — mass control — the difference between control of a canoe and the control of an oil tanker."\
 > — Arthur M. Young, *Science and Astrology*
 
-The omission of these two formulae from the textbooks is not an oversight but a methodological choice: to derive deterministic laws, energy must be held constant — which forbids the third derivative.
+The textbooks omit these two formulae by methodological choice: to derive deterministic laws, energy must be held constant, which forbids the third derivative.
 
 > "The omission of control and mass control from scientific textbooks can be accounted for on the grounds that they are not used to find the laws of nature. To find such laws we must not add or subtract energy from the system. This has led to the situation in which 'pure' science omits any reference to these derivatives. It is left for engineers to make use of them, as is done in aeronautics, where the third derivative of position, L/T³, is called 'jerk' and that of momentum is called 'power control.' Neither term is well chosen."\
 > — Arthur M. Young, *Science and Astrology*
@@ -210,7 +210,7 @@ By the dimensional assignments (T = 90°, M = 120°, L = 30°), energy itself ha
 > "Energy = ML²/T² = 120° + 2 × 30° − 2 × 90° = 0°"\
 > — Arthur M. Young, *Science and Astrology*
 
-Action — the quantum, the photon — has measure 90°, which Young reads as *timing* — the positive aspect of uncertainty, the choice of *when*.
+Action (the quantum, the photon) has measure 90°, which Young reads as *timing*: the positive aspect of uncertainty, the choice of *when*.
 
 > "Maximum uncertainty is thus the largest possible angle, 360 degrees or 2π."\
 > — Arthur M. Young, *Science and Astrology*
@@ -287,7 +287,7 @@ For reference, Young's own end-of-essay summary table, re-rendered:
 | Position (L) | Libra | Observation |
 | Momentum (ML/T) | Scorpio | Transformation |
 | Quantum of Action (ML²/T) | Sagittarius | Hunch, Intuition |
-| Control (L/T³ or LT) | Capricorn | Control |
+| Control (L/T³) | Capricorn | Control |
 | Moment (ML) | Aquarius | Significance |
 | Moment of Inertia (ML²) | Pisces | Belief |
 

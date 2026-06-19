@@ -1,7 +1,7 @@
 # MCP config (local)
 .mcp.json
 
-# Book binaries do NOT belong here — put them in ~/git/bibliography/ instead.
+# Book binaries do NOT belong here — put them in ~/primary/repos/library/ instead.
 # This folder holds project-local quote extractions (.md files) only.
 source-extracts/**/*.pdf
 source-extracts/**/*.epub

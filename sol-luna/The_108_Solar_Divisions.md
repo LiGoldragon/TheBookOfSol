@@ -1,5 +1,7 @@
 # The 108 Solar Divisions
 
+The Sun travels the full zodiac through one hundred and eight stations: twenty-seven *nakshatras* (lunar mansions, the fixed star-fields of the sidereal sky) each quartered into four *padas* (quarter-steps), with every pada coloured further by its *navāṃśa* (the ninth-harmonic sub-sign). One hundred and eight is the count the tradition holds sacred — the beads of the *mālā*, the breaths of a settled day. Read in order, the stations trace the soul's whole arc from the first light of Ashwini to the final dissolution of Revati.
+
 ### **Aries (Mesha) | The Spark of Being**
 
 - **Nakshatra: Ashwini (The Horseman) | Padas 1-4**
@@ -374,7 +376,7 @@
  - **Tropical Degrees:** 23° 20' – 26° 40'
  - The friend of the Moon rests, its creative passions now deepened by a transformative, magnetic intensity from the Scorpio Navamsha. The heart becomes the lord of the immortals, understanding that true pleasure involves a powerful, soul-level connection.
 
-- **Nakshatra: Uttara Phalguni (The Latter Red One) | Padas 45-46**
+- **Nakshatra: Uttara Phalguni (The Latter Red One) | Pada 45**
 
  - *Symbolizing the back legs of a bed, representing commitment, patronage, and stable relationships.*
 
@@ -923,3 +925,7 @@
  - **Navamsha:** Pisces
  - **Tropical Degrees:** 26° 40' – 30° 00'
  - Eternal bliss is found as the soul dissolves completely into the cosmic ocean, the final journey of the Revati fish. The heart causes complete happiness, its individuality merged with the boundless, blissful whole, becoming entirely lovely in its surrender.
+
+### References
+
+- The *nakshatra* and *pada* scheme follows the classical Vedic-astrological tradition (the twenty-seven lunar mansions and their four-fold division). For the *navāṃśa* sub-divisions, see the *Bṛhat Parāśara Horā Śāstra*.

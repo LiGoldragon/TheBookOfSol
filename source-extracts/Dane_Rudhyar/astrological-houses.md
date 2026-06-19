@@ -112,9 +112,9 @@ Part Three covers the placement of the planets in the twelve houses — the *typ
 
 In Rudhyar's reading, the technical apparatus of houses is freed from its older predictive uses and re-grounded as a *psychological field-map*:
 
-- The **horizon** (Ascendant–Descendant) is not the boundary of the visible world but the line between **self** and **other**, between the *I-am* axis and the *we-are* axis.
-- The **meridian** (Midheaven–IC) is not the line of zenith-and-nadir but the line between **roots** and **fruits**, between the inherited foundation and the social fulfilment.
-- The **angles** are not just chart-mathematical features; they are *the four crucial moments at which the individual's life-arc turns* — birth (Ascendant), the depth of personal foundation (IC), the encounter with the other (Descendant), the crown of public action (Midheaven).
+- The **horizon** (Ascendant–Descendant) is the line between **self** and **other**, where the *I-am* axis meets the *we-are* axis.
+- The **meridian** (Midheaven–IC) is the line between **roots** and **fruits**, between the inherited foundation and the social fulfilment.
+- The **angles** are *the four crucial moments at which the individual's life-arc turns* — birth (Ascendant), the depth of personal foundation (IC), the encounter with the other (Descendant), the crown of public action (Midheaven) — and not merely chart-mathematical features.
 - The **cusps** are the *thresholds* of experience, not the rigid edges of compartments — Rudhyar uses the Campanus system (space-based) over Placidus (time-based) to keep the house-circle in true space-orientation around the natal moment of individualization.
 
 ## IX. Closing

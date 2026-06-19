@@ -1,6 +1,6 @@
 # The False Idol of Wisdom
 
-Albert Einstein's haloed image as the patron saint of modern science is built on illusion. In *The Manufacture and Sale of Saint Einstein*, Christopher Jon Bjerknes argues that the twentieth century did not mark a triumph of scientific reason at all, but rather its sabotage. Einstein, far from advancing knowledge, helped replace the experimental clarity of true science with a new priesthood of mathematical mysticism. His rise marked the death of genuine inquiry and the birth of pseudoscientific superstition dressed in equations.
+Albert Einstein's haloed image as the patron saint of modern science is built on illusion. In *The Manufacture and Sale of Saint Einstein*, Christopher Jon Bjerknes argues that the twentieth century marked the sabotage of scientific reason. Einstein, far from advancing knowledge, helped replace the experimental clarity of true science with a new priesthood of mathematical mysticism. His rise marked the death of genuine inquiry and the birth of pseudoscientific superstition dressed in equations.
 
 ## The Pseudoscientific Prophet
 
@@ -30,12 +30,12 @@ Bjerknes exposes how this machinery of mythmaking gave Einstein a monopoly on "w
 
 The Einstein cult marked the moment when modern science ceased to be about truth and became about prestige. Universities, journals, and media outlets built their authority on the illusion of Einsteinian genius. In doing so, they sanctified incomprehensibility as the new ideal. The public, unable to follow the mathematics, learned to equate confusion with enlightenment.
 
-Einstein thus stands not as the pinnacle of scientific progress, but as the symbol of its capture by ideology and mystique. The "relativity revolution" did not liberate physics. It buried it beneath abstraction.
+Einstein thus stands as the symbol of science captured by ideology and mystique. The "relativity revolution" buried physics beneath abstraction.
 
-## Conclusion: The Idol Crumbles
+## The Idol Crumbles
 
-When the myth is stripped away, Einstein appears less as a thinker than as a mascot for an age that lost its bearings. His fame rests on errors he did not correct, words he did not write, and ideals he did not live by. The legend of the humble genius was a sales campaign, not a testament to intellect.
+When the myth is stripped away, Einstein appears less as a thinker than as a mascot for an age that lost its bearings. His fame rests on errors he did not correct, words he did not write, and ideals he did not live by. The legend of the humble genius was a sales campaign.
 
-Bjerknes' work leaves a sobering reading of the twentieth century: it did not elevate science to new heights. It replaced science with a cult. Einstein was its high priest, cloaked in equations that few understood and none could question. His legacy is the counterfeit of wisdom, a monument to how easily the world can be dazzled by nonsense when it is spoken in the language of authority.
+Bjerknes' work leaves a sobering reading of the twentieth century: it replaced science with a cult. Einstein was its high priest, cloaked in equations that few understood and none could question. His legacy is the counterfeit of wisdom, a monument to how easily the world can be dazzled by nonsense when it is spoken in the language of authority.
 
 Einstein, the supposed sage, was never a light of reason. He was the shadow that fell when science turned its back on reality.

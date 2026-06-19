@@ -22,6 +22,8 @@ Written and compiled by Olivier Francoeur, aka Li Goldragon.
 ## Cosmology & the shape of the world
 
 - [All Instruments Measure a Level Earth](./cosmology/All_Instruments_Measure_a_Level_Earth.md)
+- [Computing vs Measuring the Curve](./cosmology/Computing_vs_Measuring_The_Curve.md)
+- [Horizon Dip vs Altitude](./cosmology/Horizon_Dip_vs_Altitude.md)
 
 ## Chloride & the war on salt
 
@@ -34,6 +36,7 @@ Written and compiled by Olivier Francoeur, aka Li Goldragon.
 - [Leaving the Chloridics](./chloride/Leaving_the_Chloridics.md)
 - [Inorganic Minerals](./chloride/Inorganic_Minerals.md)
 - [Minerals](./chloride/Minerals.md)
+- [Chloride in Produce — Evidence Table](./chloride/Chloride_In_Produce_Evidence_Table.md)
 
 ### Ancient Witnesses Against Salt
 

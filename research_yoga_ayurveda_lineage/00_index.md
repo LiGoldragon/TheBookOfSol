@@ -2,7 +2,7 @@
 
 ## Thesis
 
-Yoga and Āyurveda are not cousins, not siblings, but two faces of a single lineage and a single principle. They share root texts, root ṛṣis, root metaphysics (Sāṃkhya), root anthropology (pañca-mahābhūta, tridoṣa, prāṇa, nāḍī, kośa), and root method (discernment grounded in lived effect). Where medicine grew constrained by political and clerical pressure, yoga preserved the acts. Where yoga abstracted into pure practice, medicine preserved the mechanics. They complete each other.
+Yoga and Āyurveda are two faces of a single lineage and a single principle. They share root texts, root ṛṣis, root metaphysics (Sāṃkhya), root anthropology (pañca-mahābhūta, tridoṣa, prāṇa, nāḍī, kośa), and root method (discernment grounded in lived effect). Where medicine grew constrained by political and clerical pressure, yoga preserved the acts. Where yoga abstracted into pure practice, medicine preserved the mechanics. They complete each other.
 
 ## Research Files
 

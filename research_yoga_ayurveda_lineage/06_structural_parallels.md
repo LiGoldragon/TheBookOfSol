@@ -1,6 +1,6 @@
 # Structural Parallels — Two Eight-Fold Disciplines of the Whole Life
 
-Claim. Patañjali's aṣṭāṅga-yoga and the Āyurvedic discipline (dinacaryā, ṛtucaryā, sadvṛtta, āhāra-vidhi, cikitsā-catuṣpāda, pañca-karma, puruṣārtha) are not loose cousins. They are a single discipline, spoken twice — once to the renunciate in the forest, once to the householder at home. Limb for limb, verse for verse, the correspondence is nearly lexical. The same ethical atoms (ahiṁsā, satya, asteya, brahmacarya, aparigraha, śauca, santoṣa, tapas, svādhyāya, īśvara-praṇidhāna) appear in both. The same daily acts (brāhma-muhūrta waking, jihvā-nirlekhana, danta-dhāvana, nasya, abhyaṅga, snāna, dhyāna) appear in both. The same therapeutic modalities (vamana, virecana, basti, nasya, rakta-mokṣaṇa on one side; dhauti, basti, neti, trāṭaka, nauli, kapāla-bhāti on the other) appear in both. The same four-pāda diagnostic grid (roga, roga-hetu, ārogya, bhaiṣajya) is used by Vyāsa to define yoga itself. And the keystone verse of all of Āyurveda — Caraka's *sama-doṣaḥ samāgniś ca sama-dhātu-mala-kriyaḥ* — defines health (svastha) as the exact condition Patañjali calls samādhi: *prasanna-ātmendriya-manāḥ*, the clear, settled, serene self-senses-and-mind. Health is samādhi. Samādhi is health. This is the unity the whole research project turns on.
+Claim. Patañjali's aṣṭāṅga-yoga and the Āyurvedic discipline (dinacaryā, ṛtucaryā, sadvṛtta, āhāra-vidhi, cikitsā-catuṣpāda, pañca-karma, puruṣārtha) are a single discipline, spoken twice: once to the renunciate in the forest, once to the householder at home. Limb for limb, verse for verse, the correspondence is nearly lexical. The same ethical atoms (ahiṁsā, satya, asteya, brahmacarya, aparigraha, śauca, santoṣa, tapas, svādhyāya, īśvara-praṇidhāna) appear in both. The same daily acts (brāhma-muhūrta waking, jihvā-nirlekhana, danta-dhāvana, nasya, abhyaṅga, snāna, dhyāna) appear in both. The same therapeutic modalities (vamana, virecana, basti, nasya, rakta-mokṣaṇa on one side; dhauti, basti, neti, trāṭaka, nauli, kapāla-bhāti on the other) appear in both. The same four-pāda diagnostic grid (roga, roga-hetu, ārogya, bhaiṣajya) is used by Vyāsa to define yoga itself. And the keystone verse of all of Āyurveda, Caraka's *sama-doṣaḥ samāgniś ca sama-dhātu-mala-kriyaḥ*, defines health (svastha) as the exact condition Patañjali calls samādhi: *prasanna-ātmendriya-manāḥ*, the clear, settled, serene self-senses-and-mind. Health is samādhi. Samādhi is health. This is the unity the whole research project turns on.
 
 ## Patañjali's aṣṭāṅga-yoga — the eight limbs
 
@@ -121,7 +121,7 @@ Caraka dedicates *Sūtrasthāna* 8 ("indriyopakramaṇīya-adhyāya" — on the 
 
 The phrase "control over sense organs" is *indriyopakrama*, which is what Patañjali calls *paramā vaśyatā indriyāṇām* at YS 2.55. Same phrase, same concept, same discipline. Caraka treats it as the hinge on which health turns.
 
-Read the sadvṛtta list (Sūtra 8.18–29) against Patañjali's yama-niyama. The overlap is not approximate. It is nearly lexical.
+Read the sadvṛtta list (Sūtra 8.18–29) against Patañjali's yama-niyama. The overlap is nearly lexical.
 
 ### Ahiṁsā
 
@@ -197,7 +197,7 @@ Patañjali (YS 2.32): *tapas* — austerity.
 
 Caraka (Sū. 8.18): "One should not be indulged in ... excessive sleep, night vigils, bath, drinks and food."
 
-The Caraka treatise repeatedly returns to *mātrā* — measure — as the core therapeutic principle. Tapas in the Āyurvedic register is not extreme fasting; it is the settled refusal to indulge in the *atiyoga* (excess) of any sense-object. Caraka Sū. 11.37 (three causes of disease): *atiyoga, ayoga, mithyāyoga* of the sense objects. This lexical triad — excess, deficit, perversion — is what tapas guards against.
+The Caraka treatise repeatedly returns to *mātrā* — measure — as the core therapeutic principle. Tapas in the Āyurvedic register is the settled refusal to indulge in the *atiyoga* (excess) of any sense-object, not extreme fasting. Caraka Sū. 11.37 (three causes of disease): *atiyoga, ayoga, mithyāyoga* of the sense objects. This lexical triad — excess, deficit, perversion — is what tapas guards against.
 
 ### Svādhyāya
 
@@ -238,7 +238,7 @@ Read the tenfold grid aloud to anyone who knows yoga. They will not be able to t
 
 ## Dinacaryā — yoga for the householder
 
-The locus classicus of dinacaryā is *Aṣṭāṅga Hṛdaya* Sūtrasthāna 2, which Vāgbhaṭa opens with a single programmatic verse and then unfolds into forty-eight ślokas covering every act from waking at brāhma-muhūrta to going to bed. What follows is the full sequence, with each item tagged against its Patañjalian correlate.
+The locus classicus of dinacaryā is *Aṣṭāṅga Hṛdaya* Sūtrasthāna 2, which Vāgbhaṭa opens with a single programmatic verse and then unfolds into forty-eight ślokas covering every act from waking at brāhma-muhūrta to going to bed. The full sequence runs below, each item tagged against its Patañjalian correlate.
 
 ### Waking at brāhma-muhūrta
 
@@ -298,7 +298,7 @@ The mātrā principle again: exercise to *half-strength only*. The external sign
 > "Udvartana (massaging the body with soft, fragrant powders) mitigates kapha, liquifies the fat, produces stability (compactness, strength) of the body parts and excellence of the skin."
 > "Snāna (bath) improves appetite, sexual vigour, span of life, valour (enthusiasm) and strength; removes itching, dirt, exhaustion, sweat, stupor, thirst, burning sensation and sin."
 
-Note that snāna is said to remove *sin* (*pāpa*). The ordinary bath is classified as a purificatory sacrament. This is the same attitude the yogī brings to prāṇāyāma (YS II.52: "the covering of illumination is weakened"). Daily washing of the body is an act of spiritual purification, not a hygienic afterthought.
+Snāna is said to remove *sin* (*pāpa*): the ordinary bath is classified as a purificatory sacrament. This is the same attitude the yogī brings to prāṇāyāma (YS II.52: "the covering of illumination is weakened"). Daily washing of the body is an act of spiritual purification, not a hygienic afterthought.
 
 ### Food at the right time, in the right measure
 
@@ -326,7 +326,7 @@ Compare: Patañjali does not use the word *dharma* in the yamas, but Vyāsa in h
 **Vāgbhaṭa, AH Sū. 2.47**:
 > "He who constantly thinks of (reviews, examines) how his day and night are passing (and adopts the right way only) will never become a victim of sorrow."
 
-*Ātma-parīkṣā* at the end of the day. The renunciate's nightly vigil, in miniature. Yoga for the householder is not reduced yoga; it is full yoga, lived in dharma's time-grid rather than the forest's.
+*Ātma-parīkṣā* at the end of the day. The renunciate's nightly vigil, in miniature. Yoga for the householder is full yoga, lived in dharma's time-grid rather than the forest's — not a reduced yoga.
 
 ### Dinacaryā as yoga in householder dress
 
@@ -436,7 +436,7 @@ The yogī is instructed to nourish his *dhātus*. Dhātu is the Āyurvedic word.
 **HYP 1.60**:
 > "Unhealthy diet should not be taken, that which is reheated after becoming cold, which is dry (devoid of natural oil), which is excessively salty or acidic, stale or has too many (mixed) vegetables."
 
-Muktibodhananda's commentary on 1.60: "Excess salt and acidity imbalance the system, in fact, [chloride of sodium] directly affects the heart rate. If [chloride] is taken in excess it makes the heart beat faster and heats the body. Many different types of vegetables should not be cooked together as the resulting chemical reactions can upset the digestive system and disturb body functions."
+Muktibodhananda's commentary on 1.60: "Excess salt and acidity imbalance the system, in fact, salt [chloride of sodium] directly affects the heart rate. If salt is taken in excess it makes the heart beat faster and heats the body. Many different types of vegetables should not be cooked together as the resulting chemical reactions can upset the digestive system and disturb body functions."
 
 ### The overlap
 
@@ -509,7 +509,7 @@ This is the crown jewel. The foundational commentator on the *Yoga Sūtra* — w
 | *ārogya* — freedom from disease | *mokṣa / kaivalya* — freedom from saṁsāra |
 | *bhaiṣajya* — medicine, the means of removal | *mokṣa-upāya* — the means of liberation = pure knowledge (viveka-khyāti) |
 
-The doctrinal parallel is not decorative. It is *the architectural blueprint of the Yoga Sūtras*. Bryant points this out: "This sūtra is actually the pivot of this chapter, which, in turn, is the heart of the entire text. Verses II.1–14 discuss the causes, the kleśas, that produce duḥkha, and verses 16 onward focus on the path to remove duḥkha as well as the state beyond. The chapter thus echoes the Four Noble Truths" (Bryant on YS 2.15). Which are themselves, as a diagnostic grid, the structural twin of Caraka's catuṣpāda. The Buddhist tradition also inherited the grid from the same shared medical-yogic lineage. Three branches, one diagnostic tree.
+The doctrinal parallel is *the architectural blueprint of the Yoga Sūtras*. Bryant points this out: "This sūtra is actually the pivot of this chapter, which, in turn, is the heart of the entire text. Verses II.1–14 discuss the causes, the kleśas, that produce duḥkha, and verses 16 onward focus on the path to remove duḥkha as well as the state beyond. The chapter thus echoes the Four Noble Truths" (Bryant on YS 2.15). Which are themselves, as a diagnostic grid, the structural twin of Caraka's catuṣpāda. The Buddhist tradition also inherited the grid from the same shared medical-yogic lineage. Three branches, one diagnostic tree.
 
 Every time a yoga teacher uses the phrase "yoga is the medicine for saṁsāra," the teacher is invoking Vyāsa's bhāṣya on YS 2.15 — and therefore invoking Caraka's cikitsā-catuṣpāda. The two systems *define themselves by the same four-pāda diagnostic*.
 
@@ -639,7 +639,7 @@ So the keystone of the unity argument:
 > **To be healthy, in Āyurveda, is to be in samādhi.**
 > **To be in samādhi, in Yoga, is to be healthy.**
 
-This is not a metaphorical equivalence. It is the literal sense of Caraka's definition read alongside Patañjali's technical vocabulary. The medical text absorbs the yogic goal into its definition of its own subject matter. There is no Āyurvedic concept of "health" that is not already a yogic concept of samādhi. Wellness, as the modern industry markets it, is a degenerate fragment of this definition. The *sama-doṣa* portion has been retained (often in the form of supplements and tests and panels). The *prasanna-ātmendriya-manāḥ* portion has been dropped. The result is a discipline that cannot, by its own self-understanding, achieve its own aim.
+This is the literal sense of Caraka's definition read alongside Patañjali's technical vocabulary. The medical text absorbs the yogic goal into its definition of its own subject matter. There is no Āyurvedic concept of "health" that is not already a yogic concept of samādhi. Wellness, as the modern industry markets it, is a degenerate fragment of this definition. The *sama-doṣa* portion has been retained (often in the form of supplements and tests and panels). The *prasanna-ātmendriya-manāḥ* portion has been dropped. The result is a discipline that cannot, by its own self-understanding, achieve its own aim.
 
 ### Why this verse anchors the book
 
@@ -684,7 +684,7 @@ The argument of this file is not original. It has been made, in different ways a
 
 ### Edwin Bryant (on the direct citation of Caraka inside the Yoga Sūtra commentary)
 
-Bryant, commenting on YS II.32 and Vyāsa's gloss of the niyama of *śauca*: "In terms of ingestion, Hariharānanda reiterates that meat and intoxication cause the mind to be agitated and stimulated — they incite rajas and tamas — and yoga requires a steady and peaceful mind. Therefore, a yogī never imbibes such substances. **He quotes Caraka, a traditional authority on āyurveda**: 'Whatever is good or most desired in this life or the next is attained by intense concentration of the mind. Alcohol creates a disturbance in the mind. Those blinded by addiction to alcohol lose sight of their best self-interest'" (Bryant, *The Yoga Sūtras of Patañjali*, on YS II.32). The fact that a standard English-language commentary on the *Yoga Sūtras* cites Caraka to illustrate a yoga niyama is, by itself, textual proof of the unity.
+Bryant, commenting on YS II.32 and Vyāsa's gloss of the niyama of *śauca*: "In terms of ingestion, Hariharānanda reiterates that meat and intoxication cause the mind to be agitated and stimulated — they incite rajas and tamas — and yoga requires a steady and peaceful mind. Therefore, a yogī never imbibes such substances. **He quotes Caraka, a traditional authority on āyurveda**: 'Whatever is good or most desired in this life or the next is attained by intense concentration of the mind. Alcohol creates a disturbance in the mind. Those blinded by addiction to alcohol lose sight of their best self-interest'" (Bryant, *The Yoga Sūtras of Patañjali*, on YS II.32). A standard English-language commentary on the *Yoga Sūtras* citing Caraka to illustrate a yoga niyama is, by itself, textual proof of the unity.
 
 ### Bryant on the four-pāda diagnostic
 
@@ -694,7 +694,7 @@ Bryant, commenting on YS II.32 and Vyāsa's gloss of the niyama of *śauca*: "In
 
 James Mallinson, in his translator's introduction to the *Gheraṇḍa Saṁhitā*, notes that the *ghaṭa-yoga* of Gheraṇḍa is built around a sevenfold path where the first limb is *śodhana* (purification) accomplished via the six cleansing techniques — dhauti, basti, neti, etc. — and goes on to show that the same six practices are known from earlier and concurrent tantric texts. The Āyurvedic pañca-karma vocabulary leaks into the Haṭha-yoga manuals from the beginning of the genre. The two corpora are cross-referencing each other for centuries. See *Gheraṇḍa Saṁhitā* I.9: "Purification, strength, steadiness, calmness, lightness, realization, and abstraction are the seven means of perfecting the body. The six cleansing techniques bring about purification and āsanas bring about strength; mudrās bring about steadiness and pratyāhāra brings about calmness. From prāṇāyāma, lightness arises and from dhyāna, realization of the self. Through samādhi arises abstraction and liberation itself; in this there is no doubt" (Mallinson, trans.).
 
-Gheraṇḍa's seven limbs are not a contradiction of Patañjali's eight; they are a reorganization that foregrounds the *śodhana* stage (which Patañjali compresses into śauca, the first niyama). In Āyurvedic terms, Gheraṇḍa is saying: before any yama-niyama work, the body must first undergo purification — which is a pre-pañca-karma prescription. The yoga tradition itself here absorbs the Āyurvedic insight that therapy precedes discipline.
+Gheraṇḍa's seven limbs are a reorganization that foregrounds the *śodhana* stage (which Patañjali compresses into śauca, the first niyama), not a contradiction of Patañjali's eight. In Āyurvedic terms, Gheraṇḍa is saying: before any yama-niyama work, the body must first undergo purification — which is a pre-pañca-karma prescription. The yoga tradition itself here absorbs the Āyurvedic insight that therapy precedes discipline.
 
 ### Muktibodhananda Swami (Bihar School commentary on HYP)
 
@@ -702,7 +702,7 @@ Muktibodhananda, commenting on HYP 1.57: "Two others specifications are also giv
 
 And on HYP 1.58: "Mitāhāra means 'sāttvic food,' light food which is easy to digest. As Swami Sivānanda of Rishikesh points out, 'Heavy food leads to a tāmasic state and induces sleep only. There is a general misapprehension that a large quantity of food is necessary for health and strength. Much depends upon the power of assimilation and absorption. Generally, in the vast majority of cases, most of the food passes away undigested along with feces... Almost all diseases are due to irregularity of meals, overeating and unwholesome food.' His maxim is that through overeating you become a *rogī* [diseased one], through sāttvic diet a *yogī*."
 
-The rogī-yogī distinction is the unity thesis in one word-pair. A rogī is a not-yet-yogī. A yogī is a not-rogī. The difference is not ontological; it is methodological. It is a difference of *āhāra*.
+The rogī-yogī distinction is the unity thesis in one word-pair. A rogī is a not-yet-yogī. A yogī is a not-rogī. The difference is methodological, a difference of *āhāra*.
 
 ### Muktibodhananda on the ṣaṭ-karma and kośa
 
@@ -717,7 +717,7 @@ The annamaya-kośa vocabulary is Upanishadic (Taittirīya II). It is the same hi
 
 Muktibodhananda's gloss: "Only when the body is regulated by āsana and moderate diet should a sādhaka begin the next stage of haṭha yoga, i.e. prāṇāyāma ... Eating is a direct means of prāṇic absorption, which affects the body, mind and prāṇic vibrations."
 
-Svātmārāma refuses to move from āsana to prāṇāyāma without first specifying *diet*. This is not a stray interpolation. It is the structural claim that the yogic limbs *cannot be done* on an ill-fed body. Which is the claim of the whole Āyurvedic tradition: health is the precondition of all higher attainment. Without *svastha*, no samādhi. Without *samādhi*, no *svasthya* in the full sense.
+Svātmārāma refuses to move from āsana to prāṇāyāma without first specifying *diet*. This is the structural claim that the yogic limbs *cannot be done* on an ill-fed body. Which is the claim of the whole Āyurvedic tradition: health is the precondition of all higher attainment. Without *svastha*, no samādhi. Without *samādhi*, no *svasthya* in the full sense.
 
 ### The convergence
 

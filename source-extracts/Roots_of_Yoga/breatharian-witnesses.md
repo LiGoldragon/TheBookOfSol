@@ -22,7 +22,7 @@ This is the metaphysics that the *Khecarīvidyā* practice operationalizes: life
 > "(258) as if the disc of the moon [had] blossomed with autumnal moisture, or solid light [were] seated on a seat: (259) **like that becomes the body when Kuṇḍalinī drinks the moon.** Then death fears the form of the body. (260) Then old age turns back, the knot of youth is untied, the lost state of childhood [re]appears."\
 > — *Jñāneśvarī* 6.247–270, trans. Mallinson & Singleton (*Roots of Yoga* §5.5.3)
 
-The 13th-century Marathi text describes the post-Kuṇḍalinī body as one in which the lunar nectar has *physically taken on the shape of the body* — a body composed of the substance the practice has been drawing down. External food is, after this, not a moral excess but a category error — the body is no longer made of food.
+The 13th-century Marathi text describes the post-Kuṇḍalinī body as one in which the lunar nectar has *physically taken on the shape of the body* — a body composed of the substance the practice has been drawing down. External food is, after this, a category error rather than a moral excess — the body is no longer made of food.
 
 ## II. The body consuming its own constituents
 
@@ -70,6 +70,6 @@ The article's working thesis — that the body does not want water but a plasma 
 
 ## Sources
 
-- Mallinson, James, and Mark Singleton. 2017. *Roots of Yoga*. London: Penguin Classics. Bibliography path: [`en/mallinson-singleton/`](https://github.com/LiGoldragon/bibliography/tree/main/en/mallinson-singleton).
-- Mallinson, James (ed. and trans.). 2007. *The Khecarīvidyā of Ādinātha*. London: Routledge. Bibliography path: [`en/adinatha/`](https://github.com/LiGoldragon/bibliography/tree/main/en/adinatha).
+- Mallinson, James, and Mark Singleton. 2017. *Roots of Yoga*. London: Penguin Classics. Library entry: `~/primary/repos/library/en/mallinson-singleton/`.
+- Mallinson, James (ed. and trans.). 2007. *The Khecarīvidyā of Ādinātha*. London: Routledge. Library entry: `~/primary/repos/library/en/adinatha/`.
 - Editions reproduced in *Roots of Yoga*: *Amaraughaprabodha* (Ed. K. Mallik 1954); *Jñāneśvarī* (Marathi text, Pradhan trans.); Ibn Baṭṭūṭa, *Riḥla* (trans. H. A. R. Gibb); *Tashrīḥ al-Aqvām* (trans. M. K. Dhavalikar); Sir Claude Wade, eyewitness account 1837.

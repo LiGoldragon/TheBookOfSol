@@ -1,6 +1,6 @@
 # Salt Is Not Vegan
 
-Veganism is grounded in a single ethical claim: the refusal to participate in animal abuse. It is not fundamentally a list of permitted ingredients, nor a rule about animal-derived substances, but a principle about harm. Everything else is downstream of that premise.
+Veganism is grounded in a single ethical claim: the refusal to participate in animal abuse. It is a principle about harm, and everything else — the lists of permitted ingredients, the rules about animal-derived substances — is downstream of that premise.
 
 A human is an animal. This is a factual statement, not an ideological one. Any ethical framework that claims to oppose animal abuse while excluding one animal species by default introduces an arbitrary exception that weakens the principle itself. Once humans are included within the category "animal," the scope of vegan ethics necessarily includes the human body.
 

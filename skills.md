@@ -3,8 +3,6 @@
 *How to work in The Book of Sol as a prose, source, and publishing
 surface.*
 
----
-
 ## What this skill is for
 
 Use this skill when editing The Book of Sol: article prose, source
@@ -17,8 +15,6 @@ The repository contains more than articles. Articles are publishable
 essays in the category directories at the repo root. Source extracts
 and research notes support those essays but are not themselves
 articles unless their front matter says so.
-
----
 
 ## Article front matter
 
@@ -61,8 +57,6 @@ front matter and manifest use repo-relative paths
 relative to the article file (`../generated-images/name-banner.png`
 for root category directories).
 
----
-
 ## Substack CLI
 
 Publishing uses the `substack` CLI. The durable usage reference lives
@@ -91,8 +85,6 @@ Do not use `--publish-linked-files` unless every local `.md` link in
 the article should itself become a published post. Otherwise ensure
 local links either resolve through `.substack-posts.json` or are
 written as plain prose references before publishing.
-
----
 
 ## Banner images
 
@@ -123,8 +115,6 @@ exact. Claude Code agents that do not have image generation capacity
 record the missing banner as a task for a Codex poet-shaped role
 instead of inventing a placeholder.
 
----
-
 ## Source extracts and research notes
 
 `source-extracts/` holds quote extractions that feed articles. The
@@ -132,8 +122,6 @@ instead of inventing a placeholder.
 `publish: true` unless a human explicitly turns a specific file into
 a publishable article. Keep extracted sources, article prose, and
 publication metadata separate.
-
----
 
 ## See also
 

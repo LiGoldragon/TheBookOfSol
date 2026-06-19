@@ -4,7 +4,7 @@
 
 ### The Tantric Specificity
 
-Where Āyurveda registers salt as a toxicological agent, and where the haṭha-yoga corpus registers it as an inhibitor of *prāṇa*, the tantric literature registers it in a third and distinct register: as the substance that most directly obstructs the alchemical function of the body's own fluids. The body, for tantric practice, is not merely a vehicle for consciousness but a laboratory in which ordinary substances are transmuted into refined internal medicine. Salt, by its crude inorganic penetration of every tissue, interrupts this transmutation. It forces the body into a different chemistry than the one the practice is trying to produce.
+Where Āyurveda registers salt as a toxicological agent, and where the haṭha-yoga corpus registers it as an inhibitor of *prāṇa*, the tantric literature registers it in a third and distinct register: as the substance that most directly obstructs the alchemical function of the body's own fluids. The body, for tantric practice, is a laboratory in which ordinary substances are transmuted into refined internal medicine. Salt, by its crude inorganic penetration of every tissue, interrupts this transmutation. It forces the body into a different chemistry than the one the practice is trying to produce.
 
 The *Damar Tantra*, the dialogue in which Śiva teaches Pārvatī the *Shivambu Kalpa Vidhi* (the discipline of self-plasma recycling, *amarolī*, *vajrolī*), names salt three times as a direct obstruction. The instruction is structural: the body that is processing its own plasma into the *amṛta* of immortality cannot simultaneously be receiving inorganic chloride burden from the outside. One stream displaces the other.
 

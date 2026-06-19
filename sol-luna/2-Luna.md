@@ -23,13 +23,13 @@ She has degrees. She is always becoming more or less. This is why she shapes the
 
 ## She is Soma
 
-The substance of Luna is Soma, the nectar that is simultaneously the plant, the ritually pressed juice, the celestial drink, and the god. These are not analogies; they are aspects of one thing. The plant is the moon descended as vegetable; the pressed juice is the moon re-extracted and re-offered; the drink of the gods is the moon in her own form; the god Soma is the moon as person.
+The substance of Luna is Soma, the nectar that is simultaneously the plant, the ritually pressed juice, the celestial drink, and the god. These are aspects of one thing. The plant is the moon descended as vegetable; the pressed juice is the moon re-extracted and re-offered; the drink of the gods is the moon in her own form; the god Soma is the moon as person.
 
-When the ancient tradition says "ghee is lunar," it means this literally. Ghee, *rasa* (taste; nutritive juice), ambrosia, shivambu, every cohesive sweet lubricant: these are Soma's earthly witnesses. They are Luna's descendants on earth. What her waxing fills up, the earth's plants and cow-bodies are filling up in parallel. She is the cosmic source of *rasa*, of the moist, the sweet, the *ojas*-building (vital essence-building), the unctuous, and every cohesive nourishment on earth is her emissary. Her shadow, by the same logic, is alcohol: the destructuring inversion of the cohesive.
+When the ancient tradition says "ghee is lunar," it means this literally. Ghee, *rasa* (taste; nutritive juice), ambrosia, *śivāmbu* (one's own water), every cohesive sweet lubricant: these are Soma's earthly witnesses. They are Luna's descendants on earth. What her waxing fills up, the earth's plants and cow-bodies are filling up in parallel. She is the cosmic source of *rasa*, of the moist, the sweet, the *ojas*-building (vital essence-building), the unctuous, and every cohesive nourishment on earth is her emissary. Her shadow, by the same logic, is alcohol: the destructuring inversion of the cohesive.
 
 ## She is mind
 
-The Puruṣa-Sūkta is precise: *candramā manaso jātaś cakṣoḥ sūryo ajāyata*, "the Moon was born from the mind, the Sun from the eye." The eye looks outward; the mind turns inward. Sol is the faculty of seeing objects; Luna is the faculty of contemplating. Her light is not information about what is elsewhere but illumination of what is here, within.
+The Puruṣa-Sūkta is precise: *candramā manaso jātaś cakṣoḥ sūryo ajāyata*, "the Moon was born from the mind, the Sun from the eye." The eye looks outward; the mind turns inward. Sol is the faculty of seeing objects; Luna is the faculty of contemplating. Her light illumines what is here, within, while Sol's reports on what is elsewhere.
 
 The fifteen kalās of the moon are also the fifteen functions of mind (*Bṛhadāraṇyaka* 1.5.14). The sixteenth is the imperishable part of the self that does not diminish, the kalā that is never drained. Later tantric tradition places the full candra-maṇḍala at the sahasrāra, above and beyond the eye, because the moon was always the inner luminary. When the mind quiets, her light is what fills what remains.
 
@@ -43,7 +43,7 @@ In Plutarch's composition doctrine, earth gives the body, moon gives the soul, a
 
 Plutarch's elaboration of the moon-as-soul-threshold gives Luna two hemispheres (*De facie* 944C). The side that faces heaven is *Elysion pedíon*, the Elysian plain, where purified souls rest before continuing outward to the sun. The side that faces earth is *Phersephónēs oikos antichthonos*, the house of counter-earth Persephone, where the second death takes place — the gentler death in which the mind separates from the soul and returns to its origin.
 
-The face Luna turns toward us is the earthward hemisphere, the house of Persephone. What we call the dark side is Elysium. She is double, holding the benefic and the chthonic at once, the upward and the downward, the resurrection and the descent. This is the exact archaic meaning of her two-ness: not "yin" in the Chinese philosophical sense, but the literal double-orientation of a world between two worlds. She faces both.
+The face Luna turns toward us is the earthward hemisphere, the house of Persephone. What we call the dark side is Elysium. She is double, holding the benefic and the chthonic at once, the upward and the downward, the resurrection and the descent. This is the exact archaic meaning of her two-ness: the literal double-orientation of a world between two worlds, not "yin" in the Chinese philosophical sense. She faces both.
 
 ## She is the measure
 

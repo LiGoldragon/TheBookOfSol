@@ -14,9 +14,9 @@ banner_image: generated-images/the-chloride-indictment-banner.png
 
 ### I. The Crime Against the Living Body
 
-A poison normalized by habit is still a poison. A toxin distributed across meals is still a toxin. A narcotic defended by custom is still a narcotic. This essay sets down, in plain order and with the witnesses assembled, the case that has been gathering for two centuries: that chloride of sodium, misnamed "salt" and falsely promoted as "electrolyte," is a protoplasmic irritant, a vascular toxin, a renal burden, a nervous agitant, and a social narcotic — and that its use is sustained not by proof of benefit but by the inertia of a civilization that cannot bear to examine its own staple.
+A poison normalized by habit is still a poison. A toxin distributed across meals is still a toxin. A narcotic defended by custom is still a narcotic. Chloride of sodium, misnamed "salt" and falsely promoted as "electrolyte," is a protoplasmic irritant, a vascular toxin, a renal burden, a nervous agitant, and a social narcotic; its use is sustained by the inertia of a civilization that cannot bear to examine its own staple. The case has been gathering for two centuries, and here it is set down in plain order, with the witnesses assembled.
 
-The argument does not depend on metaphor, mysticism, or novelty. Every premise is drawn from the published record of orthodox medicine, from classical clinical observation, from controlled experiment, from population data, and from the testimony of traditions older than chemistry. What follows is an old claim finally assembled, fully witnessed, and refused the shelter of euphemism.
+Every premise is drawn from the published record of orthodox medicine, from classical clinical observation, from controlled experiment, from population data, and from the testimony of traditions older than chemistry. It is an old claim finally assembled, fully witnessed, and refused the shelter of euphemism.
 
 ### II. The Linguistic Deception
 
@@ -98,9 +98,9 @@ No controlled experiment has compared a cohort ingesting zero added chloride aga
 
 Meanwhile, the evidence of harm scales monotonically. Every increment of intake — measured in ward, in village, in strain of rat — produces a measurable increment of damage. No rebound emerges. No hormetic bend rescues the curve. From the data that exist, the least-harm endpoint is zero. It is the extrapolation of an uninterrupted monotonic trend. The burden of proof is on whoever claims the curve reverses at doses they have never tested.
 
-One qualification, and it is small. Classical medicine did keep a use for salt — a minuscule *medicinal* trace of *saindhava* (rock salt), by specific indication, for digestion or applied to the tissues. That trace is the whole of its legitimate role, and it is a medicine, not a food. Ordinary dietary intake runs orders of magnitude beyond it: the Western plate sits roughly two orders of magnitude above the Yanomami, whose entire daily chloride is under a single grain of salt. A medicine taken by the spoonful at every meal is no longer a medicine; it is the poison the dose-line predicts. The medicinal exception does not rescue the food — it measures how far the food has overshot.
+One qualification, and it is small. Classical medicine did keep a use for salt — a minuscule *medicinal* trace of *saindhava* (rock salt), by specific indication, for digestion or applied to the tissues. That trace is the whole of its legitimate role, and it is a medicine, not a food. Ordinary dietary intake runs orders of magnitude beyond it: the Western plate sits roughly two orders of magnitude above the Yanomami, whose entire daily chloride load is under a single grain of salt. A medicine taken by the spoonful at every meal is no longer a medicine; it is the poison the dose-line predicts. The medicinal exception does not rescue the food — it measures how far the food has overshot.
 
-A civilization that declares a substance essential without ever demonstrating its benefit, while accumulating thousands of demonstrations of its harm, is practicing habit under the vocabulary of science. The task of this essay is to notice that difference.
+A civilization that declares a substance essential without ever demonstrating its benefit, while accumulating thousands of demonstrations of its harm, is practicing habit under the vocabulary of science. That is the whole difference: one claim has its experiment, the other has only its repetition.
 
 ### VIII. The Ethical Consequence
 

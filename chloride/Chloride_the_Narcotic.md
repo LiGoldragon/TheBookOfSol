@@ -12,7 +12,7 @@ Later population data repeated the same pattern at scale. When national food sys
 
 The biological reason is elementary. Living protoplasm cannot assimilate dead inorganic matter. Dissolving a crystal does not make it biological. Pulverizing a mineral does not confer vitality. Chloride enters the organism as an irritant, not as nourishment, and the organism responds accordingly: contraction, dehydration, compensatory retention, and eventual deposition. The Caraka Saṃhitā states the principle without ambiguity: *mṛttikā-loha-bhakṣaṇaṃ tamaḥ-nimittam* — the ingestion of earth or metal arises from inertia and obscuration. Chloride belongs to this category. It is lifeless matter imposed upon living tissue.
 
-What makes chloride especially insidious is that irritation is misread as stabilization. The sharp taste, the salivary response, the transient quieting of nervous agitation are interpreted as grounding or satisfaction. They are not assimilation. They are the physiological equivalent of sedation through stress. The organism contracts, water is displaced, sensation is dulled, and discomfort temporarily recedes. Appetite learns the pattern and returns for more. Thus the body is trained into a cycle: chloride damages, chloride quiets the damage, chloride is demanded again.
+What makes chloride especially insidious is that irritation is misread as stabilization. The sharp taste, the salivary response, the transient quieting of nervous agitation are interpreted as grounding or satisfaction. They are the physiological equivalent of sedation through stress, not assimilation. The organism contracts, water is displaced, sensation is dulled, and discomfort temporarily recedes. Appetite learns the pattern and returns for more. Thus the body is trained into a cycle: chloride damages, chloride quiets the damage, chloride is demanded again.
 
 The clinicians who spoke plainly about salt described exactly this degenerative process.
 
@@ -42,7 +42,7 @@ And further:
 
 > "The cause of mental and physical deficiency is due mainly to a retention of salt and water in the body."
 
-None of these observers describe nourishment. None report increased vitality. They describe contraction, dehydration, hardening, retention, degeneration. They describe a substance that suppresses sensation while accelerating decline.
+Every one of these observers describes the same thing: contraction, dehydration, hardening, retention, degeneration. They describe a substance that suppresses sensation while accelerating decline.
 
 Modern medicine quietly concedes the same at higher doses. Excess chloride produces vascular stress, renal overload, edema, acid-base disturbance, and systemic failure. Increase the dose and harm increases. Increase it further and collapse follows. Lethality is undisputed.
 
@@ -50,4 +50,4 @@ What remains unexamined is the narcotic illusion created by pacing. Spread acros
 
 Ancient cultures recognized this without biochemistry. The priests of Isis abstained from salt because it inflamed appetite and disturbed inner discipline. Scripture associates salt with desolation, rigidity, and lifelessness. These were observations encoded symbolically, not superstition.
 
-Chloride salt is therefore misclassified, not misunderstood. It is a protoplasmic poison that functions socially as a narcotic: inducing temporary calm, dulling warning signals, hardening the living body, shortening lifespan, and compelling repeated use to silence the injury it creates. Across centuries, clinics, and populations, the evidence converges on a single conclusion. Chloride does not sustain life. It suppresses it—slowly, reliably, and at scale.
+Chloride salt is therefore misclassified, not misunderstood. It is a protoplasmic poison that functions socially as a narcotic: inducing temporary calm, dulling warning signals, hardening the living body, shortening lifespan, and compelling repeated use to silence the injury it creates. Across centuries, clinics, and populations, the evidence converges on a single conclusion. Chloride suppresses life — slowly, reliably, and at scale.

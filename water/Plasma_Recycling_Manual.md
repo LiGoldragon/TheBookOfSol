@@ -13,16 +13,19 @@ banner_image: generated-images/plasma-recycling-manual-banner.png
 
 ### Plasma as a living substance
 
-Plasma is a living, responsive substance when removed from the body.\
+Plasma here is the body's own released fluid (the *amarolī* substance, from *amara*, undying — rasa returned), a living, responsive substance once removed from the body.\
 It continues to purify itself, separating into clear plasma above and its own rejected mucus and waste below.\
 Every drop is living liquid gold and is preserved for aging, refinement, or reduction.
 
 ### Scriptural echoes
 
-Haṭha Yoga Pradīpikā links Amarolī and Sahajolī with Vajrolī, the conservation and refinement of vital essence.\
-Damar Tantra teaches fluid-based rejuvenation:\
-"Śivāmbu … is capable of abolishing old age and various types of diseases and ailments."\
-"All diseases can be cured by the regular use of one's own fluid."
+The *Haṭha Yoga Pradīpikā* links Amarolī and Sahajolī with Vajrolī, the conservation and refinement of vital essence. The *Ḍāmara Tantra* teaches fluid-based rejuvenation through *śivāmbu* (Śiva's water, the body's own released fluid):
+
+> "Śivāmbu is a divine nectar. It is capable of abolishing old age and various types of diseases and ailments."\
+> — *Ḍāmara Tantra* Verse 9
+
+> "All diseases can be cured by the regular use of one's own fluid."\
+> — proverbial formulation, after the *Ḍāmara Tantra*
 
 ## Collection
 
@@ -65,8 +68,8 @@ This cycle speeds aging, but without it the plasma still ages naturally.
 **Breathing:** optional; every few days or weekly.\
 **Shaking:** periodic and gentle.
 
-*Damar Tantra:*\
-"That which flows from oneself, matured by time, cuts through accumulations as fire through wood."
+> "That which flows from oneself, matured by time, cuts through accumulations as fire through wood."\
+> — proverbial formulation, after the *Ḍāmara Tantra*
 
 ### Siphoning phase
 
@@ -191,7 +194,7 @@ A warming environment accelerates extraction but boiling is unnecessary.
 - Remove all solids.
 - Seal the extracted plasma.
 
-This mirrors Damar Tantra's rasāyana method of using one's own fluid as a carrier of herbal potency.
+This mirrors the *Ḍāmara Tantra*'s rasāyana (rejuvenation) method of using one's own fluid as a carrier of herbal potency.
 
 ## Reduction (Soft Plasma)
 
@@ -230,8 +233,8 @@ Aged plasma, diluted if needed, clears mucus and obstruction.\
 Eyes receive only minute drops.\
 Warm reduced plasma may be used sparingly in ears.
 
-*Haṭha Yoga Pradīpikā:*\
-"He who drinks the mid-stream, snuffs it, and practices Vajrolī, practices Amarolī."
+> "He who drinks the mid-stream, snuffs it, and practices Vajrolī, practices Amarolī."\
+> — *Haṭha Yoga Pradīpikā* 3.96–97
 
 ## Enemas
 

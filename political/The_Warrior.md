@@ -1,14 +1,16 @@
 # The Warrior
 
-A warrior, a man of knowledge, lives a life of profound discipline and awareness, guided by a set of principles that distinguish him from the ordinary person. His existence is a constant striving for perfection, not for personal gain, but for the sake of the journey itself. Herein lies a cohesive guide to the life of a warrior, as gleaned from the teachings of Don Juan Matus and his tradition.
+A warrior, a man of knowledge, lives a life of profound discipline and awareness, guided by a set of principles that distinguish him from the ordinary person. His existence is a constant striving for perfection, for the sake of the journey itself rather than for personal gain.
 
 ## The Path of the Warrior
 
-To embark on the path of a warrior is to engage in a revolution against one's own ingrained habits and self-importance. It is not a path for the timid or the self-indulgent, but for those with a genuine interest and "guts of steel". A man goes to knowledge as he goes to war: "wide-awake, with fear, with respect, and with absolute assurance". This path is not one of social obligation but of responsibility to oneself. The warrior's life is an endless challenge, and he takes everything as such, unlike the ordinary man who sees life's events as either blessings or curses.
+To embark on the path of a warrior is to engage in a revolution against one's own ingrained habits and self-importance. It is a path for those with a genuine interest and "guts of steel," not for the timid or the self-indulgent. A man goes to knowledge as he goes to war: "wide-awake, with fear, with respect, and with absolute assurance." This path is one of responsibility to oneself rather than social obligation. The warrior's life is an endless challenge, and he takes everything as such, unlike the ordinary man who sees life's events as either blessings or curses.
 
 A warrior understands that he is only a man, and his only regret is the brevity of life which prevents him from embracing all he would like to. He acknowledges his pain but does not indulge in it; instead, he finds joy in accepting his fate and assessing what lies ahead. His joy comes from accepting his fate and from the love he has for the world, which he considers his beloved. This love for the earth is what gives a warrior freedom and releases him from sadness.
 
-The Four Natural Enemies of a Man of Knowledge On his path, a man of knowledge must confront and overcome four natural enemies: fear, clarity, power, and old age.
+## The Four Natural Enemies of a Man of Knowledge
+
+On his path, a man of knowledge must confront and overcome four natural enemies: fear, clarity, power, and old age.
 
 - Fear: The first enemy is fear. A man must not flee from it but defy it, taking the next steps in learning despite his terror. He must be fully afraid, yet he must not stop. Eventually, fear will retreat, and he will gain self-confidence.
 
@@ -22,7 +24,7 @@ The Four Natural Enemies of a Man of Knowledge On his path, a man of knowledge m
 
 The hardest thing in the world is to assume the mood of a warrior. It is a state of control and abandon, a state of continuous struggle, not for the sake of winning or losing, but for the struggle itself. "Every struggle is a warrior's last battle on earth," and in this battle, he lets his spirit flow free and clear, laughing in the face of his impeccable will.
 
-A warrior's impeccability lies in the proper use of his energy. He saves his energy, and that makes him impeccable. He lives his life strategically, making his decisions so carefully that nothing can surprise him or drain his power. He is always ready, for he knows that "to be a warrior is not a simple matter of wishing to be one. It is rather an endless struggle that will go on to the very last moment of our lives".
+A warrior's impeccability lies in the proper use of his energy. He saves his energy, and that makes him impeccable. He lives his life strategically, making his decisions so carefully that nothing can surprise him or drain his power. He is always ready, for he knows that "to be a warrior is not a simple matter of wishing to be one. It is rather an endless struggle that will go on to the very last moment of our lives."
 
 ## The Importance of Death
 
@@ -46,6 +48,8 @@ A warrior's life is a constant practice of techniques that help him to disrupt h
 
 For a sorcerer, the world is a mystery. He treats the world as an endless mystery and what people do as an endless folly. He knows that the world is such-and-such only because we tell ourselves that it is. A warrior is aware of this and strives to stop his internal talk. When the internal dialogue stops, the world collapses, and extraordinary facets of ourselves surface.
 
-A warrior learns that his perception of the world can be changed and that there are other levels of reality. He learns to see things for what they really are, not just to look at their surface. Through "seeing," a man of knowledge becomes everything by becoming nothing; he vanishes and yet he's there.
+A warrior learns that his perception of the world can be changed and that there are other levels of reality. He learns to see things for what they really are, beneath their surface. Through "seeing," a man of knowledge becomes everything by becoming nothing; he vanishes and yet he's there.
 
 The life of a warrior is a journey of return, a journey to the spirit. It is a path of impeccability and awareness, a path where every act is a warrior's last battle on earth. It is a life of freedom, joy, and abandon in the face of any odds.
+
+The figure and its discipline are drawn from the teachings of Don Juan Matus as recorded by Carlos Castaneda; the quoted lines are his.

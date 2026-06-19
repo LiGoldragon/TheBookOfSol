@@ -100,7 +100,7 @@ ISE, titration, and INAA carry the load; EDXRF corroborates.
 
 | # | Study / matrix | Major parameters |
 |---|---|---|
-| 15 | White & Broadley (2001), *Annals of Botany* 88:967–988 — **review** | aggregates dozens of plant-tissue Cl measurements; Cl an essential micronutrient; soil sources = rain, sea spray, dust |
+| 15 | White & Broadley (2001), *Annals of Botany* 88:967–988 — **review** | aggregates dozens of plant-tissue Cl measurements; classes Cl among what plant science labels "essential micronutrients"; soil sources = rain, sea spray, dust |
 | 16 | "Plants maximise chloride uptake during early vegetative development…" (2025) | recent primary; Cl uptake drives cell expansion |
 
 ## Aggregating sources (each = many underlying analyses)

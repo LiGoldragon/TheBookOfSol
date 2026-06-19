@@ -10,7 +10,7 @@ Opposing the solar nourishment is the solar narcotic: chloride of sodium. This c
 
 ## The Lunar Pillar
 
-The lunar force nourishes through cohesion, softness, lubrication, and the building of subtle tissue. Its quintessential physical medium is ghee: dense, smooth, binding, and harmonizing. Ghee gathers dispersed life-forces, strengthens ojas, and stabilizes the inner currents. When expanded, this lunar family includes nut-ghee, seed-ghee, and plant-ghee: clarified nut oils, clarified seed oils, and clarified plant oils that emulate ghee's lunar properties. Each is smooth, cohesive, and ojas-building, arising from alchemical clarification that mirrors the making of true ghee.
+The lunar force nourishes through cohesion, softness, lubrication, and the building of subtle tissue. Its quintessential physical medium is ghee: dense, smooth, binding, and harmonizing. Ghee gathers dispersed life-forces, strengthens ojas, and stabilizes the inner currents. For those who refuse dairy, clarified nut, seed, and plant oils stand as partial analogues, emulating some of ghee's lunar properties. Each can lubricate and bind, arising from a clarification that mirrors the making of true ghee. They rank below ghṛta, which alone is *sarpiṣāṃ paramam*, the first among fats: they may smooth and cohere, but they do not build ojas as ghee does.
 
 ### The Lunar Shadow
 

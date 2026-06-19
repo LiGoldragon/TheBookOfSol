@@ -21,8 +21,8 @@ The *Neijing*'s treatment of the salty flavor is consistent across its chapters:
 
 The three-fold clinical consequence of excess salt is named in nine Chinese characters.
 
-- **大骨氣勞** (*dà gǔ qì láo*) — "the great bones labor." The skeletal frame, especially the larger long bones, is overstressed. The pathology modern medicine calls hypercalciuria-induced bone demineralization — the urinary loss of calcium that chronic chloride intake produces — is recorded here as *gǔ qì láo*, the "laboring of bone-qi."
-- **短肌** (*duǎn jī*) — "the muscles shrink" or "the flesh is shortened." Muscle wasting under chronic salt load, again an observation the modern clinical literature has slowly re-derived (protein catabolism, vascular damage to capillary beds feeding the musculature).
+- **大骨氣勞** (*dà gǔ qì láo*) — "the great bones labor." The skeletal frame, especially the larger long bones, is overstressed. The bone demineralization that chronic chloride intake drives is recorded here as *gǔ qì láo*, the "laboring of bone-qi."
+- **短肌** (*duǎn jī*) — "the muscles shrink" or "the flesh is shortened." Muscle wasting under chronic salt load, again an observation the modern clinical literature has slowly re-derived (the breakdown of flesh, vascular damage to the capillary beds feeding the musculature).
 - **心氣抑** (*xīn qì yì*) — "the heart-qi is suppressed." The cardiac function is inhibited, the vital current at the heart is dampened. The modern cardiologist would call this reduced stroke volume, cardiac hypertrophy with diminished output, or ventricular dysfunction under chronic pressure load.
 
 Three injuries. Three precisely named organ systems. Bone, flesh, heart. The observation could have been written last year.
@@ -42,7 +42,7 @@ The *Neijing* is describing, in the second century BCE, the pathology that moder
 
 ### Suwen, Chapter 5 — the flavor's proper function
 
-The *Neijing* is not simply condemnatory. It gives salt its proper, small, physiological role:
+The *Neijing* also gives salt its proper, small, physiological role:
 
 > "The salty flavor enters the kidney. In moderation, it nourishes the bones and the marrow; in excess, it overfills the kidney qi and injures the heart."\
 > — paraphrase of *Huangdi Neijing Suwen*, Chapter 5 (*Yīn yáng yìng xiàng dà lùn* 陰陽應象大論)
@@ -78,7 +78,7 @@ Sun Simiao (孫思邈, 7th century CE), in his *Qianjin Yifang* (千金翼方), 
 > "Salt is the flavor of the kidney; taken in measure it nourishes, but when the sea-salt is constantly added to food, the channels harden, the skin becomes rough, and the teeth loosen."\
 > — paraphrase of Sun Simiao, dietetic chapters
 
-The "loosening of the teeth" (*chǐ dòng* 齒動) corresponds to the Sanskrit **dantān cālayati** of Caraka's passage on *lavaṇa atiyoga*. The two classical traditions converge on the same specific clinical observation: chronic salt intake loosens teeth. Modern periodontology has re-confirmed this through the mechanism of urinary calcium loss and consequent alveolar bone demineralization.
+The "loosening of the teeth" (*chǐ dòng* 齒動) corresponds to the Sanskrit **dantān cālayati** of Caraka's passage on *lavaṇa atiyoga*. The two classical traditions converge on the same specific clinical observation: chronic salt intake loosens teeth. Modern periodontology has re-confirmed it directly, in the demineralization of the bone that holds the teeth in their sockets.
 
 ### Zhu Danxi — The Four Great Masters
 

@@ -16,15 +16,17 @@ The mineral myth arises from confusing what can be weighed after destruction wit
 
 Classical medicine never made this mistake.
 
-> *Āhāraḥ prāṇakaraḥ*\
+> **āhāraḥ prāṇakaraḥ**\
+>
 > "Nourishment is that which carries life."\
-> — *Caraka Saṃhitā*
+> — proverbial formulation, after the *Caraka Saṃhitā*
 
 Life is the criterion. What does not carry life cannot be its support.
 
-> *Dravyāṇāṁ guṇāḥ karma ca*\
+> **dravyāṇāṁ guṇāḥ karma ca**\
+>
 > "Substances are known by their qualities and actions."\
-> — *Caraka Saṃhitā*
+> — proverbial formulation, after the *Caraka Saṃhitā*
 
 Rocks have qualities and actions, but no nourishing ones. Their action is burden, filtration, expulsion.
 
@@ -38,7 +40,8 @@ The living system does not consult tables compiled from destruction. It responds
 
 Direct recognition has always been the standard.
 
-> *Na hi jñānena sadṛśaṁ pavitram iha vidyate*\
+> **na hi jñānena sadṛśaṁ pavitram iha vidyate**\
+>
 > "Nothing purifies like direct knowledge."\
 > — *Bhagavad Gītā* 4.38
 
@@ -46,7 +49,8 @@ Direct recognition has always been the standard.
 
 Plasma recycling (*amarolī*) dissolves the confusion at the root. The fluid is already recognized because it is already part of the living continuum. No sourcing problems, no mineral mythology, no electrolyte performance.
 
-> *Yukta āhāra-vihārasya*\
+> **yukta āhāra-vihārasya**\
+>
 > "Stability is preserved through right intake and restraint."\
 > — *Bhagavad Gītā* 6.17
 

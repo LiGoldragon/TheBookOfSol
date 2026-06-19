@@ -48,7 +48,7 @@ The *Śiva Saṃhitā* (c. 17th–18th century), a five-chapter haṭha treatise
 > "Sour, astringent, pungent, salty, mustard, and bitter flavors; too much walking, bathing in the early morning, burning oil, stealing, violence, hatred of others, pride, insincerity, fasting, untruthfulness, folly, cruelty to animals, the company of women, the use of fire, too much chatter — whether good-natured or not — and overeating: the yogi should definitely give up these."\
 > — *Śiva Saṃhitā* 3.33, trans. James Mallinson
 
-Here salty taste (*lavaṇa*) is placed in the same list as violence, pride, insincerity, and cruelty to animals. The text does not treat the salty taste as a separate category of concern. It classifies it with the conditions that produce the body and mind which cannot practice. This is the strongest possible framing: salt is not a dietary inconvenience. It is a moral obstruction, in the same register as the *kleśas* that Patañjali lists as the root of bondage.
+Here salty taste (*lavaṇa*) is placed in the same list as violence, pride, insincerity, and cruelty to animals. The text does not treat the salty taste as a separate category of concern. It classifies it with the conditions that produce the body and mind which cannot practice. This is the strongest possible framing: salt is a moral obstruction, in the same register as the *kleśas* (the afflictions that bind consciousness) that Patañjali lists as the root of bondage.
 
 ## The Wider Yogic Corpus
 
@@ -63,9 +63,9 @@ Across the haṭha corpus, the doctrine is uniform. There is no yogic text that 
 
 ## Why
 
-The yogic logic is not polemic but physiological. *Prāṇa* — the breath, the life-force, the subtle energy the practice is meant to stabilize — is said to follow the qualities of food. Salt, as the Āyurvedic tradition has already established, is an agitator of *rakta* (blood) and *vāta* (wind). Its presence in the body keeps *prāṇa* in motion, prevents its gathering at the base of the spine, and obstructs the rising current that leads to *samādhi*. The body full of salt is the body full of small, ceaseless agitations. The body without salt is the body that can settle.
+The yogic logic is physiological. *Prāṇa*, the breath, the life-force, the subtle energy the practice is meant to stabilize, is said to follow the qualities of food. Salt, as the Āyurvedic tradition has already established, is an agitator of *rakta* (blood) and *vāta* (wind). Its presence in the body keeps *prāṇa* in motion, prevents its gathering at the base of the spine, and obstructs the rising current that leads to *samādhi*. The body full of salt is the body full of small, ceaseless agitations. The body without salt is the body that can settle.
 
-This is not mysticism. It is the same observation modern cardiology makes about sympathetic nervous tone under chronic salt load: tonic vascular constriction, elevated baseline arousal, inability to rest. The haṭha texts named it *rajas*; the modern text names it *sympathetic dominance*. The body cannot stabilize under either name.
+This is the same observation modern cardiology makes about sympathetic nervous tone under chronic salt load: tonic vascular constriction, elevated baseline arousal, inability to rest. The haṭha texts named it *rajas*; the modern text names it *sympathetic dominance*. The body cannot stabilize under either name.
 
 ## Convergence
 

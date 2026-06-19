@@ -1118,7 +1118,7 @@ founder.
 
 Every major Āyurvedic translator — Sharma (Caraka), Bhishagratna
 (Suśruta), Srikantha Murthy (Vāgbhaṭa) — identifies the Sāṃkhya
-substrate. The reading is not forced; it is what the texts say.
+substrate. The reading is what the texts say, not a construction imposed on them.
 
 ### The convergence
 
@@ -1140,10 +1140,10 @@ Read in parallel:
 
 One enumeration, five voices.
 
-Yoga and Āyurveda do not merely share a metaphysics — they share a
-metaphysics learned in the same classroom: the proto-Sāṃkhya stratum
-of the Gītā, the Buddhacarita, the Mokṣadharma's "Pañcaśikhavākya",
-Caraka, the early Yoga tradition, and later Suśruta and Vāgbhaṭa.
+Yoga and Āyurveda share a metaphysics learned in the same classroom:
+the proto-Sāṃkhya stratum of the Gītā, the Buddhacarita, the
+Mokṣadharma's "Pañcaśikhavākya", Caraka, the early Yoga tradition,
+and later Suśruta and Vāgbhaṭa.
 Īśvarakṛṣṇa's Kārikā is a later crystallization. The Āyurvedic texts
 fossilize an earlier stratum of that material. The Yogic texts use
 vocabulary that is sometimes classical (Patañjali's

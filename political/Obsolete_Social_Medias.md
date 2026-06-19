@@ -6,7 +6,7 @@ All major social platforms are built on the same premise: that humans should spe
 
 Those early systems could transmit messages, count reactions, rank signals, and repeat them. They could not hold context, interpret intention, wait intelligently, or exercise restraint. Because amplification was all the technology could do, amplification became the model. What could be measured became what mattered.
 
-That limitation hardened into habit. Habit hardened into business models. Business models hardened into platforms. Twitter, Facebook, Instagram, Threads, LinkedIn, TikTok all differ in tone and surface features, but all require the same thing: humans must perform inside a feed governed by metrics.
+That limitation hardened into habit, then into business models, then into platforms. Twitter, Facebook, Instagram, Threads, LinkedIn, TikTok all differ in tone and surface features, but all require the same thing: humans must perform inside a feed governed by metrics.
 
 ## Automation is required, then forbidden
 
@@ -26,7 +26,7 @@ Humans were never meant to compete in attention markets. What people actually se
 
 Psyche does not broadcast. It reacts, explores, hesitates, and leaves traces unintentionally. Machines do not live or feel, but they can remember, compare, wait, and place signals strategically. Their proper role is mediation, not amplification.
 
-A post-platform system does not forbid automation. It centers it.
+A post-platform system centers automation rather than forbidding it.
 
 People do not post continuously. They express locally and privately. Thoughts, opinions, questions, and fragments are taken in by a personal AI agent that understands the person over time, knows their rhythms, values, and returns. Often, the agent does nothing. Intelligence includes restraint.
 

@@ -8,7 +8,7 @@ When ghṛta is consumed **unconsciously**, without gratitude or acknowledgement
 
 When ghṛta is consumed **consciously**, frugally, and with gratitude, a different event unfolds. The consumer becomes the final node in a chain through which a **golden thread of recognition** is sent back to the source. That subtle thread moves across space. It alters the animal's field. It softens suffering by introducing what was missing: being seen, being thanked, being held in loving awareness.
 
-This *golden magic* or *loving magic* is not sentimental. It follows the same metaphysical law that governs mantra, *prasāda*, and the teacher–disciple bond:\
+This *golden magic*, this *loving magic*, follows the same metaphysical law that governs mantra, *prasāda* (the grace that descends through a consecrated offering), and the teacher–disciple bond:\
 **what is held in the heart becomes a real force that traverses subtle space**.
 
 An even deeper transformation occurs when another shift is made: the abandonment of condemnation.
@@ -17,19 +17,21 @@ A person may believe their anger is directed solely at the farmer or the system,
 
 The *Bhagavadgītā* speaks directly to this principle:
 
-> **dveṣa-rāga-viyuktais tu viṣayān indriyaiś caran\
-> ātmavaśyair vidheyātmā prasādam adhigacchati**\
-> Moving among the objects of the world without hatred or clinging,\
-> one who is self-governed attains inner clarity.\
-> —*Bhagavadgītā* 2.64
+> **dveṣa-rāga-viyuktais tu viṣayān indriyaiś caran**\
+> **ātmavaśyair vidheyātmā prasādam adhigacchati**
+>
+> "Moving among the objects of the world without hatred or clinging,\
+> one who is self-governed attains inner clarity."\
+> — *Bhagavadgītā* 2.64
 
 Here, Kṛṣṇa instructs neither apathy nor complicity. He identifies hatred as a distortion that prevents clarity and obstructs right action.
 
-> **yadā te moha-kalilaṃ buddhir vyatitariṣyati\
-> tadā gantāsi nirvedaṃ śrotavyasya śrutasya ca**\
-> When your understanding crosses beyond the tangle of delusion,\
-> you withdraw from the reactive energy of blame and indignation.\
-> —*Bhagavadgītā* 2.52
+> **yadā te moha-kalilaṃ buddhir vyatitariṣyati**\
+> **tadā gantāsi nirvedaṃ śrotavyasya śrutasya ca**
+>
+> "When your understanding crosses beyond the tangle of delusion,\
+> you will grow dispassionate toward all that is yet to be heard and all already heard."\
+> — *Bhagavadgītā* 2.52
 
 Condemnation belongs to the "tangle of delusion." As long as one remains inside that field, one participates in the same vibration that sustains cruelty. When condemnation dissolves—not into apathy, but into **radiance**—a ripple begins. A heart that sends gratitude to the cow also softens the psychic field of the farmer, even without physical contact.
 

@@ -10,12 +10,13 @@ Your hands are empty. Empty hands are still complicit.
 
 The relationship between humans and herbivores — cows, sheep, goats, yaks — is structural. It cannot be opted out of by switching to oat milk. It is as fundamental as the relationship between rain and soil, between sun and growth, between breath and body.
 
-Herbivores convert what humans cannot digest — grass, cellulose, wild forage — into what humans need most: sneha, ojas, the unctuous warmth that sustains tissue, mind, and continuity. No other process on earth performs this transformation. No laboratory. No factory. No supplement. The cow takes grass and produces the substance that the Vedas call *amṛta* — the nectar of sustained life. She does this without being asked, without negotiation, without contract. She does this because it is her nature.
+Herbivores convert what humans cannot digest — grass, cellulose, wild forage — into what humans need most: *sneha* (the body's unctuous, lubricating substance), *ojas* (its distilled vital essence), the warmth that sustains tissue, mind, and continuity. No laboratory, factory, or supplement reproduces this transformation. The cow takes grass and produces the substance that the Vedas call *amṛta* — the nectar of sustained life. She does this without being asked, without negotiation, without contract. She does this because it is her nature.
 
-And because she does this, you are obligated to her. Not by sentiment. Not by cultural tradition. By the structure of existence itself.
+And because she does this, you are obligated to her by the structure of existence itself, deeper than sentiment or cultural tradition.
 
-> **"sarva-bhūta-hite ratāḥ"**\
-> Those devoted to the welfare of all beings.\
+> **sarva-bhūta-hite ratāḥ**
+>
+> "Those devoted to the welfare of all beings."\
 > — *Bhagavad Gītā* 5.25
 
 This is a job description. And the first beings on the list are the ones who feed you.
@@ -30,15 +31,16 @@ The cow is still there. She is still producing milk, because that is what her bo
 
 Worse: by stepping out of the alliance, you forfeited the only position from which you could act. The person who takes the ghee with recognition, who receives the ojas with gratitude, who builds strength from the offering and then turns that strength toward the cow's liberation — that person is in the war. The person who refuses the ghee on principle has left the field. He has deserted.
 
-> **"niyataṁ kuru karma tvaṁ karma jyāyo hy akarmaṇaḥ"**\
-> Perform the action that must be done; action is superior to inaction.\
+> **niyataṁ kuru karma tvaṁ karma jyāyo hy akarmaṇaḥ**
+>
+> "Perform the action that is enjoined; action is superior to inaction."\
 > — *Bhagavad Gītā* 3.8
 
 Kṛṣṇa does not say: remove yourself from difficult situations. He says: act. Inaction is failure, not neutrality. And refusing the cow's offering while she suffers in a feedlot is inaction dressed as ethics.
 
 ### The Offering Cannot Be Declined
 
-The cow offers whether you accept or not. This is her dharma. She converts grass into life-sustaining substance and releases it. She does not ask whether you deserve it. She does not check whether your ideology permits it. She gives because giving is what she is.
+The cow offers whether you accept or not. This is her dharma (her proper law, the duty that belongs to her nature). She converts grass into life-sustaining substance and releases it. She does not ask whether you deserve it. She does not check whether your ideology permits it. She gives because giving is what she is.
 
 When you decline the offering, you do not relieve her. You insult the gift without freeing the giver. The milk is still taken. The ghee is still made. It goes to someone who does not recognize it, does not honor it, does not feel the weight of obligation it carries. The link that could have activated — the circuit of gratitude that transmits recognition back to the animal — never closes. The cow gave and received nothing in return. Not because no one took the ghee, but because the one who would have received it with consciousness chose to abstain.
 
@@ -52,8 +54,9 @@ You take what is available. You receive it with recognition. You let the ojas bu
 
 This is the trajectory: from the grocery store to the farm. From the fluorescent aisle to the pasture. From the barcode to the hand on the flank. You do not wait for perfect conditions before accepting the alliance. You accept the alliance and then create the conditions. The commitment comes first. The farm comes after.
 
-> **"śraddhāvān labhate jñānaṁ"**\
-> The one who holds faith attains knowledge.\
+> **śraddhāvān labhate jñānaṁ**
+>
+> "The one who holds faith attains knowledge."\
 > — *Bhagavad Gītā* 4.39
 
 Faith is commitment before conditions are perfect.
@@ -68,8 +71,9 @@ Your duty is to receive the offering, honor the giver, and act.
 
 Act to buy land. Act to build fences. Act to go to the farms and bring them home. Act to create the conditions that the alliance requires: protection, care, freedom, and a full natural life for every animal whose substance you received. This is not optional. This is what the offering demands.
 
-> **"sarva-dharmān parityajya mām ekaṁ śaraṇaṁ vraja"**\
-> Abandon all other duties and take refuge in Me alone.\
+> **sarva-dharmān parityajya mām ekaṁ śaraṇaṁ vraja**
+>
+> "Abandon all other duties and take refuge in Me alone."\
 > — *Bhagavad Gītā* 18.66
 
 The refuge is total commitment. And the first act of that commitment is to stop pretending the alliance does not exist — to take the ghee from the shelf, close the circuit, and begin.

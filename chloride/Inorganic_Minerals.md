@@ -4,21 +4,25 @@
 
 ### The Principle of Life-Origin in Nourishment
 
-A living organism cannot be nourished by dead matter. This understanding is embedded in the Vedic worldview, where nourishment is defined by its participation in life itself. One thematic expression appears in the **Bṛhadāraṇyaka Upaniṣad**:
+A living organism cannot be nourished by dead matter. This understanding is embedded in the Vedic worldview, where nourishment is defined by its participation in life itself. One thematic expression runs:
 
-> **"yad bhūtam jāyate jīvenā."**\
-> That which has passed through life becomes fit to sustain life.
+> **yad bhūtaṃ jāyate jīvena**\
+>
+> "That which has passed through life becomes fit to sustain life."\
+> — proverbial formulation, after the *Bṛhadāraṇyaka Upaniṣad*
 
-Matter that has not been touched by life cannot sustain life. Minerals in their inorganic state—whether solid or dissolved—have not undergone any living transformation. They possess mass, density, and chemical identity, but no prāṇa and no biological compatibility. Dissolving a stone in water, pulverizing it into powder, or converting it into ionic solution does not bring it into the domain of nourishment.
+Matter that has not been touched by life cannot sustain life. Minerals in their inorganic state—whether solid or dissolved—have not undergone any living transformation. They possess mass, density, and chemical identity, but no prāṇa (life-breath, the vital force) and no biological compatibility. Dissolving a stone in water, pulverizing it into powder, or converting it into ionic solution does not bring it into the domain of nourishment.
 
 ### The Incompatibility of Inorganic Matter with Living Tissue
 
 Biological assimilation requires transformation within living structures. Plants chelate and reorganize minerals; microbes convert them into organic complexes; living tissues bind them into biologically recognizable forms. Without this transformation, inorganic minerals remain entirely outside the organism's pathways of assimilation.
 
-The **Caraka Saṃhitā** warns:
+The Caraka tradition warns:
 
-> **"mṛttikā-loha-bhakṣaṇaṃ tamaḥ-nimittam."**\
-> Eating earth or metal arises from tamas.
+> **mṛttikā-loha-bhakṣaṇaṃ tamaḥ-nimittam**\
+>
+> "Eating earth or metal arises from tamas (the guṇa of inertia and obscuration)."\
+> — proverbial formulation, after the *Caraka Saṃhitā*
 
 Tamas signifies inertia, heaviness, obscuration, and downward pull. When dead matter enters a living organism, these qualities manifest physiologically. The body can only react through irritation, elimination, or deposition. Liquid minerals, ionic drops, concentrated brines, evaporated sea minerals, or stone-derived solutions remain jaḍa—lifeless—even when rendered into fluid form. Their liquidity does nothing to confer prāṇa.
 
@@ -32,26 +36,32 @@ Modern scientific literature, despite its fixation on markers rather than holist
 
 The most revealing aspect of modern research is what has never been studied. There is no controlled experiment comparing organisms that consume no inorganic chloride of sodium with organisms that do, under conditions of full nourishment. Nor is there an experiment comparing organisms receiving no inorganic mineral supplements with those given ionic or liquid minerals, while both groups receive minerals through living foods or living matrices. The absence of these foundational comparisons indicates an unexamined assumption that inorganic minerals must be compatible with life.
 
-The **Muṇḍaka Upaniṣad** captures the broader error:
+The Muṇḍaka Upaniṣad captures the broader error:
 
-> **"parīkṣya lokān karmacitān brāhmaṇo nirvedam āyāt."**\
-> After examining the constructed worlds of action, the wise one becomes disenchanted.
+> **parīkṣya lokān karmacitān brāhmaṇo nirvedam āyāt**\
+>
+> "After examining the constructed worlds of action, the wise one becomes disenchanted."\
+> — *Muṇḍaka Upaniṣad* 1.2.12
 
 Nutritional science has constructed a world of measurements and assumptions that dissolves when confronted by the principle of life-origin.
 
 ### Life-Origin Substances and the Path of True Assimilation
 
-Matter becomes nourishing only when transformed by living processes. This is why āyurveda distinguishes between inert minerals and substances such as ghr̥ta, śilājatu, and Amarolī. Ghr̥ta is the clarified essence of living fats, carrying the organized vitality of plant-derived nourishment through metabolic refinement. Śilājatu contains minerals embedded in a resin matrix shaped by plants and microbes, which lifts them into the realm of biological usability. Amarolī circulates subtle coherence back into the organism through refined plasma.
+Matter becomes nourishing only when transformed by living processes. This is why āyurveda distinguishes between inert minerals and substances such as ghr̥ta (clarified butter), śilājatu (mineral-pitch resin exuded from rock), and amarolī (the practice of recycling one's own refined plasma). Ghr̥ta is the clarified essence of living fats, carrying the organized vitality of plant-derived nourishment through metabolic refinement. Śilājatu carries minerals embedded in a resin matrix shaped by plants and microbes, which lifts them into the realm of biological usability. Amarolī circulates subtle coherence back into the organism through refined plasma.
 
-The **Caraka Saṃhitā** describes this distinction explicitly:
+The Caraka tradition describes this distinction:
 
-> **"ghr̥taṃ medhyaṃ ojovardhakaṃ vātaharaṃ."**\
-> Ghee strengthens clarity, builds Ojas, and steadies vāta.
+> **ghr̥taṃ medhyaṃ ojovardhakaṃ vātaharam**\
+>
+> "Ghee strengthens clarity, builds ojas (the body's vital essence), and steadies vāta."\
+> — proverbial formulation, after the *Caraka Saṃhitā*
 
 And further in the same tradition:
 
-> **"rasāyanāni jīvitam."**\
-> Rejuvenatives are the givers of life.
+> **rasāyanāni jīvitam**\
+>
+> "Rejuvenatives are the givers of life."\
+> — proverbial formulation, after the *Caraka Saṃhitā*
 
 Clay is not rasāyana.\
 Salt is not rasāyana.\

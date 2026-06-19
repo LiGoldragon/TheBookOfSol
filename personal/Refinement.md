@@ -20,7 +20,7 @@ In every tradition that has thought seriously about what a human being is meant 
 > "Step by step, little by little, moment by moment — as the smith refines silver, the wise removes his own impurity."\
 > — *Dhammapada* 239
 
-The metal enters the fire as ore. The metal leaves the fire as silver. The fire's whole work is to remove what was not silver. This is the picture the old corpora keep returning to, and it is the picture this article holds steady in for the length of its reading.
+The metal enters the fire as ore. The metal leaves the fire as silver. The fire's whole work is to remove what was not silver. This is the picture the old corpora keep returning to.
 
 ## Fire Tests Gold
 
@@ -91,7 +91,7 @@ The Bhagavad Gītā moves the same image inside the body. Kṛṣṇa says to Ar
 
 The metal here is the practitioner himself. The dross is his accumulated karma — the residues of past action that hold him to forms he has outgrown. The fire is the burning recognition that this dross is no longer him. The *jñānāgni* is the inner refiner's fire — the same forge moved into the chest of the man on the chariot.
 
-Āyurveda gives the digestive variation. *Agni* in the belly converts food into the seven tissues; the seven tissues converge into *ojas*; *ojas* feeds *prāṇa*. The body is a smithy. The cooked grain is the ore. The hearth-fire is one fire, and the belly-fire is the same fire moved inside the eater.
+Āyurveda gives the digestive variation. *Agni* (the digestive fire) in the belly converts food into the seven tissues; the seven tissues converge into *ojas* (the body's refined vital essence); *ojas* feeds *prāṇa* (the life-breath). The body is a smithy. The cooked grain is the ore. The hearth-fire is one fire, and the belly-fire is the same fire moved inside the eater.
 
 The smith's image, in many languages, names a single fact about being alive: a human being is matter that has consented to be heated until something other than ore comes out.
 

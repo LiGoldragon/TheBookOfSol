@@ -55,7 +55,7 @@ Her guru appeared on the bank of the Ganges as she emerged from a ritual purific
 > "[…] *He initiated me into a kriyā technique which frees the body from dependence on the gross food of mortals. **The technique includes the use of a certain mantra and a breathing exercise more difficult than the average person could perform. No medicine or magic is involved; nothing beyond the kriyā.**"*\
 > — Giri Bālā, in *Autobiography of a Yogi*, ch. 46
 
-The mechanism is named: a *kriyā* combining mantra and a difficult prāṇāyāma. Yogānanda places this in his own kriyā-yoga lineage's technical register — the same family of practices that the *Khecharīvidyā* describes as the conduit by which the cranial *amṛta* feeds the body.
+The mechanism is named: a *kriyā* combining mantra and a difficult prāṇāyāma. Yogānanda places this in his own kriyā-yoga lineage's technical register — the same family of practices that the *Khecarīvidyā* describes as the conduit by which the cranial *amṛta* feeds the body.
 
 ## V. Yogānanda's articulation of the mechanism
 
@@ -106,11 +106,11 @@ Giri Bālā's case is the **strongest pre-clinical-instrumentation witness in th
 
 1. **Fifty-six years sustained, observed in family and village.** Not a brief retreat, not a self-report.
 2. **Three sequestered observations by the Maharaja of Burdwan**, each weeks long. The methodology is pre-modern but the conclusions are not in dispute among the witnesses.
-3. **The mechanism is named explicitly** — a *kriyā* combining mantra and a difficult breathing technique. This is the same family of practices Patañjali, the *Haṭhapradīpikā*, and the *Khecharīvidyā* describe as the conduit by which the body becomes self-sustaining.
+3. **The mechanism is named explicitly** — a *kriyā* combining mantra and a difficult breathing technique. This is the same family of practices Patañjali, the *Haṭhapradīpikā*, and the *Khecarīvidyā* describe as the conduit by which the body becomes self-sustaining.
 4. **No bodily excretions reported** — the same physiological signature observed at Sterling Hospital with Prahlad Jani in 2003 and 2010 (see [Roots_of_Yoga/breatharian-witnesses.md](../Roots_of_Yoga/breatharian-witnesses.md)).
 5. **No prior diet of fruit or raw food** — Giri Bālā was a Bengali peasant child eating ordinary cooked food, then nothing. The transition was sudden, not gradual.
-6. **No urine therapy was reported.** Giri Bālā did not pass through an amarolī phase. Her case, *taken alongside* the urine-therapy lineage, suggests the loop has more than one entry point: the *Khecharīvidyā* internal-cranial-amṛta route, the *amarolī* external-recycled-plasma route, and the kriyā-pranayama route Giri Bālā used. All three reach the same endpoint: the body that does not require external food or water because the substrate is being supplied from elsewhere.
+6. **No urine therapy was reported.** Giri Bālā did not pass through an amarolī phase. Her case, *taken alongside* the urine-therapy lineage, suggests the loop has more than one entry point: the *Khecarīvidyā* internal-cranial-amṛta route, the *amarolī* external-recycled-plasma route, and the kriyā-pranayama route Giri Bālā used. All three reach the same endpoint: the body that does not require external food or water because the substrate is being supplied from elsewhere.
 
 ## Source
 
-Yogānanda, Paramahansa. 1946. *Autobiography of a Yogi*. Los Angeles: Self-Realization Fellowship. (11th ed., 8th paperbound printing 1985 — md5 `8e8842e59c61812396fbe8eb4d48a64d`; or Global Grey EPUB md5 `1c43a5f712257e1893e10fd92afa19ac`.) Bibliography path: [`en/yogananda/`](https://github.com/LiGoldragon/bibliography/tree/main/en/yogananda).
+Yogānanda, Paramahansa. 1946. *Autobiography of a Yogi*. Los Angeles: Self-Realization Fellowship. (11th ed., 8th paperbound printing 1985 — md5 `8e8842e59c61812396fbe8eb4d48a64d`; or Global Grey EPUB md5 `1c43a5f712257e1893e10fd92afa19ac`.) Library entry: `~/primary/repos/library/en/yogananda/`.

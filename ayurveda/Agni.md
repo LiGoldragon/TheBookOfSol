@@ -23,7 +23,7 @@ The Ṛgveda — the oldest Indo-European literature still in continuous liturgi
 
 The Vedic household maintains three sacred fires: *gārhapatya* (the householder's perpetual flame, west, round); *āhavanīya* (the offering-fire, east, square); *dakṣiṇāgni* (the southern fire for ancestors, half-moon). Three fires, each with its own architectural geometry, each with its own ritual function, kept lit in continuous correspondence with the cosmic fire. The civilization at the head of the Sanskrit corpus organized its domestic religion around the maintenance of fire.
 
-Agni's epithets name his offices. *Jātavedas* — "knower of all that is born." *Hotṛ* — "the invoker." *Havya-vāhana* — "carrier of oblations" from earth to heaven. *Vaiśvānara* — "he who belongs to all men," the universal fire present in every household, in every belly, in every heart. *Tanūnapāt* — "son of his own body," because fire is the principle that generates itself from itself, by friction. The same Agni is in the altar, the hearth, the digestive belly, the cremation ground, and the sun above. One principle, many manifestations.
+Agni's epithets name his offices. *Jātavedas* is "knower of all that is born." *Hotṛ* is "the invoker." *Havya-vāhana* is "carrier of oblations" from earth to heaven. *Vaiśvānara*, "he who belongs to all men," is the universal fire present in every household, in every belly, in every heart. *Tanūnapāt* is "son of his own body," because fire is the principle that generates itself from itself, by friction. The same Agni is in the altar, the hearth, the digestive belly, the cremation ground, and the sun above. One principle, many manifestations.
 
 ## The Convergent Witness
 
@@ -37,7 +37,7 @@ The Greek myth of Prometheus is the founding narrative of human civilization. He
 
 In Rome, the goddess of the hearth is Vesta. Six Vestal Virgins maintained her eternal flame in the Forum, by religious doctrine the guarantor of the continuity of the Roman state. Lapse of the flame was a public emergency punished severely. The civilization that ruled the ancient Mediterranean placed the maintenance of one fire at the religious centre of its political life. Ovid in the *Fasti* is direct: *"Let no one think that the goddess Vesta is anything other than the fire itself. She is herself the kindled flame; you see no image of her save the fire."*
 
-In the Iranian tradition, the sacred fire is *Atar* — Avestan cognate of Sanskrit *agni*, son of Ahura Mazda, present at every Zoroastrian *yasna* (the etymological cognate of Sanskrit *yajña*). The Atash Behram — the "fire of victory" — is a perpetually-tended flame in a Zoroastrian fire-temple, the visible presence of the deity in the world. The split of the Indo-Iranian peoples into Vedic and Zoroastrian preserved the same recognition: fire at the head of the rite.
+In the Iranian tradition, the sacred fire is *Atar*, the Avestan cognate of Sanskrit *agni*, son of Ahura Mazda, present at every Zoroastrian *yasna* (the etymological cognate of Sanskrit *yajña*). The Atash Behram, the "fire of victory," is a perpetually-tended flame in a Zoroastrian fire-temple, the visible presence of the deity in the world. The split of the Indo-Iranian peoples into Vedic and Zoroastrian preserved the same recognition: fire at the head of the rite.
 
 In the Hebrew Bible, the divine presence appears as fire. Moses meets Yahweh in the burning bush — *the angel of Yahweh appeared unto him in a flame of fire out of the midst of a bush: and he looked, and, behold, the bush burned with fire, and the bush was not consumed* (Exodus 3:2). The Israelites are led through the wilderness by the pillar of fire. The covenant is sealed at Sinai by fire. *For Yahweh thy God is a consuming fire* (Deuteronomy 4:24). Fire is the *visible aspect* of the deity itself. The same flame that consumes is the flame that guides and illuminates.
 
@@ -57,7 +57,7 @@ Caraka's next verse internalizes the Vedic *agnihotra*:
 
 > "One should offer regularly the oblations of wholesome food and drinks\
 > to *antaragni* (internal fire) with due consideration to quantity and time."\
-> — *Caraka Saṃhitā*, Sūtrasthāna 27.343
+> — *Caraka Saṃhitā*, Sūtrasthāna 27.345
 
 *Antaragni* — the internal fire. The eater is a priest at his own digestive *agni*. The food is *havis* — oblation. Eating itself is a sacrificial act. Cooking is the preparation of the offering.
 
@@ -124,13 +124,13 @@ To call cooking "fire damage" is to misread the entire yogic tradition's relatio
 
 ## Cooking as Offering
 
-If the body is a *yajña*, then eating is *havis*-arpaṇa — the offering of oblation. The eater is the priest. The internal *agni* is the deity. The food is the *havis*. Caraka 27.343 makes the equivalence explicit: *one should offer regularly the oblations of wholesome food and drinks to antaragni*.
+If the body is a *yajña*, then eating is *havis*-arpaṇa — the offering of oblation. The eater is the priest. The internal *agni* is the deity. The food is the *havis*. Caraka 27.345 makes the equivalence explicit: *one should offer regularly the oblations of wholesome food and drinks to antaragni*.
 
 The Vedic priest does not offer raw, unprepared, unfiltered substance to the external fire. The grain is cleaned. The ghee is clarified. The Soma is pressed and filtered. The *havis* is *prepared* — that is what makes it fit for offering. The fire receives what has been brought to it in proper form. To offer raw, unprepared substance to the *yajña*-fire would be a violation of the rite.
 
 The same logic governs the internal *yajña*. The eater offers food to the *jaṭharāgni*. The food is to be *prepared* — cooked, softened, warmed, lubricated with *sneha* — before the offering. To skip the preparation and offer raw input to the inner *agni* is the internal counterpart of offering raw rice to the altar fire. It violates the rite. It disrespects the deity. It damages the priest.
 
-This is the sense in which the modern raw-food register is not merely mistaken about physiology. It is a refusal of the offering. The eater who insists on raw, cold, unprepared input is treating his own *antaragni* as something that should accept what no priest would dare offer to an external altar. The disrespect is structural — to fire as principle, to the body as *yajña*-vessel, to the chain that runs from *anna* through *rasa* to *prāṇa*.
+This is the sense in which the modern raw-food register, beyond its mistake about physiology, is a refusal of the offering. The eater who insists on raw, cold, unprepared input is treating his own *antaragni* as something that should accept what no priest would dare offer to an external altar. The disrespect is structural — to fire as principle, to the body as *yajña*-vessel, to the chain that runs from *anna* through *rasa* to *prāṇa*.
 
 The classical answer is plain. The cook prepares the offering. The eater performs the rite. The *agni* receives the prepared food and yields *rasa*. From *rasa* the body builds itself. The kitchen is the preparation chamber of the daily *yajña*. To cook is to honour the inner fire. To refuse to cook — and to call the refusal *vitality* — is to mistake disrespect for purity.
 
@@ -138,7 +138,7 @@ The classical answer is plain. The cook prepares the offering. The eater perform
 
 Fire is the principle of life made visible. The Vedic priest invokes it at the head of the sacrifice. The Greek family honours it at the household hearth. The Roman state guards it in the temple of Vesta. The Zoroastrian tends it in the Atash Behram. The Hebrew encounters it in the burning bush, the pillar, the consuming flame. The Ayurvedic doctrine internalizes it as *agni* — thirteen fires in the body, all required, all to be kept *sama*. The yogic discipline cultivates it as *tapas* — the heat that purifies.
 
-The classical traditions, without exception, place fire at the centre of life, the centre of the rite, the centre of the home. The civilization that arose from the use of fire understood what fire was for. The civilization that has lost that recognition does not yet know what it has discarded.
+The classical traditions, without exception, place fire at the centre of life, the centre of the rite, the centre of the home. The civilization that arose from the use of fire understood what fire was for.
 
 To cook is to participate. The flame on the stove is the visible counterpart of the flame in the belly. The grain that softens in the pot is the offering being prepared for the inner *yajña*. The ghee that flows over the cooked food is the *snigdha* medium that allows *agni* to receive the *havis* without injury. The warm meal eaten in measure is the daily completion of an act older than the Sanskrit word that names it.
 

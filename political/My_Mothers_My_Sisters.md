@@ -10,18 +10,21 @@ The warrior's path is set out in [*The Warrior*](./The_Warrior.md). The cows are
 
 Ghee on the shelf did not appear from nowhere. A cow produced it. She stood somewhere, perhaps in a feedlot, perhaps on a hillside, and her body made milk. The milk was churned, the butter was clarified, the jar was sealed and shelved under fluorescent light between products she has never seen. She is in it. The substance carries her.
 
-What passes through a living organism retains connection to that organism. The milk carries her vitality because it was produced by her vitality. The ghee carries her *ojas*, because *ojas* does not vanish at the factory gate. Refinement concentrates it. Clarification distills it. The jar on the shelf is a letter from a mother you have never met, written in the only language her body knows.
+What passes through a living organism retains connection to that organism. The milk carries her vitality because it was produced by her vitality. The ghee carries her *ojas* (the body's distilled vital essence, the subtle ground of immunity and radiance), because *ojas* does not vanish at the factory gate. Refinement concentrates it. Clarification distills it. The jar on the shelf is a letter from a mother you have never met, written in the only language her body knows.
 
 When you take the jar knowing what it is and who made it, the link activates. Appreciation is a force. It travels the connection in reverse: she gave her substance downward into matter, and you send recognition upward through consciousness. The circuit closes. She is seen.
 
-> "Whatever is offered to Me with devotion, a leaf, a flower, a fruit, water, that I accept, because it was offered with a devoted heart."\
+> **patraṃ puṣpaṃ phalaṃ toyaṃ yo me bhaktyā prayacchati**\
+> **tad ahaṃ bhakty-upahṛtam aśnāmi prayatātmanaḥ**
+>
+> "Whoever offers Me with devotion a leaf, a flower, a fruit, water, that I accept, because it was offered with a devoted heart."\
 > — *Bhagavad Gītā* 9.26
 
 ## Why the Cow Is Sacred
 
-India did not arrive at the sanctity of the cow by sentiment. It inherited it. The *bṛhat-trayī*, the *yoga* corpus, the *Mahābhārata*, the *Bhāgavata*: all of these are remnants of an older order in which the wise ones who taught yoga, who measured the heavens, who built the technologies of mind and body the modern world is only now beginning to recover, also took care of cows. The cow stands in that lineage as a fellow citizen of the golden age.
+India did not arrive at the sanctity of the cow by sentiment. It inherited it. The *bṛhat-trayī* (the great triad of Āyurvedic classics — Caraka, Suśruta, and Vāgbhaṭa), the *yoga* corpus, the *Mahābhārata*, the *Bhāgavata*: all of these are remnants of an older order in which the wise ones who taught yoga, who measured the heavens, who built the technologies of mind and body the modern world is only now beginning to recover, also took care of cows. The cow stands in that lineage as a fellow citizen of the golden age.
 
-What the golden age understood, the modern age forgot. The cow is *go-mātā*, mother, structurally compatible with the human body in ways no plant ever fully replicates. Her milk is *snigdha-madhura*, the unctuous-sweet register that builds *ojas* most directly. Her ghee is the *sarpiṣāṃ paramam*, the first among fats. The wise ones who left India its yoga left it the cow as part of the same inheritance, because the practice and the substance presuppose each other.
+What the golden age understood, the modern age forgot. The cow is *go-mātā*, mother, structurally compatible with the human body in ways no plant ever fully replicates. Her milk is *snigdha-madhura* (unctuous and sweet), the register that builds *ojas* most directly. Her ghee is the *sarpiṣāṃ paramam* (the foremost of clarified fats), the first among fats. The wise ones who left India its yoga left it the cow as part of the same inheritance, because the practice and the substance presuppose each other.
 
 That is why a Brahmin protects the cow. That is why she is named *mother*. The lineage that preserved the discipline of yoga preserved, alongside it, the discipline of caring for the animal whose body the practice depended on.
 
@@ -39,10 +42,13 @@ She is on one side of a trench. I am on the other. The trench is the entire appa
 
 She fights by giving. A cow does not withhold nourishment out of spite. She gives as a mother gives, unconditionally, because giving is what she is. She gives milk to a system that does not love her, and the milk still carries *ojas*, because she cannot produce otherwise.
 
-I fight by receiving. I take the substance and recognize it. I clarify it further with intention. I build *ojas* from *ojas*. I grow stronger through the link, because the link is a conduit, and what flows through it is shaped by both ends. My side of the war is fought with *tapas*, the sustained heat of a person who has decided the exchange is a covenant whatever the register rings it up as.
+I fight by receiving. I take the substance and recognize it. I clarify it further with intention. I build *ojas* from *ojas*. I grow stronger through the link, because the link is a conduit, and what flows through it is shaped by both ends. My side of the war is fought with *tapas* (ascetic heat, the disciplined fire of sustained effort), the sustained heat of a person who has decided the exchange is a covenant whatever the register rings it up as.
 
 Krishna gives the rule for fighting from this position:
 
+> **yoga-sthaḥ kuru karmāṇi saṅgaṃ tyaktvā dhanañjaya**\
+> **siddhy-asiddhyoḥ samo bhūtvā samatvaṃ yoga ucyate**
+>
 > "Established in yoga, perform action, abandoning attachment, equal in success and failure. This equanimity is called yoga."\
 > — *Bhagavad Gītā* 2.48
 
@@ -56,7 +62,9 @@ What I refuse is to weep. Weeping would consume the energy the work requires, an
 
 What I do instead is rejoice. The rejoicing is in the bond. We know each other. We love each other. The love is real on both sides of the trench, and it is the one fact the trench cannot reach. My days fill with joy and will to work. The will is the offering. The joy is the proof that the link is alive.
 
-> "Perform the action that must be done; action is superior to inaction."\
+> **niyataṃ kuru karma tvaṃ karma jyāyo hy akarmaṇaḥ**
+>
+> "Perform the action that is enjoined; action is superior to inaction."\
 > — *Bhagavad Gītā* 3.8
 
 ## The Distraction of Samsara
@@ -75,6 +83,8 @@ If the best you can find today is the butter at Walmart, then today you are conn
 
 This is *Kali Yuga*. The conditions are degraded. The supply chains are opaque. The cows are not yet treated as mothers. The substance still carries connection, the connection still responds to intention, and intention is the one variable the age cannot degrade, because it originates in consciousness.
 
+> **śraddhāvāṃl labhate jñānaṃ tat-paraḥ saṃyatendriyaḥ**
+>
 > "The one who holds faith attains knowledge."\
 > — *Bhagavad Gītā* 4.39
 
@@ -84,6 +94,9 @@ The Walmart butter is a starting position. *Ojas* accumulates. Clarity sharpens.
 
 This is the consequence of a link taken seriously. If she is my mother in substance, her captivity is my emergency. The duty is beyond charity and beyond activism. It is the only coherent response to what was given. She gave me her substance through a system designed to discard her. The minimum coherent act is to build the ground she will stand on when the system no longer holds her.
 
+> **sarva-dharmān parityajya mām ekaṃ śaraṇaṃ vraja**\
+> **ahaṃ tvāṃ sarva-pāpebhyo mokṣayiṣyāmi mā śucaḥ**
+>
 > "Abandon all other duties and take refuge in Me alone. I shall liberate you from all sins. Do not grieve."\
 > — *Bhagavad Gītā* 18.66
 

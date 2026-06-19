@@ -1,6 +1,6 @@
 # Ancient Witnesses Against Salt
 
-## *An Index to the Eight-Tradition Quote-Book on Chloride*
+## *An Index to the Nine-Tradition Quote-Book on Chloride*
 
 ### Why This Collection Exists
 
@@ -8,7 +8,7 @@ Modern medicine congratulates itself for discovering, around 1906, that chloride
 
 This collection is organized by tradition. Each file collects, in the original languages where available, the testimony of one cultural lineage. Sanskrit is given in IAST transliteration; Greek in polytonic or transliterated form; Hebrew in academic transliteration alongside the Masoretic consonantal text; Classical Chinese in characters with pinyin. Citations name book and chapter so the curious can verify.
 
-### The Eight Files
+### The Nine Files
 
 | File | Tradition | Core Witnesses |
 |------|-----------|---------------|
@@ -24,7 +24,7 @@ This collection is organized by tradition. Each file collects, in the original l
 
 ### Method — How to Find More
 
-The old-world record on salt is not scattered. It is located, and locating it is a matter of knowing the technical terms and the text families.
+The old-world record on salt is locatable, and locating it is a matter of knowing the technical terms and the text families.
 
 - **The terms.** In Sanskrit sources, the relevant terms are *lavaṇa* (salt as the salty taste or as the substance generally), *saindhava* (rock salt from the Sindh), *sauvarcala* (black salt), *audbhida* (earth-derived salt), *romaka* (a North Indian rock salt), *sāmudra* (sea salt — the common chloride ingestant), and *kṣāra* (alkaline salt). A single search for *lavaṇa* across the Āyurvedic corpus returns the *rasa-karma*, *rasa-atiyoga*, and *dravya-guṇa* passages. In Greek sources, *hals/hales* (ἅλς / ἅλες). In Hebrew, *melaḥ* (מֶלַח). In Classical Chinese, *xián* (鹹) for the salty taste and *yán* (鹽) for salt as substance.
 

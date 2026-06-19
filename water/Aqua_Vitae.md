@@ -117,7 +117,7 @@ The Spirit Lake is the inner aspect of the loop the Toltec practice gives in its
 
 ## The Convergence
 
-Eight corpora arrive at the same instruction. Vedic, Tantric, Yogic, Buddhist, Jain, Hebrew, Christian, Hermetic, Toltec, Siberian — none of them sharing language, none of them depending on any of the others — converge on the body's own water as the fluid that closes the loop.
+Ten traditions arrive at the same instruction. Vedic, Tantric, Yogic, Buddhist, Jain, Hebrew, Christian, Hermetic, Toltec, Siberian — none of them sharing language, none of them depending on any of the others — converge on the body's own water as the fluid that closes the loop.
 
 Modern practitioners who have set up the loop report what van der Kroon recorded as the central observation: the plasma changes. *Urine becomes more watery and less bitter.* The fluid the body produces while in the loop is not the fluid it produced before. The substrate refines itself.
 

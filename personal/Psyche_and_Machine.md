@@ -23,4 +23,4 @@ When the machine does share, it does not broadcast blindly. It adapts. A thought
 
 On the receiving side, machines help as well. Instead of endless feeds, people encounter ideas and others where there is real overlap—where paths genuinely intersect, not because something is popular.
 
-In this model, sharing is no longer about exposure. It is about fit. The psyche lives, responds, and moves forward. The machine quietly arranges timing and placement, making sure that what matters is heard only where hearing actually matters.
+In this model, sharing is a matter of fit. The psyche lives, responds, and moves forward. The machine quietly arranges timing and placement, making sure that what matters is heard only where hearing actually matters.

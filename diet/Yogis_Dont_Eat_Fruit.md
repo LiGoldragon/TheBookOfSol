@@ -39,12 +39,12 @@ The *Taittirīya Upaniṣad* makes the body a product of grain. The self closest
 > "One should not despise food; that is the rule. ... This self is made of the essence of anna."\
 > — *Taittirīya Upaniṣad* 2.1, trans. after Olivelle
 
-The chain is anatomical. From cooked grain the body distils *rasa* (the first nutritive fluid, the plasma into which digested food becomes tissue); from *rasa* the further tissues; from those, at the last, *ojas* (the refined essence of vitality) and *prāṇa* (the vital breath). The Upaniṣad closes the ascent at its summit:
+The chain is anatomical. From cooked grain the body distils *rasa* (the first nutritive fluid, the plasma into which digested food becomes tissue); from *rasa* the further tissues; from those, at the last, *ojas* (the refined essence of vitality) and *prāṇa* (the vital breath). The later Bhṛgu Vallī carries the same recognition to its summit:
 
 > **annaṃ brahmeti vyajānāt**
 >
 > "He knew anna as Brahman."\
-> — *Taittirīya Upaniṣad* 2.2.4
+> — *Taittirīya Upaniṣad* 3.2 (Bhṛgu Vallī)
 
 The metaphysical equation rests on *anna*. The most-cited Upaniṣadic line on the food-foundation of being names that foundation as the same substance the *Haṭha Yoga Pradīpikā* sets at the centre of the yogin's plate.
 
@@ -54,7 +54,7 @@ The *Caraka Saṃhitā*, the foundational text of Āyurveda, says the same from 
 > Complexion, voice, life, intelligence, contentment, growth, and strength — all are founded on food."\
 > — *Caraka Saṃhitā*, Sūtrasthāna 27.349–350, trans. after P. V. Sharma
 
-When Caraka names the substances admitted to the daily routine, the list is grain, milk, ghee, honey, one salt, and one fruit: *āmalaka*, admitted as the *rasāyana* (rejuvenative), the medicinal exception (Sūtrasthāna 5.12). Grain at the centre, fruit at the medicinal edge. The two corpora converge on the same staple at the same word.
+When Caraka names the substances admitted to the daily routine, the list is grain, milk, ghee, honey, one salt, and one fruit: *āmalaka*, admitted as the *rasāyana* (rejuvenative), the medicinal exception (Sūtrasthāna 5.12). The salt is *saindhava*, admitted only as a minuscule medicinal trace by indication, never as a food. Grain at the centre, fruit and salt at the medicinal edge. The two corpora converge on the same staple at the same word.
 
 ## Fruit belongs to its season
 

@@ -2,7 +2,7 @@
 
 A thematic digest of *direct passages* from the Greek (Hippocratic, Galenic), the Persian-Islamic (Avicenna), the Chinese (Huang Di Nei Jing, Li Dong-yuan), the structuralist-anthropological (Lévi-Strauss), and the modern-empirical (Wrangham) corpora, bearing on the position that **digestion is cooking by the body's innate heat, that the staple of the human plate is cooked food, and that prolonged raw-food eating depletes the body and disrupts its functions** — the same doctrine that the Ayurvedic, Yogic, and Vedic corpora name *agni* + *pakva* + *uṣṇa-snigdha*.
 
-The Sanskrit witness is in [`Cooking_and_Agni.md`](./Cooking_and_Agni.md). This file gathers the position as it appears, *independently arrived at*, in five other traditions. The convergence is not borrowing but recognition: each tradition observed the same physiology and reached the same conclusion.
+The Sanskrit witness is in [`Cooking_and_Agni.md`](./Cooking_and_Agni.md). This file gathers the position as it appears, *independently arrived at*, in five other traditions. The convergence is recognition, not borrowing: each tradition observed the same physiology and reached the same conclusion.
 
 Format follows the project's canonical quote-block, adapted for non-Sanskrit sources: where original-language text is available it appears on top (italicised where Latin/Greek transliteration; native script where supported); blank `>` line; English translation in straight quotes; em-dash attribution on the final line.
 
@@ -165,7 +165,7 @@ Richard Wrangham's *Catching Fire* (2009) is the contemporary biological argumen
 > "*The control of fire and the practice of cooking are human universals.*"\
 > — *Richard Wrangham*, *Catching Fire*, ch. 1
 
-The empirical, anthropological observation. There is no recorded human culture that does not cook. Even the Inuit, whose diet contains more raw animal products than other societies, eat their main meal of the day cooked. Even hunter-gatherer groups eating a tiny fraction of their total calories raw still build the structure of the day around the evening cooked meal. The biological-anthropological convergence with the indigenous-mythological data Lévi-Strauss documented: cooking is the definition of the human.
+The empirical, anthropological observation. There is no recorded human culture that does not cook. Even the Inuit, whose diet contains more raw animal products than other societies, eat their main meal of the day cooked. Even hunter-gatherer groups eating a small share of the day's food raw still build the structure of the day around the evening cooked meal. The biological-anthropological convergence with the indigenous-mythological data Lévi-Strauss documented: cooking is the definition of the human.
 
 ### Wrangham — the Giessen Raw Food study
 
@@ -184,7 +184,7 @@ The empirical confirmation. Half of all-raw-diet women cease to menstruate. The 
 > "*Cooked food does many familiar things. It makes our food safer, creates rich and delicious tastes, and reduces spoilage. Heating can allow us to open, cut, or mash tough foods. But none of these advantages is as important as a little-appreciated aspect: cooking increases the amount of energy our bodies obtain from our food.*"\
 > — *Richard Wrangham*, *Catching Fire*, ch. 1
 
-The biological mechanism. Cooking pre-digests starch, breaks down protein structure, ruptures cell walls, and makes nutrients accessible that raw food locks away. The Sanskrit doctrine names the same operation as *saṃskāra* — the processing operation that transforms *guṇa* and shifts the *guru-laghu* balance in favour of the eater (Caraka Sū. 27.339). Two languages, three thousand years apart, the same physiology.
+The mechanism. Cooking pre-digests the grain, softens its dense matter, ruptures what the inner *agni* cannot, and releases the *rasa* (the first nutritive juice) that raw food locks away. The Sanskrit doctrine names the same operation as *saṃskāra* — the processing operation that transforms *guṇa* and shifts the *guru-laghu* (heavy-light) balance in favour of the eater (Caraka Sū. 27.339). Two languages, three thousand years apart, the same physiology.
 
 ## VI. Convergence
 
@@ -198,7 +198,7 @@ The position is the position of every documented medical and anthropological cor
 
 4. **Vegetables and fruits enter by indication and preparation.** Hippocrates limits raw vegetables to spring and summer, by exception. Galen recommends boiling. Caraka classifies fruits as *auṣadha* before *āhāra*. Li Dong-yuan warns against cold foods damaging the spleen. The dispersal of these substances into category-level prescriptions is itself the structure of the materia medica.
 
-5. **Cooking is what made humans human.** Lévi-Strauss documents this as the symbolic foundation of indigenous-South-American mythology. Wrangham documents it as the biological foundation of *Homo*. Hippocrates documents it as the founding act of medicine. The convergence across structural-anthropological, evolutionary-biological, and clinical-medical frames suggests this is not a cultural artefact but an observation about the species.
+5. **Cooking is what made humans human.** Lévi-Strauss documents this as the symbolic foundation of indigenous-South-American mythology. Wrangham documents it as the biological foundation of *Homo*. Hippocrates documents it as the founding act of medicine. The convergence across structural-anthropological, evolutionary-biological, and clinical-medical frames marks this as an observation about the species, not a cultural artefact.
 
 The four-thousand-year cross-tradition agreement on the cooking-and-agni doctrine does not require any single tradition's authority. It is the natural conclusion of any sustained, attentive look at the body and the food that enters it.
 

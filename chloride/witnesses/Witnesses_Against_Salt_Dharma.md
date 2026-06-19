@@ -53,7 +53,7 @@ The commentarial literature preserves the reasoning. Salt is understood to do th
 
 The dharmic logic extends across a gradient. The ordinary householder uses salt in the ordinary way. The one under temporary *vrata* lays it aside for the duration. The renunciant lays it aside altogether. The Jain ascetic takes the rule still further. In certain lineages, salt is prohibited throughout the mendicant life, and *aluṇa-tapa* (saltless austerity) is a named category of merit.
 
-The gradient corresponds to the degree to which the practitioner is engaged in *sādhana* (spiritual practice). The more intensive the practice, the less compatible salt becomes with it. The body that aspires to *samādhi*, that holds *maunam*, that undertakes *dhyāna* lays salt aside, because salt and the subtle states the body is cultivating cannot coexist.
+The gradient corresponds to the degree to which the practitioner is engaged in *sādhana* (spiritual practice). The more intensive the practice, the less compatible salt becomes with it. The body that aspires to *samādhi* (absorption), that holds *maunam* (silence), that undertakes *dhyāna* (meditation) lays salt aside, because salt and the subtle states the body is cultivating cannot coexist.
 
 ## The Jain Intensification
 

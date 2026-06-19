@@ -44,7 +44,7 @@ The Caraka Saṃhitā opens its theory of substance with a doctrine that does no
 > and with a definite objective."\
 > — *Caraka Saṃhitā*, Sūtrasthāna 26.12, trans. Priya Vrat Sharma
 
-The distinction between *auṣadha* (medicine) and *āhāra* (food) is not that different substances inhabit the two categories. The same substance, given with indication and dose, is *auṣadha*; given without them is *āhāra*; given in excess or in error becomes *viṣa*. Daily fruit eaten in volume sits in the third place, not the first.
+The same substance divides into *auṣadha* (medicine) and *āhāra* (food) by use, not by kind: given with indication and dose, it is *auṣadha*; given without them, *āhāra*; given in excess or in error, *viṣa*. Daily fruit eaten in volume sits in the third place.
 
 ## II. The Caraka fruit-list reads as a materia medica
 
@@ -61,7 +61,7 @@ Sūtrasthāna chapter 27 (*Annapānavidhi* — "the methods of food and drink") 
 > except long pepper and ginger."\
 > — *Caraka Saṃhitā*, Sūtrasthāna 27.4, trans. Priya Vrat Sharma
 
-The fruits that escape the default doṣic-aggravation rule are exactly the fruits classed as *medicines*: *dāḍima* and *āmalaka*. The exceptions are not nutritional outliers; they are pharmacological agents.
+The fruits that escape the default doṣic-aggravation rule are exactly the fruits classed as *medicines*: *dāḍima* and *āmalaka*. The exceptions are pharmacological agents, named by their action on the doṣas.
 
 ### Caraka Sū. 27.5–7 — fruit listed in the same parameters as drugs
 
@@ -374,12 +374,12 @@ The body is *anna-rasa-maya* — composed of the *rasa* of *anna*. The Upaniṣa
 > "From plants arises *anna*. From *anna* arises the human being."\
 > — *Taittirīya Upaniṣad* 2.2.1
 
-### Taittirīya Upaniṣad 2.2.4 — anna as Brahman
+### Taittirīya Upaniṣad 3.2 — anna as Brahman
 
 > **annaṃ brahmeti vyajānāt ||**
 >
 > "He knew *anna* as Brahman."\
-> — *Taittirīya Upaniṣad* 2.2.4
+> — *Taittirīya Upaniṣad* 3.2 (Bhṛgu Vallī)
 
 The metaphysical equation rests on *anna*, not *phala*. The Upaniṣad's most-cited line on the food-foundation of being identifies that foundation as *anna* — the same substance the *Haṭha Yoga Pradīpikā* sets at the centre of the yogin's plate.
 
@@ -394,7 +394,7 @@ The metaphysical equation rests on *anna*, not *phala*. The Upaniṣad's most-ci
 
 ## IX. Fruit in season — the *kāla* doctrine
 
-Fruit is the seasonal food par excellence: each kind ripens in its month and is gone. The classical corpus treats this not as a casual fact but as a rule of intake. The seasonal-regimen chapter — Caraka's *Tasyāśitīya* (Sūtrasthāna 6) — prescribes the entire diet season by season under the doctrine of *ṛtu-sātmya* (seasonal suitability): what is wholesome in one season is unwholesome in another. Even there, where the year is mapped food by food, the centre is grain, milk, ghee, and meat-soup; specific fruits appear only as seasonal accessories, never as the staple. And eating against the season is, in Caraka's own taxonomy of incompatible food, a named category of harm.
+Fruit is the seasonal food par excellence: each kind ripens in its month and is gone. The classical corpus treats this as a rule of intake, not a casual fact. The seasonal-regimen chapter — Caraka's *Tasyāśitīya* (Sūtrasthāna 6) — prescribes the entire diet season by season under the doctrine of *ṛtu-sātmya* (seasonal suitability): what is wholesome in one season is unwholesome in another. Even there, where the year is mapped food by food, the centre is grain, milk, ghee, and meat-soup; specific fruits appear only as seasonal accessories, never as the staple. And eating against the season is, in Caraka's own taxonomy of incompatible food, a named category of harm.
 
 ### Caraka Sū. 26.86–87 — *kāla-viruddha*, antagonism of time
 
@@ -408,7 +408,7 @@ Fruit is the seasonal food par excellence: each kind ripens in its month and is 
 > all such food is unwholesome."\
 > — *Caraka Saṃhitā*, Sūtrasthāna 26.86–87, trans. Priya Vrat Sharma
 
-*Kāla-viruddha* — antagonism of time — stands at the head of the list, beside *deśa-viruddha* (antagonism of place). Food eaten out of its season is *viruddha*: classed not as neutral but as a cause of disease, in the same category as the antagonism of fish with milk (Sū. 26.84). The modern supply chain, which delivers every fruit in every month from across the world, is a standing violation of *kāla* — a permanent out-of-season plate. The doctrine that fruit is to be eaten *in season* is thus not a preference but a clause of the *viruddha-āhāra* law.
+*Kāla-viruddha* — antagonism of time — stands at the head of the list, beside *deśa-viruddha* (antagonism of place). Food eaten out of its season is *viruddha*: classed not as neutral but as a cause of disease, in the same category as the antagonism of fish with milk (Sū. 26.84). The modern supply chain, which delivers every fruit in every month from across the world, is a standing violation of *kāla* — a permanent out-of-season plate. The doctrine that fruit is to be eaten *in season* is a clause of the *viruddha-āhāra* law, not a matter of preference.
 
 ## X. The Suśruta concord — the second physician agrees
 

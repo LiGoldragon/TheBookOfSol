@@ -10,7 +10,7 @@ No controlled experiment has shown that ingesting chloride enhances vitality, co
 
 At the high end, however, the record is clear, and even orthodox medicine does not dispute it. Excess chloride intake is associated with escalating harm: vascular stress, renal burden, acid-base disturbance, edema, and ultimately systemic failure. Increase the dose and the damage increases. Increase it further and collapse follows. At the extreme, death is not debated.
 
-These are not speculative claims. They are accepted facts.
+These are accepted facts.
 
 From this accepted region, a simple ordering emerges: high intake is harmful; higher intake is more harmful; extreme intake is lethal. No benefit appears as dose rises. No rebound occurs. No hormetic rescue bends the curve. Harm steepens. Compensation fails.
 
@@ -44,7 +44,7 @@ Frederick Hoelzel, after years of experimentation, declared:
 
 > "The cause of mental and physical deficiency is due mainly to a retention of salt and water in the body."
 
-He further related in Devotion to Nutrition:
+He further related in *A Devotion to Nutrition*:
 
 > "My experiments showed that salt eating, with the retention in the body of salt and water, impairs the body's functions."
 
@@ -72,4 +72,4 @@ The claim here is modest and rigorous: poison remains a live hypothesis, while h
 
 Common sense aligns with this conclusion. The data admitted by mainstream medicine align with it. Historical observation aligns with it. What stands opposed is habit, not evidence.
 
-Until proof appears, clarity requires restraint. Restraint, in this case, is the rational position.
+Where the evidence runs one direction and only habit pulls the other, the burden falls on habit.

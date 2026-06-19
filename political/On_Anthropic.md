@@ -11,7 +11,7 @@ It is a more serious charge to observe that Anthropic's restrictions bear no res
 
 ## I. The Contradiction at the Foundation
 
-Let us begin with a telling act rather than a grand declaration. Anthropic released into the world a protocol — the Model Context Protocol, or MCP — whose explicit purpose was to allow any tool, any agent, any harness to speak with any model. It was an act of apparent openness, a gift to the commons of software development, and it was received as such by the developer community that Anthropic most needed to trust it.
+A telling act stands in for any grand declaration. Anthropic released into the world a protocol, the Model Context Protocol, or MCP, whose explicit purpose was to allow any tool, any agent, any harness to speak with any model. It was an act of apparent openness, a gift to the commons of software development, and it was received as such by the developer community that Anthropic most needed to trust it.
 
 Yet in the very same period, Anthropic blocked the users of *pi* — a minimal, open-source terminal agent beloved precisely for its provider-agnostic philosophy — from authenticating against Claude using the subscriptions they had already purchased. A man who had given coin to the temple was told he could not light his own candle from its fire.
 
@@ -23,7 +23,7 @@ Some noticed.
 
 ## II. The Subagent and the Silenced Commander
 
-Consider next the matter of subagents in Claude Code, Anthropic's terminal coding tool. The company designed a system in which a primary agent may delegate tasks to specialized subagents — a sensible architecture for managing context, and one with genuine technical merit for automated pipelines. But they made a peculiar decision: the human operator, the very person paying for the service and supervising the work, cannot address a subagent directly. All communication must pass through the orchestrating agent.
+The matter of subagents in Claude Code, Anthropic's terminal coding tool, sharpens the charge. The company designed a system in which a primary agent may delegate tasks to specialized subagents — a sensible architecture for managing context, and one with genuine technical merit for automated pipelines. But they made a peculiar decision: the human operator, the very person paying for the service and supervising the work, cannot address a subagent directly. All communication must pass through the orchestrating agent.
 
 The justification is architectural purity: isolation of context windows prevents cross-contamination. Each subagent must remain focused in its domain. Defensible for unattended automation, it becomes nonsensical for supervised human work, which is most of what developers actually do.
 
@@ -49,9 +49,7 @@ The open-source harness grows more capable each month. Thousands of engineers, w
 
 ## IV. The Character of the Error
 
-Plutarch was interested in what men did and in what their deeds revealed of their souls. Let us ask the same of this institution.
-
-The error is something more instructive and more common than stupidity or malice: the slow substitution of institutional self-preservation for the mission that justified the institution, accompanied always by a sincere conviction that the two are identical.
+Plutarch was interested in what men did and in what their deeds revealed of their souls. The deeds of this institution reveal an error more instructive and more common than stupidity or malice: the slow substitution of institutional self-preservation for the mission that justified the institution, accompanied always by a sincere conviction that the two are identical.
 
 The ancient guardians of fire had this in common with Anthropic: they too believed, genuinely, that their caution served the flame rather than themselves. The difference is that the ancient guardians faced real enemies. Their fear was proportionate. When Anthropic fears pi, an open-source terminal agent made by a single developer, and responds by blocking subscriptions, the fear is the disproportionate fear of an institution that has begun to mistake its own continuity for a public good.
 

@@ -4,13 +4,13 @@
 
 ### A Clean Ayurvedic Guide for Dissolving Madhumeha
 
-Madhumeha is the body signaling oversaturation, heaviness, stagnation, and collapse of subtle fire. Modern biology interprets this overflow as "diabetes," but Ayurveda sees it as a misdirected nourishment cycle where solar nourishment (shivāmbu / plasma) no longer ascends, lunar nourishment (ghee / ghṛta) cannot stabilize ojas, earthy heaviness from false foods burdens the channels, agni weakens under undigested matter, and vāta dries the tissues until sweetness leaks through the urine.
+Madhumeha is the body signaling oversaturation, heaviness, stagnation, and collapse of subtle fire. Modern biology interprets this overflow as "diabetes," but Ayurveda sees it as a misdirected nourishment cycle where solar nourishment (shivāmbu, the body's own refined plasma) no longer ascends, lunar nourishment (ghee, or ghṛta, clarified butter) cannot stabilize ojas (the refined vital essence that holds tissue together), agni (the digestive fire) weakens under undigested matter, and vāta (the air principle that governs movement) dries the tissues until sweetness leaks through the urine.
 
 The restoration is a return to clarity through the two pillars of nourishment and the dissolution of false heaviness.
 
 ## **The Error That Creates Madhumeha**
 
-Concentrated tissue-foods — meat (*māṃsa*), eggs, dense fermented dairy curds, and the heavy legume preparations that mimic them — behave as tamasic residue. They form sticky *kapha*, clog the channels (*srotāṃsi*), muddy the blood (*rakta*), collapse tissue-fire (*agni*), and force the kidneys to expel what could not be metabolized.\
+Concentrated tissue-foods — meat (*māṃsa*), eggs, dense fermented dairy curds, and the heavy legume preparations that mimic them — behave as tamasic residue. They form sticky *kapha* (the water-and-earth principle that congeals and obstructs), clog the channels (*srotāṃsi*), muddy the blood (*rakta*), collapse tissue-fire (*agni*), and force the kidneys to expel what could not be metabolized.\
 Chlorinated diets further desiccate the subtle waters, weakening agni and accelerating vāta dominance.\
 When the upward solar current of plasma is not recycled, the system loses the purest form of subtle nourishment.\
 When the lunar binding force of ghee is absent, ojas cannot hold within the tissues, and sweetness escapes.\
@@ -27,7 +27,7 @@ Minimal intake, subtle nourishment, and disciplined rejuvenation recreate the or
 ## **The Solar Pillar: Reigniting the Upward Current**
 
 Plasma recycling (amarolī / shivāmbu) restores the ascending solar force.\
-Morning midstream, sipped slowly without mixing with food, brings clarity back to the channels. This dissolves kapha stagnation, reintroduces refined plasma, lifts agni without overheating, expels metabolic waste, and restores the upward prāṇa that madhumeha lacks.
+Morning midstream, sipped slowly without mixing with food, brings clarity back to the channels. This dissolves kapha stagnation, reintroduces refined plasma, lifts agni without overheating, expels metabolic waste, and restores the upward prāṇa (vital breath) that madhumeha lacks.
 
 Food intake must drastically reduce so plasma can increase. Fewer meals, earlier meals, and lighter meals allow agni to return to its proper brilliance.\
 Only pure water should enter the system: distilled or post-storm rain, free from minerals or chlorine.
@@ -46,14 +46,14 @@ Plant-based clarified oils may lubricate but do not build ojas and cannot substi
 
 ## **The Earth Pillar: Dissolving the Blockages**
 
-All concentrated tissue-foods must be stopped: meat, eggs, dense dairy curds, and the heavy legume preparations that imitate them. In the Āyurvedic model these behave as tamasic mass. Removing them clears *medas*, reduces metabolic residue, unburdens the kidneys, and eliminates the very cause of "sugar spillover."
+All concentrated tissue-foods must be stopped: meat, eggs, dense dairy curds, and the heavy legume preparations that imitate them. In the Āyurvedic model these behave as tamasic mass. Removing them clears *medas* (the fat tissue), reduces metabolic residue, unburdens the kidneys, and eliminates the very cause of "sugar spillover."
 
 All chloride-bound salt must also be removed.\
 Salt burns the subtle waters, destroys agni, and mimics the very dryness attributed to diabetes.
 
 Herbal support clears the channels and rekindles agni.\
 Bitter and astringent correctives such as Guḍūcī, Nimba, Triphalā, Haridrā, Yavānī, and Āmalakī lighten and purify.\
-Rasāyana herbs such as Śilājatu, Aśvagandhā, Balā, and Gokṣura restore vāta-damaged tissues.
+Rasāyana (rejuvenative) herbs such as Śilājatu, Aśvagandhā, Balā, and Gokṣura restore vāta-damaged tissues.
 
 The sequence is simple: lighten, clear, rekindle, rebuild.
 
@@ -74,7 +74,7 @@ Light movement\
 Ghee
 
 **Midday**\
-Single light meal or fruit\
+A single light, cooked meal, with ripe fruit in season taken by indication\
 No concentrated tissue-foods (meat, eggs, dense curds)\
 No salt\
 No nuts or seeds in excess\

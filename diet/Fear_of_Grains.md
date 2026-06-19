@@ -12,7 +12,7 @@ The low-carbohydrate movement beginning in the 1970s repeated the same structure
 
 Later popular works, including *Wheat Belly* by **William Davis**, completed the rhetorical shift from "carbohydrates" to "gluten," without adding experimental rigor. The same foods were removed. The same improvements were reported. The causal agent was reassigned, not demonstrated.
 
-Crucially, **no controlled trial has ever tested grains prepared gently—slowly cooked in ample water, without chloride of sodium, without spices, without industrial processing—while holding other variables constant**. No trial has demonstrated that grains themselves, under such conditions, cause harm. No trial has ruled out chloride of sodium or dehydration as primary irritants. No trial has compared baked versus hydrated preparations as the independent variable. The evidentiary record is empty where the claim is strongest.
+**No controlled trial has ever tested grains prepared gently—slowly cooked in ample water, without chloride of sodium, without spices, without industrial processing—while holding other variables constant**. No trial has demonstrated that grains themselves, under such conditions, cause harm. No trial has ruled out chloride of sodium or dehydration as primary irritants. No trial has compared baked versus hydrated preparations as the independent variable. The evidentiary record is empty where the claim is strongest.
 
 The correct scientific statement is plain: the hypothesis of intrinsic grain toxicity has zero experimental support. The fear rests on extrapolation from modern aggressive preparation forms to the raw ingredient — a move that fails basic scientific criteria before any appeal to tradition is required.
 
