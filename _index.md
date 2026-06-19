@@ -14,7 +14,7 @@ Written and compiled by Olivier Francoeur, aka Li Goldragon.
 - [The 108 Solar Divisions](./sol-luna/The_108_Solar_Divisions.md)
 - [The 360 Phases of Sol](./sol-luna/The_360_Phases_of_Sol.md)
 - [The Zodiac](./sol-luna/The_Zodiac.md)
-- [Sidereal](./sol-luna/Sidereal.md)
+- [Zodiac and Nakṣatras: Grammars of the Sun](./sol-luna/Sidereal.md)
 - [Celestial Name](./sol-luna/Celestial_Name.md)
 - [Line of Sight](./sol-luna/Line_of_Sight.md)
 - [Kali Yuga](./sol-luna/Kali_Yuga.md)
@@ -125,7 +125,7 @@ Written and compiled by Olivier Francoeur, aka Li Goldragon.
 - [The Idol of Wisdom](./political/The_Idol_of_Wisdom.md)
 - [Obsolete Social Medias](./political/Obsolete_Social_Medias.md)
 - [Twitter is Obsolete](./political/Twitter_is_Obsolete.md)
-- [Poisonous Music](./political/Poisonous_Music.md)
+- [Sound Without Consent](./political/Poisonous_Music.md)
 
 ## Personal & meta
 
