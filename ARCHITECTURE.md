@@ -4,7 +4,8 @@
 
 The Book of Sol is the publishable prose surface for essays on solar
 nourishment, Āyurveda, chloride toxicology, yogic practice, cosmology,
-and older scientific witnesses.
+and older scientific witnesses. It is a public-facing body of doctrine,
+argument, and image prepared for readers, not a private notebook.
 
 ## Boundaries
 
@@ -23,8 +24,14 @@ or from curated public editions.
 
 Articles are self-contained prose surfaces. They use YAML front matter,
 category placement, and the project quote convention in `AGENTS.md`.
-Primary sources carry the argument wherever possible. The repo index
+The voice is declarative and textually grounded: classical witnesses,
+especially Sanskrit and Āyurvedic sources, carry the argument wherever
+possible, and the prose avoids modern reductionist nutrition vocabulary
+when the older categories name the thing more accurately. The repo index
 `_index.md` is the canonical table of contents.
+
+Generated banners embody the spirit of an article rather than
+mechanically illustrate a scene.
 
 ## Status
 
