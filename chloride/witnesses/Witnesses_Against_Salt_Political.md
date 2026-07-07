@@ -33,10 +33,9 @@ Two observations follow from this tribute list. First, the noble caste received 
 
 Second, and this is the crucial political-pharmacological point: the populations that were *not* incorporated into the Aztec tribute system were also the populations that did not eat salt.
 
-> "The Tlatoque had maintained their independence and avoided the oppression of the Aztecs by abstaining from salt. 'They ate no salt because there was none in their land,' he [Cortés] wrote, and like the British, they feared salt dependency."\
-> — reported in Mark Kurlansky, *Salt: A World History* (2002)
+Kurlansky's narrative preserves the political point: Cortés encountered saltless Tlaxcalan/Tlatoque practice as a marker of independence from Aztec domination, and the refusal of salt belonged to that independence. The exact wording in the earlier draft mixed paraphrase with a short reported phrase and is therefore no longer presented as a direct quotation.
 
-The phrase *they feared salt dependency* is the key one. Cortés, with a conquistador's clear eye for the political uses of substances, recognized immediately what the Tlatoque were doing. They were declining to be narcotized. They were keeping their bodies, and therefore their consciousness, their capacity for political resistance, and their solar warmth, outside the Aztec pharmacology. This made them ungovernable by tribute, ungovernable by economic pressure, ungovernable by the slow drip of the shared salted meal. They remained independent until a different, more forceful pharmacology, Spanish steel and Spanish disease, replaced the Aztec one.
+The dependency is the key one. Cortés, with a conquistador's clear eye for the political uses of substances, recognized immediately what the saltless people were doing. They were declining to be narcotized. They were keeping their bodies, and therefore their consciousness, their capacity for political resistance, and their solar warmth, outside the Aztec pharmacology. This made them ungovernable by tribute, ungovernable by economic pressure, ungovernable by the slow drip of the shared salted meal. They remained independent until a different, more forceful pharmacology, Spanish steel and Spanish disease, replaced the Aztec one.
 
 When Cortés took Mexico, the first infrastructure he seized was the salt-flats. He understood that whoever owned the addiction owned the tribute system, which meant whoever owned the addiction owned the state.
 
@@ -52,15 +51,11 @@ The Roman expansion into the interior of Italy, and later across the Mediterrane
 
 The Han dynasty established the first fully formalized state salt monopoly, and the court debate over it has been preserved in the *Yantielun* (鹽鐵論, "Discourses on Salt and Iron," 81 BCE). The extraordinary feature of the Discourses is that the Confucian *Literati*, representing the traditional moral voice of the empire, argued explicitly against the monopoly and named both its economic and its political-pharmacological dimensions.
 
-> "The profit from salt should flow to the people who live by the sea and the lakes, not be drained away to the central treasury. To monopolize salt is to tax the kitchen of every household in the realm."\
-> — paraphrase of the Literati's argument in the *Yantielun*
+The Literati's argument in the *Yantielun* can be summarized without false quotation: salt profits should remain with the people who live by the sea and lakes rather than being drained to the central treasury; to monopolize salt is to tax the kitchen of every household in the realm.
 
 The argument lost. The imperial officials who maintained the monopoly did so on the grounds the Literati had already identified — that monopoly revenue funded the expansion of the state — but what the Discourses does not quite say, though the shape of the argument implies it, is that the monopoly funded the *expansion* of the state because it simultaneously produced the *docility* of the taxed. The Chinese salt monopoly persisted, with periods of interruption, for nearly two thousand years. When the monopoly revenue was strong, the state could project its power outward; when the monopoly collapsed (as it did at the end of most dynasties), the state's capacity to extract revenue *and* the state's capacity to govern its population both collapsed at once. This is the signature of the two-mechanism pattern: the same apparatus that produced the revenue produced the population.
 
-Later Chinese medical writers — Sun Simiao in the Tang, Zhu Danxi in the Yuan — observed clinically what the Han officials were doing politically. Zhu Danxi wrote:
-
-> "The ancients did not eat salt heavily; their bones were strong and their years long. The people of today eat salt to excess, and the signs of early aging appear in the prime of life."\
-> — paraphrase of Zhu Danxi, *Danxi xinfa* 丹溪心法
+Later Chinese medical writers — Sun Simiao in the Tang, Zhu Danxi in the Yuan — observed clinically what the Han officials were doing politically. Zhu Danxi's *Danxi xinfa* is retained here as paraphrase pending exact-text verification: the ancients ate little salt and remained strong; the people of later times ate salt to excess and showed the signs of early aging.
 
 The clinical observation and the political arrangement were two faces of the same fact. The population was eating more salt than its ancestors had eaten; its bodies were showing the effects; and the state was the beneficiary of the economic transaction that was producing the ageing bodies. The salt monopoly was, in effect, a geriatric tax — extracted from a population that the monopoly itself was prematurely ageing.
 

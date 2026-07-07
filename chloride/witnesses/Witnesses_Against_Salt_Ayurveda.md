@@ -23,14 +23,9 @@ The fuller doctrinal form extends the list: aggravation of blood (*rakta-kopa*),
 
 ### On lifeless matter as obscuration
 
-The deeper metaphysical principle that underwrites the warning appears elsewhere in Caraka.
+The deeper metaphysical principle that underwrites the warning is doctrinal rather than pinned here to a verified verse. Earlier drafts used the Sanskrit-style line *mṛttikā-loha-bhakṣaṇaṃ tamo-nimittam* as a proverbial formulation after Caraka: eating earth and metal belongs to tamas, the guṇa (quality) of inertia and obscuration. Until a source note pins the exact wording, the line should be read as paraphrase, not quotation.
 
-> **mṛttikā-loha-bhakṣaṇaṃ tamo-nimittam ||**
->
-> "The eating of earth and metal arises from tamas — from inertia and the obscuration of intelligence."\
-> — proverbial formulation, after *Caraka Saṃhitā*
-
-Inorganic matter (mineral, stone, ash) is *jaḍa*: lifeless, unable to feed a living field. The body responds to it by irritation, forced elimination, or pathological deposition. Chloride of sodium is the paradigmatic case: an inorganic mineral delivered concentrated into plasma, bypassing the living matrices through which minerals are ordinarily made compatible with life. The ingestion of such matter is, for Caraka, a *tamasic* act — rooted in obscuration, producing obscuration.
+Inorganic matter (mineral, stone, ash) is *jaḍa*: lifeless, unable to feed a living field. The body responds to it by irritation, forced elimination, or pathological deposition. Chloride of sodium is the paradigmatic case: an inorganic mineral delivered concentrated into plasma, bypassing the living matrices through which minerals are ordinarily made compatible with life. Such ingestion is *tamasic* in the plain clinical sense: rooted in obscuration, producing obscuration.
 
 ### On the single sāttvic axis of the six tastes
 

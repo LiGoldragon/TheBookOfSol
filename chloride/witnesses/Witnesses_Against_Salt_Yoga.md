@@ -12,7 +12,7 @@ The three foundational haṭha texts each record the rule in its own formulation
 
 Svātmārāma's *Haṭha Yoga Pradīpikā* (c. 15th century) gives the single most-cited yogic list of unwholesome foods.
 
-> **kaṭvamla-tīkṣṇa-lavaṇoṣṇa-harita-śāka-sauvīra-taila-tila-sarṣapa-madya-matsyān |**
+> **kaṭvamla-tīkṣṇa-lavaṇoṣṇa-harita-śāka-sauvīra-taila-tila-sarṣapa-madya-matsyān |**\
 > **ajādi-māṃsa-dadhi-takra-kulattha-kola-piṇyāka-hiṅgu-laśunādyam apathyam āhuḥ ||**
 >
 > "The pungent, the sour, the sharp, the salty, the hot, green vegetables, sour gruel, oil, sesame, mustard, alcohol, fish, goat and other flesh, curds, buttermilk, horse-gram, jujube, oil-cake, asafoetida, garlic and the like — these they call unwholesome."\
@@ -37,7 +37,7 @@ The Pradīpikā gives the mirror image five verses later:
 The *Gheraṇḍa Saṃhitā* (c. 17th century), a seven-limb haṭha manual, repeats the same prohibition with an expanded list of specific foods.
 
 > "Food that is pungent, sour, salty, bitter, or parched; curd, buttermilk, an excess of leafy greens, alcohol, palm nut, jackfruit, horse gram, masur and white beans, white pumpkin, the stalks of leafy greens, bottle gourd, jujube, elephant apple, thorny bel, dhak, kadamba, lemon, bimba, breadfruit, garlic, lotus stalk, wild turmeric, chironji, asafetida, the fruit of the silk-cotton tree, and taro root: these should be avoided by the yogi at the beginning of his Yoga practice, together with traveling, the company of women, and the use of fire."\
-> — *Gheraṇḍa Saṃhitā* 5.21, trans. James Mallinson
+> — *Gheraṇḍa Saṃhitā* 5.21–22, trans. James Mallinson
 
 The verse opens with exactly the same four Sanskrit compounds as the Pradīpikā: *kaṭu, amla, lavaṇa, tikta*. The organizing principle is identical. Every subsequent food named is a specific instance. The preparatory discipline begins with the removal of the four tastes; salt is one of them, with no moderation-clause attached.
 
