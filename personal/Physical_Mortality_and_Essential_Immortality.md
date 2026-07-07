@@ -16,7 +16,7 @@ banner_image: generated-images/physical-mortality-and-essential-immortality-bann
 > — *Corpus Hermeticum* XI.15
 
 > "Life is a fleeting event in the eternal flow of energy. Death is what gives it meaning."\
-> — don Melchor, in Armando Torres, *The Secret of the Plumed Serpent*
+> — don Melchor, as reported by Armando Torres, *The Secret of the Plumed Serpent*
 
 ## The doctrine
 
@@ -78,7 +78,7 @@ The don-Juan line says the same thing with an image. Awareness is a ceaseless sw
 Armando Torres transmits Castaneda's workshop formulation:
 
 > "We are all going to die, and there is no other way. It's only a question of time, so you are already dead: what more is there for you to lose? If we look at things that way, the world is our oyster."\
-> — don Melchor, in Torres, *The Secret of the Plumed Serpent*
+> — don Melchor, as reported by Armando Torres, *The Secret of the Plumed Serpent*
 
 > "Nobody needs you out there. None of us is so important that it justifies inventing something as fantastic as immortality. A humble sorcerer knows that his destiny is the same as that of any other living being on Earth."\
 > — Carlos Castaneda, in Torres, *Encounters with the Nagual*
@@ -155,7 +155,7 @@ The Vedic name for it is *ātman* (the innermost self, distinct from body and mi
 The same teaching passes through the *Bhagavad Gītā* in a single famous verse:
 
 > "The soul is neither born, nor does it ever die; nor having once existed, does it ever cease to be. The soul is without birth, eternal, immortal, and ageless. It is not destroyed when the body is destroyed."\
-> — *Bhagavad Gītā* 2.20
+> — *Bhagavad Gītā* 2.20, plain English rendering
 
 The Hermetic name for it is *nous* — mind, the gift of the father that was dispensed from above into a great mixing bowl and let down to earth as a prize for souls willing to dip. *C.H.* IV is the discourse of the krater.
 
