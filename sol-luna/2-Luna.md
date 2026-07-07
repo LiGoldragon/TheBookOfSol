@@ -47,7 +47,7 @@ The face Luna turns toward us is the earthward hemisphere, the house of Persepho
 
 ## She is the measure
 
-*Sēma brotoîs kaì tékmōr tétuktai*, "a sure token and a sign to mortal men" (*Homeric Hymn* 32.13). *The Moon is that which shapes the years* (*Ṛgveda* 10.85.5). Every primary source converges on this further property: Luna is the measure.
+*Sēma brotoîs kaì tékmōr tétuktai*, "a sure token and a sign to mortal men" (*Homeric Hymn* 32.13). *The Moon is that which shapes the years* (*Ṛgveda* 10.85.5). Every primary source audited in this pass converges on this further property: Luna is the measure.
 
 Menstruation, pregnancy, lactation, the fortnightly fortunes, the thirteen lunations of the year, the month itself: these are her jurisdiction. She gives the interval by which one counts.
 

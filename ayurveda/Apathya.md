@@ -93,7 +93,7 @@ Vāgbhaṭa, the medical synthesizer, gives the same standard in clinical terms:
 > "Food taken warm, unctuous, in proper measure,\
 > and not during indigestion,\
 > kindles agni and nourishes strength."\
-> — *Aṣṭāṅga Hṛdaya*, Sūtrasthāna 8
+> — *Aṣṭāṅga Hṛdaya*, Sūtrasthāna 8 (source extract; verse number unresolved)
 
 Warm, unctuous, measured. Eaten when the previous meal has fully digested. These four adjectives — plus Svātmārāma's *madhura* — define the positive register. The classical plate is rich in ghee, milk, and cooked grain — restrained, warm, and few in its ingredients.
 
@@ -154,7 +154,7 @@ The fuller passage lists heart-disease, skin disease, premature ageing, internal
 > greying of the hair, baldness, thirst,\
 > skin diseases, the action of poisons, herpes,\
 > and the diminution of bodily strength."\
-> — *Aṣṭāṅga Hṛdaya*, Sūtrasthāna 10.12–13
+> — *Aṣṭāṅga Hṛdaya*, Sūtrasthāna 10.13–14ab
 
 This is the Indo-Aryan diet-doctrine in short. The plate that keeps you *svastha* is *snigdha-madhura* and *mita* — unctuous, sweet, measured. The plate that takes you off the path is *kaṭu-amla-tīkṣṇa-lavaṇa-uṣṇa* — pungent, sour, sharp, salty, hot — plus raw greens, plus a list of specific substances.
 
@@ -211,13 +211,13 @@ Caraka states the principle in a single verse on the eating of earth and metal:
 >
 > "The eating of earth and metal arises from *tamas* —\
 > from inertia and the obscuration of intelligence."\
-> — proverbial formulation, after *Caraka Saṃhitā*
+> — proverbial formulation, after *Caraka Saṃhitā*; no numbered verse verified in the current source trail
 
 *Tamas* is the third of the three qualities (*triguṇa*) in classical Indian thought — the quality of inertia, darkness, the failure of discrimination. Caraka's verse places the ingestion of inorganic mineral squarely in *tamas*: an act rooted in obscuration, a breakdown of the intelligence that would otherwise distinguish food from non-food.
 
 Every dietary salt sold today falls under this verse. The pink crystal mined from Pakistan, the grey crystal raked from Brittany, the white crystal extracted from seawater and refined in Germany — all of them are crystallized chloride of sodium, concentrated inorganic mineral, delivered in a form the body cannot assimilate through any living matrix. The body responds to all of them the same way: by irritation. Thirst. Elevated blood pressure. Disturbed kidney function. Progressive vascular stiffening. The sensations salt produces — heightened appetite, transient alertness, a sense of being "charged up" — are *defensive reactions to the irritation of inorganic material in the plasma*, misread as nourishment.
 
-The project's linguistic position on this compound, developed in the companion article *Chloridism*, is that the Romance-language naming — *chlorure de sodium*, *cloruro di sodio*, "chloride of sodium" — is more accurate than the English "sodium chloride," because the active toxic principle is the chloride anion, not the sodium cation. The full toxicological case is given in [The Chloride Indictment](../chloride/The_Chloride_Indictment.md). The Ayurvedic record in full is in *Witnesses Against Salt — Āyurveda*.
+The project's linguistic position on this compound, developed in the companion article *Chloridism*, is that the Romance-language naming — *chlorure de sodium*, *cloruro di sodio*, "chloride of sodium" — is more accurate than the usual English reversal, because the active toxic principle is the chloride anion, not the sodium cation. The full toxicological case is given in [The Chloride Indictment](../chloride/The_Chloride_Indictment.md). The Ayurvedic record in full is in *Witnesses Against Salt — Āyurveda*.
 
 ### The practical upshot
 
@@ -279,7 +279,7 @@ Laid out as a summary table, the mapping is mechanical.
 | Lime juice (twice) | *Amla* excess | Caraka Sū. 26.43(2); HYP 1.59 |
 | Turmeric / coriander / cumin, daily | *Auṣadha* served as *āhāra* | Caraka Sū. 1.126 |
 | Ghee or coconut oil | *Taila* substituted for *ghṛta* | Caraka Sū. 27.231–234; HYP 1.59 |
-| Salt to taste | *Jaḍa* — inorganic poison, same group as lead | Caraka *mṛttikā-loha*; AH 6.147 |
+| Salt to taste | *Jaḍa* — inorganic matter; salts grouped with lead in the mineral-salt class | Caraka *mṛttikā-loha* formulation, unnumbered; AH 6.147 |
 | Cilantro garnish | *Harita-śāka apathya* | HYP 1.59 |
 
 Of eleven inputs, one (*mudga*) is unconditionally admitted by the classical texts. The remaining ten each violate the corpus on one or more axes. The plate is a comprehensive inversion of the classical meal — an assembly of its prohibitions rather than its practices.
@@ -307,4 +307,4 @@ The two most serious occupants of the category, for the modern recipe under disc
 
 The restoration required comes down to two adjectives and one verb: *snigdha-madhura*, *mita*. Unctuous, sweet, measured. Rice with ghee. Mung with ghee. Rice with milk. Warm, cooked through, few ingredients, eaten attentively. This is what the tradition calls food. The modern "Ayurvedic" recipe, as currently written, is *apathya* — and the classical texts have said so in their own words for two thousand years.
 
-The primary-source extracts used in this essay — with full Sanskrit, English translation, and chapter-and-verse citation for each passage — are collected in the *Apathya* and *Mitāhāra* primary-source extracts.
+The primary-source extracts used in this essay — with Sanskrit, English translation, and chapter-and-verse citation where the local source trail preserves them — are collected in [*Apathya and Mitāhāra*](../source-extracts/Apathya.md).

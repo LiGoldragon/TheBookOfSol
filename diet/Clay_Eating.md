@@ -4,10 +4,8 @@
 
 A contemporary trend encourages the ingestion of clay as if earth were a forgotten ancestral nutrient. Āyurveda rejects this entirely. The ancient physicians read the craving for earth as a sign of imbalance, depletion, and tamas (the guṇa of inertia and dullness).
 
-> **mṛttikā-bhakṣaṇam ca apy apāthyaṃ … rasānāṃ mārgān pidhāyati, vāyum uparuddhaṃ karoti**\
->
-> "Clay-eating is unwholesome. It obstructs the pathways of the vital fluids and causes the obstruction of vāyu."\
-> — proverbial formulation, after *Caraka Saṃhitā*
+> "Clay-eating is unwholesome; it obstructs the pathways of the vital fluids and impedes *vāyu*."\
+> — provisional working formulation after the Āyurvedic diagnostic tradition; exact *Caraka Saṃhitā* locus unresolved
 
 Clay feels "grounding" only because it is heavy and obstructive. This heaviness is mistaken for stability, creating a temporary numbing of an already depleted organism. Āyurveda interprets such cravings not as instinct but as pathology.
 
@@ -15,33 +13,25 @@ Clay feels "grounding" only because it is heavy and obstructive. This heaviness 
 
 ### Disturbance of the mind
 
-> **mṛttikā-loha-bhakṣaṇaṃ tamaḥ-nimittam**\
->
-> "Eating earth or metal arises from tamas."\
-> — proverbial formulation, after *Caraka Saṃhitā*
+> "Eating earth or metal belongs to a tamasic disturbance."\
+> — provisional working formulation; exact classical locus unresolved
 
 This describes a state of psychic dimming: the organism seeks density and dullness when its inner orientation collapses. Modern wellness culture wrongly interprets this impulse as intuition; Āyurveda identifies it as disturbance.
 
 ### Physiological obstruction
 
-> **sthāvarāṇāṃ guṇā guravaḥ rūkṣāś ca … rasānāṃ saṃrodhaṃ kurvanti**\
->
-> "The qualities of immobile substances are heaviness and dryness; they obstruct the pathways of nutritive fluids."\
-> — proverbial formulation, after *Caraka Saṃhitā*
+> "Heavy, dry, static substances obstruct the movement of the nutritive fluids."\
+> — doctrinal paraphrase from the *guru/rūkṣa* and channel-obstruction vocabulary; exact source locus unresolved
 
 Earth substances are heavy, dry, and static. Ingestion produces blockage, aggravates vāta, suppresses vitality, and dries the tissues.
 
-> **mṛttikā-adhi-bhakṣaṇena śleṣmāṇaṃ codayet … tasya pāṇḍutā gauravaṃ śvāsaḥ**\
->
-> "By eating earth, kapha is provoked… resulting in pallor, heaviness, and difficulty breathing."\
-> — proverbial formulation, after *Caraka Saṃhitā*
+> "Earth-eating is treated here as a kapha-provoking and obstructive act, marked by pallor, heaviness, and impeded breath."\
+> — provisional clinical paraphrase; exact *Caraka Saṃhitā* wording unresolved
 
 Āyurvedic materia medica states the boundary unequivocally:
 
-> **mṛttikā śītalā stambhanī lepa-karmaṇi praśastā**\
->
-> "Clay is cooling and stabilizing, suitable for external applications."\
-> — proverbial formulation, after *Caraka Saṃhitā*
+> "Clay belongs safely to external application when its cooling and stabilizing qualities are wanted."\
+> — materia-medica paraphrase; exact textual locus unresolved
 
 ## What the craving for clay signals
 
@@ -74,10 +64,8 @@ None of these are relieved by ingesting earth.
 
 Clay immobilizes, dulls, and obstructs. Life moves, brightens, and opens.
 
-> **mṛttikā-bhakṣaṇaṃ apāthyaṃ aśuci doṣa-kārakam ojas-hāri ca**\
->
-> "Clay-eating is unwholesome, impure, doṣa-aggravating, and depleting to ojas."\
-> — proverbial formulation, after *Caraka Saṃhitā*
+> "Clay-eating is unwholesome, impure, doṣa-aggravating, and depleting to *ojas*."\
+> — provisional working formulation; exact classical locus unresolved
 
 The body never asks for earth—it asks for stability. Stability does not come from swallowing heaviness. It comes from restoring ojas, calming vāta, nourishing the subtle tissues, and returning the organism to lightness and coherence.
 

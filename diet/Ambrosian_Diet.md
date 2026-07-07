@@ -39,7 +39,7 @@ The Caraka Saṃhitā confirms:
 > **yavāgūḥ sarva-rogeṣu pathyā.**
 >
 > "Grain gruel is wholesome in all conditions."\
-> — proverbial formulation, after *Caraka Saṃhitā* Cikitsāsthāna (Rasāyana-pāda)
+> — proverbial formulation, after *Caraka Saṃhitā* Cikitsāsthāna (Rasāyana-pāda); no numbered verse verified in the current source trail
 
 The Haṭha Yoga tradition inherits this understanding without rearguing it. A proverbial yogic maxim states it directly:
 
@@ -73,7 +73,7 @@ And further:
 > **saṃskārasyānuvarteran guṇānāṃ ghṛtam uttamam.**
 >
 > "Ghee is supreme because it takes on the qualities of what it is prepared with."\
-> — *Caraka Saṃhitā*
+> — proverbial formulation, after *Caraka Saṃhitā* Sūtrasthāna 27
 
 Ghee is the lunar pillar of nourishment. It descends. It binds. It coats. It builds ojas, the quiet, stable, unctuous reserve that holds the organism together between clearings. Without ghee, the solar force has nothing to refine into. Clearing without binding is dissolution.
 
@@ -84,7 +84,7 @@ Ghee protects ojas. The Caraka Saṃhitā identifies ojas with vitality itself:
 > **ojas tu nāma śukrānte saṃbhavaḥ sarvadehinām; tasmin vinaṣṭe vinaśyanti sarve prāṇinaḥ.**
 >
 > "Ojas arises as the culmination of nourishment in all beings; if it is destroyed, all living beings perish."\
-> — *Caraka Saṃhitā*, Sūtrasthāna 30
+> — proverbial formulation, after *Caraka Saṃhitā*, Sūtrasthāna 30
 
 Nothing in diet is more important than protecting ojas. Ghee is how ojas is protected. It is the lunar amṛta, the nectar that builds, shelters, and sustains.
 
@@ -137,9 +137,9 @@ The Ambrosian Diet excludes what the classical texts exclude, by function rather
 
 **Flesh** is excluded because it is heavy, obstructive, and tamasic. The Caraka tradition classifies it as *guru* and *picchila* — heavy and clogging. It suppresses prāṇa, dulls tejas, and burdens agni with slow, sulphurous residue.
 
-**Alcohol** is excluded because it is the lunar shadow, the substance that dissolves what ghee binds, scatters what ojas gathers, and produces a counterfeit warmth that leaves the organism colder than before. The Caraka Saṃhitā states without hesitation: *madyaṃ viṣa-samānam*, alcohol is comparable to poison.
+**Alcohol** is excluded because it is the lunar shadow, the substance that dissolves what ghee binds, scatters what ojas gathers, and produces a counterfeit warmth that leaves the organism colder than before. The current source trail treats *madyaṃ viṣa-samānam* — alcohol is comparable to poison — as a proverbial Caraka formulation rather than a verified numbered quotation.
 
-**Clay, inorganic minerals, and earth substances** are excluded because they are jaḍa — lifeless, biologically foreign, incompatible with living tissue. The Caraka Saṃhitā identifies earth-eating as tamasic: *mṛttikā-loha-bhakṣaṇaṃ tamaḥ-nimittam*.
+**Clay, inorganic minerals, and earth substances** are excluded because they are jaḍa — lifeless, biologically foreign, incompatible with living tissue. The current source trail treats *mṛttikā-loha-bhakṣaṇaṃ tamaḥ-nimittam* as a proverbial Caraka formulation rather than a verified numbered quotation.
 
 **Stimulants** such as coffee are excluded because they simulate tejas without producing it — a borrowed fire that leaves agni weaker after each use.
 

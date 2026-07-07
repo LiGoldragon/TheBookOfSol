@@ -14,7 +14,7 @@ The assumption behind the deflection is that the classical texts describe a loca
 
 There was a prior civilization. Its sciences were universal.
 
-The oldest memories of humanity converge on the same starting point: long-lived, powerful, deeply knowledgeable ancestors whose understanding of physiology, purity, and the subtle energies of the body made longevity natural. India remembered. Egypt remembered. The Toltec seers remembered. Genesis records lifespans of nine hundred years without embarrassment. The Atharva-veda asks to "obtain the long life that our ancestors attained." The Ṛg-veda describes sages who "found the hidden light" and "set it down in the hidden place."
+The oldest memories of humanity converge on the same starting point: long-lived, powerful, deeply knowledgeable ancestors whose understanding of physiology, purity, and the subtle energies of the body made longevity natural. India remembered. Egypt remembered. The Toltec seers remembered. Genesis records lifespans of nine hundred years without embarrassment. Vedic hymns preserve the same long-life petitions and hidden-light imagery, though the exact verse trail for those supporting lines still belongs to a broader source audit.
 
 After the collapse of that age, recorded as flood, fire, and upheaval across every surviving tradition, the knowledge scattered. It survived in fragments, carried by lineages that fled to wherever geography offered protection from the chaos that followed. India preserved the largest written corpus because the Himalayas, the greatest mountain range on earth, shielded its guardians from the waves of destruction, invasion, and cultural erasure that consumed knowledge-keepers elsewhere. Egypt preserved its fragment in stone and priesthood. The Toltecs preserved theirs in oral lineage and direct practice. Each carried a piece of the same original science.
 
@@ -36,7 +36,7 @@ Initial clearing — lightness, sharpness, relief from accumulated burden. The b
 
 Then dispersion — internal fluids thin, ojas depletes, vāta rises. Anxiety, insomnia, cold extremities, constipation, drying of the colon, racing thoughts. The organism, having expelled its burdens, begins to consume its own reserves. This phase is also real, also universal, and occurs whether the fruit was grown in Maharashtra, Costa Rica, or the Philippines.
 
-The pattern recurs wherever the diet is pushed. Ashton Kutcher reported a pancreatic scare in Los Angeles after weeks of a fruit-heavy regimen for a film role. A man in Europe ate primarily apples for two years and watched his clarity dissolve. None of them were eating Indian fruit, and all of them met the same depletion, because the depletion follows from fruit itself, wherever it grew.
+The pattern recurs wherever the diet is pushed. Ashton Kutcher reported a pancreatic scare in Los Angeles after weeks of a fruit-heavy regimen for a film role; that is a self-report, not a clinical study, but it is citable as his own account. The previously repeated image of a European man living for years on apples remains unlocated in this pass and should not carry evidentiary weight. The clinical record does not need it: the depletion follows from fruit itself, wherever it grew.
 
 ### The Deflection Exposed
 

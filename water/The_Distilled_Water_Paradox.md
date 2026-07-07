@@ -95,12 +95,7 @@ Calling a rock a tool does not change what it is.\
 Calling earth a medicine does not change what it does.\
 Calling a cleanse a protocol does not change what enters the body.
 
-Only matter that has passed through *living* transformation — plant chelation within a living plant, metabolic refinement within a living organism — enters the pathways of genuine assimilation. This is the standard the Upaniṣadic tradition expresses:
-
-> **yad bhūtaṃ jāyate jīvena**
->
-> "That which has passed through life becomes fit to sustain life."\
-> — proverbial formulation, after the *Bṛhadāraṇyaka Upaniṣad*
+Only matter that has passed through *living* transformation — plant chelation within a living plant, metabolic refinement within a living organism — enters the pathways of genuine assimilation. This is the standard the Upaniṣadic register points toward when it distinguishes living breath, food, and self from inert matter, but the compact formula often used here — "only what has passed through life sustains life" — is a project formulation, not a located verse quotation.
 
 Ghee passes this test. Amarolī (the recycling of the body's own released fluid) passes this test. Coconut water passes this test. Living fruits pass this test.
 

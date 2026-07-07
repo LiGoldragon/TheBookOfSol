@@ -90,7 +90,7 @@ The single water Vāgbhaṭa names *amṛtopama* — like the deathless nectar �
 > Whether it does good or harm depends further on place and season."\
 > — *Aṣṭāṅga Hṛdaya* Sūtrasthāna 5.1–2
 
-Rain water resembles rasa because rain has not yet picked up the load of the earth. Distilled water is the engineering equivalent. Every other water arrives loaded, and the body has to clear that load before any of the water can be put to use. [The Distilled Water Paradox](./The_Distilled_Water_Paradox.md) names the higher rule that governs all of this: *yad bhūtam jāyate jīvenā* — only what has passed through life sustains life. Rasa has passed through *agni*; rain has passed through sun, moon, and wind; distilled water has passed through fire and condensation. Tap water and mineral water have passed through stone.
+Rain water resembles rasa because rain has not yet picked up the load of the earth. Distilled water is the engineering equivalent. Every other water arrives loaded, and the body has to clear that load before any of the water can be put to use. [The Distilled Water Paradox](./The_Distilled_Water_Paradox.md) names the working rule without treating it as a located Upaniṣadic verse: only what has passed through life sustains life. Rasa has passed through *agni*; rain has passed through sun, moon, and wind; distilled water has passed through fire and condensation. Tap water and mineral water have passed through stone.
 
 ## What the Ambrosian Diet Builds
 

@@ -2,7 +2,7 @@
 title: All Instruments Measure a Level Earth
 subtitle: On the Datum Line of Every Survey
 kind: article
-publish: true
+publish: false
 ---
 
 # All Instruments Measure a Level Earth
