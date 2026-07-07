@@ -1,13 +1,13 @@
 # Sol
 
 > "Looking upon the loftier light above the darkness we have come to Sūrya, God among the Gods, the light that is most excellent."\
-> — *Ṛgveda* 1.50.10
+> — *Ṛgveda* 1.50.10, trans. Griffith
 
 > "As he rides in his chariot, he shines upon men and deathless gods, and piercingly he gazes with his eyes from his golden helmet. Bright rays beam dazzlingly from him."\
-> — *Homeric Hymn* 31.9–11
+> — *Homeric Hymn* 31.8–11, trans. Evelyn-White
 
 > "The soul is neither born, nor does it ever die; nor having once existed, does it ever cease to be. The soul is without birth, eternal, immortal, and ageless. It is not destroyed when the body is destroyed."\
-> — *Bhagavad Gītā* 2.20
+> — *Bhagavad Gītā* 2.20, working English rendering; source edition not yet recorded
 
 ## Yang
 

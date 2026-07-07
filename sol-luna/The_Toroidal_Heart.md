@@ -18,17 +18,17 @@ The world is a torus. The level earth-disk lies within it. The north pole is at 
 > *ekaṃ sad viprā bahudhā vadanti.*
 >
 > "Truth is one; the sages call it by many names."\
-> — *Ṛgveda* 1.164.46
+> — *Ṛgveda* 1.164.46, working English rendering; source edition not yet recorded
 
 ## The Field
 
 The torus is the natural shape of any self-organizing field. Plasma confines itself into a doughnut. The heart's magnetic field draws a torus around the chest. The Earth's magnetosphere flares out from the poles and folds back across the equator. The cosmos in which the body is embedded is one such field, set in continuous circulation around a stable center.
 
 > "He fixed the earth firm, and set the sky in motion."\
-> — *Ṛgveda* 10.149.1
+> — *Ṛgveda* 10.149.1, working paraphrase; source edition not yet recorded
 
 > "This Earth is the bearer; all beings rest upon her. Upon her the paths of the Sun are laid."\
-> — *Atharva Veda* 12.1.1; 12.1.12
+> — *Atharva Veda* 12.1.1; 12.1.12, working paraphrase; source edition not yet recorded
 
 The body stands on the level disk. From wherever it stands, the direction north is the direction toward the disk's center, and south the direction toward its periphery. The toroidal field rises around the central axis above the north pole and folds back through the outer skin out beyond the southern fringe. The inner ring is the core where the field gathers; the outer ring is the skin where it spreads. The whole field is one surface, breathing.
 
@@ -36,7 +36,7 @@ The body stands on the level disk. From wherever it stands, the direction north 
 > *kosmon tonde, ton auton hapantōn, oute tis theōn oute anthrōpōn epoiēsen, all' ēn aei kai estin kai estai pyr aeizōon, haptomenon metra kai aposbennymenon metra.*
 >
 > "This world-order, the same for all, no god or man made; it ever was and is and will be: an everliving fire, kindling in measures and going out in measures."\
-> — Heraclitus, fragment DK B30
+> — Heraclitus, fragment DK B30, standard Diels-Kranz locus; translator not yet recorded
 
 Measure is the key word. The fire that kindles and goes out is a fire that takes turns with itself: the in-breath toward the core, the out-breath across the skin. The cosmos is the bellows.
 
@@ -49,7 +49,7 @@ The main current flows from above-center to below-center: down the central axis 
 This asymmetry is what the seasonal year carries on its back. The sun's annual circle of motion above the disk contracts in summer and expands in winter. In summer the sun draws inward toward the central axis, and the days lengthen; in winter it sweeps outward toward the southern fringe, and the days shorten. At summer solstice the sun rides its innermost ring, the Tropic of Cancer; at winter solstice its outermost, the Tropic of Capricorn.
 
 > "From the equinox the Sun proceeds northward; when he reaches the extreme of that northern course and turns back, that place is Cancer. From the equinox he proceeds southward; when he reaches the extreme of that southern course and turns back, that place is Capricorn."\
-> — *Sūrya Siddhānta* I.12–13
+> — *Sūrya Siddhānta* I.12–13, working paraphrase; source extraction still needed
 
 The turning points are not arbitrary. They are the moments when the sun's radial motion inverts. Cancer is the inner door, where the sun stops drawing closer to the axis and turns back out. Capricorn is the outer door, where the sun stops drawing away and turns back in. The two cardinal axes — equinoctial belt and solstitial axis — divide the toroidal field into four quadrants and the year into four seasons.
 
@@ -61,14 +61,14 @@ The Sun and the Moon are the field's two driving Lights. Their natures are given
 > *candramā manaso jātaś cakṣoḥ sūryo ajāyata.*
 >
 > "From his mind the Moon was born; from his eye, the Sun."\
-> — *Ṛgveda* 10.90.13
+> — *Ṛgveda* 10.90.13, trans. Griffith, adapted to the shorter half-verse
 
 The eye looks outward. The mind turns inward. The Sun is the Light by which we see what is outside — radiant, public, manifest. The Moon is the Light by which we know what is inside — reflective, hidden, gathered. The two natures incline in opposite directions, but neither Light is fixed to one hemisphere. Both move through the toroidal field. Their dominance is decided by where each Light stands, not by what it is.
 
 Plutarch, writing on the face in the moon, gave the geometry its earliest doctrinal name:
 
 > "The half of the moon that faces heaven is the Elysian plain; the half that faces earth is the house of counter-earth Persephone."\
-> — Plutarch, *De facie quae in orbe lunae apparet* 944C
+> — Plutarch, *De facie quae in orbe lunae apparet* 944C, trans. Cherniss, adapted
 
 The Moon, in her two-facedness, witnesses the duality of the field directly — one face turned toward the heavens, the other toward the disk. The Bhagavad Gītā names the two Lights together as one luminosity:
 
@@ -78,7 +78,7 @@ The Moon, in her two-facedness, witnesses the duality of the field directly — 
 > *yac candramasi yac cāgnau tat tejo viddhi māmakam ||*
 >
 > "That light which, residing in the sun, illumines the whole world, that which is in the moon and that which is in fire — that light know to be mine."\
-> — *Bhagavad Gītā* 15.12
+> — *Bhagavad Gītā* 15.12, working English rendering; source edition not yet recorded
 
 One light, two Lights. Form differentiates; substance unifies. The Sun and the Moon are two phases of one luminosity, weaving through the field.
 
@@ -133,14 +133,14 @@ The cardinal cross marks the four hinges. The fixed signs name the embodied phas
 > *hodos anō katō mia kai hōutē.*
 >
 > "The way up and the way down are one and the same."\
-> — Heraclitus, fragment DK B60
+> — Heraclitus, fragment DK B60, standard Diels-Kranz locus; translator not yet recorded
 
 The descent through the skin and the return through the core are one motion. The torus closes back on itself. The arc is a circuit.
 
 ## The Twelve Phases
 
 > "That wheel with twelve spokes revolves around the sky of *ṛta*."\
-> — *Ṛgveda* 1.164.12
+> — *Ṛgveda* 1.164.12, working paraphrase; source edition not yet recorded
 
 The twelve signs articulate the toroidal flow. Each is a measure-formula in the language of physics and a phase of becoming in the language of life — twelve cross-sections of one closed motion. Each names a moment at which the Day-force or the Night-force is locally most expressed, in a specific quality and a specific phase.
 
@@ -157,10 +157,7 @@ The cell is a torus. The body is a torus. The world the body inhabits — the le
 
 Astrology is the science of the nested tori. The natal chart locates an individual body's core-and-skin within the world's core-and-skin within the solar system's core-and-skin — three scales pulsing in resonance, three Two-Lights breathing the same Day-force and Night-force at three scales at once. To read a chart is to feel one's location in the nested breath.
 
-> "The light that resides in the sun and that illumines the whole world, the light that is in the moon and in fire — know that light to be mine."\
-> — *Bhagavad Gītā* 15.12
-
-The light is one. The scales are many. The breath at every scale is the same breath.
+The *Bhagavad Gītā* witness above names the same light in sun, moon, and fire. The light is one. The scales are many. The breath at every scale is the same breath.
 
 ## The Practical Attitude
 
@@ -183,6 +180,6 @@ The chart is a symbol; the body is the witness; the field is the source.
 The world is a torus. The core dominates the skin because the core is dense and the skin is diffuse. The two Lights move through both hemispheres; whichever is more north dominates. Between Rāhu and Ketu the Moon stands more north and rules; between Ketu and Rāhu the Sun stands more north and rules. The wheel turns with twelve spokes around the sky of *ṛta* (the cosmic order). The field breathes systole and diastole. The body, standing on the level earth, breathes with it.
 
 > "The Sun is the soul of all that moves and all that rests."\
-> — *Ṛgveda* 1.115.1
+> — *Ṛgveda* 1.115.1, working paraphrase; source edition not yet recorded
 
 The field is one. The Lights are two. The breath is one. The body is at home.
