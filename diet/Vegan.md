@@ -21,7 +21,7 @@ Anything **not of vegetal origin** fails the test immediately.
 
 ## 3. Why Chloride of Sodium Cannot Be Vegan
 
-Chloride of sodium (NaCl) fails on first principles:
+Chloride of sodium fails on first principles:
 
 - It is **mined, inorganic, crystalline** — not a product of plant life.
 - It does **not** build living tissue; it **irritates**, **desiccates**, and **hardens**.
@@ -31,25 +31,20 @@ Chloride of sodium (NaCl) fails on first principles:
 
 ### A. Vitalistic Warnings
 
-Hilton Hotema, *Man's Higher Consciousness* (1961), wrote:
-
-- "**Earthy salts cause old age**."
-- **Table salt** is poison masquerading as food.
-- Salt **hardens tissues**, **accelerates degeneration**, **shortens life**, and **dulls the senses**.
-- Fruits, with little "earthy matter," are marked as longevity foods.
+Hilton Hotema's longevity writings treat earthy deposits and salt-eating as agents of hardening and degeneration. The exact wording of the often-circulated line "earthy salts cause old age" was not verified in this pass against a stable page image, so it should be read here as a paraphrase of the Hotema current, not as a settled quotation. The source trail still needs a page-level extraction from *Man's Higher Consciousness* or the relevant Hotema salt pamphlet.
 
 ### B. Modern Toxicology
 
 **Human Trials**
 
-- **DASH-Sodium (NEJM 2001):** Lower NaCl → stepwise blood pressure reduction.
-- **TOHP I/II (BMJ 2007):** Long-term NaCl reduction → fewer cardiovascular events.
-- **SSaSS (NEJM 2021):** Replacing part of NaCl with KCl in 600 villages → 14% fewer strokes, 13% fewer major cardiovascular events.
+- **DASH-Sodium (NEJM 2001):** Lower dietary chloride of sodium produced stepwise blood-pressure reduction.
+- **TOHP I/II (BMJ 2007):** Long-term dietary chloride reduction was associated with fewer cardiovascular events.
+- **SSaSS (NEJM 2021):** Replacing part of chloride of sodium with potassium chloride in 600 villages reduced stroke and major cardiovascular events.
 
 **Animal Models & Swap Studies**
 
-- **Dahl salt-sensitive rats (1962):** High-NaCl diet → hypertension, renal injury, shortened lifespan.
-- **Swap experiments:** NaCl causes pathology; bicarbonate/citrate do not.
+- **Dahl salt-sensitive rats (1962):** high chloride-of-sodium diet produced hypertension, renal injury, and shortened lifespan in the susceptible line.
+- **Swap experiments:** chloride of sodium is the injuring salt form in these models; bicarbonate and citrate do not reproduce the same pattern.
 
 **Mechanisms**
 
@@ -59,7 +54,7 @@ Hilton Hotema, *Man's Higher Consciousness* (1961), wrote:
 
 **Populations**
 
-- **Yanomami tribe (Circulation 1975):** Negligible NaCl intake; lifelong low blood pressure; no hypertension.
+- **Yanomami tribe (Circulation 1975):** Negligible chloride-of-sodium intake; lifelong low blood pressure; no hypertension.
 
 ## 5. Language That Closes the Loophole
 
@@ -103,7 +98,7 @@ Words evolve toward truth. As *icon*, *energy*, and *vibe* sank back into their 
 
 **Vitalistic / Historical**
 
-- Hotema, Hilton. *Man's Higher Consciousness.* (1961; Pickle Partners ed. 2015).
+- Hotema, Hilton. *Man's Higher Consciousness.* (first published as *Man's Miraculous Unused Powers*; later editions under the Hotema title). Exact salt wording unresolved pending page-level extraction.
 
 **Human Trials**
 
