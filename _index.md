@@ -14,6 +14,7 @@ Written and compiled by Olivier Francoeur, aka Li Goldragon.
 - [The 108 Solar Divisions](./sol-luna/The_108_Solar_Divisions.md)
 - [The 360 Phases of Sol](./sol-luna/The_360_Phases_of_Sol.md)
 - [The Zodiac](./sol-luna/The_Zodiac.md)
+- [Rudhyar's Zodiac as Process](./sol-luna/Rudhyar_Zodiac_As_Process.md)
 - [Zodiac and Nakṣatras: Grammars of the Sun](./sol-luna/Sidereal.md)
 - [Celestial Name](./sol-luna/Celestial_Name.md)
 - [Line of Sight](./sol-luna/Line_of_Sight.md)
@@ -177,6 +178,9 @@ Dane Rudhyar (1895–1985) — French-American composer, painter, poet, and the 
 - [*An Astrological Study of Psychological Complexes* (1948) — primary-source extract](./source-extracts/Dane_Rudhyar/astrological-study-of-psychological-complexes.md)
 - [*The Astrological Houses* (1972) — primary-source extract](./source-extracts/Dane_Rudhyar/astrological-houses.md)
 - [*The Pulse of Life* (1943) — primary-source extract](./source-extracts/Dane_Rudhyar/pulse-of-life.md)
+- [*A New Approach to the Zodiac* — primary-source extract](./source-extracts/Dane_Rudhyar/new-approach-to-zodiac.md)
+- [*An Astrological Mandala* (1974) — primary-source extract](./source-extracts/Dane_Rudhyar/astrological-mandala.md)
+- [*The Zodiac as the Universal Matrix* — primary-source extract](./source-extracts/Dane_Rudhyar/zodiac-as-universal-matrix.md)
 - [*The Astrology of Transformation* (1980) — primary-source extract](./source-extracts/Dane_Rudhyar/astrology-of-transformation.md)
 
 ## Research
