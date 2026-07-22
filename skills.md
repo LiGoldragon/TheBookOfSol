@@ -53,8 +53,8 @@ For published articles, keep the banner image in the article body as a
 standalone Markdown image block immediately below the H1 and before the
 subtitle/body. This is separate from the cover image metadata. The
 front matter and manifest use repo-relative paths
-(`generated-images/name-banner.png`); the Markdown image uses the path
-relative to the article file (`../generated-images/name-banner.png`
+(`generated-images/name-banner.webp`); the Markdown image uses the path
+relative to the article file (`../generated-images/name-banner.webp`
 for root category directories).
 
 ## Substack CLI
@@ -91,7 +91,10 @@ written as plain prose references before publishing.
 Publishable articles need a corresponding banner image before they
 ship. The convention is:
 
-- location: `generated-images/<article-slug>-banner.png`;
+- location: `generated-images/<article-slug>-banner.webp`;
+- format: high-quality WebP (`-quality 90` or higher; bump toward
+  93-95 or lossless if q90 shows banding in a gradient-heavy image),
+  kept under roughly 1 MB;
 - aspect: very wide, roughly 2.5:1 to 3:1;
 - width: at least 1900 pixels when possible;
 - content: embodies the article's spirit rather than illustrating a
@@ -110,10 +113,11 @@ what appears inside the article after a reader opens it.
 Codex agents with image generation access use this workspace's
 `imagegen` skill for new raster banners. Generate first, then move
 the chosen output into `generated-images/`, resize or crop it to the
-wide banner aspect, and add the watermark locally so the text is
-exact. Claude Code agents that do not have image generation capacity
-record the missing banner as a task for a Codex poet-shaped role
-instead of inventing a placeholder.
+wide banner aspect, add the watermark locally so the text is exact,
+and convert the finished PNG to WebP (removing the PNG so only the
+WebP master remains). Claude Code agents that do not have image
+generation capacity record the missing banner as a task for a Codex
+poet-shaped role instead of inventing a placeholder.
 
 ## Source extracts and research notes
 
