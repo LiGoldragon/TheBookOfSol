@@ -2,12 +2,12 @@
 title: A Court Against Justice
 kind: article
 publish: true
-banner_image: generated-images/a-court-against-justice-banner.webp
+banner_image: generated-images/a-court-against-justice-banner-revised.webp
 ---
 
 # A Court Against Justice
 
-![Balance-scales holding steady over a small home and field, rendered in bright pastel and ink — justice as the protection of what is one's own.](../generated-images/a-court-against-justice-banner.webp)
+![A single column divides one square in two, in pastel and ink: on the sunlit side men and women keep what they make and trade and give it freely; on the shadowed side a magistrate reads a decree from his rostrum while the same goods are carted away and the people stand diminished.](../generated-images/a-court-against-justice-banner-revised.webp)
 
 When God offered Solomon anything he asked, the young king did not ask for the wealth of his people. He asked for *an understanding heart... that I may discern between good and bad* (1 Kings 3:9). And when two women came before him, each claiming one living child, he did not improve the child, or divide it, or hand the loser a consolation. He gave the child to the woman it belonged to, and forbade anyone to harm it. He created nothing and distributed nothing. He discerned whose it was, and returned it. That is the whole of a court's office: not to make a people prosper, but to tell, between two claims, which is just — and to restore to each what is already his.
 
