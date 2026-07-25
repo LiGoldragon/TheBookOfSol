@@ -115,6 +115,10 @@ Do not refer to Earth as a "planet" in astronomical or astrological contexts. Us
 
 If a workflow needs Google Gemini, use the `gemini` CLI locally. Do not construct direct Gemini API calls via `curl`.
 
+### Every generated image carries the watermark
+
+Every image generated for this repository must always carry the watermark "LiGoldragon.com".
+
 ### Prose style — avoid ChatGPT tics
 
 The project's voice is declarative, confident, and textually grounded. It states positions directly, lets primary sources do the heavy lifting, and does not construct arguments through rhetorical antithesis. Several patterns common to LLM-drafted prose must be actively eliminated.
