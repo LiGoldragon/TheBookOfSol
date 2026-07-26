@@ -203,3 +203,10 @@ Match the voice and pacing of these when writing new material.
 ## When In Doubt
 
 If a convention or constraint is not explicit here, look at recent commits (`jj log --limit 20`) for the current practices, and prefer to preserve existing structure rather than introduce novelty without reason. If the choice is between a small change and a refactor, default to the small change and ask.
+
+## Protos estate status
+
+Protos estate scope: out of scope
+Stack: not applicable
+Role: content
+This is scope metadata, not a stack.
