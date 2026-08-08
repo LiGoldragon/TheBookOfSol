@@ -3,12 +3,12 @@ title: The Chloride Indictment
 subtitle: On the Poison That Civilization Learned to Love
 kind: article
 publish: true
-banner_image: generated-images/the-chloride-indictment-banner.png
+banner_image: generated-images/the-chloride-indictment-banner-v2.webp
 ---
 
 # The Chloride Indictment
 
-![A white crystalline spill of chloride beside a clear blood-red vessel and a strained human silhouette under a severe clinical sky.](../generated-images/the-chloride-indictment-banner.png)
+![A trail of white crystalline chloride cutting across dark stone like a scar, the surface corroded and bleached where the substance touches — forensic lighting, evidence documented.](../generated-images/the-chloride-indictment-banner-v2.webp)
 
 ## *On the Poison That Civilization Learned to Love*
 
@@ -23,6 +23,8 @@ Every premise is drawn from the published record of orthodox medicine, from clas
 The living cell is a hydrated, electrically coherent structure. Introduce a concentrated inorganic anion into its surroundings and water leaves the cell to dilute the intruder. Introduce it repeatedly and the cell adapts by contraction, retention, and deposition. This is not a conjecture. Liebig watched it happen.
 
 Justus von Liebig, *Animal Chemistry*, translated by Gregory: *"Fresh flesh, over which salt is strewn, is found swimming in brine after twenty-four hours, yet not a drop of water has been added. The water has been yielded by the flesh itself."* The same chemistry that brines meat for preservation operates, at lower intensity but continuously, in the living body that ingests chloride of sodium. The brine does not stay in the gut. It circulates. Every cell is, to a small degree, being pickled.
+
+![Salt crystals drawing moisture from raw flesh — the tissue paling and contracting where the chloride touches.](../generated-images/the-chloride-indictment-chemistry.webp)
 
 G. J. Drew stated the mechanism in language that no modern physiologist has improved: *"As the salt is absorbed by the body cells, they contract from the irritation, and discharge their precious albumen and other vital elements. This causes hardened tissues, shriveled blood corpuscles, hardened blood vessels, arthritis, and produces the state called old age."* And, as to assimilation: *"Salt is so stable that it is not dissolved and utilized by the body. It is ingested as salt and excreted as salt."* The body does not assimilate chloride; it only traffics it. The traffic itself is the damage.
 
@@ -61,6 +63,8 @@ Two centuries, five continents, every methodology that medicine has invented: me
 ### IV. The Narcotic Pattern
 
 A narcotic is defined not by euphoria but by structure: stimulation followed by depletion, relief that conceals injury, dependence that grows by the body's attempt to silence its own warning signals. Chloride of sodium fits this definition with clinical precision.
+
+![A weathered hand reaching compulsively toward a mound of white crystalline powder — the skin prematurely aged, desiccated, the gesture unmistakable.](../generated-images/the-chloride-indictment-narcotic.webp)
 
 Upon ingestion, chloride irritates the mucosa, provokes salivation, and shifts fluid distribution. The organism reads this activity as alertness, grounding, or satisfaction. What is actually occurring is a defensive response to chemical insult: a transient pressurization followed by depletion. Dryness, thirst, fatigue, and craving follow. The body now requires more chloride to silence the disturbance created by the previous dose. Appetite is trained. Tolerance deepens. Preference for chloride becomes indistinguishable from identity: this food tastes right, that food tastes wrong, where "right" means sufficiently adulterated with the pressurizing agent.
 
@@ -109,6 +113,8 @@ The compound NaCl is named in English "sodium chloride." In the Romance language
 When the compound dissociates in plasma, chloride expands extracellular volume, suppresses renin activity, stiffens vascular walls, agitates nervous signaling, and imposes osmotic stress on renal tissue. The substitution experiments of Kurtz and Morris (*J. Clin. Invest.*, 1983) and Schmidlin et al. (*Hypertension*, 2007) settle which component does the damage: when sodium is delivered as bicarbonate or citrate rather than as chloride, the pathological effects attenuate or vanish. The toxic behavior tracks the chloride-bearing compound, not sodium in abstraction.
 
 The word "salt" itself carries the warning its users have learned to ignore. Two Proto-Indo-European roots share the shape *\*sal-*: one meaning salt, the other meaning dirty, dark, foul. The convergence runs across the entire language family. Old Irish holds both side by side — *sal* means filth; *salann* means salt. Welsh *salw* means vile, ugly. Old Norse *sölr* means dirty yellow. French *sale* means dirty, one syllable from *sel*, salt. English *sallow* — the sickly, yellowish complexion of chronic illness — descends from the same root. The oldest languages did not conceal the substance; they named it alongside impurity, and the kinship has never been erased from the lexicon.
+
+![A Roman quartermaster measuring out a salt ration into a legionary's cupped hands — the salarium administered along the Via Salaria, a pharmaceutical contract in chiaroscuro.](../generated-images/the-chloride-indictment-salarium.webp)
 
 Rome institutionalized the addiction. The *salarium* — the salt allowance paid to Roman legionaries — was a pharmaceutical contract: the state provides the pressurizing agent, the soldier provides the obedience. The *Via Salaria*, one of the earliest consular roads, was built to move salt from the Ostia works to the interior. The word *salary* descends from this arrangement — the modern worker's wage etymologically rooted in the narcotic that kept the ancient soldier compliant. A civilization that named its compensation after its drug has told the truth about both.
 
